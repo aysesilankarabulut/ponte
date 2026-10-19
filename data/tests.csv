@@ -1,0 +1,6 @@
+loinc,name_it,name_de,name_en,name_es,unit,low,high
+718-7,Emoglobina,Hämoglobin,Haemoglobin,Hemoglobina,g/dL,12.0,16.0
+2276-4,Ferritina,Ferritin,Ferritin,Ferritina,ng/mL,15,150
+2345-7,Glucosio,Glukose,Glucose,Glucosa,mg/dL,70,100
+2160-0,Creatinina,Kreatinin,Creatinine,Creatinina,mg/dL,0.5,1.1
+6690-2,Leucociti,Leukozyten,White blood cells,Leucocitos,10^3/µL,4.0,10.0
