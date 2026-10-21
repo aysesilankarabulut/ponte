@@ -1,0 +1,7 @@
+Laboratory results
+
+Haemoglobin             14.2 g/dL     (12.0 - 16.0)
+Ferritin               132.8 ng/mL    (15.0 - 150.0)
+Glucose                 76.4 mg/dL    (70.0 - 100.0)
+Creatinine               0.9 mg/dL    (0.5 - 1.1)
+White blood cells        5.9 10^3/µL  (4.0 - 10.0)

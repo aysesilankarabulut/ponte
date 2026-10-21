@@ -1,0 +1,7 @@
+Laborbefund
+
+Hämoglobin              15,8 g/dL     (12,0 - 16,0)
+Ferritin               173,6 ng/mL    (15,0 - 150,0)
+Glukose                 53,1 mg/dL    (70,0 - 100,0)
+Kreatinin                1,4 mg/dL    (0,5 - 1,1)
+Leukozyten               5,5 10^3/µL  (4,0 - 10,0)

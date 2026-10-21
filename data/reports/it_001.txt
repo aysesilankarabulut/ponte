@@ -1,0 +1,7 @@
+Esami di laboratorio
+
+Emoglobina               7,3 g/dL     (12,0 - 16,0)
+Ferritina               45,1 ng/mL    (15,0 - 150,0)
+Glucosio                60,9 mg/dL    (70,0 - 100,0)
+Creatinina               1,1 mg/dL    (0,5 - 1,1)
+Leucociti                4,2 10^3/µL  (4,0 - 10,0)

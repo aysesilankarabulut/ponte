@@ -1,0 +1,7 @@
+Resultados de laboratorio
+
+Hemoglobina             14,5 g/dL     (12,0 - 16,0)
+Ferritina              137,2 ng/mL    (15,0 - 150,0)
+Glucosa                103,5 mg/dL    (70,0 - 100,0)
+Creatinina               0,9 mg/dL    (0,5 - 1,1)
+Leucocitos               4,8 10^3/µL  (4,0 - 10,0)

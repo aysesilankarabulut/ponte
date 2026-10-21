@@ -1,0 +1,45 @@
+{
+  "lang": "it",
+  "results": [
+    {
+      "loinc": "718-7",
+      "value": 21.8,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2276-4",
+      "value": 146.4,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "2345-7",
+      "value": 86.6,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H"
+    },
+    {
+      "loinc": "6690-2",
+      "value": 12.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H"
+    }
+  ]
+}
