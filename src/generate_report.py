@@ -80,7 +80,7 @@ def make_report(tests, lang):
     return "\n".join(lines), truth
 
 
-def main(n_per_lang=5):
+def main(n_per_lang=25):
     random.seed(42)                              # yeni: her çalıştırmada aynı veri çıksın
     tests = pd.read_csv("data/tests.csv")
     out = Path("data/reports")
