@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Giulia Bianchi    Data di nascita: 20/12/1998
+
+--- EMATOLOGIA ---
+Emoglobina (Hb) ............. 15,2 g/dL  v.r. 12,0-16,0
+Eritrociti .................. 5,3 10^6/µl  v.r. 4,0 – 5,5
+HCT ......................... 58,4 * %  v.r. 36,0 – 48,0
+MCV ......................... 98,8 fL  v.r. 80,0 - 100,0
+WBC ......................... 6,2 10^3/uL  v.r. 4,0 – 10,0
+Piastrine ................... 95,0 * 10^3/µL  v.r. 150,0 - 450,0
+
+--- CHIMICA CLINICA ---
+Ferro (Fe) .................. 46,3 ug/dL  v.r. 50,0-170,0
+Ferritina ................... 129,3 ng/ml  v.r. 15,0 - 150,0
+Glucosio .................... 68,4 * mg/dL  v.r. 70,0 - 100,0
+Emoglobina glicata (HbA1c) ... 8,5 %  v.r. < 5,7
+Colest. totale .............. 158,0 mg/dL  v.r. fino a 200,0
+Colesterolo HDL ............. 29,6 * mg/dL  v.r. >40,0
+Colesterolo LDL ............. 70,0 mg/dL  v.r. < 130,0
+Trigliceridi ................ 81,6 mg/dL  v.r. <150,0
+Creatinina .................. 0,7 mg/dl  v.r. 0,5-1,1
+Acido urico ................. 3,4 mg/dL  v.r. 3,0-7,0
+Sodio (Na) .................. 121,8 mmol/L  v.r. 136,0 – 145,0
+Potassio .................... 3,7 mmol/L  v.r. 3,5 – 5,1
+Calcio ...................... 12,9 * mg/dL  v.r. 8,5-10,5
+ALT ......................... 20,2 U/L  v.r. <40,0
+GOT ......................... 40,9 U/L  v.r. <40,0
+Gamma GT (GGT) .............. 36,3 U/L  v.r. <50,0
+Fosfatasl alcalina .......... 42,8 U/L  v.r. 40,0 – 130,0
+Bi1irubina totale ........... 1,8 * mg/dL  v.r. 0,3 – 1,2
+Albumina .................... 4,1 g/dL  v.r. 3,5 – 5,0
+TSH ......................... 3,1 miu/l  v.r. 0,4 – 4,0
+FT4 ......................... 1,0 ng/dl  v.r. 0,9 - 1,7
+Proteina C reattiva ......... 4,8 mg/l  v.r. fino a 5,0
+Vitamina D (25-OH) .......... 40,2 ng/mL  v.r. 30,0 - 100,0
+Vitamina B12 ................ 185,7 * pg/ml  v.r. 200,0 – 900,0
+
+Pag. 1/1

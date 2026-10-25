@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Luca Ferrari    Data di nascita: 18/12/1956
+
+--- EMATOLOGIA ---
+Emoglobina                  23.5 g/dL     (12.0 – 16.0)
+Eritrociti                   3.8 10^6/µl  (4.0 – 5.5)
+HCT                         42.3 %        (36.0-48.0)
+MCV (MCV)                   93.4 fl       (80.0-100.0)
+Leuc0citi                    5.0 10^3/µl  (4.0-10.0)
+Piastrine                  185.5 10^3/uL  (150.0-450.0)
+
+--- CHIMICA CLINICA ---
+Ferro                       69.1 ug/dl    (50.0 - 170.0)
+Ferritina                  190.0 ng/mL    (15.0-150.0)
+Glucosio                   118.3 mg/dL    (70.0-100.0)
+Emoglobina glicata           5.3 %        (<5.7)
+Colesterolo totale         294.6 mg/dl    (<200.0)
+Colesterolo HDL             39.1 mg/dL    (superiore a 40.0)
+Colest. LDL                107.3 mg/dL    (< 130.0)
+Trigliceridi                79.0 mg/dL    (fino a 150.0)
+Creatinina                   1.1 mg/dL    (0.5 - 1.1)
+Acldo. urico                 2.4 mg/dL    (3.0 - 7.0)
+Sodio                      139.4 mmol/L   (136.0-145.0)
+Potassio                     4.7 mmol/L   (3.5 - 5.1)
+Calcio                      10.4 mg/dL    (8.5 - 10.5)
+ALT                         34.2 U/L      (< 40.0)
+GOT                         39.7 U/L      (fino a 40.0)
+Gamma GT                    46.4 U/L      (<50.0)
+Fosfatasi alcalina (ALP)   193.8 U/L      (40.0 – 130.0)
+Bilirubina totale            0.8 mg/dL    (0.3 – 1.2)
+Albumina                     6.7 g/dl     (3.5 – 5.0)
+TSH                          3.2 mIU/L    (0.4-4.0)
+FT4                          0.7 ng/dL    (0.9 – 1.7)
+CRP                          3.7 mg/l     (fino a 5.0)
+Vitami. D (25-OH)           44.5 ng/mL    (30.0-100.0)
+Vitamina B12               741.2 pg/ml    (200.0 – 900.0)
+
+Pag. 1/1

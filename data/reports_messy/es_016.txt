@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier López    Fecha de nacimiento: 16/03/1978
+
+--- HEMATOLOGÍA ---
+Hb: 20,4 g/dl [12,0 – 16,0]
+Hematíes (RBC): 7,7 10^6/µL (H) [4,0 - 5,5]
+Hematocrito: 66,5 % (H) [36,0 - 48,0]
+MCV: 98,9 fL [80,0-100,0]
+Leucocitos: 6,3 10^3/µL [4,0 - 10,0]
+Plaquetas: 132,4 10^3/uL (L) [150,0 – 450,0]
+
+--- BIOQUÍMICA ---
+Hierro: 49,0 µg/dL (L) [50,0-170,0]
+Ferritina: 115,7 ng/ml [15,0-150,0]
+Glucosa: 113,9 mg/dL (H) [70,0 - 100,0]
+Hemoglobina glicada: 4,1 % [<5,7]
+Colesterol total: 136,4 mg/dL [< 200,0]
+Colesterol HDL: 63,6 mg/dL [>40,0]
+Colesterol LDL: 81,0 mg/dl [< 130,0]
+Triglicéridos: 154,9 mg/dL (H) [hasta 150,0]
+Creatlnina: 0,9 mg/dL [0,5 - 1,1]
+Ácido. úrico: 6,6 mg/dL [3,0-7,0]
+Na: 88,6 mmol/L (L) [136,0 – 145,0]
+Potasio: 5,0 mmol/L [3,5 - 5,1]
+Calcio: 10,1 mg/dL [8,5-10,5]
+GPT: 58,5 U/L [< 40,0]
+AST (GOT): 27,9 U/L [<40,0]
+GGT: 51,9 U/L (H) [hasta 50,0]
+Fosfatasa alcalina: 98,9 U/L [40,0-130,0]
+Bilirrubina total: 0,8 mg/dL [0,3 - 1,2]
+Albúmina: 4,5 g/dL [3,5 - 5,0]
+TSH: 1,2 mIU/L [0,4 – 4,0]
+FT4: 1,7 ng/dL [0,9 – 1,7]
+CRP: 2,7 mg/L [hasta 5,0]
+Vitamina D (25-OH): 40,6 ng/mL [30,0 – 100,0]
+Vitamina B12: 179,8 pg/mL (L) [200,0 – 900,0]
+
+Pag. 1/1

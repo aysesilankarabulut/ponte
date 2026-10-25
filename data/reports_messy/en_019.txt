@@ -1,0 +1,38 @@
+Laboratory results
+Patient: James Smith    Date of birth: 07/11/1994
+
+--- HAEMATOLOGY ---
+Haemoglobin                   13.4   g/dL      12.0-16.0
+Red blood cells (RBC)          7.0 H 10^6/µL   4.0-5.5
+Haematocrit                   45.5   %         36.0-48.0
+MCV                           90.4   fl        80.0-100.0
+White blood cells              2.6   10^3/µL   4.0 – 10.0
+Platelets                    103.5   10^3/uL   150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron                         164.4   µg/dL     50.0-170.0
+Ferritin                     112.7   ng/mL     15.0-150.0
+Glucose                       51.9 L mg/dL     70.0 – 100.0
+HbA1c                          3.5   %         up to 5.7
+Total cholesterol            205.2 H mg/dL     <200.0
+HDL cholesterol               58.6   mg/dl     above 40.0
+LDL cholesterol              137.0 H mg/dL     up to 130.0
+Triglycerides                104.9   mg/dL     < 150.0
+Creatinine                     0.5   mg/dL     0.5 - 1.1
+Uric acid                      8.6 H mg/dl     3.0 – 7.0
+Sodium                       142.4   mmol/L    136.0 – 145.0
+Potassium                      3.7   mmol/L    3.5-5.1
+Ca                             8.8   mg/dL     8.5-10.5
+GPT                           21.4   u/l       up to 40.0
+AST                           27.4   u/l       up to 40.0
+GGT                           27.4   U/L       up to 50.0
+ALP                           25.3 L U/L       40.0 – 130.0
+Total bilirubin                0.6   mg/dL     0.3 – 1.2
+Albumin                        4.3   g/dL      3.5-5.0
+TSH                            0.4   mIU/L     0.4 – 4.0
+Free T4                        0.8 L ng/dL     0.9 – 1.7
+CRP                            2.8   mg/L      <5.0
+Vitamin D (25-OH)             85.3   ng/mL     30.0 – 100.0
+Vitamin B12                  420.6   pg/ml     200.0-900.0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Luca Ferrari    Data di nascita: 04/07/1979
+
+--- EMATOLOGIA ---
+HB: 15.9 g/dL [12.0 – 16.0]
+ERITROCITI: 4.7 10^6/µl [4.0-5.5]
+HCT: 36.9 % [36.0 – 48.0]
+MCV: 89.6 fl [80.0 - 100.0]
+LEUCOCLTI: 7.3 10^3/uL [4.0 – 10.0]
+PLT: 103.1 10^3/µl (L) [150.0 - 450.0]
+
+--- CHIMICA CLINICA ---
+FERRO: 53.2 µg/dL [50.0 – 170.0]
+FERRITINA: 52.6 ng/mL [15.0 – 150.0]
+GLUCOSIO: 88.8 mg/dL [70.0 - 100.0]
+EMOGLOBINA GLICATA: 4.7 % [<5.7]
+COLESTEROLO TOTALE: 157.9 mg/dL [< 200.0]
+COLESTEROLO HDL: 72.9 mg/dL [>40.0]
+COLEST. LDL: 130.7 mg/dl (H) [< 130.0]
+TRIG1ICERIDI: 215.2 mg/dL (H) [<150.0]
+CREATININA: 0.4 mg/dl (L) [0.5-1.1]
+ACIDO. URICO: 6.8 mg/dL [3.0 – 7.0]
+SODLO: 143.0 mmol/L [136.0-145.0]
+POTASSIO: 3.7 mmol/L [3.5-5.1]
+CALCIO: 8.9 mg/dL [8.5-10.5]
+ALT: 22.2 U/L [<40.0]
+AST: 55.5 U/L [fino a 40.0]
+GAMMA GT (GGT): 54.2 U/L (H) [fino a 50.0]
+ALP: 77.2 u/l [40.0 – 130.0]
+BILIRUBINA TOTALE: 0.2 mg/dL (L) [0.3 - 1.2]
+ALBUMINA: 4.6 g/dl [3.5-5.0]
+TSH: 2.5 mIU/L [0.4-4.0]
+FT4: 1.5 ng/dL [0.9-1.7]
+PROTEINA C REATTIVA: 6.7 mg/l (H) [< 5.0]
+VITAMI. D (25-OH): 50.0 ng/mL [30.0 – 100.0]
+VITAMINA B12: 199.5 pg/mL (L) [200.0 – 900.0]
+
+Pag. 1/1

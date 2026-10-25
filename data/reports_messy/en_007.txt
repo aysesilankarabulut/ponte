@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Olivia Brown    Date of birth: 18/02/1992
+
+--- HAEMATOLOGY ---
+Haem0globin ................. 13.0 g/dL  Ref. 12.0 – 16.0
+Red blood cells ............. 3.7 * 10^6/µL  Ref. 4.0 - 5.5
+Haematocrit (HCT) ........... 42.6 %  Ref. 36.0 - 48.0
+MCV ......................... 92.5 fl  Ref. 80.0 – 100.0
+WBC ......................... 4.9 10^3/µl  Ref. 4.0-10.0
+Platelets ................... 659.2 * 10^3/uL  Ref. 150.0-450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron ........................ 127.4 µg/dl  Ref. 50.0 – 170.0
+Ferritin .................... 114.0 ng/ml  Ref. 15.0 – 150.0
+Glucose ..................... 76.4 mg/dL  Ref. 70.0 - 100.0
+HbA1c ....................... 6.9 * %  Ref. < 5.7
+Total cholesterol ........... 271.9 * mg/dL  Ref. < 200.0
+HDL cholesterol ............. 59.7 mg/dL  Ref. > 40.0
+LDL cholesterol ............. 125.5 mg/dL  Ref. < 130.0
+Triglycerides ............... 86.3 mg/dL  Ref. <150.0
+Creatinine .................. 1.6 * mg/dL  Ref. 0.5 – 1.1
+Uric acid ................... 3.3 mg/dl  Ref. 3.0 - 7.0
+Sodium ...................... 136.3 mmol/l  Ref. 136.0 – 145.0
+Potassium ................... 6.7 * mmol/L  Ref. 3.5 – 5.1
+Calcium ..................... 15.5 * mg/dL  Ref. 8.5 - 10.5
+ALT ......................... 47.5 * U/L  Ref. up to 40.0
+AST ......................... 49.9 U/L  Ref. < 40.0
+GGT ......................... 71.3 u/l  Ref. up to 50.0
+Alkaline phosphatase ........ 41.5 U/L  Ref. 40.0-130.0
+Total bilirubin ............. 1.0 mg/dl  Ref. 0.3 - 1.2
+Albumin ..................... 3.6 g/dL  Ref. 3.5 - 5.0
+TSH (TSH) ................... 0.3 mIU/L  Ref. 0.4 – 4.0
+FT4 ......................... 1.6 ng/dL  Ref. 0.9 - 1.7
+CRP ......................... 3.1 mg/L  Ref. < 5.0
+Vitami. D (25-OH) ........... 89.2 ng/mL  Ref. 30.0 – 100.0
+Vltamin B12 ................. 446.7 pg/ml  Ref. 200.0 – 900.0
+
+Pag. 1/1

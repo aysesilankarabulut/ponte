@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Pablo Martínez    Fecha de nacimiento: 01/09/1971
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA                 15.2 g/dL     (12.0 - 16.0)
+HEMATÍES                     5.1 10^6/µl  (4.0 - 5.5)
+HEMATOCRITO                 62.1 %        (36.0 – 48.0)
+MCV                         51.3 fL       (80.0 - 100.0)
+LEUCOCITOS                   9.6 10^3/µl  (4.0-10.0)
+PLAQUETAS                  256.9 10^3/ul  (150.0-450.0)
+
+--- BIOQUÍMICA ---
+FE                         212.8 µg/dL    (50.0 - 170.0)
+FERRITINA                  204.0 ng/mL    (15.0 – 150.0)
+GLUCOSA                    131.5 mg/dl    (70.0 – 100.0)
+HEMOGLOBINA GLICADA          6.2 %        (hasta 5.7)
+COLEST. TOTAL              218.7 mg/dL    (<200.0)
+COLESTEROL HDL              64.3 mg/dL    (> 40.0)
+COLESTEROL LDL             191.3 mg/dL    (< 130.0)
+TRIGLICÉRIDOS              167.3 mg/dL    (<150.0)
+CREATININA                   1.0 mg/dL    (0.5 – 1.1)
+ÁCIDO ÚRICO                  5.8 mg/dl    (3.0 – 7.0)
+SODIO                      183.0 mmol/L   (136.0 – 145.0)
+POTASIO                      6.8 mmol/L   (3.5 - 5.1)
+CALCIO (CA)                  9.3 mg/dl    (8.5-10.5)
+ALT (GPT)                   32.0 U/L      (<40.0)
+AST (GOT)                   29.9 U/L      (<40.0)
+GGT                         60.8 u/l      (hasta 50.0)
+ALP                        145.9 U/L      (40.0 – 130.0)
+BILIRRUBINA TOTAL            0.2 mg/dl    (0.3-1.2)
+ALBÚMINA                     4.8 g/dL     (3.5 – 5.0)
+TSH                          2.4 miu/l    (0.4 – 4.0)
+T4 LIBRE (FT4)               1.6 ng/dL    (0.9 - 1.7)
+PROTEÍNA C REACTIVA          3.9 mg/L     (<5.0)
+VLTAMI. D (25-OH)          120.5 ng/mL    (30.0 – 100.0)
+VITAMINA B12              1001.7 pg/mL    (200.0 – 900.0)
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Lucía García    Fecha de nacimiento: 21/10/1942
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA ................. 12,1 g/dL  V.R. 12,0 – 16,0
+HEMATÍES .................... 4,7 10^6/µL  V.R. 4,0 – 5,5
+HEMATOCRITO ................. 23,1 * %  V.R. 36,0-48,0
+VCM ......................... 86,4 fL  V.R. 80,0-100,0
+LEUCOCITOS .................. 7,5 10^3/µL  V.R. 4,0-10,0
+P1AQUETAS ................... 281,7 10^3/µL  V.R. 150,0-450,0
+
+--- BIOQUÍMICA ---
+HICRRO (FE) ................. 55,1 µg/dL  V.R. 50,0 – 170,0
+FERRITINA ................... 12,4 * ng/mL  V.R. 15,0 – 150,0
+GLUCOSA ..................... 73,0 mg/dL  V.R. 70,0 - 100,0
+HEMOGLOBINA GLICADA ......... 7,1 %  V.R. hasta 5,7
+COLEST. TOTAL ............... 116,4 mg/dL  V.R. hasta 200,0
+COLESTEROL HDL .............. 36,0 mg/dl  V.R. >40,0
+COLESTEROL LDL .............. 142,1 * mg/dL  V.R. < 130,0
+TRIGLICÉRIDOS ............... 118,3 mg/dl  V.R. < 150,0
+CREATININA .................. 0,8 mg/dl  V.R. 0,5-1,1
+ÁCIDO. ÚRICO ................ 6,6 mg/dL  V.R. 3,0 - 7,0
+S0DIO ....................... 145,0 mmol/L  V.R. 136,0 – 145,0
+POTASIO (K) ................. 5,8 * mmol/l  V.R. 3,5-5,1
+CALCIO ...................... 9,9 mg/dL  V.R. 8,5 - 10,5
+ALT (GPT) ................... 25,6 u/l  V.R. hasta 40,0
+AST. (GOT) .................. 25,9 U/L  V.R. hasta 40,0
+GGT ......................... 32,5 U/L  V.R. <50,0
+FOSFAT. ALCALINA ............ 79,2 U/L  V.R. 40,0 – 130,0
+BILIRRUBINA TOTAL ........... 0,3 mg/dL  V.R. 0,3 - 1,2
+ALBÚMINA .................... 5,3 * g/dL  V.R. 3,5 – 5,0
+TSH ......................... 1,2 miu/l  V.R. 0,4 – 4,0
+T4 LIBRE .................... 1,1 ng/dL  V.R. 0,9 – 1,7
+PROTEÍNA C REACTIVA ......... 7,0 mg/l  V.R. <5,0
+VITAMI. D (25-OH) ........... 23,6 * ng/mL  V.R. 30,0-100,0
+VITAMI. B12 ................. 1249,7 * pg/mL  V.R. 200,0-900,0
+
+Pag. 1/1

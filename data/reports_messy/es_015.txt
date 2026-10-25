@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Pablo López    Fecha de nacimiento: 18/12/1977
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA: 13.4 g/dl [12.0 - 16.0]
+HEMATÍES: 5.3 10^6/µl [4.0 - 5.5]
+HEMATOCRITO: 71.0 % (H) [36.0 - 48.0]
+VCM: 80.9 fl [80.0-100.0]
+LEUC0CITOS (WBC): 3.1 10^3/uL (L) [4.0 - 10.0]
+PLAQUETAS (PLT): 470.7 10^3/uL (H) [150.0 - 450.0]
+
+--- BIOQUÍMICA ---
+HIERRO: 196.1 µg/dL (H) [50.0-170.0]
+FERRITINA: 208.5 ng/mL [15.0 - 150.0]
+GLUCOSA: 113.9 mg/dL (H) [70.0 - 100.0]
+HBA1C: 6.5 % (H) [<5.7]
+C0LESTEROL TOTAL: 273.0 mg/dl [hasta 200.0]
+COLEST. HDL: 47.2 mg/dL [superior a 40.0]
+COLESTEROL LDL: 68.5 mg/dL [<130.0]
+TRIGLICÉRIDOS: 124.7 mg/dL [<150.0]
+CRCATININA: 0.6 mg/dL [0.5-1.1]
+ÁCIDO. ÚRICO: 1.9 mg/dL (L) [3.0-7.0]
+NA: 176.4 mmol/L (H) [136.0 – 145.0]
+POTASIO: 2.6 mmol/l [3.5 – 5.1]
+CALCIO (CA): 6.1 mg/dL (L) [8.5 - 10.5]
+ALT (GPT): 23.8 U/L [< 40.0]
+GOT: 26.1 U/L [< 40.0]
+GGT (GGT): 62.3 u/l (H) [<50.0]
+FOSFATASA ALCALINA: 55.6 U/L [40.0-130.0]
+BILIRRUBINA TOTAL (BIL-T): 0.4 mg/dl [0.3-1.2]
+ALBÚMINA: 3.3 g/dl (L) [3.5 – 5.0]
+TSH: 2.6 mIU/L [0.4 – 4.0]
+T4 LIBRE: 1.4 ng/dl [0.9-1.7]
+CRP: 5.6 mg/L [<5.0]
+VITAMINA D (25-OH): 122.8 ng/ml (H) [30.0 - 100.0]
+VITAMI. B12: 138.1 pg/mL (L) [200.0 - 900.0]
+
+Pag. 1/1

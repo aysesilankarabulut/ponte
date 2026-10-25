@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Smith    Date of birth: 25/03/1999
+
+--- HAEMATOLOGY ---
+Haemoglobin                    8.2 L g/dl      12.0 - 16.0
+Red blood cells                7.2   10^6/µL   4.0 – 5.5
+Haematocrit                   47.1   %         36.0 – 48.0
+MCV                           90.7   fL        80.0 - 100.0
+White blood cells              8.6   10^3/µL   4.0-10.0
+Platelets                    668.1 H 10^3/µL   150.0-450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron                         171.6 H µg/dL     50.0-170.0
+Ferritin                      12.0 L ng/mL     15.0 - 150.0
+Glucose                       78.5   mg/dL     70.0 – 100.0
+HbA1c (HbA1c)                  3.5   %         <5.7
+Total cholcsterol            269.7 H mg/dl     up to 200.0
+HDL cholesterol               41.3   mg/dl     above 40.0
+LDL cholesterol               69.1   mg/dL     < 130.0
+Triglycerides                117.5   mg/dL     < 150.0
+Creatinine                     1.3 H mg/dL     0.5 – 1.1
+Uric acid                      5.6   mg/dl     3.0 - 7.0
+S0dium                       115.7   mmol/L    136.0 - 145.0
+Potassium                      5.0   mmol/L    3.5-5.1
+Ca                            15.3 H mg/dL     8.5-10.5
+ALT                           29.8   U/L       <40.0
+AST                           39.6   U/L       <40.0
+GGT                           32.2   U/L       <50.0
+Alkaline phosphatase (ALP)    58.1   U/L       40.0-130.0
+Total. bilirubin               1.0   mg/dL     0.3-1.2
+Albumin                        5.6   g/dl      3.5 - 5.0
+TSH                            0.8   mIU/L     0.4 – 4.0
+Free T4 (FT4)                  0.9   ng/dl     0.9 - 1.7
+CRP                            7.3   mg/L      < 5.0
+Vitamin D (25-OH)            107.2 H ng/mL     30.0 - 100.0
+Vitamin B12                  156.4   pg/mL     200.0 - 900.0
+
+Pag. 1/1

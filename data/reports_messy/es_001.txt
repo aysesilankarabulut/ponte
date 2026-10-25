@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Sofía García    Fecha de nacimiento: 23/02/1976
+
+--- HEMATOLOGÍA ---
+Hemoglobina (Hb)              15,1   g/dL      12,0-16,0
+Hematíes                       4,4   10^6/µl   4,0-5,5
+Hematocrito                   41,4   %         36,0-48,0
+VCM                           85,0   fl        80,0-100,0
+Leucocitos                    10,0   10^3/uL   4,0 - 10,0
+Plaquetas                    267,6   10^3/µL   150,0 - 450,0
+
+--- BIOQUÍMICA ---
+Hierro                       134,3   µg/dl     50,0 - 170,0
+Ferrltina                     62,2   ng/mL     15,0 - 150,0
+Glucosa                       93,0   mg/dL     70,0-100,0
+Hemogl. glicada                5,2   %         <5,7
+C0lesterol total             199,1   mg/dL     < 200,0
+Colest. HDL                   56,1   mg/dL     superior a 40,0
+Colest. LDL                  160,5 H mg/dl     <130,0
+Triglicéridos                171,7 H mg/dl     hasta 150,0
+Creatinina                     0,4   mg/dL     0,5 - 1,1
+Ácido. úrico                   7,0   mg/dl     3,0 – 7,0
+Na                            86,7   mmol/l    136,0 - 145,0
+P0tasio                        2,6 L mmol/l    3,5 - 5,1
+Calcio                         6,1 L mg/dl     8,5-10,5
+ALT (GPT)                     45,5 H u/l       < 40,0
+AST (GOT)                     37,4   u/l       <40,0
+GGT                           60,8 H U/L       <50,0
+Fosfatasa alcalina            26,8 L U/L       40,0 – 130,0
+Bilirrubina total (BIL-T)      1,3 H mg/dL     0,3 - 1,2
+Albúmina                       3,6   g/dl      3,5 – 5,0
+TSH                            0,6   mIU/L     0,4 – 4,0
+FT4                            1,2   ng/dL     0,9-1,7
+Proteína C reactiva            7,4 H mg/L      hasta 5,0
+Vitamina D (25-OH)           104,0   ng/ml     30,0-100,0
+Vitamina B12                 164,6 L pg/mL     200,0 – 900,0
+
+Pag. 1/1

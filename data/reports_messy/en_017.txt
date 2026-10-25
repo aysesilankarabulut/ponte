@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Brown    Date of birth: 11/04/1947
+
+--- HAEMATOLOGY ---
+Haemoglobin ................. 19.5 * g/dl  Ref. 12.0 - 16.0
+Red blood cells ............. 4.7 10^6/µL  Ref. 4.0-5.5
+Haematocrit ................. 38.9 %  Ref. 36.0 - 48.0
+MCV ......................... 82.6 fL  Ref. 80.0 – 100.0
+White blood cells ........... 12.4 * 10^3/uL  Ref. 4.0-10.0
+P1atelets ................... 119.2 * 10^3/µL  Ref. 150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron ........................ 48.4 ug/dl  Ref. 50.0 - 170.0
+Ferritin .................... 31.7 ng/ml  Ref. 15.0-150.0
+Glucose ..................... 136.2 mg/dl  Ref. 70.0 - 100.0
+HbA1c ....................... 4.8 %  Ref. < 5.7
+Total cholesterol ........... 162.7 mg/dL  Ref. <200.0
+HDL. cholesterol ............ 71.9 mg/dl  Ref. > 40.0
+LDL cholesterol ............. 188.5 * mg/dl  Ref. < 130.0
+Triglycerides ............... 90.5 mg/dL  Ref. up to 150.0
+Creatinine .................. 1.0 mg/dl  Ref. 0.5-1.1
+Urlc acid ................... 2.8 mg/dl  Ref. 3.0 - 7.0
+Sodium ...................... 165.0 * mmol/L  Ref. 136.0-145.0
+Potassium ................... 5.7 * mmol/L  Ref. 3.5 - 5.1
+Calcium ..................... 13.8 mg/dl  Ref. 8.5 - 10.5
+ALT ......................... 37.7 U/L  Ref. <40.0
+GOT ......................... 32.6 U/L  Ref. <40.0
+GGT ......................... 31.0 U/L  Ref. up to 50.0
+Alkaline phosphatase ........ 40.6 U/L  Ref. 40.0-130.0
+Total. bilirubin ............ 0.3 mg/dL  Ref. 0.3-1.2
+Albumin ..................... 4.8 g/dL  Ref. 3.5 - 5.0
+TSH ......................... 0.7 mIU/L  Ref. 0.4 – 4.0
+Free T4 ..................... 1.4 ng/dL  Ref. 0.9-1.7
+CRP (CRP) ................... 6.8 * mg/L  Ref. < 5.0
+Vitamin D (25-OH) ........... 94.5 ng/mL  Ref. 30.0 - 100.0
+Vitamin B12 ................. 1061.3 * pg/mL  Ref. 200.0-900.0
+
+Pag. 1/1

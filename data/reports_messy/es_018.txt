@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Sofía López    Fecha de nacimiento: 08/04/1997
+
+--- HEMATOLOGÍA ---
+Hb                            13,0   g/dL      12,0 – 16,0
+RBC                            5,3   10^6/µL   4,0 – 5,5
+Hematocrito                   47,2   %         36,0 - 48,0
+VCM                          128,9 H fl        80,0 - 100,0
+Leucocitos (WBC)              14,7 H 10^3/µl   4,0-10,0
+Plaquetas                    308,6   10^3/ul   150,0 - 450,0
+
+--- BIOQUÍMICA ---
+Hierro                       196,4 H ug/dL     50,0 - 170,0
+Ferritina                     18,2   ng/mL     15,0 - 150,0
+Glucosa                       64,0 L mg/dl     70,0 – 100,0
+HbA1c                          4,0   %         <5,7
+Colest. total                258,2 H mg/dl     hasta 200,0
+Co1esterol HDL                65,1   mg/dL     > 40,0
+Colesterol LDL               175,3 H mg/dL     hasta 130,0
+Triglicéridos                 80,8   mg/dl     < 150,0
+Creatinina                     0,6   mg/dl     0,5 - 1,1
+Ácido úrico                    8,3 H mg/dl     3,0 - 7,0
+Na                           143,1   mmol/L    136,0 - 145,0
+K                              5,7 H mmol/L    3,5 – 5,1
+Ca1cio (Ca)                    7,6 L mg/dL     8,5 - 10,5
+ALT (GPT)                     53,6 H U/L       < 40,0
+AST (GOT)                     22,5   u/l       hasta 40,0
+GGT                           65,2 H u/l       hasta 50,0
+Fosfatasa alcalina           129,8   U/L       40,0-130,0
+Bi1irrubina total              1,4   mg/dL     0,3 - 1,2
+A1búmina                       3,5   g/dL      3,5 - 5,0
+TSH                            4,7   mIU/L     0,4 - 4,0
+T4 libre (FT4)                 1,4   ng/dl     0,9-1,7
+Proteína C reactiva (CRP)      2,6   mg/L      hasta 5,0
+Vitamina D (25-OH)            63,9   ng/mL     30,0 - 100,0
+Vitami. B12                  243,3   pg/mL     200,0-900,0
+
+Pag. 1/1

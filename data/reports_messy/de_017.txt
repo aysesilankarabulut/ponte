@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Felix Weber    Geburtsdatum: 20/08/1966
+
+--- HÄMATOLOGIE ---
+HÄMOG1OBIN                  12.8 g/dL     (12.0-16.0)
+ERYTHROZYTEN                 4.7 10^6/µL  (4.0 - 5.5)
+HCT                         54.9 %        (36.0-48.0)
+MCV                        127.5 fL       (80.0 - 100.0)
+WBC                          9.5 10^3/µL  (4.0-10.0)
+THROMBOZYTEN (PLT)         544.3 10^3/µl  (150.0-450.0)
+
+--- KLINISCHE CHEMIE ---
+EISEN                      112.8 µg/dl    (50.0-170.0)
+FERRITIN                   131.3 ng/mL    (15.0-150.0)
+GLUKOSE                     76.0 mg/dL    (70.0 – 100.0)
+HBA1C                        7.2 %        (<5.7)
+CHOLESTERIN GESAMT         155.6 mg/dL    (<200.0)
+HDL-CHOLESTERIN             63.5 mg/dL    (> 40.0)
+LDL-CHOLESTERIN            113.0 mg/dL    (<130.0)
+TRIGLYCERIDE               191.1 mg/dL    (< 150.0)
+KREATININ                    1.5 mg/dL    (0.5 – 1.1)
+HARNSÄURE                    6.7 mg/dL    (3.0-7.0)
+NATRIUM                     97.7 mmol/l   (136.0 - 145.0)
+K                            4.5 mmol/L   (3.5 – 5.1)
+CALCIUM                     14.4 mg/dL    (8.5 – 10.5)
+ALT (GPT)                   43.1 U/L      (< 40.0)
+GOT                         36.9 U/L      (bis 40.0)
+GAMMA-GT (GGT)              68.0 U/L      (< 50.0)
+ALKALISCHE PHOSPHATASE (ALP)    59.1 U/L      (40.0-130.0)
+BILIRUBIN GESAMT (BIL-T)     0.3 mg/dl    (0.3 - 1.2)
+ALBUMIN                      3.7 g/dL     (3.5 – 5.0)
+TSH                          1.1 mIU/L    (0.4-4.0)
+FT4                          0.8 ng/dL    (0.9-1.7)
+CRP                          6.4 mg/L     (bis 5.0)
+VITAMI. D (25-OH)           28.4 ng/ml    (30.0 - 100.0)
+VITAMIN B12                819.0 pg/mL    (200.0 – 900.0)
+
+Pag. 1/1

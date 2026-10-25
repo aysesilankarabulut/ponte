@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Marco Esposito    Data di nascita: 20/09/1945
+
+--- EMATOLOGIA ---
+EMOGLOBINA (HB)             11,8 g/dL     (12,0 - 16,0)
+ERITROCITI (RBC)             3,3 10^6/µL  (4,0 – 5,5)
+EMATOCRITO                  56,5 %        (36,0 - 48,0)
+MCV                         86,6 fL       (80,0 - 100,0)
+LEUCOCITI                    2,4 10^3/ul  (4,0 - 10,0)
+PIASTRINE                  144,0 10^3/ul  (150,0 – 450,0)
+
+--- CHIMICA CLINICA ---
+FERRO (FE)                  72,9 ug/dL    (50,0 – 170,0)
+FERRITINA                   89,0 ng/mL    (15,0-150,0)
+GLUCOSIO                    94,4 mg/dl    (70,0 – 100,0)
+EMOGLOBINA GLICATA           4,8 %        (<5,7)
+COLESTEROLO TOTALE         134,8 mg/dL    (< 200,0)
+COLEST. HDL                 47,3 mg/dL    (superiore a 40,0)
+COLESTEROLO LDL            124,1 mg/dL    (fino a 130,0)
+TRIGLICERIDI               118,4 mg/dL    (fino a 150,0)
+CREATININA                   0,5 mg/dL    (0,5-1,1)
+ACIDO URICO                  7,7 mg/dL    (3,0 - 7,0)
+SODIO                       98,8 mmol/L   (136,0-145,0)
+POTASSIO (K)                 3,4 mmol/L   (3,5 - 5,1)
+CALCIO                      15,4 mg/dL    (8,5-10,5)
+ALT                         56,5 U/L      (fino a 40,0)
+AST                         55,8 U/L      (<40,0)
+GGT                         32,4 U/L      (fino a 50,0)
+FOSFATASI ALCALINA (ALP)   100,9 u/l      (40,0-130,0)
+BILIRUBINA TOTALE (BIL-T)     0,9 mg/dL    (0,3 - 1,2)
+ALBUMINA                     4,5 g/dL     (3,5 - 5,0)
+TSH                          5,9 miu/l    (0,4 – 4,0)
+FT4                          1,8 ng/dL    (0,9 - 1,7)
+PROTEI. C REATTIVA           4,9 mg/L     (fino a 5,0)
+VITAMINA D (25-OH)          91,0 ng/mL    (30,0 - 100,0)
+VITAMINA B12               189,6 pg/ml    (200,0-900,0)
+
+Pag. 1/1

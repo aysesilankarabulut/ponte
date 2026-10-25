@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Felix Schmidt    Geburtsdatum: 13/12/1940
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN                  14,1 g/dL     (12,0 – 16,0)
+ERYTHROZYTEN                 5,1 10^6/µl  (4,0-5,5)
+HÄMATOKRIT                  56,3 %        (36,0 – 48,0)
+MCV                         98,1 fl       (80,0 – 100,0)
+LEUKOZYTEN                   3,8 10^3/µl  (4,0-10,0)
+THROMBOZYTEN               445,2 10^3/uL  (150,0-450,0)
+
+--- KLINISCHE CHEMIE ---
+EISEN                      163,4 ug/dL    (50,0-170,0)
+FERRITIN                   186,0 ng/mL    (15,0-150,0)
+GLUK0SE                     75,4 mg/dL    (70,0-100,0)
+HBA1C                        5,6 %        (<5,7)
+CHOLESTERIN GESAMT         150,4 mg/dl    (< 200,0)
+HDL-CHOLESTERIN             45,5 mg/dL    (über 40,0)
+LDL-CHOLESTERIN            125,9 mg/dl    (bis 130,0)
+TRIGLYCERIDE               144,8 mg/dL    (bis 150,0)
+KREATININ                    0,4 mg/dL    (0,5-1,1)
+HARNSÄURE                    6,9 mg/dL    (3,0 - 7,0)
+NATRIUM                    133,2 mmol/l   (136,0 - 145,0)
+KALIUM                       5,9 mmol/L   (3,5 - 5,1)
+CALCIUM                     10,1 mg/dl    (8,5-10,5)
+ALT (GPT)                   38,9 U/L      (bis 40,0)
+GOT                         27,3 U/L      (bis 40,0)
+GAMMA-GT                    26,7 U/L      (bis 50,0)
+A1KALISCHE PHOSPHATASE      39,9 U/L      (40,0 - 130,0)
+BILIRUBIN GESAMT             0,6 mg/dL    (0,3 - 1,2)
+ALBUMLN                      4,7 g/dl     (3,5-5,0)
+TSH                          5,3 miu/l    (0,4 – 4,0)
+FT4                          2,3 ng/dl    (0,9 – 1,7)
+CRP (CRP)                    7,1 mg/L     (<5,0)
+VITAMI. D (25-OH)           73,9 ng/mL    (30,0 – 100,0)
+VITAMI. B12               1320,7 pg/ml    (200,0-900,0)
+
+Pag. 1/1

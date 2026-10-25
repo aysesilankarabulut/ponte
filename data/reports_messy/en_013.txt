@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Jones    Date of birth: 23/05/1975
+
+--- HAEMATOLOGY ---
+Haemoglobin: 13.3 g/dL [12.0-16.0]
+Red blood cells: 5.3 10^6/uL [4.0 - 5.5]
+Haemat0crit (HCT): 23.9 % (L) [36.0 - 48.0]
+MCV: 99.2 fL [80.0-100.0]
+White blood cells: 9.4 10^3/uL [4.0-10.0]
+Platelets: 346.7 10^3/uL [150.0 - 450.0]
+
+--- CLINICAL CHEMISTRY ---
+Iron: 161.1 ug/dL [50.0 – 170.0]
+Ferritin: 52.4 ng/mL [15.0 - 150.0]
+G1ucose: 76.7 mg/dL [70.0-100.0]
+HbA1c: 3.7 % [< 5.7]
+Total. cholesterol: 109.8 mg/dL [< 200.0]
+HDL. cholesterol: 24.9 mg/dL (L) [> 40.0]
+LDL cholesterol: 154.2 mg/dl (H) [<130.0]
+Trlglycerides: 81.3 mg/dL [up to 150.0]
+Creatinine: 0.8 mg/dL [0.5 – 1.1]
+Uric. acid: 6.6 mg/dl [3.0-7.0]
+Sodium: 96.6 mmol/L [136.0-145.0]
+K: 3.1 mmol/L [3.5 - 5.1]
+Calcium: 8.5 mg/dl [8.5 – 10.5]
+ALT: 42.0 U/L (H) [< 40.0]
+AST (GOT): 31.5 U/L [< 40.0]
+GGT: 52.3 U/L (H) [< 50.0]
+ALP: 96.7 u/l [40.0 – 130.0]
+T0tal bilirubin (BIL-T): 0.5 mg/dL [0.3 - 1.2]
+Albumin: 4.5 g/dL [3.5 - 5.0]
+TSH: 2.8 mIU/L [0.4 – 4.0]
+Free T4: 1.8 ng/dL (H) [0.9 – 1.7]
+CRP: 2.7 mg/L [up to 5.0]
+Vitamin D (25-OH): 47.4 ng/ml [30.0 - 100.0]
+Vitamin B12: 144.5 pg/mL [200.0-900.0]
+
+Pag. 1/1

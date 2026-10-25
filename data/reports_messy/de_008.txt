@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Felix Müller    Geburtsdatum: 06/03/1964
+
+--- HÄMATOLOGIE ---
+HB                            10.2   g/dL      12.0 - 16.0
+ERYTHROZYTEN (RBC)             8.1 H 10^6/µL   4.0 – 5.5
+HÄMATOKRIT                    26.5   %         36.0 - 48.0
+MCV                           96.1   fL        80.0 - 100.0
+WBC                            4.3   10^3/µL   4.0-10.0
+THROMBOZYTEN (PLT)           455.5 H 10^3/µL   150.0 - 450.0
+
+--- KLINISCHE CHEMIE ---
+EISEN                        143.3   ug/dL     50.0-170.0
+FERRITIN                      94.7   ng/mL     15.0 - 150.0
+GLUKOSE                       75.1   mg/dl     70.0-100.0
+HBA1C                          3.8   %         bis 5.7
+CHOLESTERIN GESAMT           238.4   mg/dl     <200.0
+HDL-CHOLESTERIN               50.9   mg/dL     >40.0
+LDL-CHOLESTERIN              186.2 H mg/dl     < 130.0
+TRIGLYCERIDE                 115.3   mg/dL     bis 150.0
+KREATININ                      0.7   mg/dL     0.5 – 1.1
+HARNSÄURE                      2.3 L mg/dL     3.0 – 7.0
+NATRIUM                      149.7   mmol/L    136.0 - 145.0
+KALIUM                         6.4 H mmol/L    3.5 – 5.1
+CALCIUM                        7.1   mg/dL     8.5 - 10.5
+GPT                           35.8   U/L       < 40.0
+AST (GOT)                     48.3   U/L       bis 40.0
+GAMMA-GT                      68.0 H u/l       <50.0
+ALKALISCHE PHOSPHATASE       106.1   U/L       40.0 - 130.0
+BILIRUBIN GESAMT               1.7 H mg/dL     0.3-1.2
+ALBUMIN                        4.1   g/dL      3.5-5.0
+TSH                            4.5 H mIU/L     0.4 - 4.0
+FT4                            2.1 H ng/dL     0.9 – 1.7
+CRP                            4.2   mg/L      bis 5.0
+VITAMI. D (25-OH)             90.1   ng/mL     30.0 – 100.0
+VITAMI. B12                 1053.8   pg/mL     200.0 - 900.0
+
+Pag. 1/1

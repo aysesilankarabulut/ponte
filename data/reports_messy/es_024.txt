@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Pablo Sánchez    Fecha de nacimiento: 02/05/1954
+
+--- HEMATOLOGÍA ---
+Hemoglobina                  8.3 g/dL     (12.0 – 16.0)
+Hematíes                     5.6 10^6/µL  (4.0 - 5.5)
+Hematocrito                 29.9 %        (36.0 – 48.0)
+VCM (MCV)                  135.1 fL       (80.0 - 100.0)
+Leucocitos (WBC)             9.7 10^3/µl  (4.0 - 10.0)
+Plaquetas                  286.6 10^3/ul  (150.0 - 450.0)
+
+--- BIOQUÍMICA ---
+Hierro                     124.1 µg/dl    (50.0 – 170.0)
+Ferrltina                  224.6 ng/mL    (15.0-150.0)
+Glucosa                     75.1 mg/dL    (70.0 - 100.0)
+Hemogl. glicada              3.1 %        (< 5.7)
+Colest. total              217.6 mg/dl    (hasta 200.0)
+Colesterol HDL              38.9 mg/dL    (superior a 40.0)
+Colesterol LDL             170.1 mg/dL    (hasta 130.0)
+Triglicéridos              120.1 mg/dl    (<150.0)
+Creatinina                   0.8 mg/dl    (0.5 - 1.1)
+Ácido úrico                  2.4 mg/dl    (3.0 - 7.0)
+S0dio                      125.7 mmol/l   (136.0 – 145.0)
+Potasio                      4.0 mmol/L   (3.5 - 5.1)
+Calcio                       9.0 mg/dL    (8.5 - 10.5)
+GPT                         37.4 U/L      (hasta 40.0)
+AST (GOT)                   37.8 U/L      (<40.0)
+GGT                         40.7 U/L      (< 50.0)
+Fosfatasa alcalina         168.7 U/L      (40.0 – 130.0)
+Bilirrubina total            1.0 mg/dL    (0.3 - 1.2)
+Albúmina                     7.0 g/dl     (3.5 - 5.0)
+TSH                          1.4 mIU/L    (0.4-4.0)
+T4 libre (FT4)               2.5 ng/dL    (0.9 - 1.7)
+Pr0teína C reactiva          4.7 mg/L     (hasta 5.0)
+Vitamina D (25-OH)          72.4 ng/ml    (30.0 – 100.0)
+Vltamina B12               956.9 pg/mL    (200.0 – 900.0)
+
+Pag. 1/1

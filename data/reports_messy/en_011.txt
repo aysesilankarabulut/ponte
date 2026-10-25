@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Harry Smith    Date of birth: 03/05/1954
+
+--- HAEMATOLOGY ---
+Haemoglobin                 13.0 g/dl     (12.0-16.0)
+RBC                          3.0 10^6/µl  (4.0-5.5)
+Haematocrit                 38.0 %        (36.0 – 48.0)
+MCV                         93.1 fl       (80.0-100.0)
+White blood cells            8.1 10^3/uL  (4.0 – 10.0)
+Platelets (PLT)            138.4 10^3/µL  (150.0 - 450.0)
+
+--- CLINICAL CHEMISTRY ---
+Iron (Fe)                  153.3 ug/dL    (50.0 – 170.0)
+Ferritin                    77.9 ng/mL    (15.0-150.0)
+G1ucose                     54.5 mg/dl    (70.0 - 100.0)
+HbA1c                        7.9 %        (<5.7)
+Total cholesterol          188.0 mg/dL    (up to 200.0)
+HDL cholesterol             60.4 mg/dL    (>40.0)
+LDL cholesterol             96.1 mg/dL    (up to 130.0)
+Triglycerides              133.7 mg/dL    (< 150.0)
+Creatinine                   0.6 mg/dL    (0.5-1.1)
+Urlc acid                   10.2 mg/dL    (3.0-7.0)
+Sodium                     140.7 mmol/L   (136.0 - 145.0)
+K                            3.7 mmol/l   (3.5 - 5.1)
+Calcium                     14.7 mg/dl    (8.5 – 10.5)
+ALT (GPT)                   33.5 U/L      (up to 40.0)
+AST                         39.9 U/L      (<40.0)
+GGT                         35.9 U/L      (up to 50.0)
+Alkaline phosphatase        37.7 U/L      (40.0 - 130.0)
+Total bilirubin (BIL-T)      0.5 mg/dL    (0.3 – 1.2)
+Albumin                      7.5 g/dL     (3.5 - 5.0)
+TSH                          3.7 mIU/L    (0.4 - 4.0)
+Free T4                      2.0 ng/dL    (0.9 - 1.7)
+CRP                          7.2 mg/L     (< 5.0)
+Vitamin D (25-OH)           92.9 ng/mL    (30.0 – 100.0)
+Vitami. B12                563.7 pg/ml    (200.0 – 900.0)
+
+Pag. 1/1

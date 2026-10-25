@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Anna Müller    Geburtsdatum: 06/11/1958
+
+--- HÄMATOLOGIE ---
+Hämoglobin                     7,5 L g/dL      12,0-16,0
+Erythrozyten                   4,6   10^6/µL   4,0-5,5
+Hämatokrit                    38,9   %         36,0-48,0
+MCV                           55,3   fL        80,0 – 100,0
+Leukozyten                     6,2   10^3/µl   4,0 – 10,0
+Thrombozyten                 203,5   10^3/uL   150,0 - 450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen                        152,0   µg/dL     50,0 – 170,0
+Ferritin                      85,6   ng/mL     15,0 – 150,0
+Glukose                      134,4 H mg/dl     70,0 - 100,0
+HbA1c                          5,5   %         bis 5,7
+Cholesterin gesamt           183,7   mg/dL     <200,0
+HDL-Cholesterin               45,8   mg/dl     >40,0
+LDL-Cholesterin              109,5   mg/dL     <130,0
+Triglyceride                 217,3 H mg/dL     < 150,0
+Kreatinin                      0,8   mg/dl     0,5 – 1,1
+Harnsäure                      6,8   mg/dL     3,0 – 7,0
+Natrium (Na)                 158,2 H mmol/L    136,0 – 145,0
+Kalium                         5,6 H mmol/L    3,5 - 5,1
+Calcium (Ca)                   9,6   mg/dl     8,5-10,5
+ALT (GPT)                     51,4 H u/l       < 40,0
+AST (GOT) (GOT)               44,8 H u/l       bis 40,0
+Gamma-GT                      48,1   U/L       < 50,0
+Alkalische Phosphatase       169,0 H U/L       40,0 – 130,0
+Bilirubin gesamt               1,2   mg/dL     0,3 - 1,2
+Albumin                        3,5   g/dL      3,5 – 5,0
+TSH                            0,4   mIU/L     0,4 - 4,0
+fT4                            1,1   ng/dl     0,9 – 1,7
+CRP                            4,4   mg/L      < 5,0
+Vitamin D (25-OH)             32,0   ng/ml     30,0 - 100,0
+Vitamin B12                  612,7   pg/mL     200,0-900,0
+
+Pag. 1/1

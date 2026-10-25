@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Esposito    Data di nascita: 21/07/1947
+
+--- EMATOLOGIA ---
+Emoglobina .................. 22,9 * g/dl  v.r. 12,0-16,0
+RBC ......................... 4,7 10^6/µl  v.r. 4,0 – 5,5
+Ematocrito .................. 22,8 * %  v.r. 36,0 – 48,0
+MCV ......................... 92,4 fL  v.r. 80,0-100,0
+WBC ......................... 12,8 * 10^3/uL  v.r. 4,0-10,0
+Piastrine ................... 299,5 10^3/µl  v.r. 150,0-450,0
+
+--- CHIMICA CLINICA ---
+Ferro ....................... 130,2 µg/dL  v.r. 50,0-170,0
+Ferritina ................... 216,3 * ng/ml  v.r. 15,0 – 150,0
+Glucosio .................... 95,5 mg/dl  v.r. 70,0 – 100,0
+Emoglobina glicata .......... 5,7 %  v.r. fino a 5,7
+Colest. totale .............. 207,4 * mg/dL  v.r. <200,0
+Colesterolo HDL ............. 42,8 mg/dL  v.r. superiore a 40,0
+Colesterolo LDL ............. 145,9 * mg/dl  v.r. fino a 130,0
+Trigliceridi ................ 167,2 mg/dl  v.r. <150,0
+Creatinina .................. 1,5 * mg/dL  v.r. 0,5-1,1
+Acido urico ................. 8,9 * mg/dL  v.r. 3,0-7,0
+Sodio (Na) .................. 168,6 * mmol/L  v.r. 136,0-145,0
+Potassio .................... 3,9 mmol/L  v.r. 3,5-5,1
+Calcio ...................... 8,5 mg/dl  v.r. 8,5 - 10,5
+ALT ......................... 38,4 u/l  v.r. fino a 40,0
+GOT ......................... 38,8 u/l  v.r. < 40,0
+Gamma. GT ................... 49,6 U/L  v.r. < 50,0
+Fosfatasi alcalina .......... 25,3 * U/L  v.r. 40,0 – 130,0
+Bilirubina totale ........... 0,5 mg/dL  v.r. 0,3-1,2
+Albumina .................... 5,4 * g/dL  v.r. 3,5 – 5,0
+TSH ......................... 2,7 mIU/L  v.r. 0,4 – 4,0
+FT4 ......................... 1,0 ng/dL  v.r. 0,9-1,7
+Proteina C reattiva ......... 4,2 mg/L  v.r. < 5,0
+Vitamina D (25-OH) .......... 60,7 ng/ml  v.r. 30,0 – 100,0
+Vitamina B12 ................ 945,0 * pg/mL  v.r. 200,0 - 900,0
+
+Pag. 1/1

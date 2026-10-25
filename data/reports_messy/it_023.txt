@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Luca Colombo    Data di nascita: 20/12/1976
+
+--- EMATOLOGIA ---
+EMOGLOBINA                  16,4 g/dL     (12,0-16,0)
+ERITROCITI                   5,3 10^6/µL  (4,0-5,5)
+EMATOCRITO (HCT)            38,7 %        (36,0 – 48,0)
+MCV                         87,4 fl       (80,0-100,0)
+LEUCOCITI                    4,0 10^3/µL  (4,0 - 10,0)
+PIASTRINE                  207,0 10^3/µL  (150,0-450,0)
+
+--- CHIMICA CLINICA ---
+FERRO                       89,7 µg/dl    (50,0 – 170,0)
+FERRITINA                   13,1 ng/ml    (15,0 – 150,0)
+GLUC0SIO                   119,5 mg/dl    (70,0 - 100,0)
+EMOGLOBLNA GLICATA           7,2 %        (<5,7)
+COLEST. TOTALE             139,6 mg/dL    (<200,0)
+COLESTEROLO HDL             41,5 mg/dL    (> 40,0)
+COLESTEROLO LDL             72,6 mg/dL    (fino a 130,0)
+TRIGLICERIDI               117,1 mg/dL    (<150,0)
+CREATININA                   0,9 mg/dL    (0,5-1,1)
+ACIDO URICO                  9,1 mg/dL    (3,0 - 7,0)
+SODIO                      140,5 mmol/L   (136,0 – 145,0)
+POTASSIO (K)                 3,8 mmol/L   (3,5-5,1)
+CALCIO (CA)                  5,4 mg/dL    (8,5 – 10,5)
+ALT                         58,6 U/L      (<40,0)
+AST (GOT)                   36,9 U/L      (< 40,0)
+GAMMA GT (GGT)              48,0 U/L      (fino a 50,0)
+FOSFATASI ALCALINA         182,4 U/L      (40,0 – 130,0)
+BILIRUBINA TOTALE            0,9 mg/dL    (0,3 – 1,2)
+ALBUMINA                     3,0 g/dL     (3,5-5,0)
+TSH                          1,6 mIU/L    (0,4 – 4,0)
+FT4 (FT4)                    1,2 ng/dL    (0,9-1,7)
+PROTEINA C REATTIVA          4,7 mg/L     (<5,0)
+VITAMINA D (25-OH)          84,7 ng/ml    (30,0-100,0)
+VITAMINA B12               186,1 pg/mL    (200,0-900,0)
+
+Pag. 1/1

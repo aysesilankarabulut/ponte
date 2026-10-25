@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Felix Weber    Geburtsdatum: 13/01/1992
+
+--- HÄMATOLOGIE ---
+Hämoglobin .................. 18.0 * g/dl  Ref.: 12.0 - 16.0
+Erythrozyten ................ 7.0 * 10^6/µl  Ref.: 4.0 – 5.5
+Hämatokrit .................. 70.7 %  Ref.: 36.0 - 48.0
+MCV ......................... 122.5 * fL  Ref.: 80.0 – 100.0
+Leukozyten .................. 4.3 10^3/µL  Ref.: 4.0 – 10.0
+PLT ......................... 286.6 10^3/ul  Ref.: 150.0 – 450.0
+
+--- KLINISCHE CHEMIE ---
+Eisen (Fe) .................. 65.0 µg/dl  Ref.: 50.0 – 170.0
+Ferritin .................... 118.7 ng/ml  Ref.: 15.0 - 150.0
+Glukose ..................... 98.7 mg/dL  Ref.: 70.0-100.0
+HbA1c ....................... 4.5 %  Ref.: bis 5.7
+Cholesterin gesamt .......... 208.0 * mg/dL  Ref.: <200.0
+HDL-Cholesterin ............. 34.1 * mg/dL  Ref.: >40.0
+LDL-Cholesterin ............. 85.8 mg/dL  Ref.: < 130.0
+Triglyceride ................ 136.7 mg/dL  Ref.: bis 150.0
+Kreatinin ................... 1.6 mg/dL  Ref.: 0.5 – 1.1
+Harnsäure ................... 3.4 mg/dL  Ref.: 3.0 – 7.0
+Natrium ..................... 142.7 mmol/L  Ref.: 136.0-145.0
+Kalium ...................... 4.7 mmol/L  Ref.: 3.5-5.1
+Calcium ..................... 10.4 mg/dL  Ref.: 8.5-10.5
+ALT (GPT) ................... 38.9 U/L  Ref.: bis 40.0
+AST (GOT) ................... 52.7 * u/l  Ref.: bis 40.0
+Gamma-GT .................... 57.5 * U/L  Ref.: bis 50.0
+ALP ......................... 167.8 * U/L  Ref.: 40.0-130.0
+BIL-T ....................... 0.4 mg/dl  Ref.: 0.3-1.2
+Albumin ..................... 4.3 g/dl  Ref.: 3.5 - 5.0
+TSH ......................... 2.0 mIU/L  Ref.: 0.4 - 4.0
+fT4 ......................... 1.1 ng/dL  Ref.: 0.9-1.7
+CRP (CRP) ................... 2.8 mg/L  Ref.: <5.0
+Vitami. D (25-OH) ........... 141.6 * ng/mL  Ref.: 30.0-100.0
+Vitamin B12 ................. 785.4 pg/mL  Ref.: 200.0 - 900.0
+
+Pag. 1/1

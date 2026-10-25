@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Harry Taylor    Date of birth: 20/10/1991
+
+--- HAEMATOLOGY ---
+Haemoglobin                 12.8 g/dL     (12.0 - 16.0)
+Red blood cells              4.0 10^6/µL  (4.0-5.5)
+HCT                         69.0 %        (36.0-48.0)
+MCV                        130.4 fL       (80.0-100.0)
+White blood cells            9.5 10^3/µl  (4.0-10.0)
+Platelets                  254.7 10^3/µL  (150.0 – 450.0)
+
+--- CLINICAL CHEMISTRY ---
+Iron                        43.2 ug/dL    (50.0-170.0)
+Ferritin                   156.0 ng/mL    (15.0 – 150.0)
+Gluc0se                     64.1 mg/dl    (70.0 – 100.0)
+HbA1c                        3.7 %        (up to 5.7)
+Total cholesterol          180.9 mg/dl    (up to 200.0)
+HDL. cholesterol            31.3 mg/dL    (> 40.0)
+LDL cholesterol            109.0 mg/dL    (< 130.0)
+Triglycerides              107.4 mg/dL    (<150.0)
+Creatinine                   1.0 mg/dl    (0.5-1.1)
+Uric. acid                   5.4 mg/dl    (3.0-7.0)
+Na                         113.1 mmol/L   (136.0 - 145.0)
+K                            4.4 mmol/L   (3.5 - 5.1)
+Calcium                     10.0 mg/dl    (8.5-10.5)
+ALT                         32.3 U/L      (< 40.0)
+AST                         22.4 U/L      (<40.0)
+GGT                         26.6 U/L      (up to 50.0)
+Alkaline phosphatase        31.5 U/L      (40.0-130.0)
+Total bilirubin              0.9 mg/dL    (0.3 – 1.2)
+Albumin                      5.4 g/dl     (3.5 – 5.0)
+TSH                          0.4 mIU/L    (0.4 – 4.0)
+Free T4                      0.7 ng/dl    (0.9 - 1.7)
+CRP                          4.5 mg/L     (<5.0)
+Vitami. D (25-OH)           64.2 ng/ml    (30.0 – 100.0)
+Vitami. B12                721.1 pg/ml    (200.0 - 900.0)
+
+Pag. 1/1

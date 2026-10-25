@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Esposito    Data di nascita: 22/12/1952
+
+--- EMATOLOGIA ---
+Hb                          14,0 g/dL     (12,0 – 16,0)
+Eritr0citi                   8,1 10^6/µL  (4,0-5,5)
+Ematocrito                  42,1 %        (36,0 - 48,0)
+MCV                        114,8 fL       (80,0 – 100,0)
+Leucociti                    2,6 10^3/µL  (4,0 – 10,0)
+PLT                        187,9 10^3/uL  (150,0 – 450,0)
+
+--- CHIMICA CLINICA ---
+Ferro                      122,5 µg/dl    (50,0 – 170,0)
+Ferritina                  203,6 ng/ml    (15,0 - 150,0)
+Glucosio                   136,6 mg/dL    (70,0 - 100,0)
+Emoglobina glicata           5,4 %        (<5,7)
+Colest. totale             153,2 mg/dL    (<200,0)
+Colesterolo HDL             41,3 mg/dL    (superiore a 40,0)
+Colesterolo LDL            103,6 mg/dL    (fino a 130,0)
+Trigliceridi               137,1 mg/dL    (< 150,0)
+Creatinina                   1,0 mg/dL    (0,5 – 1,1)
+Acido urico                  3,1 mg/dL    (3,0 – 7,0)
+Sodio (Na)                 187,0 mmol/l   (136,0 – 145,0)
+Potassio                     4,4 mmol/l   (3,5 - 5,1)
+Ca                           9,0 mg/dL    (8,5 - 10,5)
+ALT                         29,6 U/L      (<40,0)
+AST                         24,5 U/L      (fino a 40,0)
+Gamma GT                    43,1 U/L      (<50,0)
+Fosfatasi alcalina         169,7 u/l      (40,0 – 130,0)
+Bilirubina totale            0,2 mg/dL    (0,3 – 1,2)
+Albumina                     5,0 g/dL     (3,5-5,0)
+TSH                          4,8 mIU/L    (0,4-4,0)
+FT4                          1,2 ng/dL    (0,9 - 1,7)
+Protei. C reattiva           3,7 mg/l     (fino a 5,0)
+Vitami. D (25-OH)           29,4 ng/ml    (30,0 – 100,0)
+Vitamina B12               701,5 pg/mL    (200,0 - 900,0)
+
+Pag. 1/1

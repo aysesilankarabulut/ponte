@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Anna Schmidt    Geburtsdatum: 17/03/1944
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN: 15.3 g/dl [12.0 - 16.0]
+ERYTHR0ZYTEN (RBC): 4.3 10^6/µL [4.0-5.5]
+HCT: 49.9 % [36.0-48.0]
+MCV: 90.8 fL [80.0 – 100.0]
+LEUKOZYTEN: 5.1 10^3/µL [4.0 – 10.0]
+THROMBOZYTCN: 148.4 10^3/µL [150.0 - 450.0]
+
+--- KLINISCHE CHEMIE ---
+EISEN (FE): 131.9 µg/dl [50.0 – 170.0]
+FERRITIN: 134.8 ng/mL [15.0 – 150.0]
+GLUKOSE: 107.2 mg/dL [70.0 – 100.0]
+HBA1C: 7.4 % (H) [< 5.7]
+CHOLESTERIN GESAMT: 131.9 mg/dl [bis 200.0]
+HDL-CHOLESTERIN: 48.5 mg/dL [>40.0]
+LDL-CHOLESTERIN: 150.7 mg/dL (H) [< 130.0]
+TRIGLYCERIDE: 85.8 mg/dL [< 150.0]
+KREATININ: 1.6 mg/dL (H) [0.5 – 1.1]
+HARNSÄURE: 8.6 mg/dl (H) [3.0 – 7.0]
+NATRIUM: 151.7 mmol/L (H) [136.0 - 145.0]
+K: 3.9 mmol/l [3.5-5.1]
+CA: 9.2 mg/dl [8.5 – 10.5]
+ALT (GPT): 31.5 u/l [<40.0]
+AST (GOT): 30.1 U/L [bis 40.0]
+GAMMA-GT: 51.5 U/L (H) [< 50.0]
+ALKALI. PHOSPHATASE: 28.8 U/L (L) [40.0-130.0]
+BILIRUBIN GESAMT: 0.3 mg/dL [0.3 - 1.2]
+ALBUMIN: 4.1 g/dL [3.5 - 5.0]
+TSH: 6.0 miu/l (H) [0.4 – 4.0]
+FT4 (FT4): 0.9 ng/dL [0.9 – 1.7]
+CRP: 3.6 mg/L [bis 5.0]
+VITAMI. D (25-OH): 26.6 ng/mL [30.0-100.0]
+VITAMIN B12: 178.4 pg/mL (L) [200.0-900.0]
+
+Pag. 1/1

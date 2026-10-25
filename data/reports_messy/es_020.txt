@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier López    Fecha de nacimiento: 19/12/1988
+
+--- HEMATOLOGÍA ---
+Hemoglobina                 14.3 g/dL     (12.0 – 16.0)
+Hematíes                     4.1 10^6/µL  (4.0 - 5.5)
+Hematocrito                 36.1 %        (36.0 - 48.0)
+VCM                         87.1 fL       (80.0 - 100.0)
+Leucocitos                   4.9 10^3/ul  (4.0-10.0)
+P1aquetas                  350.3 10^3/µL  (150.0 - 450.0)
+
+--- BIOQUÍMICA ---
+Hierro                      91.9 ug/dL    (50.0 - 170.0)
+Ferritina                  131.5 ng/mL    (15.0 – 150.0)
+Glucosa                     51.6 mg/dl    (70.0 - 100.0)
+Hemoglobina glicada          3.2 %        (< 5.7)
+C0lest. total              217.8 mg/dl    (hasta 200.0)
+Colest. HDL                 77.3 mg/dL    (> 40.0)
+Colesterol LDL             168.0 mg/dL    (hasta 130.0)
+Triglicéridos               97.6 mg/dL    (hasta 150.0)
+Creatinina                   0.5 mg/dL    (0.5 - 1.1)
+Ácido úrico                  5.7 mg/dL    (3.0 - 7.0)
+Na                         143.7 mmol/l   (136.0 – 145.0)
+Potasio (K)                  3.1 mmol/L   (3.5 - 5.1)
+Ca                           9.5 mg/dL    (8.5 – 10.5)
+ALT (GPT)                   39.3 u/l      (< 40.0)
+AST (GOT) (GOT)             48.5 U/L      (<40.0)
+GGT                         37.6 U/L      (< 50.0)
+ALP                         86.6 U/L      (40.0-130.0)
+Bilirrubina total (BIL-T)     0.8 mg/dL    (0.3 - 1.2)
+Albúmina                     4.3 g/dL     (3.5 – 5.0)
+TSH                          1.5 mIU/L    (0.4-4.0)
+T4 libre                     1.6 ng/dL    (0.9 - 1.7)
+Proteína C reactiva          2.7 mg/L     (hasta 5.0)
+Vitamina D (25-OH)          90.2 ng/ml    (30.0 - 100.0)
+Vltami. B12                121.2 pg/mL    (200.0-900.0)
+
+Pag. 1/1

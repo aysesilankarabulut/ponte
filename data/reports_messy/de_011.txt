@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Anna Schmidt    Geburtsdatum: 14/07/2001
+
+--- HÄMATOLOGIE ---
+HB                            12,4   g/dl      12,0 – 16,0
+ERYTHROZYTEN                   4,2   10^6/µl   4,0 – 5,5
+HÄMATOKRIT                    47,8   %         36,0-48,0
+MCV                           86,5   fL        80,0 - 100,0
+LEUKOZYTEN                    12,5 H 10^3/µL   4,0 - 10,0
+THROMBOZYTEN                 272,4   10^3/µl   150,0-450,0
+
+--- KLINISCHE CHEMIE ---
+FE                           101,4   µg/dL     50,0-170,0
+FERRITIN                      49,5   ng/ml     15,0-150,0
+GLUKOSE                       91,0   mg/dL     70,0 – 100,0
+HBA1C                          3,4   %         <5,7
+CHOLESTERIN GESAMT           118,1   mg/dl     < 200,0
+HDL-CHOLESTERIN               72,3   mg/dl     > 40,0
+LDL-CHOLESTERIN               98,2   mg/dl     < 130,0
+TRIGLYCERIDE                  85,8   mg/dL     < 150,0
+KREATININ                      0,9   mg/dL     0,5 – 1,1
+HARNSÄURE                      2,3 L mg/dL     3,0 - 7,0
+NATRIUM                      142,4   mmol/L    136,0 - 145,0
+KALIUM                         2,5 L mmol/L    3,5 - 5,1
+CALCIUM (CA)                   8,0   mg/dl     8,5-10,5
+ALT (GPT)                     44,8 H u/l       <40,0
+AST (GOT)                     43,9 H u/l       <40,0
+GAMMA-GT                      48,4   U/L       <50,0
+ALP                           74,1   U/L       40,0-130,0
+BILIRUBIN GESAMT               0,9   mg/dL     0,3 - 1,2
+ALBUMIN                        4,2   g/dl      3,5 – 5,0
+TSH                            4,5   mIU/L     0,4 - 4,0
+FT4                            1,0   ng/dL     0,9 - 1,7
+CRP                            4,2   mg/L      bis 5,0
+VITAMIN D (25-OH)             38,9   ng/ml     30,0 – 100,0
+VITAMIN B12                  148,7 L pg/ml     200,0 - 900,0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Esposito    Data di nascita: 14/02/1942
+
+--- EMATOLOGIA ---
+Emoglobina                    12,9   g/dL      12,0-16,0
+RBC                            8,1 H 10^6/µL   4,0 – 5,5
+Ematocrito                    44,0   %         36,0 - 48,0
+MCV                          109,9 H fL        80,0-100,0
+WBC                            6,2   10^3/µL   4,0-10,0
+Piastrine                    365,9   10^3/µL   150,0 - 450,0
+
+--- CHIMICA CLINICA ---
+Ferro                         94,9   µg/dL     50,0-170,0
+Ferritina                    190,3 H ng/mL     15,0-150,0
+Glucosio                      77,9   mg/dL     70,0 – 100,0
+Emoglobina glicata             4,1   %         < 5,7
+Colesterolo totale           215,1   mg/dl     <200,0
+Colesterolo HDL               67,5   mg/dL     >40,0
+Colest. LDL                  122,5   mg/dL     < 130,0
+Trigliceridi                 152,6 H mg/dl     < 150,0
+Creatinina                     1,4 H mg/dL     0,5 - 1,1
+Acido. urico                   4,8   mg/dl     3,0 – 7,0
+Sodio                        113,6 L mmol/l    136,0 – 145,0
+P0tassio (K)                   5,1   mmol/l    3,5 – 5,1
+Ca                             8,6   mg/dL     8,5 - 10,5
+ALT                           42,8 H U/L       fino a 40,0
+AST                           35,2   U/L       <40,0
+GGT                           25,5   U/L       < 50,0
+Fosfatasi alcalina (ALP)     193,5 H U/L       40,0-130,0
+Bilirubina totale              0,8   mg/dL     0,3 – 1,2
+Albumlna                       2,9   g/dl      3,5-5,0
+TSH                            5,7 H miu/l     0,4 – 4,0
+FT4                            2,3   ng/dl     0,9 - 1,7
+Proteina C reattiva            6,1   mg/L      <5,0
+Vitamina D (25-OH)            95,7   ng/mL     30,0-100,0
+Vitami. B12                  341,6   pg/mL     200,0 – 900,0
+
+Pag. 1/1

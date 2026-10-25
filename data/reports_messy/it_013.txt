@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Marco Ferrari    Data di nascita: 07/04/1998
+
+--- EMATOLOGIA ---
+HB                          15,3 g/dl     (12,0 - 16,0)
+ERITROCITI                   4,4 10^6/µl  (4,0 - 5,5)
+EMATOCRITO                  60,6 %        (36,0 – 48,0)
+MCV                         83,5 fL       (80,0-100,0)
+LEUCOCITI                    7,1 10^3/µl  (4,0-10,0)
+PIASTRINE                  109,2 10^3/uL  (150,0 - 450,0)
+
+--- CHIMICA CLINICA ---
+FERRO (FE)                 166,5 µg/dL    (50,0-170,0)
+FERRITINA                  135,5 ng/ml    (15,0 - 150,0)
+GLUCOSIO                    90,6 mg/dL    (70,0 - 100,0)
+EMOGLOBINA GLICATA           3,3 %        (<5,7)
+CO1ESTEROLO TOTALE         229,8 mg/dL    (fino a 200,0)
+COLEST. HDL                 59,8 mg/dL    (superiore a 40,0)
+COLESTEROLO LDL            156,7 mg/dL    (< 130,0)
+TRIGLICERIDI               152,6 mg/dl    (< 150,0)
+CREATLNINA                   1,6 mg/dL    (0,5 – 1,1)
+ACIDO URICO                  2,0 mg/dL    (3,0 - 7,0)
+SODIO (NA)                 141,4 mmol/l   (136,0 - 145,0)
+POTASSIO (K)                 4,1 mmol/L   (3,5 – 5,1)
+CALCIO                       8,2 mg/dL    (8,5 – 10,5)
+GPT                         28,7 u/l      (<40,0)
+AST                         39,9 u/l      (fino a 40,0)
+GAMMA GT                    65,8 U/L      (fino a 50,0)
+FOSFATASL ALCALINA         112,8 u/l      (40,0 - 130,0)
+BILIRUBINA TOTALE            0,4 mg/dl    (0,3 – 1,2)
+ALBUMINA                     4,8 g/dL     (3,5 – 5,0)
+TSH                          0,4 miu/l    (0,4 – 4,0)
+FT4                          1,7 ng/dL    (0,9-1,7)
+PROTEINA C REATTIVA          2,5 mg/l     (fino a 5,0)
+VITAMI. D (25-OH)          101,5 ng/mL    (30,0 - 100,0)
+VITAMINA B12              1283,5 pg/mL    (200,0 - 900,0)
+
+Pag. 1/1

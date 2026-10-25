@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Lucía Sánchez    Fecha de nacimiento: 01/03/1961
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA: 20,4 g/dl (H) [12,0-16,0]
+HEMATÍES: 4,8 10^6/µL [4,0-5,5]
+HEMATOCRITO: 38,0 % [36,0 - 48,0]
+VCM (MCV): 50,1 fL (L) [80,0 – 100,0]
+LEUCOCITOS: 3,4 10^3/ul (L) [4,0-10,0]
+PLAQUETAS: 287,3 10^3/µl [150,0 – 450,0]
+
+--- BIOQUÍMICA ---
+HIERRO: 155,5 µg/dL [50,0 – 170,0]
+FERRITINA: 203,9 ng/mL [15,0 – 150,0]
+GLUCOSA: 91,8 mg/dL [70,0 - 100,0]
+HEMOGLOBINA GLICADA: 4,4 % [<5,7]
+COLEST. TOTAL: 118,0 mg/dl [<200,0]
+COLEST. HDL: 48,5 mg/dL [>40,0]
+COLESTEROL LDL: 168,4 mg/dL (H) [hasta 130,0]
+TRIGLICÉRIDOS: 101,7 mg/dL [<150,0]
+CREATININA: 0,4 mg/dL (L) [0,5-1,1]
+ÁCIDO ÚRICO: 8,0 mg/dL (H) [3,0 - 7,0]
+SODIO (NA): 140,3 mmol/l [136,0-145,0]
+POTASIO: 3,9 mmol/l [3,5-5,1]
+CALCIO: 14,1 mg/dl (H) [8,5-10,5]
+ALT (GPT) (GPT): 30,0 U/L [hasta 40,0]
+AST (GOT): 35,0 U/L [hasta 40,0]
+GGT: 31,8 U/L [hasta 50,0]
+F0SFATASA ALCALINA: 172,2 U/L (H) [40,0 – 130,0]
+BILIRRUBINA TOTAL: 0,3 mg/dL [0,3-1,2]
+ALBÚMINA: 4,5 g/dl [3,5 – 5,0]
+TSH: 1,0 mIU/L [0,4 – 4,0]
+T4 LIBRE: 1,0 ng/dL [0,9 – 1,7]
+CRP: 3,0 mg/L [< 5,0]
+VITAMINA D (25-OH): 69,8 ng/ml [30,0 – 100,0]
+VITAMI. B12: 547,1 pg/mL [200,0 - 900,0]
+
+Pag. 1/1

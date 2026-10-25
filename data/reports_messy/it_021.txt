@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Maria Ferrari    Data di nascita: 27/02/1991
+
+--- EMATOLOGIA ---
+Emoglobina                    15,4   g/dL      12,0-16,0
+Eritrociti                     3,6 L 10^6/µL   4,0 – 5,5
+Ematocrito                    41,3   %         36,0-48,0
+MCV (MCV)                     89,3   fL        80,0 – 100,0
+Lcucociti                      3,7   10^3/µl   4,0 – 10,0
+Piastrine                    387,9   10^3/µL   150,0 - 450,0
+
+--- CHIMICA CLINICA ---
+Ferro                         90,1   ug/dL     50,0 - 170,0
+Ferrltina                     27,2   ng/mL     15,0 – 150,0
+Glucosio                     100,8   mg/dL     70,0 - 100,0
+Emoglobina glicata             5,5   %         fino a 5,7
+Colest. totale               143,7   mg/dL     fino a 200,0
+Colest. HDL                   32,8 L mg/dL     > 40,0
+Colesterolo LDL              125,6   mg/dL     <130,0
+Trigliceridi                 121,5   mg/dL     <150,0
+Creatinina                     0,3 L mg/dl     0,5 – 1,1
+Acido urico                    2,5 L mg/dL     3,0 – 7,0
+Sodio                         88,8 L mmol/L    136,0 – 145,0
+Potassio                       7,4 H mmol/L    3,5-5,1
+Calcio                         9,8   mg/dl     8,5 - 10,5
+GPT                           23,8   u/l       fino a 40,0
+AST                           51,3   U/L       fino a 40,0
+Gamma GT                      34,9   u/l       fino a 50,0
+Fosfatasi alcalina            32,6 L u/l       40,0 – 130,0
+Bilirubina totale              1,2   mg/dL     0,3 – 1,2
+Albumina                       3,9   g/dl      3,5 - 5,0
+TSH                            0,4   mIU/L     0,4 - 4,0
+FT4                            0,9   ng/dL     0,9 - 1,7
+Proteina C reattiva            6,7 H mg/L      < 5,0
+Vitamina D (25-OH)            76,4   ng/mL     30,0-100,0
+Vitamina B12                1287,5 H pg/mL     200,0 – 900,0
+
+Pag. 1/1

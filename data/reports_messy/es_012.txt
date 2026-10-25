@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Lucía López    Fecha de nacimiento: 08/11/1995
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA                   11.3 L g/dL      12.0 - 16.0
+HEMATÍES                       4.5   10^6/µL   4.0-5.5
+HEMATOCRITO                   40.9   %         36.0-48.0
+VCM                           71.3   fl        80.0 – 100.0
+LEUCOCITOS                     6.6   10^3/µl   4.0-10.0
+PLT                          556.1 H 10^3/µL   150.0 – 450.0
+
+--- BIOQUÍMICA ---
+HIERRO                        92.9   ug/dL     50.0-170.0
+FERRITINA                      9.1 L ng/mL     15.0 – 150.0
+GLUCOSA                       89.6   mg/dl     70.0 - 100.0
+HCMOGLOBINA GLICADA            5.7   %         < 5.7
+COLESTEROL TOTAL             243.6   mg/dL     <200.0
+COLEST. HDL                   49.0   mg/dL     > 40.0
+COLEST. LDL                  141.9   mg/dL     <130.0
+TRIGLICÉRIDOS                176.2 H mg/dL     <150.0
+CREATININA                     1.0   mg/dl     0.5 – 1.1
+ÁCIDO ÚRICO                    7.8   mg/dL     3.0 - 7.0
+SODIO                        140.2   mmol/L    136.0 - 145.0
+POTASIO (K)                    5.2   mmol/l    3.5 – 5.1
+CALCIO                         8.8   mg/dl     8.5 - 10.5
+ALT (GPT)                     26.2   U/L       hasta 40.0
+AST. (GOT)                    58.9 H u/l       hasta 40.0
+GGT                           49.2   U/L       < 50.0
+ALP                          139.7 H u/l       40.0 - 130.0
+BILIRR. TOTAL                  0.3   mg/dl     0.3 – 1.2
+ALBÚMINA                       5.0   g/dl      3.5-5.0
+TSH                            0.3   miu/l     0.4 - 4.0
+T4 LIBRE (FT4)                 0.7 L ng/dL     0.9 - 1.7
+PROTEÍNA C REACTIVA (CRP)      4.3   mg/l      hasta 5.0
+VITAMI. D (25-OH)             84.9   ng/ml     30.0 - 100.0
+VITAMINA B12                1191.4   pg/mL     200.0 - 900.0
+
+Pag. 1/1

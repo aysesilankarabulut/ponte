@@ -1,0 +1,38 @@
+LABORATORY RESULTS
+Patient: James Taylor    Date of birth: 26/03/1970
+
+--- HAEMATOLOGY ---
+HAEMOGLOBIN                  9.0 g/dL     (12.0 – 16.0)
+RED BLOOD CELLS              4.9 10^6/uL  (4.0 – 5.5)
+HAEMATOCRLT                 37.9 %        (36.0-48.0)
+MCV (MCV)                   97.1 fL       (80.0 - 100.0)
+WHITE BLOOD CELLS           14.0 10^3/uL  (4.0 - 10.0)
+PLATELETS                  442.0 10^3/µL  (150.0 - 450.0)
+
+--- CLINICAL CHEMISTRY ---
+IR0N                       125.7 µg/dl    (50.0 - 170.0)
+FERRITIN                   183.1 ng/mL    (15.0 - 150.0)
+GLUCOSE                     77.4 mg/dL    (70.0 – 100.0)
+HBA1C                        3.8 %        (<5.7)
+TOTAL. CHOLESTEROL         107.6 mg/dL    (<200.0)
+HDL. CHOLESTEROL            54.1 mg/dL    (> 40.0)
+LDL CHOLESTEROL            138.6 mg/dL    (up to 130.0)
+TRIGLYCCRIDES              132.2 mg/dL    (<150.0)
+CREATININE                   1.6 mg/dL    (0.5 – 1.1)
+URIC ACID                    9.2 mg/dl    (3.0 – 7.0)
+SODIUM                     142.2 mmol/l   (136.0 – 145.0)
+K                            3.7 mmol/L   (3.5-5.1)
+CA                           9.4 mg/dl    (8.5 - 10.5)
+GPT                         24.0 U/L      (<40.0)
+AST                         23.1 U/L      (< 40.0)
+GGT                         67.2 U/L      (< 50.0)
+ALKALI. PH0SPHATASE        140.4 U/L      (40.0 – 130.0)
+TOTAL BILIRUBIN              0.9 mg/dL    (0.3 - 1.2)
+ALBUMIN                      4.0 g/dl     (3.5-5.0)
+TSH                          5.8 mIU/L    (0.4 - 4.0)
+FREE T4                      2.1 ng/dL    (0.9 - 1.7)
+CRP                          3.0 mg/L     (up to 5.0)
+VITAMI. D (25-OH)           56.9 ng/mL    (30.0 – 100.0)
+VITAMIN B12                629.0 pg/mL    (200.0 - 900.0)
+
+Pag. 1/1

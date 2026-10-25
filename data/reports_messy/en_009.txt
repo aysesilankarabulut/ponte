@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Olivia Taylor    Date of birth: 03/11/1982
+
+--- HAEMATOLOGY ---
+Haemoglobin                   21.0 H g/dL      12.0-16.0
+Red. blood cells               2.5 L 10^6/ul   4.0 – 5.5
+HCT                           45.5   %         36.0 – 48.0
+MCV (MCV)                     78.5 L fL        80.0 – 100.0
+White blood cells (WBC)        9.4   10^3/uL   4.0 – 10.0
+PLT                          465.1 H 10^3/µl   150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron                         130.1   µg/dl     50.0 - 170.0
+Fcrritin                      33.8   ng/mL     15.0 – 150.0
+Glucose                       77.1   mg/dL     70.0 - 100.0
+HbA1c                          5.4   %         up to 5.7
+Total. cholesterol           177.8   mg/dL     up to 200.0
+HDL. cholesterol              35.9   mg/dL     > 40.0
+LDL cholesterol              101.4   mg/dL     < 130.0
+Triglycerides                112.8   mg/dl     < 150.0
+Creatinine                     1.0   mg/dL     0.5 - 1.1
+Uric acid                      4.1   mg/dL     3.0 - 7.0
+Sodium                       137.6   mmol/l    136.0 – 145.0
+P0tassium                      5.0   mmol/l    3.5-5.1
+Calcium                        9.1   mg/dL     8.5 - 10.5
+ALT                           56.7 H u/l       < 40.0
+AST                           34.4   U/L       <40.0
+GGT (GGT)                     44.7   u/l       <50.0
+Alkali. phosphatase           34.0 L U/L       40.0 - 130.0
+Total bilirubin                1.1   mg/dL     0.3 - 1.2
+Albumin                        3.9   g/dl      3.5 – 5.0
+TSH                            0.5   mIU/L     0.4-4.0
+Free T4                        1.0   ng/dL     0.9-1.7
+CRP (CRP)                      3.5   mg/L      up to 5.0
+Vltami. D (25-OH)            127.1 H ng/ml     30.0 – 100.0
+Vitami. B12                  436.7   pg/mL     200.0 – 900.0
+
+Pag. 1/1

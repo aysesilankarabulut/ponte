@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Giulia Ferrari    Data di nascita: 24/02/1957
+
+--- EMATOLOGIA ---
+Hb: 12,6 g/dL [12,0 – 16,0]
+Erltrociti (RBC): 4,6 10^6/µl [4,0 – 5,5]
+Ematocrito: 33,5 % [36,0-48,0]
+MCV: 91,3 fL [80,0 – 100,0]
+Leucociti: 9,8 10^3/µL [4,0-10,0]
+Piastrine: 436,0 10^3/µL [150,0 – 450,0]
+
+--- CHIMICA CLINICA ---
+Ferro: 52,7 µg/dl [50,0 – 170,0]
+Ferritina: 102,2 ng/ml [15,0 – 150,0]
+Glucosio: 98,3 mg/dL [70,0 – 100,0]
+Emoglobina glicata (HbA1c): 5,1 % [<5,7]
+Colest. totale: 135,9 mg/dL [< 200,0]
+Colesterolo HDL: 42,2 mg/dL [superiore a 40,0]
+Colesterolo LDL: 69,2 mg/dl [<130,0]
+Trigliceridi: 143,3 mg/dL [fino a 150,0]
+Creatinina: 0,8 mg/dL [0,5-1,1]
+Acido urico: 6,6 mg/dL [3,0 – 7,0]
+Sodio: 138,3 mmol/L [136,0 - 145,0]
+Potassio: 7,5 mmol/L (H) [3,5 – 5,1]
+Calcio: 9,0 mg/dL [8,5-10,5]
+ALT: 25,9 U/L [fino a 40,0]
+AST: 41,1 U/L [fino a 40,0]
+GGT: 32,3 U/L [<50,0]
+ALP: 27,7 U/L (L) [40,0 – 130,0]
+Bllirubina totale: 0,6 mg/dL [0,3 - 1,2]
+Albumina: 5,3 g/dl (H) [3,5 – 5,0]
+TSH: 3,7 mIU/L [0,4 – 4,0]
+FT4: 2,3 ng/dl (H) [0,9-1,7]
+Proteina C reattiva: 3,3 mg/l [<5,0]
+Vitamina D (25-OH): 82,6 ng/ml [30,0 – 100,0]
+Vitami. B12: 1273,5 pg/ml [200,0 – 900,0]
+
+Pag. 1/1

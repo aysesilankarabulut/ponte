@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Colombo    Data di nascita: 04/04/1955
+
+--- EMATOLOGIA ---
+Emoglobina .................. 8,5 * g/dL  v.r. 12,0 – 16,0
+Eritrociti .................. 4,0 10^6/µL  v.r. 4,0 - 5,5
+HCT ......................... 47,8 %  v.r. 36,0-48,0
+MCV ......................... 93,8 fL  v.r. 80,0-100,0
+Leucociti ................... 7,4 10^3/µL  v.r. 4,0 – 10,0
+Piastrine ................... 463,5 * 10^3/µl  v.r. 150,0 - 450,0
+
+--- CHIMICA CLINICA ---
+Ferr0 ....................... 91,9 µg/dL  v.r. 50,0 - 170,0
+Ferrltina ................... 74,0 ng/mL  v.r. 15,0 – 150,0
+Glucosio .................... 115,9 * mg/dL  v.r. 70,0 - 100,0
+Emoglobina glicata .......... 7,4 * %  v.r. < 5,7
+Colesterolo totale .......... 126,6 mg/dL  v.r. fino a 200,0
+Colest. HDL ................. 46,0 mg/dl  v.r. superiore a 40,0
+Colesterolo LDL ............. 166,7 * mg/dL  v.r. fino a 130,0
+Trigliceridi ................ 93,6 mg/dL  v.r. fino a 150,0
+Creatinina .................. 0,3 * mg/dL  v.r. 0,5-1,1
+Acido urico ................. 2,4 * mg/dl  v.r. 3,0-7,0
+Sodio ....................... 95,4 mmol/L  v.r. 136,0 - 145,0
+Potassio (K) ................ 4,0 mmol/L  v.r. 3,5-5,1
+Calcio ...................... 9,6 mg/dL  v.r. 8,5-10,5
+GPT ......................... 44,8 * U/L  v.r. <40,0
+AST ......................... 35,3 U/L  v.r. fino a 40,0
+Gamma GT .................... 27,6 u/l  v.r. fino a 50,0
+Fosfat. alcalina ............ 85,5 U/L  v.r. 40,0 – 130,0
+Bilirubina totale (BIL-T) ... 0,7 mg/dl  v.r. 0,3-1,2
+Albumina .................... 3,8 g/dL  v.r. 3,5-5,0
+TSH ......................... 5,6 * miu/l  v.r. 0,4 - 4,0
+FT4 ......................... 1,2 ng/dl  v.r. 0,9 - 1,7
+CRP ......................... 6,8 * mg/L  v.r. <5,0
+Vitamina D (25-OH) .......... 101,2 ng/mL  v.r. 30,0-100,0
+Vitami. B12 ................. 1183,7 * pg/mL  v.r. 200,0 – 900,0
+
+Pag. 1/1

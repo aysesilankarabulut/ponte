@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Javier García    Fecha de nacimiento: 19/03/2005
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA                    9,6   g/dL      12,0 – 16,0
+HEMATÍES                       6,2 H 10^6/µL   4,0-5,5
+HCT                           26,8 L %         36,0 – 48,0
+MCV                           49,6 L fl        80,0-100,0
+WBC                            6,2   10^3/µl   4,0 - 10,0
+PLAQUETAS                    557,5 H 10^3/uL   150,0 - 450,0
+
+--- BIOQUÍMICA ---
+FE                            35,1 L µg/dL     50,0-170,0
+FERRITINA                     93,4   ng/mL     15,0-150,0
+GLUCOSA                       84,0   mg/dL     70,0 - 100,0
+HEMOGL. GLICADA                7,4   %         <5,7
+COLESTEROL TOTAL             263,6   mg/dl     <200,0
+COLESTEROL HDL                64,5   mg/dL     >40,0
+COLEST. LDL                  131,6   mg/dl     hasta 130,0
+TRIG1ICÉRIDOS                113,7   mg/dL     <150,0
+CREATININA                     0,6   mg/dL     0,5-1,1
+ÁCIDO ÚRICO                    6,1   mg/dL     3,0 – 7,0
+SODIO                        127,3   mmol/l    136,0 - 145,0
+POTASIO (K)                    2,2 L mmol/L    3,5-5,1
+CALCIO                         9,7   mg/dL     8,5 – 10,5
+GPT                           35,7   U/L       < 40,0
+AST (GOT)                     33,8   U/L       < 40,0
+GGT                           30,3   U/L       <50,0
+FOSFATASA ALCALINA (ALP)     118,6   U/L       40,0-130,0
+BILIRRUBINA TOTAL (BIL-T)      0,8   mg/dL     0,3 - 1,2
+ALBÚMINA                       2,4   g/dL      3,5 – 5,0
+TSH (TSH)                      0,3 L mIU/L     0,4 - 4,0
+T4 LIBRE                       0,6   ng/dl     0,9 - 1,7
+PROTEÍ. C REACTIVA             3,8   mg/L      hasta 5,0
+VITAMINA D (25-OH)            84,6   ng/mL     30,0 – 100,0
+VITAMINA B12                 177,9 L pg/ml     200,0 – 900,0
+
+Pag. 1/1

@@ -34,10 +34,11 @@ def score_report(predicted, truth):
     return correct, total, missing, extra
 
 
-def main():
+def main(folder="data/reports"):
+    print(f"Klasör: {folder}\n")
     name_map = build_name_map()
     stats = defaultdict(lambda: [0, 0, 0, 0])   # dil → [doğru, toplam, eksik, fazla]
-    for jf in sorted(Path("data/reports").glob("*.json")):
+    for jf in sorted(Path(folder).glob("*.json")):
         gold = json.loads(jf.read_text(encoding="utf-8"))
         text = jf.with_suffix(".txt").read_text(encoding="utf-8")
         predicted, _ = parse_report(text, name_map)
@@ -53,4 +54,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    # Kullanım: python src/evaluate.py                     → temiz raporlar
+    #           python src/evaluate.py data/reports_messy  → dağınık raporlar
+    main(sys.argv[1] if len(sys.argv) > 1 else "data/reports")

@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Giulia Bianchi    Data di nascita: 06/09/1942
+
+--- EMATOLOGIA ---
+EMOGLOBLNA (HB)               17.8 H g/dL      12.0 - 16.0
+ERITROCITI                     4.3   10^6/µL   4.0 – 5.5
+EMATOCRITO                    25.2 L %         36.0-48.0
+MCV                           79.9 L fl        80.0 - 100.0
+LEUCOCITI                      3.1 L 10^3/µL   4.0 - 10.0
+PIASTRINE                    136.0 L 10^3/µL   150.0 – 450.0
+
+--- CHIMICA CLINICA ---
+FERRO                         84.4   µg/dL     50.0 – 170.0
+FERRITINA                    169.0   ng/ml     15.0-150.0
+GLUCOSIO                      96.7   mg/dL     70.0 - 100.0
+EMOGLOBINA GLICATA             6.3 H %         < 5.7
+CO1ESTEROLO TOTALE           236.8   mg/dl     <200.0
+COLESTEROLO HDL               51.0   mg/dl     >40.0
+COLESTEROLO LDL              100.4   mg/dL     fino a 130.0
+TRIGLICERIDI                 212.3 H mg/dL     <150.0
+CREATININA                     1.0   mg/dl     0.5-1.1
+ACIDO. URICO                  10.1 H mg/dl     3.0-7.0
+SODIO                        206.6 H mmol/L    136.0-145.0
+POTASSIO                       5.0   mmol/l    3.5 - 5.1
+CALCIO (CA)                    9.6   mg/dl     8.5 – 10.5
+ALT (GPT)                     29.9   u/l       <40.0
+GOT                           25.9   u/l       < 40.0
+GAMMA GT                      49.9   U/L       < 50.0
+FOSFATASI ALCALINA           192.5 H u/l       40.0 – 130.0
+BILIRUBINA TOTALE              1.4   mg/dL     0.3 – 1.2
+ALBUMINA                       4.0   g/dl      3.5 – 5.0
+TSH (TSH)                      0.3   miu/l     0.4-4.0
+FT4                            2.2 H ng/dl     0.9-1.7
+PROTEINA C REATTIVA (CRP)      6.7   mg/L      <5.0
+VITAMINA D (25-OH)            94.2   ng/mL     30.0-100.0
+VITAMINA B12                 190.3 L pg/mL     200.0 - 900.0
+
+Pag. 1/1

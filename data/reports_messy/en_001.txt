@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Jones    Date of birth: 05/08/1985
+
+--- HAEMATOLOGY ---
+Haemoglobin ................. 12.6 g/dL  Ref. 12.0 - 16.0
+Red blood cells ............. 4.2 10^6/µL  Ref. 4.0-5.5
+Haematocrit (HCT) ........... 47.7 %  Ref. 36.0 – 48.0
+MCV ......................... 125.5 * fl  Ref. 80.0 – 100.0
+White blood cells ........... 7.7 10^3/µL  Ref. 4.0 – 10.0
+Platelets ................... 121.7 * 10^3/µL  Ref. 150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron ........................ 201.8 * µg/dl  Ref. 50.0 - 170.0
+Ferritin .................... 184.2 * ng/mL  Ref. 15.0 - 150.0
+Glucose ..................... 60.5 * mg/dl  Ref. 70.0-100.0
+HbA1c ....................... 8.5 * %  Ref. <5.7
+Total. cholesterol .......... 108.7 mg/dL  Ref. < 200.0
+HDL. ch0lesterol ............ 52.5 mg/dL  Ref. > 40.0
+LDL. cholesterol ............ 99.2 mg/dL  Ref. up to 130.0
+Triglycerides ............... 211.3 * mg/dL  Ref. up to 150.0
+Creatinine .................. 0.4 * mg/dl  Ref. 0.5-1.1
+Uric acid ................... 3.7 mg/dL  Ref. 3.0 - 7.0
+Sodium ...................... 136.3 mmol/L  Ref. 136.0-145.0
+Potassium (K) ............... 4.1 mmol/L  Ref. 3.5 - 5.1
+Ca1cium ..................... 8.6 mg/dL  Ref. 8.5-10.5
+ALT ......................... 49.0 * u/l  Ref. up to 40.0
+AST ......................... 28.7 u/l  Ref. < 40.0
+GGT (GGT) ................... 29.7 U/L  Ref. < 50.0
+ALP ......................... 99.6 U/L  Ref. 40.0 – 130.0
+BIL-T ....................... 0.4 mg/dL  Ref. 0.3 – 1.2
+Albumin ..................... 2.8 * g/dL  Ref. 3.5 – 5.0
+TSH ......................... 0.6 miu/l  Ref. 0.4 - 4.0
+Free T4 ..................... 1.2 ng/dL  Ref. 0.9 - 1.7
+CRP ......................... 7.5 * mg/L  Ref. < 5.0
+Vitami. D (25-OH) ........... 62.8 ng/mL  Ref. 30.0 - 100.0
+Vitami. B12 ................. 1232.6 pg/mL  Ref. 200.0-900.0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Jonas Weber    Geburtsdatum: 10/04/1979
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN: 13.6 g/dl [12.0 - 16.0]
+ERYTHROZYTEN: 4.7 10^6/µL [4.0-5.5]
+HÄMATOKRIT: 42.2 % [36.0-48.0]
+MCV (MCV): 132.7 fL [80.0 – 100.0]
+LEUKOZYTEN: 7.2 10^3/µL [4.0-10.0]
+THROMBOZYTEN (PLT): 325.6 10^3/uL [150.0 – 450.0]
+
+--- KLINISCHE CHEMIE ---
+FE: 224.5 µg/dl (H) [50.0 – 170.0]
+FERRITIN: 60.0 ng/mL [15.0-150.0]
+GLUKOSE: 78.7 mg/dL [70.0 – 100.0]
+HBA1C: 5.6 % [< 5.7]
+CHOLESTERIN GESAMT: 186.4 mg/dL [bis 200.0]
+HDL-CHOLESTERLN: 67.6 mg/dL [>40.0]
+LDL-CHO1ESTERIN: 98.3 mg/dL [< 130.0]
+TRIGLYCERIDE: 123.6 mg/dL [< 150.0]
+KREATININ: 1.6 mg/dl [0.5 - 1.1]
+HARNSÄURE: 9.4 mg/dL (H) [3.0 – 7.0]
+NATRIUM: 141.6 mmol/L [136.0 – 145.0]
+KALIUM: 3.9 mmol/L [3.5-5.1]
+CA: 8.9 mg/dL [8.5-10.5]
+ALT (GPT) (GPT): 35.5 u/l [<40.0]
+GOT: 36.7 U/L [<40.0]
+GAMMA-GT (GGT): 41.3 U/L [bis 50.0]
+ALKALISCHE PHOSPHATASE: 112.4 U/L [40.0 – 130.0]
+BILIRU. GESAMT: 0.6 mg/dL [0.3-1.2]
+ALBUMIN: 3.2 g/dL [3.5-5.0]
+TSH: 0.5 mIU/L [0.4 - 4.0]
+FT4 (FT4): 0.7 ng/dl [0.9-1.7]
+CRP: 4.6 mg/L [< 5.0]
+VITAMI. D (25-OH): 22.8 ng/mL (L) [30.0 – 100.0]
+VITAMIN B12: 139.6 pg/mL (L) [200.0-900.0]
+
+Pag. 1/1

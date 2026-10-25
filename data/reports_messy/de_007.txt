@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Jonas Schmidt    Geburtsdatum: 27/12/1961
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN .................. 23.5 * g/dl  Ref.: 12.0 – 16.0
+ERYTHROZYTEN ................ 4.8 10^6/µL  Ref.: 4.0 – 5.5
+HÄMATOKRIT .................. 42.6 %  Ref.: 36.0-48.0
+MCV ......................... 86.7 fl  Ref.: 80.0-100.0
+LEUKOZYTEN .................. 8.8 10^3/µL  Ref.: 4.0 - 10.0
+THROMBOZYTEN ................ 359.9 10^3/µL  Ref.: 150.0 - 450.0
+
+--- KLINISCHE CHEMIE ---
+FE .......................... 104.3 µg/dl  Ref.: 50.0-170.0
+FERRITIN .................... 103.0 ng/mL  Ref.: 15.0 - 150.0
+GLUKOSE ..................... 84.0 mg/dL  Ref.: 70.0 – 100.0
+HBA1C ....................... 3.6 %  Ref.: <5.7
+CHOLESTERIN GESAMT .......... 187.6 mg/dL  Ref.: bis 200.0
+HDL-CHOLESTERIN ............. 49.2 mg/dL  Ref.: über 40.0
+LDL-CHOLESTERIN ............. 160.3 * mg/dL  Ref.: < 130.0
+TRLGLYCERIDE ................ 204.7 * mg/dl  Ref.: bis 150.0
+KREATININ ................... 1.1 mg/dl  Ref.: 0.5-1.1
+HARNSÄURC ................... 3.6 mg/dL  Ref.: 3.0 - 7.0
+NATRIUM ..................... 137.8 mmol/L  Ref.: 136.0-145.0
+KALIUM (K) .................. 3.0 mmol/L  Ref.: 3.5 – 5.1
+CALCIUM ..................... 9.7 mg/dl  Ref.: 8.5 - 10.5
+ALT (GPT) ................... 52.9 * u/l  Ref.: bis 40.0
+GOT ......................... 39.3 U/L  Ref.: <40.0
+GGT ......................... 44.6 U/L  Ref.: bis 50.0
+ALKALISCHE PHOSPHATASE ...... 72.2 U/L  Ref.: 40.0 – 130.0
+BILIRUBIN GESAMT ............ 0.5 mg/dl  Ref.: 0.3 - 1.2
+ALBUMIN ..................... 4.5 g/dl  Ref.: 3.5-5.0
+TSH ......................... 3.0 miu/l  Ref.: 0.4-4.0
+FT4 ......................... 0.7 ng/dL  Ref.: 0.9-1.7
+CRP ......................... 3.1 mg/l  Ref.: < 5.0
+VITAMI. D (25-OH) ........... 72.7 ng/mL  Ref.: 30.0-100.0
+VITAMIN B12 ................. 503.9 pg/mL  Ref.: 200.0-900.0
+
+Pag. 1/1

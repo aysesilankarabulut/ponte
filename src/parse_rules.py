@@ -64,8 +64,12 @@ def parse_report(text, name_map):
         if loinc is None:
             unknown.append(name)          # sözlükte olmayan test adı
             continue
-        value = to_float(m["value"])
-        low, high = parse_range(m["range"])
+        try:
+            value = to_float(m["value"])
+            low, high = parse_range(m["range"])
+        except ValueError:
+            unknown.append(name)          # aralık ya da değer beklenen biçimde değil
+            continue
         rows.append({"loinc": loinc, "value": value, "unit": m["unit"],
                      "low": low, "high": high, "flag": flag(value, low, high)})
     return rows, unknown

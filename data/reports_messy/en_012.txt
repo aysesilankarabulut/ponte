@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Harry Taylor    Date of birth: 02/08/1949
+
+--- HAEMATOLOGY ---
+Haemoglobin: 16.8 g/dl [12.0 – 16.0]
+Red blood cells (RBC): 3.5 10^6/uL (L) [4.0 - 5.5]
+Haematocrit: 63.8 % (H) [36.0-48.0]
+MCV: 74.6 fL [80.0-100.0]
+White blood cells: 9.5 10^3/uL [4.0-10.0]
+Platelets: 580.3 10^3/uL [150.0 – 450.0]
+
+--- CLINICAL CHEMISTRY ---
+Iron: 103.2 µg/dl [50.0 – 170.0]
+Ferritin: 51.4 ng/mL [15.0 – 150.0]
+Glucose: 117.1 mg/dL (H) [70.0-100.0]
+HbA1c: 7.4 % (H) [< 5.7]
+Total cholesterol: 294.1 mg/dL (H) [<200.0]
+HDL cholesterol: 76.2 mg/dl [> 40.0]
+LDL cholesterol: 112.1 mg/dL [up to 130.0]
+Triglycerides: 77.7 mg/dl [< 150.0]
+Creatinine: 0.9 mg/dl [0.5 – 1.1]
+Uric. acid: 1.9 mg/dL (L) [3.0-7.0]
+Sodium: 100.7 mmol/l (L) [136.0-145.0]
+Potassium: 2.4 mmol/L (L) [3.5 – 5.1]
+Ca: 9.3 mg/dL [8.5-10.5]
+GPT: 52.9 u/l (H) [up to 40.0]
+AST: 38.6 U/L [up to 40.0]
+GGT: 31.3 u/l [< 50.0]
+Alkaline phosphatase: 139.3 U/L [40.0-130.0]
+BIL-T: 0.8 mg/dL [0.3-1.2]
+Albumin: 3.8 g/dl [3.5 – 5.0]
+TSH: 2.9 mIU/L [0.4 - 4.0]
+Free T4: 1.5 ng/dl [0.9 – 1.7]
+CRP (CRP): 3.7 mg/L [up to 5.0]
+Vitamin D (25-OH): 35.9 ng/mL [30.0 – 100.0]
+Vitami. B12: 857.5 pg/ml [200.0 – 900.0]
+
+Pag. 1/1

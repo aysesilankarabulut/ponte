@@ -1,0 +1,38 @@
+Laboratory results
+Patient: James Smith    Date of birth: 04/08/2005
+
+--- HAEMATOLOGY ---
+Haemoglobin                 10.5 g/dl     (12.0 – 16.0)
+RBC                          2.5 10^6/ul  (4.0-5.5)
+Haematocrit                 44.9 %        (36.0 – 48.0)
+MCV                         72.7 fL       (80.0 – 100.0)
+White blood cells            3.1 10^3/uL  (4.0-10.0)
+Platelets                  291.6 10^3/µl  (150.0 - 450.0)
+
+--- CLINICAL CHEMISTRY ---
+Iron                       119.7 ug/dl    (50.0 - 170.0)
+Ferrltin                    11.3 ng/ml    (15.0 - 150.0)
+Glucose                     78.4 mg/dL    (70.0-100.0)
+HbA1c                        4.1 %        (<5.7)
+Total. cholesterol         114.3 mg/dl    (up to 200.0)
+HDL cholesterol             67.4 mg/dL    (> 40.0)
+LDL cholesterol             84.0 mg/dL    (< 130.0)
+Triglycerides               93.0 mg/dl    (<150.0)
+Creatlnine                   0.7 mg/dL    (0.5 – 1.1)
+Uric acid                    4.7 mg/dL    (3.0-7.0)
+Sodium (Na)                 86.4 mmol/L   (136.0-145.0)
+Potassium                    5.0 mmol/l   (3.5 - 5.1)
+Calcium                     13.4 mg/dL    (8.5-10.5)
+ALT                         49.4 U/L      (up to 40.0)
+AST                         31.9 U/L      (<40.0)
+GGT                         70.5 U/L      (<50.0)
+Alkaline phosphatase (ALP)    64.5 u/l      (40.0 – 130.0)
+Total bilirubin (BIL-T)      1.2 mg/dL    (0.3 - 1.2)
+Albumin                      2.8 g/dL     (3.5 - 5.0)
+TSH                          3.6 mIU/L    (0.4 - 4.0)
+Free T4                      1.5 ng/dL    (0.9 - 1.7)
+CRP                          2.5 mg/L     (< 5.0)
+Vitamin D (25-OH)           91.9 ng/ml    (30.0 – 100.0)
+Vltamin B12                124.6 pg/mL    (200.0 – 900.0)
+
+Pag. 1/1

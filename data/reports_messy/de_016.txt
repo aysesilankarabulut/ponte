@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Lena Wagner    Geburtsdatum: 16/05/1945
+
+--- HÄMATOLOGIE ---
+Hämoglobin (Hb): 12,2 g/dl [12,0-16,0]
+Erythrozyten: 4,9 10^6/µL [4,0 – 5,5]
+HCT: 64,5 % [36,0 - 48,0]
+MCV (MCV): 82,1 fL [80,0 – 100,0]
+Leukozyten: 3,9 10^3/µL (L) [4,0 – 10,0]
+Thrombozyten: 177,7 10^3/uL [150,0 – 450,0]
+
+--- KLINISCHE CHEMIE ---
+Eisen: 43,0 µg/dL [50,0 – 170,0]
+Ferritin: 95,9 ng/mL [15,0-150,0]
+Glukose: 98,0 mg/dL [70,0 - 100,0]
+HbA1c (HbA1c): 7,8 % [<5,7]
+Cholesterin gesamt: 249,5 mg/dl [<200,0]
+HDL-Cholesterin: 67,9 mg/dL [> 40,0]
+LDL-Cholesterin: 89,7 mg/dl [< 130,0]
+Triglyceride: 215,1 mg/dl (H) [< 150,0]
+Kreatinin: 1,1 mg/dL [0,5 - 1,1]
+Harnsäure: 7,7 mg/dL (H) [3,0 - 7,0]
+Natrium: 173,4 mmol/L (H) [136,0 - 145,0]
+Kalium (K): 4,4 mmol/l [3,5-5,1]
+Calcium: 14,1 mg/dL (H) [8,5-10,5]
+ALT (GPT): 38,5 u/l [<40,0]
+AST (GOT): 51,1 u/l [bis 40,0]
+Gamma-GT: 44,9 U/L [<50,0]
+Alkalische Phosphatase: 85,4 U/L [40,0-130,0]
+Biliru. gesamt: 0,5 mg/dl [0,3 - 1,2]
+Albumin: 3,6 g/dL [3,5 - 5,0]
+TSH (TSH): 0,9 mIU/L [0,4 – 4,0]
+FT4: 1,5 ng/dL [0,9 – 1,7]
+CRP: 2,7 mg/L [< 5,0]
+Vitamin D (25-OH): 92,5 ng/ml [30,0 – 100,0]
+Vitami. B12: 213,1 pg/mL [200,0 - 900,0]
+
+Pag. 1/1

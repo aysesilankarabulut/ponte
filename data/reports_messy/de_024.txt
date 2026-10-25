@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Felix Schmidt    Geburtsdatum: 23/10/1976
+
+--- HÄMATOLOGIE ---
+Hb .......................... 11.4 * g/dL  Ref.: 12.0 – 16.0
+Erythrozyten ................ 3.0 * 10^6/uL  Ref.: 4.0 - 5.5
+Hämatokrit .................. 33.7 * %  Ref.: 36.0 - 48.0
+MCV ......................... 142.6 * fl  Ref.: 80.0-100.0
+Leukozyten .................. 5.2 10^3/µL  Ref.: 4.0 - 10.0
+Thrombozyten ................ 200.2 10^3/uL  Ref.: 150.0 - 450.0
+
+--- KLINISCHE CHEMIE ---
+Eisen ....................... 121.7 ug/dl  Ref.: 50.0-170.0
+Ferritin .................... 13.3 ng/mL  Ref.: 15.0 - 150.0
+Glukose ..................... 57.9 mg/dl  Ref.: 70.0 - 100.0
+HbA1c ....................... 3.9 %  Ref.: bis 5.7
+Cholesterin gesamt .......... 273.2 * mg/dL  Ref.: < 200.0
+HDL-Cholesterin ............. 57.3 mg/dL  Ref.: >40.0
+LDL-Cholesterin ............. 181.1 mg/dL  Ref.: < 130.0
+Triglyceride ................ 146.9 mg/dL  Ref.: bis 150.0
+Kreatinin ................... 0.4 * mg/dl  Ref.: 0.5 – 1.1
+Harnsäure ................... 5.5 mg/dL  Ref.: 3.0 - 7.0
+Natrium ..................... 137.4 mmol/l  Ref.: 136.0 – 145.0
+Kalium ...................... 4.0 mmol/L  Ref.: 3.5 – 5.1
+Calcium (Ca) ................ 5.3 * mg/dL  Ref.: 8.5-10.5
+ALT (GPT) ................... 44.0 u/l  Ref.: <40.0
+AST (GOT) ................... 36.5 U/L  Ref.: <40.0
+Gamma-GT .................... 33.2 U/L  Ref.: <50.0
+Alkalische Phosphatase ...... 111.0 U/L  Ref.: 40.0-130.0
+Bi1irubin gesamt ............ 0.2 mg/dl  Ref.: 0.3-1.2
+Albumin ..................... 4.0 g/dL  Ref.: 3.5 – 5.0
+TSH ......................... 0.7 miu/l  Ref.: 0.4 - 4.0
+fT4 ......................... 0.9 ng/dL  Ref.: 0.9-1.7
+CRP ......................... 4.2 mg/L  Ref.: <5.0
+Vltami. D (25-OH) ........... 50.8 ng/mL  Ref.: 30.0-100.0
+Vitamin B12 ................. 479.3 pg/mL  Ref.: 200.0-900.0
+
+Pag. 1/1

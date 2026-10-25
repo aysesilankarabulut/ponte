@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Jonas Schmidt    Geburtsdatum: 10/12/1996
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN                  12.2 g/dl     (12.0 – 16.0)
+RBC                          5.2 10^6/ul  (4.0 - 5.5)
+HÄMATOKRIT                  47.2 %        (36.0 - 48.0)
+MCV                         68.3 fL       (80.0 – 100.0)
+LCUKOZYTEN (WBC)             2.9 10^3/uL  (4.0 – 10.0)
+THROMBOZYTEN               158.7 10^3/µl  (150.0-450.0)
+
+--- KLINISCHE CHEMIE ---
+EISEN                       62.2 µg/dl    (50.0 - 170.0)
+FERRITIN                     9.1 ng/mL    (15.0 – 150.0)
+GLUKOSE                     84.6 mg/dL    (70.0-100.0)
+HBA1C                        7.4 %        (bis 5.7)
+CHOLES. GESAMT             191.6 mg/dL    (bis 200.0)
+HDL-CH0LESTERIN             66.3 mg/dL    (> 40.0)
+LDL-CHOLESTERIN             75.6 mg/dL    (bis 130.0)
+TRIGLYCERIDE               173.4 mg/dL    (< 150.0)
+KREATLNIN                    1.4 mg/dL    (0.5 - 1.1)
+HARNSÄURE                    3.6 mg/dL    (3.0 - 7.0)
+NATRIUM                    141.3 mmol/l   (136.0 – 145.0)
+KALIUM                       6.6 mmol/l   (3.5 – 5.1)
+CALCIUM (CA)                 7.7 mg/dL    (8.5-10.5)
+ALT (GPT)                   45.6 U/L      (bis 40.0)
+AST (GOT)                   45.6 U/L      (bis 40.0)
+GAMMA-GT (GGT)              43.1 u/l      (<50.0)
+ALKALISCHE PHOSPHATASE     104.2 U/L      (40.0 - 130.0)
+BILIRUBIN GESAMT             1.0 mg/dL    (0.3-1.2)
+A1BUMIN                      4.0 g/dL     (3.5 - 5.0)
+TSH                          0.3 mIU/L    (0.4-4.0)
+FT4                          0.9 ng/dL    (0.9 – 1.7)
+CRP                          6.7 mg/l     (<5.0)
+VITAMIN D (25-OH)           82.0 ng/ml    (30.0-100.0)
+VITAMI. B12                816.1 pg/ml    (200.0-900.0)
+
+Pag. 1/1

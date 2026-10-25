@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Olivia Smith    Date of birth: 24/07/1978
+
+--- HAEMATOLOGY ---
+Haemoglobin (Hb): 22.7 g/dL (H) [12.0 – 16.0]
+Red blood cells: 5.0 10^6/µL [4.0-5.5]
+HCT: 67.1 % [36.0 - 48.0]
+MCV (MCV): 96.1 fL [80.0 - 100.0]
+White. blood cells: 3.8 10^3/µL (L) [4.0 – 10.0]
+Platelets: 110.1 10^3/µl (L) [150.0-450.0]
+
+--- CLINICAL CHEMISTRY ---
+Iron: 182.5 ug/dl [50.0 – 170.0]
+Ferritin: 210.3 ng/mL [15.0-150.0]
+Glucose: 132.1 mg/dl (H) [70.0 - 100.0]
+HbA1c: 6.6 % [up to 5.7]
+Total. cholesterol: 198.4 mg/dL [up to 200.0]
+HDL. cholesterol: 67.4 mg/dl [>40.0]
+LDL. cholesterol: 141.0 mg/dL [up to 130.0]
+Triglycerides: 87.6 mg/dL [< 150.0]
+Creatinine: 0.6 mg/dl [0.5-1.1]
+Uric. acid: 2.7 mg/dL (L) [3.0 – 7.0]
+Na: 137.2 mmol/L [136.0 - 145.0]
+K: 5.7 mmol/l [3.5-5.1]
+Calcium: 9.3 mg/dL [8.5 – 10.5]
+ALT: 31.2 U/L [< 40.0]
+AST: 35.2 U/L [< 40.0]
+GGT: 48.5 U/L [< 50.0]
+Alkaline ph0sphatase: 61.0 u/l [40.0 - 130.0]
+Total bilirubin (BIL-T): 0.2 mg/dl [0.3 - 1.2]
+Albumin: 4.1 g/dL [3.5 - 5.0]
+TSH: 2.9 mIU/L [0.4 - 4.0]
+Free T4: 1.4 ng/dL [0.9 - 1.7]
+CRP: 3.1 mg/l [<5.0]
+Vitami. D (25-OH): 62.8 ng/ml [30.0 - 100.0]
+Vltami. B12: 224.0 pg/mL [200.0 – 900.0]
+
+Pag. 1/1

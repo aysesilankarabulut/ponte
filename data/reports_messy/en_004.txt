@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Smith    Date of birth: 01/06/2003
+
+--- HAEMATOLOGY ---
+Haemoglobin: 15.7 g/dl [12.0 - 16.0]
+Red blood cells: 4.8 10^6/µL [4.0 – 5.5]
+Haematocrit (HCT): 41.1 % [36.0 - 48.0]
+MCV: 87.9 fl [80.0 – 100.0]
+White. blood cells: 9.7 10^3/µL [4.0 - 10.0]
+Platelets (PLT): 221.4 10^3/uL [150.0 – 450.0]
+
+--- CLINICAL CHEMISTRY ---
+Iron: 235.0 ug/dL (H) [50.0-170.0]
+Ferritin: 98.7 ng/ml [15.0 - 150.0]
+Glucose: 50.3 mg/dL (L) [70.0 - 100.0]
+HbA1c: 3.5 % [<5.7]
+Total cholesterol: 282.7 mg/dl (H) [<200.0]
+HDL cholesterol: 27.6 mg/dL (L) [> 40.0]
+LDL. cholesterol: 87.3 mg/dL [up to 130.0]
+Triglycerides: 199.6 mg/dL (H) [< 150.0]
+Creatinine: 1.0 mg/dL [0.5-1.1]
+Uric acid: 4.5 mg/dl [3.0 - 7.0]
+Na: 212.2 mmol/L (H) [136.0 – 145.0]
+Potassium: 4.1 mmol/L [3.5-5.1]
+Calcium: 10.4 mg/dL [8.5 – 10.5]
+ALT: 42.8 U/L (H) [up to 40.0]
+AST (GOT): 23.3 U/L [up to 40.0]
+GGT: 71.7 U/L [< 50.0]
+Alkaline phosphatase: 143.3 u/l (H) [40.0 – 130.0]
+Total bilirubin: 0.2 mg/dl (L) [0.3 – 1.2]
+Albumin: 5.6 g/dL (H) [3.5-5.0]
+TSH: 4.4 miu/l (H) [0.4 - 4.0]
+Free T4: 1.8 ng/dL (H) [0.9 – 1.7]
+CRP: 7.1 mg/l (H) [<5.0]
+Vitami. D (25-OH): 105.7 ng/mL (H) [30.0-100.0]
+Vitamin B12: 764.8 pg/mL [200.0-900.0]
+
+Pag. 1/1

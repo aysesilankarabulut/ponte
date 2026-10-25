@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Pablo Martínez    Fecha de nacimiento: 24/05/1999
+
+--- HEMATOLOGÍA ---
+Hb: 14,2 g/dL [12,0 – 16,0]
+Hematíes: 5,0 10^6/µL [4,0 - 5,5]
+Hematocrito: 59,3 % (H) [36,0 – 48,0]
+VCM: 78,4 fl (L) [80,0-100,0]
+Leucocitos: 4,1 10^3/µl [4,0 – 10,0]
+Plaquctas: 226,3 10^3/µl [150,0-450,0]
+
+--- BIOQUÍMICA ---
+Hierro: 34,4 µg/dL (L) [50,0 - 170,0]
+Ferritina: 221,0 ng/mL (H) [15,0 - 150,0]
+Glucosa: 51,4 mg/dL [70,0 – 100,0]
+Hemoglobina glicada: 6,3 % (H) [<5,7]
+Colest. total: 200,3 mg/dL [hasta 200,0]
+Co1esterol HDL: 77,1 mg/dL [superior a 40,0]
+Colcst. LDL: 123,8 mg/dL [< 130,0]
+Triglicéridos: 172,6 mg/dl [< 150,0]
+Creatinina: 0,6 mg/dL [0,5 – 1,1]
+Ácido úrico: 5,6 mg/dL [3,0 - 7,0]
+Sodio (Na): 81,6 mmol/L (L) [136,0 - 145,0]
+Potasio: 6,3 mmol/L (H) [3,5 – 5,1]
+Calcio: 8,1 mg/dl [8,5 – 10,5]
+ALT (GPT): 20,3 u/l [< 40,0]
+AST (GOT): 21,3 U/L [hasta 40,0]
+GGT: 43,7 U/L [<50,0]
+Fosfatasa alcalina: 152,4 U/L (H) [40,0-130,0]
+Bilirrubina total: 1,7 mg/dL [0,3-1,2]
+Albúmina: 3,3 g/dl (L) [3,5 – 5,0]
+TSH: 0,4 mIU/L [0,4 – 4,0]
+T4. 1ibre: 0,6 ng/dL [0,9 - 1,7]
+Proteína C reactiva (CRP): 4,3 mg/L [< 5,0]
+Vitamina D (25-OH): 26,8 ng/mL (L) [30,0 - 100,0]
+Vitamina B12: 385,4 pg/ml [200,0-900,0]
+
+Pag. 1/1

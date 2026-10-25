@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Colombo    Data di nascita: 15/08/1991
+
+--- EMATOLOGIA ---
+Emoglobina                  22.2 g/dL     (12.0-16.0)
+Eritrociti                   5.4 10^6/uL  (4.0-5.5)
+Ematocrito                  26.7 %        (36.0 - 48.0)
+MCV                         93.0 fL       (80.0 – 100.0)
+Leucociti                    9.9 10^3/µL  (4.0 – 10.0)
+PLT                        336.4 10^3/µl  (150.0 – 450.0)
+
+--- CHIMICA CLINICA ---
+Fcrro                       40.1 µg/dL    (50.0 – 170.0)
+Ferritina                   99.9 ng/mL    (15.0 - 150.0)
+Glucosio                   122.5 mg/dl    (70.0-100.0)
+Emoglobina glicata           5.6 %        (<5.7)
+Colesterolo totale         178.2 mg/dL    (< 200.0)
+Colesterolo HDL             68.3 mg/dL    (superiore a 40.0)
+Colesterolo LDL            131.5 mg/dL    (<130.0)
+Trigliceridi               189.2 mg/dl    (<150.0)
+Creatinina                   0.6 mg/dL    (0.5 - 1.1)
+Acido. urico                 6.5 mg/dL    (3.0 – 7.0)
+Sodlo                      131.0 mmol/l   (136.0 – 145.0)
+K                            7.2 mmol/l   (3.5 - 5.1)
+Calcio                       8.7 mg/dL    (8.5 – 10.5)
+ALT                         50.5 U/L      (<40.0)
+AST                         40.9 U/L      (<40.0)
+Gamma GT                    42.5 U/L      (<50.0)
+ALP                         99.9 U/L      (40.0 - 130.0)
+Bilirubina totale            1.0 mg/dL    (0.3 – 1.2)
+Albumina                     2.4 g/dL     (3.5-5.0)
+TSH (TSH)                    0.3 mIU/L    (0.4-4.0)
+FT4 (FT4)                    1.2 ng/dl    (0.9-1.7)
+Proteina C reattiva          5.2 mg/L     (<5.0)
+Vitami. D (25-OH)           85.4 ng/ml    (30.0 - 100.0)
+Vitami. B12                542.9 pg/mL    (200.0 - 900.0)
+
+Pag. 1/1

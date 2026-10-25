@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Anna Weber    Geburtsdatum: 18/12/1955
+
+--- HÄMATOLOGIE ---
+Hb .......................... 15,4 g/dL  Ref.: 12,0 - 16,0
+Erythrozyten ................ 6,2 10^6/ul  Ref.: 4,0 - 5,5
+Hämatokrit .................. 37,7 %  Ref.: 36,0 – 48,0
+MCV ......................... 86,6 fl  Ref.: 80,0-100,0
+Leukozyten (WBC) ............ 3,6 10^3/uL  Ref.: 4,0-10,0
+Thrombozyten ................ 367,9 10^3/µl  Ref.: 150,0 – 450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen ....................... 166,8 µg/dL  Ref.: 50,0-170,0
+Ferritin .................... 157,1 ng/ml  Ref.: 15,0 – 150,0
+Glukose ..................... 144,2 * mg/dL  Ref.: 70,0 – 100,0
+HbA1c ....................... 3,5 %  Ref.: bis 5,7
+Cholesterin gesamt .......... 225,9 * mg/dL  Ref.: <200,0
+HDL-Cholesterin ............. 62,8 mg/dL  Ref.: >40,0
+LDL-Cholesterin ............. 146,0 * mg/dL  Ref.: < 130,0
+Triglyceride ................ 79,0 mg/dL  Ref.: <150,0
+Kreatinin ................... 1,2 * mg/dL  Ref.: 0,5 – 1,1
+Harnsäure ................... 2,6 * mg/dL  Ref.: 3,0 - 7,0
+Natrium ..................... 119,0 mmol/L  Ref.: 136,0 - 145,0
+Kalium ...................... 4,2 mmol/L  Ref.: 3,5 – 5,1
+Ca1cium ..................... 9,3 mg/dL  Ref.: 8,5 – 10,5
+ALT (GPT) ................... 40,2 u/l  Ref.: <40,0
+GOT ......................... 21,3 u/l  Ref.: bis 40,0
+Gamma-GT (GGT) .............. 30,9 U/L  Ref.: < 50,0
+Alkalische Phosphatase ...... 184,3 * u/l  Ref.: 40,0 - 130,0
+Bilirubin gesamt ............ 1,1 mg/dL  Ref.: 0,3-1,2
+Albumin ..................... 3,8 g/dL  Ref.: 3,5 – 5,0
+TSH ......................... 2,2 mIU/L  Ref.: 0,4-4,0
+fT4 (FT4) ................... 1,6 ng/dL  Ref.: 0,9-1,7
+CRP ......................... 3,6 mg/L  Ref.: <5,0
+Vitami. D (25-OH) ........... 21,6 ng/mL  Ref.: 30,0 – 100,0
+Vitamin B12 ................. 312,4 pg/ml  Ref.: 200,0 - 900,0
+
+Pag. 1/1

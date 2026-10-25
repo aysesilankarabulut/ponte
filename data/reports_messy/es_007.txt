@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Pablo García    Fecha de nacimiento: 21/03/1973
+
+--- HEMATOLOGÍA ---
+Hemoglobina (Hb) ............ 16.6 * g/dL  V.R. 12.0 - 16.0
+Hematíes .................... 5.2 10^6/µL  V.R. 4.0-5.5
+Hematocrito ................. 70.3 * %  V.R. 36.0 - 48.0
+VCM ......................... 86.0 fL  V.R. 80.0-100.0
+Leucocitos .................. 9.4 10^3/µL  V.R. 4.0 – 10.0
+Plaquetas ................... 259.4 10^3/µL  V.R. 150.0 - 450.0
+
+--- BIOQUÍMICA ---
+Hierro ...................... 111.0 µg/dL  V.R. 50.0 - 170.0
+Ferritina ................... 13.2 * ng/mL  V.R. 15.0 – 150.0
+Glucosa ..................... 75.1 mg/dL  V.R. 70.0-100.0
+Hemogl. gllcada ............. 3.1 %  V.R. hasta 5.7
+Colcst. total ............... 143.8 mg/dL  V.R. hasta 200.0
+Colest. HDL ................. 51.2 mg/dL  V.R. > 40.0
+Colesterol LDL .............. 122.2 mg/dL  V.R. hasta 130.0
+Triglicéridos ............... 162.4 * mg/dL  V.R. < 150.0
+Creatinina .................. 0.8 mg/dL  V.R. 0.5 - 1.1
+Ácido úrico ................. 5.1 mg/dl  V.R. 3.0-7.0
+Sodio ....................... 142.4 mmol/l  V.R. 136.0 - 145.0
+K ........................... 4.8 mmol/L  V.R. 3.5 – 5.1
+Calcio ...................... 10.5 mg/dL  V.R. 8.5 - 10.5
+ALT. (GPT) .................. 34.5 u/l  V.R. hasta 40.0
+AST (GOT) (GOT) ............. 50.3 * U/L  V.R. hasta 40.0
+GGT ......................... 35.2 u/l  V.R. hasta 50.0
+Fosfatasa alcalina .......... 85.6 u/l  V.R. 40.0 - 130.0
+BIL-T ....................... 0.4 mg/dL  V.R. 0.3 – 1.2
+Albúmina .................... 6.9 g/dL  V.R. 3.5 – 5.0
+TSH ......................... 5.6 * miu/l  V.R. 0.4-4.0
+T4. libre ................... 1.2 ng/dL  V.R. 0.9-1.7
+Proteína C reactiva ......... 3.1 mg/l  V.R. hasta 5.0
+Vitamina D (25-OH) .......... 24.3 ng/mL  V.R. 30.0 - 100.0
+Vltamina B12 ................ 1198.4 * pg/mL  V.R. 200.0-900.0
+
+Pag. 1/1

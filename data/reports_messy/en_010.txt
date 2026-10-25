@@ -1,0 +1,38 @@
+LABORATORY RESULTS
+Patient: Emma Jones    Date of birth: 22/07/1955
+
+--- HAEMATOLOGY ---
+HAEMOGLOBIN: 12.4 g/dL [12.0-16.0]
+RED BLOOD CELLS: 3.7 10^6/µl (L) [4.0 – 5.5]
+HAEMATOCRIT: 45.8 % [36.0-48.0]
+MCV: 85.8 fL [80.0-100.0]
+WHITE BLOOD CELLS: 12.0 10^3/uL (H) [4.0-10.0]
+P1ATELETS (PLT): 439.9 10^3/µL [150.0-450.0]
+
+--- CLINICAL CHEMISTRY ---
+IR0N: 165.2 ug/dL [50.0 – 170.0]
+FERRITIN: 51.1 ng/ml [15.0 - 150.0]
+GLUCOSE: 118.1 mg/dL [70.0 - 100.0]
+HBA1C (HBA1C): 3.1 % [<5.7]
+TOTAL CHOLESTEROL: 108.6 mg/dl [< 200.0]
+HDL. CHOLESTEROL: 52.3 mg/dL [above 40.0]
+LDL CHOLESTEROL: 94.9 mg/dL [up to 130.0]
+TRIGLYCERIDES: 96.8 mg/dl [<150.0]
+CREATININE: 1.0 mg/dL [0.5-1.1]
+URIC. ACID: 3.1 mg/dL [3.0-7.0]
+SODIUM (NA): 144.4 mmol/l [136.0-145.0]
+POTASSIUM: 4.9 mmol/L [3.5 – 5.1]
+CALCIUM: 8.6 mg/dl [8.5-10.5]
+ALT: 55.4 U/L (H) [up to 40.0]
+AST (GOT): 52.3 U/L (H) [<40.0]
+GGT: 52.0 U/L (H) [up to 50.0]
+ALKALINE PHOSPHATASE (ALP): 104.3 U/L [40.0 – 130.0]
+TOTAL BILIRUBIN: 0.3 mg/dl [0.3 – 1.2]
+ALBUMIN: 4.9 g/dL [3.5 - 5.0]
+TSH: 0.4 mIU/L [0.4 – 4.0]
+FREE T4: 1.3 ng/dL [0.9 - 1.7]
+CRP: 3.6 mg/L [< 5.0]
+VITAMI. D (25-OH): 41.0 ng/mL [30.0-100.0]
+VITAMI. B12: 167.9 pg/mL (L) [200.0 - 900.0]
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Jonas Müller    Geburtsdatum: 27/02/1970
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN .................. 15,6 g/dl  Ref.: 12,0 – 16,0
+RBC ......................... 4,3 10^6/µL  Ref.: 4,0 - 5,5
+HÄMATOKRIT .................. 60,5 %  Ref.: 36,0 – 48,0
+MCV ......................... 59,7 * fl  Ref.: 80,0 - 100,0
+WBC ......................... 5,4 10^3/uL  Ref.: 4,0 – 10,0
+PLT ......................... 408,9 10^3/uL  Ref.: 150,0 – 450,0
+
+--- KLINISCHE CHEMIE ---
+EISEN ....................... 220,7 * ug/dL  Ref.: 50,0 - 170,0
+FERRITIN .................... 11,1 ng/mL  Ref.: 15,0-150,0
+GLUKOSE ..................... 53,9 * mg/dL  Ref.: 70,0 – 100,0
+HBA1C (HBA1C) ............... 4,0 %  Ref.: bis 5,7
+CHOLCSTERIN GESAMT .......... 214,1 * mg/dL  Ref.: bis 200,0
+HDL-CHOLESTERIN ............. 55,2 mg/dl  Ref.: > 40,0
+LDL-CHOLESTERIN ............. 94,0 mg/dl  Ref.: < 130,0
+TRIGLYCERIDE ................ 82,0 mg/dl  Ref.: bis 150,0
+KREATLNIN ................... 0,4 mg/dl  Ref.: 0,5-1,1
+HARNSÄURE ................... 10,1 * mg/dL  Ref.: 3,0-7,0
+NATRLUM (NA) ................ 141,6 mmol/l  Ref.: 136,0 – 145,0
+KALIUM ...................... 6,3 * mmol/L  Ref.: 3,5-5,1
+CALCIUM ..................... 9,8 mg/dL  Ref.: 8,5 - 10,5
+ALT (GPT) ................... 59,6 * u/l  Ref.: <40,0
+AST. (GOT) .................. 22,9 u/l  Ref.: < 40,0
+GAMMA-GT .................... 60,3 * U/L  Ref.: bis 50,0
+ALKALLSCHE PHOSPHATASE (ALP) ... 167,0 u/l  Ref.: 40,0 – 130,0
+BILIRUBIN GESAMT ............ 0,2 * mg/dL  Ref.: 0,3-1,2
+ALBUMIN ..................... 2,8 * g/dL  Ref.: 3,5 - 5,0
+TSH ......................... 0,7 mIU/L  Ref.: 0,4 - 4,0
+FT4 ......................... 1,1 ng/dL  Ref.: 0,9-1,7
+CRP ......................... 5,3 * mg/l  Ref.: bis 5,0
+VITAMIN D (25-OH) ........... 70,6 ng/mL  Ref.: 30,0-100,0
+VITAMI. B12 ................. 332,4 pg/ml  Ref.: 200,0-900,0
+
+Pag. 1/1

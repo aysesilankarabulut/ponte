@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Maria Esposito    Data di nascita: 23/09/1953
+
+--- EMATOLOGIA ---
+EMOGLOBINA: 14,9 g/dL [12,0 - 16,0]
+ERITROCITI: 7,9 10^6/µl (H) [4,0 – 5,5]
+EMATOCRITO: 41,3 % [36,0 – 48,0]
+MCV: 80,7 fL [80,0-100,0]
+WBC: 9,4 10^3/µl [4,0-10,0]
+PIASTRINC: 174,4 10^3/µL [150,0 – 450,0]
+
+--- CHIMICA CLINICA ---
+FERRO: 45,3 ug/dl (L) [50,0-170,0]
+FERRITINA: 26,2 ng/ml [15,0 – 150,0]
+GLUCOSIO: 147,0 mg/dL [70,0 – 100,0]
+HBA1C: 5,2 % [<5,7]
+COLESTEROLO TOTALE: 100,7 mg/dL [< 200,0]
+COLEST. HDL: 58,3 mg/dL [> 40,0]
+COLEST. LDL: 75,5 mg/dL [< 130,0]
+TRIGLICERIDI: 93,6 mg/dL [fino a 150,0]
+CREATLNINA: 1,4 mg/dL (H) [0,5-1,1]
+ACIDO. URICO: 8,0 mg/dl (H) [3,0-7,0]
+S0DIO: 177,9 mmol/L (H) [136,0 - 145,0]
+POTASSIO: 4,4 mmol/l [3,5-5,1]
+CALCIO (CA): 10,7 mg/dL (H) [8,5 – 10,5]
+ALT (GPT): 21,8 U/L [fino a 40,0]
+GOT: 23,3 U/L [fino a 40,0]
+GAMMA GT: 56,4 u/l (H) [< 50,0]
+FOSFAT. ALCALINA: 116,9 u/l [40,0 – 130,0]
+BILIRUBINA TOTALE: 0,7 mg/dl [0,3 – 1,2]
+ALBUMINA: 5,0 g/dL [3,5 - 5,0]
+TSH: 0,4 mIU/L [0,4-4,0]
+FT4: 1,0 ng/dL [0,9 – 1,7]
+PROTEINA C REATTIVA (CRP): 6,0 mg/L (H) [<5,0]
+VITAMI. D (25-OH): 112,3 ng/mL (H) [30,0-100,0]
+VITAMI. B12: 381,7 pg/mL [200,0 - 900,0]
+
+Pag. 1/1

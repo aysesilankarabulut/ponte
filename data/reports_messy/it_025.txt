@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Maria Colombo    Data di nascita: 10/09/1957
+
+--- EMATOLOGIA ---
+Emoglobina .................. 17,5 * g/dL  v.r. 12,0 – 16,0
+Eritrociti .................. 3,7 * 10^6/uL  v.r. 4,0 - 5,5
+HCT ......................... 47,6 %  v.r. 36,0 – 48,0
+MCV ......................... 91,8 fl  v.r. 80,0 – 100,0
+Leuc0citi ................... 5,7 10^3/µL  v.r. 4,0 – 10,0
+Piastrine ................... 114,2 * 10^3/ul  v.r. 150,0 – 450,0
+
+--- CHIMICA CLINICA ---
+Ferro ....................... 129,3 µg/dL  v.r. 50,0 - 170,0
+Ferritina ................... 39,7 ng/ml  v.r. 15,0 - 150,0
+Glucosio .................... 83,8 mg/dL  v.r. 70,0-100,0
+Emoglobina glicata .......... 3,0 %  v.r. fino a 5,7
+Colesterolo totale .......... 154,0 mg/dL  v.r. < 200,0
+Colest. HDL ................. 37,4 * mg/dL  v.r. > 40,0
+Co1est. LDL ................. 113,9 mg/dL  v.r. fino a 130,0
+Trigliceridi ................ 114,6 mg/dL  v.r. fino a 150,0
+Creatinina .................. 1,1 mg/dL  v.r. 0,5 - 1,1
+Acido. urico ................ 6,5 mg/dl  v.r. 3,0 - 7,0
+Sodio ....................... 134,3 * mmol/L  v.r. 136,0 – 145,0
+Potassio .................... 6,0 * mmol/L  v.r. 3,5-5,1
+Calcio ...................... 9,8 mg/dL  v.r. 8,5 – 10,5
+ALT ......................... 29,7 U/L  v.r. <40,0
+AST (GOT) ................... 45,0 * u/l  v.r. <40,0
+Gamma GT .................... 39,0 u/l  v.r. <50,0
+Fosfatasi alcalina .......... 149,8 * U/L  v.r. 40,0 - 130,0
+Bilirubina totale ........... 0,7 mg/dL  v.r. 0,3 - 1,2
+Albumina .................... 4,5 g/dl  v.r. 3,5 – 5,0
+TSH ......................... 5,6 * miu/l  v.r. 0,4 – 4,0
+FT4 ......................... 0,9 ng/dl  v.r. 0,9-1,7
+Protcina C reattiva ......... 2,8 mg/l  v.r. fino a 5,0
+Vitami. D (25-OH) ........... 85,5 ng/mL  v.r. 30,0 - 100,0
+Vitamina B12 ................ 129,9 * pg/ml  v.r. 200,0 - 900,0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Anna Müller    Geburtsdatum: 26/12/1968
+
+--- HÄMATOLOGIE ---
+HB                            14,9   g/dL      12,0-16,0
+ERYTHROZYTEN (RBC)             3,4 L 10^6/µL   4,0 – 5,5
+HÄMATOKRIT                    42,7   %         36,0 – 48,0
+MCV                          146,2   fL        80,0-100,0
+LEUKOZYTEN                     5,2   10^3/uL   4,0-10,0
+THROMBOZYTCN                 282,6   10^3/uL   150,0 – 450,0
+
+--- KLINISCHE CHEMIE ---
+FE                           153,4   ug/dL     50,0 - 170,0
+FERRITIN                     102,3   ng/ml     15,0-150,0
+GLUKOSE                       79,7   mg/dl     70,0 – 100,0
+HBA1C                          7,6 H %         <5,7
+CHOLESTERIN GESAMT           193,3   mg/dl     bis 200,0
+HDL-CHOLESTERIN               43,7   mg/dL     > 40,0
+LDL-CHOLESTERIN               97,1   mg/dL     bis 130,0
+TRIGLYCERIDE                 191,0   mg/dL     bis 150,0
+KREATININ                      0,5   mg/dL     0,5 – 1,1
+HARNSÄURE                      4,5   mg/dL     3,0 - 7,0
+NATRIUM                      119,0   mmol/L    136,0-145,0
+KALIUM                         6,5 H mmol/L    3,5 – 5,1
+CALCIUM (CA)                   9,7   mg/dl     8,5 - 10,5
+ALT (GPT) (GPT)               40,7 H U/L       <40,0
+AST (GOT)                     22,7   U/L       <40,0
+GAMMA-GT                      57,9 H U/L       < 50,0
+ALKALISCHE PHOSPHATASE       102,7   U/L       40,0 – 130,0
+BILIRUBIN GESAMT (BIL-T)       0,7   mg/dL     0,3-1,2
+A1BUMIN                        2,9   g/dL      3,5-5,0
+TSH                            2,7   miu/l     0,4-4,0
+FT4                            2,0 H ng/dl     0,9-1,7
+CRP (CRP)                      5,1 H mg/l      < 5,0
+VITAMIN D (25-OH)            144,6 H ng/mL     30,0-100,0
+VITAMIN B12                  754,8   pg/mL     200,0 – 900,0
+
+Pag. 1/1

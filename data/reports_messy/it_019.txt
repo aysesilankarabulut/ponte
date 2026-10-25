@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Maria Esposito    Data di nascita: 16/01/1957
+
+--- EMATOLOGIA ---
+EMOGLOBINA: 14.1 g/dl [12.0 – 16.0]
+RBC: 4.4 10^6/µL [4.0 – 5.5]
+EMATOCRLTO: 35.9 % (L) [36.0 - 48.0]
+MCV: 80.7 fL [80.0 – 100.0]
+WBC: 4.2 10^3/µL [4.0-10.0]
+PIASTRINE: 333.1 10^3/uL [150.0 – 450.0]
+
+--- CHIMICA CLINICA ---
+FE: 44.0 µg/dL (L) [50.0 - 170.0]
+FERRITINA: 13.3 ng/mL (L) [15.0 - 150.0]
+GLUCOSIO: 77.4 mg/dl [70.0-100.0]
+HBA1C: 3.1 % [fino a 5.7]
+COLEST. TOTALE: 296.9 mg/dL [< 200.0]
+COLEST. HDL: 62.3 mg/dL [superiore a 40.0]
+COLESTEROLO LDL: 125.0 mg/dL [<130.0]
+TRIGLICERIDI: 111.3 mg/dl [<150.0]
+CREATININA: 1.2 mg/dl (H) [0.5 – 1.1]
+ACIDO. URICO: 6.6 mg/dl [3.0 - 7.0]
+SODIO: 168.1 mmol/L (H) [136.0-145.0]
+POTASSIO: 4.4 mmol/l [3.5 – 5.1]
+CALCIO: 9.5 mg/dL [8.5 – 10.5]
+ALT (GPT): 21.8 U/L [fino a 40.0]
+AST: 21.5 u/l [< 40.0]
+GAMMA GT: 49.7 U/L [<50.0]
+FOSFATASI ALCALINA (ALP): 24.3 U/L [40.0-130.0]
+BIL-T: 0.6 mg/dl [0.3 – 1.2]
+ALBUMINA: 4.8 g/dl [3.5 - 5.0]
+TSH: 1.4 miu/l [0.4-4.0]
+FT4 (FT4): 1.4 ng/dl [0.9 - 1.7]
+PROTCINA C REATTIVA: 6.8 mg/l (H) [< 5.0]
+VITAMINA D (25-OH): 146.6 ng/ml [30.0 – 100.0]
+VLTAMINA B12: 974.8 pg/mL (H) [200.0 – 900.0]
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Sofía Martínez    Fecha de nacimiento: 10/07/2003
+
+--- HEMATOLOGÍA ---
+Hemoglobina (Hb) ............ 13,2 g/dL  V.R. 12,0 - 16,0
+Hematíes .................... 6,4 * 10^6/µL  V.R. 4,0 - 5,5
+Hematocrito (HCT) ........... 40,0 %  V.R. 36,0 – 48,0
+VCM ......................... 91,4 fL  V.R. 80,0-100,0
+Leucocitos .................. 3,7 10^3/µL  V.R. 4,0 - 10,0
+Plaquetas ................... 539,0 * 10^3/µl  V.R. 150,0 – 450,0
+
+--- BIOQUÍMICA ---
+Hierro ...................... 228,2 * µg/dL  V.R. 50,0-170,0
+Fcrritina ................... 21,4 ng/ml  V.R. 15,0-150,0
+Glucosa ..................... 80,2 mg/dL  V.R. 70,0-100,0
+Hemoglobina glicada ......... 8,5 %  V.R. hasta 5,7
+Co1esterol total ............ 135,7 mg/dL  V.R. hasta 200,0
+Colesterol HDL .............. 47,7 mg/dl  V.R. superior a 40,0
+Co1esterol LDL .............. 85,8 mg/dL  V.R. < 130,0
+Triglicéridos ............... 193,3 * mg/dl  V.R. <150,0
+Creatinina .................. 0,7 mg/dL  V.R. 0,5 - 1,1
+Ácido úrico ................. 6,0 mg/dL  V.R. 3,0 - 7,0
+Sodio ....................... 138,0 mmol/l  V.R. 136,0 - 145,0
+Potasio ..................... 2,7 * mmol/l  V.R. 3,5 – 5,1
+Calcio (Ca) ................. 6,1 * mg/dl  V.R. 8,5 - 10,5
+ALT (GPT) ................... 32,5 u/l  V.R. < 40,0
+AST (GOT) ................... 25,2 u/l  V.R. hasta 40,0
+GGT ......................... 49,6 U/L  V.R. <50,0
+ALP ......................... 40,0 U/L  V.R. 40,0 – 130,0
+Bilirrubina total ........... 0,2 * mg/dl  V.R. 0,3-1,2
+Albúmina .................... 4,7 g/dL  V.R. 3,5 - 5,0
+TSH (TSH) ................... 0,3 * mIU/L  V.R. 0,4 - 4,0
+FT4 ......................... 0,6 ng/dl  V.R. 0,9 – 1,7
+Proteína C reactiva ......... 6,2 * mg/L  V.R. <5,0
+Vitamina D (25-OH) .......... 38,9 ng/mL  V.R. 30,0 – 100,0
+Vitami. B12 ................. 565,0 pg/mL  V.R. 200,0 – 900,0
+
+Pag. 1/1

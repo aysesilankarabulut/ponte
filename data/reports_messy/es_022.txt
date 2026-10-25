@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Lucía Sánchez    Fecha de nacimiento: 04/12/1941
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA                 13.1 g/dL     (12.0 – 16.0)
+HCMATÍES                     4.2 10^6/µl  (4.0 – 5.5)
+HEMATOCRITO                 28.4 %        (36.0 – 48.0)
+VCM                         86.4 fL       (80.0-100.0)
+LEUCOCITOS                   7.3 10^3/µl  (4.0 – 10.0)
+PLT                        367.7 10^3/µL  (150.0 – 450.0)
+
+--- BIOQUÍMICA ---
+HIERRO                      34.0 µg/dl    (50.0 – 170.0)
+FERRITINA                  163.3 ng/mL    (15.0 - 150.0)
+GLUCOSA                     71.4 mg/dL    (70.0 - 100.0)
+HEMOGLOBINA GLICADA          4.1 %        (<5.7)
+COLEST. TOTAL              123.6 mg/dl    (< 200.0)
+COLEST. HDL                 64.2 mg/dL    (>40.0)
+C0LEST. LDL                113.6 mg/dL    (<130.0)
+TRIGLICÉRIDOS               87.7 mg/dL    (<150.0)
+CREATININA                   1.5 mg/dL    (0.5 – 1.1)
+ÁCLDO. ÚRICO                 7.9 mg/dL    (3.0 – 7.0)
+NA                         143.4 mmol/L   (136.0 - 145.0)
+POTASIO (K)                  5.5 mmol/l   (3.5 – 5.1)
+CA                          13.1 mg/dL    (8.5 – 10.5)
+ALT (GPT)                   32.8 U/L      (<40.0)
+AST. (GOT)                  58.3 U/L      (hasta 40.0)
+GGT                         47.3 U/L      (<50.0)
+FOSFAT. ALCALINA           124.6 U/L      (40.0-130.0)
+BILIRRUBINA TOTAL            0.8 mg/dL    (0.3-1.2)
+ALBÚMINA                     4.8 g/dL     (3.5 - 5.0)
+TSH                          0.3 miu/l    (0.4 - 4.0)
+T4 LIBRE                     0.9 ng/dL    (0.9 - 1.7)
+PROTEÍNA C REACTIVA          3.5 mg/L     (<5.0)
+VITAMINA D (25-OH)          26.6 ng/ml    (30.0-100.0)
+VITAMINA B12              1078.6 pg/ml    (200.0-900.0)
+
+Pag. 1/1

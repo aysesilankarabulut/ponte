@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier Sánchez    Fecha de nacimiento: 22/02/1945
+
+--- HEMATOLOGÍA ---
+Hemoglobina (Hb)              17,5   g/dl      12,0 - 16,0
+Hematíes                       4,6   10^6/µL   4,0 – 5,5
+Hematocrito                   36,5   %         36,0 – 48,0
+VCM                           98,5   fl        80,0 – 100,0
+Leucocitos                     7,9   10^3/ul   4,0 - 10,0
+Plaquetas                     95,7   10^3/uL   150,0 - 450,0
+
+--- BIOQUÍMICA ---
+Hierro                        82,7   ug/dL     50,0-170,0
+Ferritina                     24,3   ng/mL     15,0 – 150,0
+Gluc0sa                       86,6   mg/dl     70,0 - 100,0
+HbA1c                          4,0   %         <5,7
+Colesterol total             213,0   mg/dL     <200,0
+Colest. HDL                   75,8   mg/dL     superior a 40,0
+Colest. LDL                  170,1 H mg/dL     <130,0
+Trlglicéridos                110,4   mg/dL     hasta 150,0
+Creatinina                     0,8   mg/dL     0,5 - 1,1
+Ácido úrico                    1,9 L mg/dl     3,0-7,0
+Sodio (Na)                   213,9 H mmol/L    136,0 – 145,0
+P0tasio                        2,2 L mmol/L    3,5 – 5,1
+Calcio                        13,7 H mg/dL     8,5-10,5
+ALT (GPT)                     24,5   U/L       <40,0
+AST (GOT) (GOT)               44,8   U/L       < 40,0
+GGT                           25,4   U/L       hasta 50,0
+Fosfatasa alcalina            93,0   U/L       40,0 – 130,0
+Bilirrubina total              0,3   mg/dL     0,3 - 1,2
+Albúmina                       4,2   g/dL      3,5 - 5,0
+TSH                            3,1   miu/l     0,4-4,0
+T4 libre                       1,6   ng/dL     0,9 - 1,7
+Proteí. C reactiva             2,6   mg/L      < 5,0
+Vitamina D (25-OH)            59,7   ng/mL     30,0-100,0
+Vltamina B12                1005,4 H pg/mL     200,0 - 900,0
+
+Pag. 1/1

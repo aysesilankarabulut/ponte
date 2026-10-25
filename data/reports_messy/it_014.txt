@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Ferrari    Data di nascita: 03/09/1973
+
+--- EMATOLOGIA ---
+Emoglobina: 22.5 g/dl (H) [12.0 - 16.0]
+Eritrociti (RBC): 4.9 10^6/ul [4.0 - 5.5]
+Ematocrito (HCT): 45.4 % [36.0 – 48.0]
+MCV: 83.5 fl [80.0 – 100.0]
+WBC: 9.5 10^3/µL [4.0 – 10.0]
+Piastrine: 307.3 10^3/µL [150.0 - 450.0]
+
+--- CHIMICA CLINICA ---
+Ferro: 147.2 µg/dL [50.0-170.0]
+Ferritina: 156.2 ng/mL [15.0-150.0]
+Glucosio: 94.3 mg/dL [70.0 – 100.0]
+Emoglobina glicata: 4.8 % [<5.7]
+Colest. totale: 125.8 mg/dL [< 200.0]
+Colesterolo HDL: 52.3 mg/dL [>40.0]
+Colesterolo LDL: 179.9 mg/dL [fino a 130.0]
+Trigliceridi: 140.4 mg/dL [<150.0]
+Creatinina: 0.4 mg/dL (L) [0.5 - 1.1]
+Acido urico: 9.3 mg/dl (H) [3.0-7.0]
+Sodio: 153.4 mmol/l (H) [136.0 – 145.0]
+Potassio: 4.8 mmol/L [3.5 - 5.1]
+Ca: 12.6 mg/dl [8.5 – 10.5]
+ALT: 20.5 U/L [<40.0]
+AST: 57.0 U/L (H) [< 40.0]
+Gamma. GT: 27.9 u/l [<50.0]
+Fosfatasi alcalina: 65.0 U/L [40.0 - 130.0]
+Bilirubina totale: 0.8 mg/dL [0.3 – 1.2]
+Albumlna: 4.1 g/dL [3.5 - 5.0]
+TSH: 0.3 mIU/L (L) [0.4 - 4.0]
+FT4 (FT4): 0.8 ng/dl [0.9-1.7]
+Proteina C reattiva (CRP): 7.4 mg/L [fino a 5.0]
+Vltami. D (25-OH): 128.3 ng/ml [30.0-100.0]
+Vitami. B12: 455.7 pg/mL [200.0-900.0]
+
+Pag. 1/1

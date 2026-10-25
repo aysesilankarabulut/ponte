@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Lena Schmidt    Geburtsdatum: 22/11/1974
+
+--- HÄMATOLOGIE ---
+Hämoglobin                  12,8 g/dL     (12,0 – 16,0)
+Erythrozyten                 4,7 10^6/uL  (4,0 - 5,5)
+Hämatokrit                  47,0 %        (36,0-48,0)
+MCV                        150,0 fl       (80,0 – 100,0)
+Leukozyten (WBC)             8,5 10^3/uL  (4,0 – 10,0)
+Thrombozyten               417,3 10^3/ul  (150,0-450,0)
+
+--- KLINISCHE CHEMIE ---
+Eisen                       41,6 µg/dL    (50,0 - 170,0)
+Ferritin                    74,9 ng/mL    (15,0 – 150,0)
+Glukose                    141,1 mg/dL    (70,0 – 100,0)
+HbA1c                        6,2 %        (bis 5,7)
+Cholesterin gesamt         157,4 mg/dL    (bis 200,0)
+HDL-Cholesterin             24,2 mg/dl    (über 40,0)
+LDL-Cholesterin            116,8 mg/dL    (< 130,0)
+Triglyceride               223,2 mg/dL    (< 150,0)
+Kreatinin                    0,6 mg/dL    (0,5-1,1)
+Harnsäure                    9,9 mg/dL    (3,0 - 7,0)
+Natrium                    116,2 mmol/l   (136,0 – 145,0)
+Kalium                       3,9 mmol/l   (3,5 - 5,1)
+Calcium                      5,2 mg/dL    (8,5 – 10,5)
+GPT                         28,6 U/L      (<40,0)
+GOT                         25,0 u/l      (bis 40,0)
+Gamma-GT                    52,2 U/L      (< 50,0)
+Alkalische Phosphatase     119,9 U/L      (40,0 – 130,0)
+Biliru. gesamt               1,6 mg/dL    (0,3-1,2)
+Albumin                      7,1 g/dL     (3,5 - 5,0)
+TSH                          0,3 mIU/L    (0,4 – 4,0)
+fT4                          1,3 ng/dL    (0,9-1,7)
+CRP                          4,1 mg/L     (<5,0)
+Vitamin D (25-OH)           21,3 ng/mL    (30,0-100,0)
+Vitamin B12               1091,5 pg/ml    (200,0 – 900,0)
+
+Pag. 1/1

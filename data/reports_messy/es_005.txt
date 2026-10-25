@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier García    Fecha de nacimiento: 02/06/1969
+
+--- HEMATOLOGÍA ---
+Hemoglobina                   15,3   g/dL      12,0 – 16,0
+Hematíes                       5,1   10^6/µL   4,0 - 5,5
+Hemat0crito                   33,1 L %         36,0 – 48,0
+MCV                           90,9   fL        80,0 – 100,0
+Leucocitos                    14,8 H 10^3/µL   4,0-10,0
+Plaquetas                    245,5   10^3/uL   150,0 – 450,0
+
+--- BIOQUÍMICA ---
+Fe                           104,2   ug/dl     50,0 – 170,0
+Fcrritina                    181,3 H ng/ml     15,0 - 150,0
+Glucosa                      145,2 H mg/dL     70,0 - 100,0
+HbA1c                          3,4   %         hasta 5,7
+Colest. total                152,6   mg/dL     <200,0
+Colest. HDL                   51,1   mg/dL     > 40,0
+Colesterol LDL               161,1 H mg/dL     <130,0
+Triglicéridos                186,6 H mg/dL     <150,0
+Creatinina                     0,7   mg/dl     0,5-1,1
+Ácido úrico                    5,8   mg/dl     3,0 – 7,0
+Sodio                         90,1 L mmol/L    136,0 - 145,0
+Potasio                        3,5   mmol/l    3,5 – 5,1
+Calcio                        13,3 H mg/dL     8,5 - 10,5
+ALT (GPT)                     38,1   U/L       <40,0
+AST (GOT)                     22,7   U/L       < 40,0
+GGT                           67,5   U/L       <50,0
+Fosfatasa alcalina (ALP)      53,7   U/L       40,0-130,0
+Bilirr. total                  1,2   mg/dL     0,3 - 1,2
+Albúmina                       4,6   g/dL      3,5 - 5,0
+TSH (TSH)                      1,6   mIU/L     0,4 - 4,0
+T4 libre                       0,6 L ng/dL     0,9-1,7
+Proteína C reactiva            6,9 H mg/L      hasta 5,0
+Vitamina D (25-OH)           108,8   ng/mL     30,0-100,0
+Vitami. B12                  137,8 L pg/mL     200,0 – 900,0
+
+Pag. 1/1

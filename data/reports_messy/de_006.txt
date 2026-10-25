@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Jonas Wagner    Geburtsdatum: 04/12/1994
+
+--- HÄMATOLOGIE ---
+Hämoglobin: 12,7 g/dl [12,0 - 16,0]
+Erythrozyten (RBC): 3,6 10^6/µL [4,0 - 5,5]
+Hämatokrit: 67,5 % (H) [36,0 - 48,0]
+MCV: 89,0 fL [80,0 - 100,0]
+Leuk0zyten: 14,3 10^3/µL (H) [4,0 – 10,0]
+PLT: 257,5 10^3/µL [150,0 – 450,0]
+
+--- KLINISCHE CHEMIE ---
+Eisen: 79,3 ug/dL [50,0-170,0]
+Ferritin: 41,6 ng/mL [15,0 - 150,0]
+Glukosc: 80,5 mg/dL [70,0-100,0]
+HbA1c: 4,6 % [bis 5,7]
+Cholesterin gesamt: 138,8 mg/dL [< 200,0]
+HDL-Cholcsterin: 29,1 mg/dL [> 40,0]
+LDL-Cholesterin: 171,4 mg/dL (H) [bis 130,0]
+Triglyceride: 150,5 mg/dl [< 150,0]
+Kreatinin: 0,9 mg/dL [0,5 - 1,1]
+Harnsäure: 4,6 mg/dL [3,0-7,0]
+Na: 143,7 mmol/l [136,0-145,0]
+Ka1ium: 3,8 mmol/l [3,5 – 5,1]
+Calcium: 8,7 mg/dL [8,5 - 10,5]
+ALT. (GPT): 39,3 U/L [<40,0]
+AST (GOT): 32,8 U/L [<40,0]
+Gamma-GT: 38,7 U/L [bis 50,0]
+Alkalische Phosphatase (ALP): 61,0 U/L [40,0 - 130,0]
+Biliru. gesamt: 0,7 mg/dL [0,3 – 1,2]
+Albumin: 6,4 g/dL (H) [3,5 - 5,0]
+TSH: 0,7 miu/l [0,4 – 4,0]
+fT4 (FT4): 1,4 ng/dL [0,9-1,7]
+CRP: 4,0 mg/l [<5,0]
+Vitami. D (25-OH): 145,2 ng/ml [30,0-100,0]
+Vltamin B12: 516,1 pg/mL [200,0 – 900,0]
+
+Pag. 1/1
