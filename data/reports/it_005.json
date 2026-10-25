@@ -3,43 +3,243 @@
   "results": [
     {
       "loinc": "718-7",
-      "value": 7.4,
+      "value": 14.3,
       "unit": "g/dL",
       "low": 12.0,
       "high": 16.0,
-      "flag": "L"
-    },
-    {
-      "loinc": "2276-4",
-      "value": 54.1,
-      "unit": "ng/mL",
-      "low": 15.0,
-      "high": 150.0,
       "flag": "N"
     },
     {
+      "loinc": "789-8",
+      "value": 5.4,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N"
+    },
+    {
+      "loinc": "4544-3",
+      "value": 44.6,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "787-2",
+      "value": 87.9,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "6690-2",
+      "value": 2.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "L"
+    },
+    {
+      "loinc": "777-3",
+      "value": 375.6,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "2498-4",
+      "value": 105.0,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "2276-4",
+      "value": 224.7,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H"
+    },
+    {
       "loinc": "2345-7",
-      "value": 77.0,
+      "value": 76.4,
       "unit": "mg/dL",
       "low": 70.0,
       "high": 100.0,
       "flag": "N"
     },
     {
-      "loinc": "2160-0",
-      "value": 0.7,
-      "unit": "mg/dL",
-      "low": 0.5,
-      "high": 1.1,
+      "loinc": "4548-4",
+      "value": 5.5,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
       "flag": "N"
     },
     {
-      "loinc": "6690-2",
-      "value": 3.0,
-      "unit": "10^3/µL",
-      "low": 4.0,
-      "high": 10.0,
+      "loinc": "2093-3",
+      "value": 287.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2085-9",
+      "value": 46.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N"
+    },
+    {
+      "loinc": "13457-7",
+      "value": 175.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2571-8",
+      "value": 224.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.3,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
       "flag": "L"
+    },
+    {
+      "loinc": "3084-1",
+      "value": 8.0,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2951-2",
+      "value": 132.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L"
+    },
+    {
+      "loinc": "2823-3",
+      "value": 3.7,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N"
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.6,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N"
+    },
+    {
+      "loinc": "1742-6",
+      "value": 32.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "1920-8",
+      "value": 44.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "2324-2",
+      "value": 56.6,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "6768-6",
+      "value": 121.5,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.3,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "H"
+    },
+    {
+      "loinc": "1751-7",
+      "value": 3.9,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "3016-3",
+      "value": 3.2,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "3024-7",
+      "value": 0.6,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "L"
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.4,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H"
+    },
+    {
+      "loinc": "62292-8",
+      "value": 30.7,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N"
+    },
+    {
+      "loinc": "2132-9",
+      "value": 818.2,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N"
     }
   ]
 }

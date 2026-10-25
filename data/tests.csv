@@ -1,6 +1,31 @@
 loinc,name_it,name_de,name_en,name_es,unit,low,high
 718-7,Emoglobina,Hämoglobin,Haemoglobin,Hemoglobina,g/dL,12.0,16.0
+789-8,Eritrociti,Erythrozyten,Red blood cells,Hematíes,10^6/µL,4.0,5.5
+4544-3,Ematocrito,Hämatokrit,Haematocrit,Hematocrito,%,36,48
+787-2,MCV,MCV,MCV,VCM,fL,80,100
+6690-2,Leucociti,Leukozyten,White blood cells,Leucocitos,10^3/µL,4.0,10.0
+777-3,Piastrine,Thrombozyten,Platelets,Plaquetas,10^3/µL,150,450
+2498-4,Ferro,Eisen,Iron,Hierro,µg/dL,50,170
 2276-4,Ferritina,Ferritin,Ferritin,Ferritina,ng/mL,15,150
 2345-7,Glucosio,Glukose,Glucose,Glucosa,mg/dL,70,100
+4548-4,Emoglobina glicata,HbA1c,HbA1c,Hemoglobina glicada,%,,5.7
+2093-3,Colesterolo totale,Cholesterin gesamt,Total cholesterol,Colesterol total,mg/dL,,200
+2085-9,Colesterolo HDL,HDL-Cholesterin,HDL cholesterol,Colesterol HDL,mg/dL,40,
+13457-7,Colesterolo LDL,LDL-Cholesterin,LDL cholesterol,Colesterol LDL,mg/dL,,130
+2571-8,Trigliceridi,Triglyceride,Triglycerides,Triglicéridos,mg/dL,,150
 2160-0,Creatinina,Kreatinin,Creatinine,Creatinina,mg/dL,0.5,1.1
-6690-2,Leucociti,Leukozyten,White blood cells,Leucocitos,10^3/µL,4.0,10.0
+3084-1,Acido urico,Harnsäure,Uric acid,Ácido úrico,mg/dL,3.0,7.0
+2951-2,Sodio,Natrium,Sodium,Sodio,mmol/L,136,145
+2823-3,Potassio,Kalium,Potassium,Potasio,mmol/L,3.5,5.1
+17861-6,Calcio,Calcium,Calcium,Calcio,mg/dL,8.5,10.5
+1742-6,ALT,ALT (GPT),ALT,ALT (GPT),U/L,,40
+1920-8,AST,AST (GOT),AST,AST (GOT),U/L,,40
+2324-2,Gamma GT,Gamma-GT,GGT,GGT,U/L,,50
+6768-6,Fosfatasi alcalina,Alkalische Phosphatase,Alkaline phosphatase,Fosfatasa alcalina,U/L,40,130
+1975-2,Bilirubina totale,Bilirubin gesamt,Total bilirubin,Bilirrubina total,mg/dL,0.3,1.2
+1751-7,Albumina,Albumin,Albumin,Albúmina,g/dL,3.5,5.0
+3016-3,TSH,TSH,TSH,TSH,mIU/L,0.4,4.0
+3024-7,FT4,fT4,Free T4,T4 libre,ng/dL,0.9,1.7
+1988-5,Proteina C reattiva,CRP,CRP,Proteína C reactiva,mg/L,,5.0
+62292-8,Vitamina D (25-OH),Vitamin D (25-OH),Vitamin D (25-OH),Vitamina D (25-OH),ng/mL,30,100
+2132-9,Vitamina B12,Vitamin B12,Vitamin B12,Vitamina B12,pg/mL,200,900

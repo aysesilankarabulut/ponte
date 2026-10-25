@@ -12,22 +12,31 @@ TITLES = {                                       # yeni: her dilde rapor başlı
 }
 
 
+def has(x):
+    """Sınır var mı? CSV'de boş hücreler NaN gelir."""
+    return not pd.isna(x)
+
+
 def pick_value(low, high):
     """Çoğunlukla normal, bazen düşük ya da yüksek bir değer seçer."""
+    lo = low if has(low) else high * 0.5
+    hi = high if has(high) else low * 2
     r = random.random()
     if r < 0.6:
-        return random.uniform(low, high)
-    elif r < 0.8:
+        return random.uniform(lo, hi)
+    elif r < 0.8 and has(low):
         return random.uniform(low * 0.6, low)
-    else:
+    elif has(high):
         return random.uniform(high, high * 1.5)
+    else:
+        return random.uniform(lo, hi)
 
 
 def flag(value, low, high):
-    """L düşük, H yüksek, N normal."""
-    if value < low:
+    """L düşük, H yüksek, N normal. Sadece var olan sınır kontrol edilir."""
+    if has(low) and value < low:
         return "L"
-    elif value > high:
+    elif has(high) and value > high:
         return "H"
     else:
         return "N"
@@ -41,6 +50,21 @@ def format_num(x, lang):
     return s
 
 
+def format_range(low, high, lang):
+    """Referans aralığı: (a - b), (< b) ya da (> a)."""
+    if has(low) and has(high):
+        return f"({format_num(low, lang)} - {format_num(high, lang)})"
+    elif has(high):
+        return f"(< {format_num(high, lang)})"
+    else:
+        return f"(> {format_num(low, lang)})"
+
+
+def to_json(x):
+    """NaN'ı None'a (JSON'da null) çevirir; geçerli JSON için gerekli."""
+    return float(x) if has(x) else None
+
+
 def make_report(tests, lang):
     """Tek bir dilde bir rapor metni ve doğru cevaplarını üretir."""
     lines = [TITLES[lang], ""]
@@ -49,9 +73,10 @@ def make_report(tests, lang):
         value = round(pick_value(t.low, t.high), 1)
         name = t[f"name_{lang}"]                 # yeni: dile göre tahlil adı
         lines.append(f"{name:<20}{format_num(value, lang):>8} {t.unit:<9}"
-                     f"({format_num(t.low, lang)} - {format_num(t.high, lang)})")
+                     f"{format_range(t.low, t.high, lang)}")
         truth.append({"loinc": t.loinc, "value": value, "unit": t.unit,
-                      "low": t.low, "high": t.high, "flag": flag(value, t.low, t.high)})
+                      "low": to_json(t.low), "high": to_json(t.high),
+                      "flag": flag(value, t.low, t.high)})
     return "\n".join(lines), truth
 
 
