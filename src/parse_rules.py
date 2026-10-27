@@ -43,6 +43,20 @@ def build_name_map(tests_csv="data/tests.csv"):
     return name_map
 
 
+def canonical_units(tests_csv="data/tests.csv"):
+    """Her LOINC kodu için standart birimi döndürür (ör. 718-7 → g/dL)."""
+    tests = pd.read_csv(tests_csv)
+    return dict(zip(tests.loinc, tests.unit))
+
+
+def normalize_unit(raw, canonical):
+    """Yazım farkı olan birimi standart hale getirir: 'mg/dl' → 'mg/dL', '10^3/uL' → '10^3/µL'.
+    Gerçekten farklı bir birimse (ör. mmol/L yerine mg/dL) olduğu gibi bırakır."""
+    def key(u):
+        return u.lower().replace("µ", "u").replace("μ", "u")
+    return canonical if key(raw) == key(canonical) else raw
+
+
 def flag(value, low, high):
     """L düşük, H yüksek, N normal. Olmayan sınır kontrol edilmez."""
     if low is not None and value < low:
@@ -52,8 +66,9 @@ def flag(value, low, high):
     return "N"
 
 
-def parse_report(text, name_map):
+def parse_report(text, name_map, units=None):
     """Bir rapor metnini satır listesine çevirir; tanınmayan satırları ayrıca döndürür."""
+    units = units or canonical_units()
     rows, unknown = [], []
     for line in text.splitlines():
         m = LINE_RE.match(line)
@@ -70,7 +85,8 @@ def parse_report(text, name_map):
         except ValueError:
             unknown.append(name)          # aralık ya da değer beklenen biçimde değil
             continue
-        rows.append({"loinc": loinc, "value": value, "unit": m["unit"],
+        unit = normalize_unit(m["unit"], units[loinc])
+        rows.append({"loinc": loinc, "value": value, "unit": unit,
                      "low": low, "high": high, "flag": flag(value, low, high)})
     return rows, unknown
 
