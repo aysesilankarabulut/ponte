@@ -94,10 +94,18 @@ def _key(text):
     return text.lower().replace("µ", "u").replace("μ", "u")
 
 
+def find_unit(line, unit):
+    """Birimin satırdaki yerini bulur; bulamazsa -1. Birimi TAM kelime olarak arar:
+    'g/dL' aranırken 'mg/dL' ya da 'µg/dL' içindeki 'g/dL' parçası sayılmaz."""
+    pattern = r"(?<![\w/^])" + re.escape(_key(unit)) + r"(?![\w/])"
+    matches = list(re.finditer(pattern, _key(line)))
+    return matches[-1].start() if matches else -1
+
+
 def parse_line(line, unit):
     """Bir satırdan değeri ve aralığı çıkarır. Bulamazsa None döndürür.
     Yöntem: satırda birimi bul → önceki son sayı değer, sonrası aralık."""
-    pos = _key(line).rfind(_key(unit))
+    pos = find_unit(line, unit)
     if pos < 0:
         return None
     before, after = line[:pos], line[pos + len(unit):]
@@ -127,7 +135,9 @@ def rows_from_answer(raw, report, units):
     """Modelin 'numara|LOINC' cevabını ve rapor metnini birleştirip tabloyu kurar."""
     lines = candidate_lines(report)
     try:                                              # yeni biçim: JSON
-        pairs = [(int(x["n"]), str(x["code"])) for x in json.loads(raw)["lines"]]
+        answer = json.loads(raw)
+        # "direct": modele sormadan kodun kendisinin atadığı satırlar (daraltmalı biçim)
+        pairs = [(int(x["n"]), str(x["code"])) for x in answer["lines"] + answer.get("direct", [])]
     except (ValueError, KeyError, TypeError):        # eski biçim: "numara|kod" satırları
         pairs = []
         for answer in raw.splitlines():
