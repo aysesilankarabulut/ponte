@@ -1,0 +1,371 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 285.5,
+  "facts": {
+    "718-7": {
+      "name": "Hemoglobin",
+      "what": "kırmızı kan hücrelerinde oksijen taşıyan protein",
+      "value": 15.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "range": "12,0 – 16,0",
+      "flag": "N"
+    },
+    "789-8": {
+      "name": "Eritrosit (kırmızı kan hücresi)",
+      "what": "oksijen taşıyan kan hücrelerinin sayısı",
+      "value": 4.8,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "range": "4,0 – 5,5",
+      "flag": "N"
+    },
+    "4544-3": {
+      "name": "Hematokrit",
+      "what": "kanın ne kadarının kırmızı kan hücrelerinden oluştuğunu gösterir",
+      "value": 41.1,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "range": "36,0 – 48,0",
+      "flag": "N"
+    },
+    "787-2": {
+      "name": "MCV",
+      "what": "kırmızı kan hücrelerinin ortalama büyüklüğü",
+      "value": 87.9,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "range": "80,0 – 100,0",
+      "flag": "N"
+    },
+    "6690-2": {
+      "name": "Lökosit (beyaz kan hücresi)",
+      "what": "vücudu mikroplara karşı koruyan hücrelerin sayısı",
+      "value": 9.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "range": "4,0 – 10,0",
+      "flag": "N"
+    },
+    "777-3": {
+      "name": "Trombosit",
+      "what": "kanın pıhtılaşmasına yardım eden hücreler",
+      "value": 221.4,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "range": "150,0 – 450,0",
+      "flag": "N"
+    },
+    "2498-4": {
+      "name": "Demir",
+      "what": "kandaki demir miktarı",
+      "value": 235.0,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "range": "50,0 – 170,0",
+      "flag": "H"
+    },
+    "2276-4": {
+      "name": "Ferritin",
+      "what": "vücuttaki demir deposunu gösterir",
+      "value": 98.7,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "range": "15,0 – 150,0",
+      "flag": "N"
+    },
+    "2345-7": {
+      "name": "Glukoz (kan şekeri)",
+      "what": "kandaki şeker miktarı",
+      "value": 50.3,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "range": "70,0 – 100,0",
+      "flag": "L"
+    },
+    "4548-4": {
+      "name": "HbA1c",
+      "what": "son birkaç ayın ortalama kan şekerini gösterir",
+      "value": 3.5,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "range": "< 5,7",
+      "flag": "N"
+    },
+    "2093-3": {
+      "name": "Total kolesterol",
+      "what": "kandaki toplam kolesterol miktarı",
+      "value": 282.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "range": "< 200,0",
+      "flag": "H"
+    },
+    "2085-9": {
+      "name": "HDL kolesterol",
+      "what": "halk arasında iyi kolesterol olarak bilinir",
+      "value": 27.6,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "range": "> 40,0",
+      "flag": "L"
+    },
+    "13457-7": {
+      "name": "LDL kolesterol",
+      "what": "halk arasında kötü kolesterol olarak bilinir",
+      "value": 87.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "range": "< 130,0",
+      "flag": "N"
+    },
+    "2571-8": {
+      "name": "Trigliserit",
+      "what": "kandaki bir tür yağ",
+      "value": 199.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "range": "< 150,0",
+      "flag": "H"
+    },
+    "2160-0": {
+      "name": "Kreatinin",
+      "what": "böbreklerin çalışması hakkında bilgi verir",
+      "value": 1.0,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "range": "0,5 – 1,1",
+      "flag": "N"
+    },
+    "3084-1": {
+      "name": "Ürik asit",
+      "what": "vücudun ürettiği bir atık madde",
+      "value": 4.5,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "range": "3,0 – 7,0",
+      "flag": "N"
+    },
+    "2951-2": {
+      "name": "Sodyum",
+      "what": "vücuttaki su ve tuz dengesiyle ilgili bir mineral",
+      "value": 212.2,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "range": "136,0 – 145,0",
+      "flag": "H"
+    },
+    "2823-3": {
+      "name": "Potasyum",
+      "what": "kasların ve kalbin çalışması için önemli bir mineral",
+      "value": 4.1,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "range": "3,5 – 5,1",
+      "flag": "N"
+    },
+    "17861-6": {
+      "name": "Kalsiyum",
+      "what": "kemikler ve kaslar için önemli bir mineral",
+      "value": 10.4,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "range": "8,5 – 10,5",
+      "flag": "N"
+    },
+    "1742-6": {
+      "name": "ALT",
+      "what": "karaciğer hakkında bilgi veren bir enzim",
+      "value": 42.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "H"
+    },
+    "1920-8": {
+      "name": "AST",
+      "what": "karaciğer ve kaslar hakkında bilgi veren bir enzim",
+      "value": 23.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "N"
+    },
+    "2324-2": {
+      "name": "GGT",
+      "what": "karaciğer ve safra yolları hakkında bilgi veren bir enzim",
+      "value": 71.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "range": "< 50,0",
+      "flag": "H"
+    },
+    "6768-6": {
+      "name": "Alkalen fosfataz",
+      "what": "karaciğer ve kemikler hakkında bilgi veren bir enzim",
+      "value": 143.3,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "range": "40,0 – 130,0",
+      "flag": "H"
+    },
+    "1975-2": {
+      "name": "Total bilirubin",
+      "what": "kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde",
+      "value": 0.2,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "range": "0,3 – 1,2",
+      "flag": "L"
+    },
+    "1751-7": {
+      "name": "Albümin",
+      "what": "kanda bulunan önemli bir protein",
+      "value": 5.6,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "range": "3,5 – 5,0",
+      "flag": "H"
+    },
+    "3016-3": {
+      "name": "TSH",
+      "what": "tiroid bezinin çalışmasını yöneten hormon",
+      "value": 4.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "range": "0,4 – 4,0",
+      "flag": "H"
+    },
+    "3024-7": {
+      "name": "Serbest T4",
+      "what": "tiroid bezinin ürettiği hormon",
+      "value": 1.8,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "range": "0,9 – 1,7",
+      "flag": "H"
+    },
+    "1988-5": {
+      "name": "CRP",
+      "what": "vücuttaki iltihap hakkında bilgi verir",
+      "value": 7.1,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "range": "< 5,0",
+      "flag": "H"
+    },
+    "62292-8": {
+      "name": "D vitamini",
+      "what": "kemik sağlığı için önemli bir vitamin",
+      "value": 105.7,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "range": "30,0 – 100,0",
+      "flag": "H"
+    },
+    "2132-9": {
+      "name": "B12 vitamini",
+      "what": "sinir sistemi ve kan yapımı için önemli bir vitamin",
+      "value": 764.8,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "range": "200,0 – 900,0",
+      "flag": "N"
+    }
+  },
+  "raw": "{\"sentences\": [\n  {\"fact\": \"2498-4\", \"text\": \"Kandaki demir miktarı tahlili, demir seviyenizi ölçmek için kullanılır. Değer 235.0 µg/dL'dir ve normal aralığı 50,0 – 170,0 arasında olması gerekir. Bu nedenle, demir seviyeniz yüksek.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Kandaki şeker miktarı tahlili, kan şekerinizi ölçmek için kullanılır. Değer 50.3 mg/dL'dir ve normal aralığı 70,0 – 100,0 arasında olması gerekir. Bu nedenle, kan şekeriniz düşük.\"},\n  {\"fact\": \"2093-3\", \"text\": \"Kandaki toplam kolesterol miktarı tahlili, kolesterol seviyenizi ölçmek için kullanılır. Değer 282.7 mg/dL'dir ve normal aralığı < 200,0 arasında olması gerekir. Bu nedenle, kolesterol seviyeniz yüksek.\"},\n  {\"fact\": \"2085-9\", \"text\": \"Halk arasında iyi kolesterol olarak bilinen kolesterol tahlili, kolesterol seviyenizi ölçmek için kullanılır. Değer 27.6 mg/dL'dir ve normal aralığı > 40,0 arasında olması gerekir. Bu nedenle, kolesterol seviyeniz düşük.\"},\n  {\"fact\": \"2571-8\", \"text\": \"Kandaki bir tür yağ tahlili, trigliserit seviyenizi ölçmek için kullanılır. Değer 199.6 mg/dL'dir ve normal aralığı < 150,0 arasında olması gerekir. Bu nedenle, trigliserit seviyeniz yüksek.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Vücuttaki su ve tuz dengesiyle ilgili bir mineral tahlili, sodyum seviyenizi ölçmek için kullanılır. Değer 212.2 mmol/L'dir ve normal aralığı 136,0 – 145,0 arasında olması gerekir. Bu nedenle, sodyum seviyeniz yüksek.\"},\n  {\"fact\": \"1742-6\", \"text\": \"Karaciğer hakkında bilgi veren bir enzim tahlili, ALT seviyenizi ölçmek için kullanılır. Değer 42.8 U/L'dir ve normal aralığı < 40,0 arasında olması gerekir. Bu nedenle, ALT seviyeniz yüksek.\"},\n  {\"fact\": \"2324-2\", \"text\": \"Karaciğer ve safra yolları hakkında bilgi veren bir enzim tahlili, GGT seviyenizi ölçmek için kullanılır. Değer 71.7 U/L'dir ve normal aralığı < 50,0 arasında olması gerekir. Bu nedenle, GGT seviyeniz yüksek.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Karaciğer ve kemikler hakkında bilgi veren bir enzim tahlili, alkalen fosfataz seviyenizi ölçmek için kullanılır. Değer 143.3 U/L'dir ve normal aralığı 40,0 – 130,0 arasında olması gerekir. Bu nedenle, alkalen fosfataz seviyeniz yüksek.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde tahlili, total bilirubin seviyenizi ölçmek için kullanılır. Değer 0.2 mg/dL'dir ve normal aralığı 0,3 – 1,2 arasında olması gerekir. Bu nedenle, total bilirubin seviyeniz düşük.\"},\n  {\"fact\": \"1751-7\", \"text\": \"Kanda bulunan önemli bir protein tahlili, albümin seviyenizi ölçmek için kullanılır. Değer 5.6 g/dL'dir ve normal aralığı 3,5 – 5,0 arasında olması gerekir. Bu nedenle, albümin seviyeniz yüksek.\"},\n  {\"fact\": \"3016-3\", \"text\": \"Tiroid bezinin çalışmasını yöneten hormon tahlili, TSH seviyenizi ölçmek için kullanılır. Değer 4.4 mIU/L'dir ve normal aralığı 0,4 – 4,0 arasında olması gerekir. Bu nedenle, TSH seviyeniz yüksek.\"},\n  {\"fact\": \"3024-7\", \"text\": \"Tiroid bezinin ürettiği hormon tahlili, serbest T4 seviyenizi ölçmek için kullanılır. Değer 1.8 ng/dL'dir ve normal aralığı 0,9 – 1,7 arasında olması gerekir. Bu nedenle, serbest T4 seviyeniz yüksek.\"},\n  {\"fact\": \"1988-5\", \"text\": \"Vücuttaki iltihap hakkında bilgi veren tahlili, CRP seviyenizi ölçmek için kullanılır. Değer 7.1 mg/L'dir ve normal aralığı < 5,0 arasında olması gerekir. Bu nedenle, CRP seviyeniz yüksek.\"},\n  {\"fact\": \"62292-8\", \"text\": \"Kemik sağlığı için önemli bir vitamin tahlili, D vitamini seviyenizi ölçmek için kullanılır. Değer 105.7 ng/mL'dir ve normal aralığı 30,0 – 100,0 arasında olması gerekir. Bu nedenle, D vitamini seviyeniz yüksek.\"}\n]}",
+  "accepted": [
+    {
+      "fact": "2498-4",
+      "text": "Kandaki demir miktarı tahlili, demir seviyenizi ölçmek için kullanılır. Değer 235.0 µg/dL'dir ve normal aralığı 50,0 – 170,0 arasında olması gerekir. Bu nedenle, demir seviyeniz yüksek."
+    },
+    {
+      "fact": "2345-7",
+      "text": "Kandaki şeker miktarı tahlili, kan şekerinizi ölçmek için kullanılır. Değer 50.3 mg/dL'dir ve normal aralığı 70,0 – 100,0 arasında olması gerekir. Bu nedenle, kan şekeriniz düşük."
+    },
+    {
+      "fact": "2093-3",
+      "text": "Kandaki toplam kolesterol miktarı tahlili, kolesterol seviyenizi ölçmek için kullanılır. Değer 282.7 mg/dL'dir ve normal aralığı < 200,0 arasında olması gerekir. Bu nedenle, kolesterol seviyeniz yüksek."
+    },
+    {
+      "fact": "2085-9",
+      "text": "Halk arasında iyi kolesterol olarak bilinen kolesterol tahlili, kolesterol seviyenizi ölçmek için kullanılır. Değer 27.6 mg/dL'dir ve normal aralığı > 40,0 arasında olması gerekir. Bu nedenle, kolesterol seviyeniz düşük."
+    },
+    {
+      "fact": "2571-8",
+      "text": "Kandaki bir tür yağ tahlili, trigliserit seviyenizi ölçmek için kullanılır. Değer 199.6 mg/dL'dir ve normal aralığı < 150,0 arasında olması gerekir. Bu nedenle, trigliserit seviyeniz yüksek."
+    },
+    {
+      "fact": "2951-2",
+      "text": "Vücuttaki su ve tuz dengesiyle ilgili bir mineral tahlili, sodyum seviyenizi ölçmek için kullanılır. Değer 212.2 mmol/L'dir ve normal aralığı 136,0 – 145,0 arasında olması gerekir. Bu nedenle, sodyum seviyeniz yüksek."
+    },
+    {
+      "fact": "1742-6",
+      "text": "Karaciğer hakkında bilgi veren bir enzim tahlili, ALT seviyenizi ölçmek için kullanılır. Değer 42.8 U/L'dir ve normal aralığı < 40,0 arasında olması gerekir. Bu nedenle, ALT seviyeniz yüksek."
+    },
+    {
+      "fact": "2324-2",
+      "text": "Karaciğer ve safra yolları hakkında bilgi veren bir enzim tahlili, GGT seviyenizi ölçmek için kullanılır. Değer 71.7 U/L'dir ve normal aralığı < 50,0 arasında olması gerekir. Bu nedenle, GGT seviyeniz yüksek."
+    },
+    {
+      "fact": "6768-6",
+      "text": "Karaciğer ve kemikler hakkında bilgi veren bir enzim tahlili, alkalen fosfataz seviyenizi ölçmek için kullanılır. Değer 143.3 U/L'dir ve normal aralığı 40,0 – 130,0 arasında olması gerekir. Bu nedenle, alkalen fosfataz seviyeniz yüksek."
+    },
+    {
+      "fact": "1975-2",
+      "text": "Kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde tahlili, total bilirubin seviyenizi ölçmek için kullanılır. Değer 0.2 mg/dL'dir ve normal aralığı 0,3 – 1,2 arasında olması gerekir. Bu nedenle, total bilirubin seviyeniz düşük."
+    },
+    {
+      "fact": "1751-7",
+      "text": "Kanda bulunan önemli bir protein tahlili, albümin seviyenizi ölçmek için kullanılır. Değer 5.6 g/dL'dir ve normal aralığı 3,5 – 5,0 arasında olması gerekir. Bu nedenle, albümin seviyeniz yüksek."
+    },
+    {
+      "fact": "3016-3",
+      "text": "Tiroid bezinin çalışmasını yöneten hormon tahlili, TSH seviyenizi ölçmek için kullanılır. Değer 4.4 mIU/L'dir ve normal aralığı 0,4 – 4,0 arasında olması gerekir. Bu nedenle, TSH seviyeniz yüksek."
+    },
+    {
+      "fact": "3024-7",
+      "text": "Tiroid bezinin ürettiği hormon tahlili, serbest T4 seviyenizi ölçmek için kullanılır. Değer 1.8 ng/dL'dir ve normal aralığı 0,9 – 1,7 arasında olması gerekir. Bu nedenle, serbest T4 seviyeniz yüksek."
+    },
+    {
+      "fact": "1988-5",
+      "text": "Vücuttaki iltihap hakkında bilgi veren tahlili, CRP seviyenizi ölçmek için kullanılır. Değer 7.1 mg/L'dir ve normal aralığı < 5,0 arasında olması gerekir. Bu nedenle, CRP seviyeniz yüksek."
+    },
+    {
+      "fact": "62292-8",
+      "text": "Kemik sağlığı için önemli bir vitamin tahlili, D vitamini seviyenizi ölçmek için kullanılır. Değer 105.7 ng/mL'dir ve normal aralığı 30,0 – 100,0 arasında olması gerekir. Bu nedenle, D vitamini seviyeniz yüksek."
+    }
+  ],
+  "rejected": [],
+  "added": []
+}

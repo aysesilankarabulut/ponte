@@ -47,11 +47,14 @@ def build_facts(results, names):
 
 
 INSTRUCTIONS = """Sen, laboratuvar sonuçlarını hastalara sade Türkçeyle açıklayan bir yardımcısın.
-Sana normal aralığın dışındaki sonuçlar JSON olarak verilecek. Her sonuç için 1 ya da 2 kısa cümle yaz:
+Sana normal aralığın dışındaki sonuçlar JSON olarak verilecek. Bu sonuçların HİÇBİRİ normal değildir.
+Her sonuç için 1 ya da 2 kısa cümle yaz:
   - tahlilin ne olduğunu verilen "what" bilgisiyle basitçe anlat,
-  - değerin referans aralığına göre düşük mü yüksek mi olduğunu söyle.
+  - "durum" alanındaki kelimeyi ("düşük" ya da "yüksek") cümlede mutlaka kullan.
+Örnek: "Hemoglobin, kırmızı kan hücrelerinde oksijen taşıyan proteindir. Değeriniz 10,2 g/dL ile referans aralığının (12,0 – 16,0) altında, yani düşük."
 Kurallar:
-  - Sadece verilen sayıları, aynen yaz. Başka sayı yazma, hesap yapma.
+  - Hiçbir sonuca "normal" deme.
+  - Sadece verilen sayıları, aynen yaz. Başka sayı yazma, yüzde ya da fark hesaplama.
   - Teşhis koyma, hastalık adı verme, ilaç ya da tedavi önerme.
   - Sonucu küçümseme ("endişelenmeyin" gibi) ya da büyütme.
   - Her cümlenin "fact" alanına ilgili sonucun kodunu yaz.
@@ -87,7 +90,10 @@ def render(facts, accepted, added):
         if f["flag"] == "N":
             continue
         mine = [s["text"] for s in accepted + added if s["fact"] == code]
-        lines.append(f"**{f['name']}:** " + " ".join(mine))
+        label = f["name"]
+        if not any(s["fact"] == code for s in accepted) and f.get("what"):
+            label += f" ({f['what']})"     # modelin cümlesi yoksa tahlilin ne olduğunu kod söyler
+        lines.append(f"**{label}:** " + " ".join(mine))
         lines.append("")
     normal = [f["name"] for f in facts.values() if f["flag"] == "N"]
     if normal:

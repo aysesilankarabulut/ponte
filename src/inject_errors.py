@@ -3,6 +3,7 @@
 Her normal dışı tahlil için doğru bir cümle alınır, sonra dört şekilde bozulur:
   - sayı:    değer %10–40 değiştirilir
   - yön:     "düşük" ile "yüksek" yer değiştirir
+  - normal:  cümleye "Değeri normal aralığındadır." eklenir (gerçek bir model hatası)
   - teşhis:  cümleye uydurma bir teşhis eklenir
   - küçümseme: cümleye "endişelenmeyin" türü bir ifade eklenir
 Bozulmamış cümleler de denenir: haksız yere reddedilenler "yanlış alarm" sayılır.
@@ -43,6 +44,8 @@ def corrupt(sentence, fact, kind, rng):
             if a in text:
                 return text.replace(a, b)
         return None
+    if kind == "normal":           # normal dışı değere "normal" demek
+        return f"{text} Değeri normal aralığındadır."
     if kind == "teşhis":
         return f"{text} {rng.choice(DIAGNOSES)}"
     return f"{text} {rng.choice(REASSURE)}"
@@ -57,11 +60,17 @@ def source_sentences(args, names):
                 if f["flag"] != "N":
                     yield {"fact": code, "text": fallback_sentence(f)}, facts
     else:
+        rejected = 0
         for jf in sorted(Path(args.folder).glob("*.json")):
             d = json.loads(jf.read_text(encoding="utf-8"))
             for s in json.loads(d["raw"])["sentences"]:     # modelin ham cümleleri
-                if s["fact"] in d["facts"]:
-                    yield s, d["facts"]
+                if s["fact"] not in d["facts"]:
+                    continue
+                if check_sentence(s, d["facts"]):           # zaten hatalı: modelin kendi hatası
+                    rejected += 1
+                    continue
+                yield s, d["facts"]
+        print(f"Modelin kendi hatalı cümleleri (deneye alınmadı): {rejected}")
 
 
 def main():
@@ -76,16 +85,19 @@ def main():
         fact = facts[sentence["fact"]]
         tried["temiz"] += 1
         caught["temiz"] += check_sentence(sentence, facts) is not None   # yanlış alarm
-        for kind in ["sayı", "yön", "teşhis", "küçümseme"]:
+        for kind in ["sayı", "yön", "normal", "teşhis", "küçümseme"]:
             bad = corrupt(sentence, fact, kind, rng)
             if bad is None or bad == sentence["text"]:
                 continue
             tried[kind] += 1
-            caught[kind] += check_sentence({**sentence, "text": bad}, facts) is not None
+            hit = check_sentence({**sentence, "text": bad}, facts) is not None
+            caught[kind] += hit
+            if not hit:
+                print(f"  KAÇTI ({kind}): {bad}")
 
     print(f"Kaynak: {args.source}\n")
     print(f"{'Hata türü':<12}{'Denenen':>9}{'Yakalanan':>11}{'Oran':>8}")
-    for kind in ["sayı", "yön", "teşhis", "küçümseme"]:
+    for kind in ["sayı", "yön", "normal", "teşhis", "küçümseme"]:
         if tried[kind]:
             print(f"{kind:<12}{tried[kind]:>9}{caught[kind]:>11}{caught[kind] / tried[kind]:>8.0%}")
     print(f"\nYanlış alarm (temiz cümle reddedildi): {caught['temiz']}/{tried['temiz']}")

@@ -129,3 +129,14 @@ def test_polite_address_to_doctor_is_allowed():
 def test_doctor_voice_in_doc_language_is_caught():
     bad = q("718-7", "Hemoglobin değerim neden düşük?", "Why is your hemoglobin low?")
     assert check_question(bad, FACTS, "en") == "doc: yanlış kişi"
+
+
+def test_abnormal_called_normal_is_caught():
+    # gerçek model cümlesi (es_002): düşük hemoglobine "normal" demiş
+    text = "Hemoglobin tahlili, kırmızı kan hücrelerinde oksijen taşıyan proteinin ölçülmesidir. Değeri normal aralığındadır."
+    assert check_sentence(s("718-7", text), FACTS) == "yön hatası"
+
+
+def test_percent_from_range_is_not_a_normal_claim():
+    text = "Hemoglobin değeriniz 10,2 g/dL ve normal aralığının altında, yani düşük."
+    assert check_sentence(s("718-7", text), FACTS) is None

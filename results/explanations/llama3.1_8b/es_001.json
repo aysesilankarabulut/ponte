@@ -1,6 +1,6 @@
 {
   "model": "llama3.1:8b",
-  "seconds": 220.6,
+  "seconds": 221.8,
   "facts": {
     "718-7": {
       "name": "Hemoglobin",
@@ -303,61 +303,93 @@
       "flag": "L"
     }
   },
-  "raw": "{\n  \"sentences\": [\n    {\n      \"fact\": \"13457-7\",\n      \"text\": \"LDL kolesterol tahlili, halk arasında kötü kolesterol olarak bilinir. Değeri 130,0'den yüksek, yani yüksek.\"\n    },\n    {\n      \"fact\": \"2571-8\",\n      \"text\": \"Trigliserit tahlili, kandaki bir tür yağdır. Değeri 150,0'den yüksek, yani yüksek.\"\n    },\n    {\n      \"fact\": \"2160-0\",\n      \"text\": \"Kreatinin tahlili, böbreklerin çalışması hakkında bilgi verir. Değeri 0,5 ile 1,1 arasında değil, yani düşük.\"\n    },\n    {\n      \"fact\": \"2951-2\",\n      \"text\": \"Sodyum tahlili, vücuttaki su ve tuz dengesiyle ilgili bir mineraldir. Değeri 136,0 ile 145,0 arasında değil, yani düşük.\"\n    },\n    {\n      \"fact\": \"2823-3\",\n      \"text\": \"Potasyum tahlili, kasların ve kalbin çalışması için önemli bir mineraldir. Değeri 3,5 ile 5,1 arasında değil, yani düşük.\"\n    },\n    {\n      \"fact\": \"17861-6\",\n      \"text\": \"Kalsiyum tahlili, kemikler ve kaslar için önemli bir mineraldir. Değeri 8,5 ile 10,5 arasında değil, yani düşük.\"\n    },\n    {\n      \"fact\": \"1742-6\",\n      \"text\": \"ALT tahlili, karaciğer hakkında bilgi veren bir enzimdir. Değeri 40,0'den yüksek, yani yüksek.\"\n    },\n    {\n      \"fact\": \"2324-2\",\n      \"text\": \"GGT tahlili, karaciğer ve safra yolları hakkında bilgi veren bir enzimdir. Değeri 50,0'den yüksek, yani yüksek.\"\n    },\n    {\n      \"fact\": \"6768-6\",\n      \"text\": \"Alkalen fosfataz tahlili, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeri 40,0 ile 130,0 arasında değil, yani düşük.\"\n    },\n    {\n      \"fact\": \"1975-2\",\n      \"text\": \"Total bilirubin tahlili, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madendir. Değeri 0,3 ile 1,2 arasında değil, yani yüksek.\"\n    },\n    {\n      \"fact\": \"1988-5\",\n      \"text\": \"CRP tahlili, vücuttaki iltihap hakkında bilgi verir. Değeri 5,0'den yüksek, yani yüksek.\"\n    },\n    {\n      \"fact\": \"62292-8\",\n      \"text\": \"D vitamini tahlili, kemik sağlığı için önemli bir vitamdır. Değeri 30,0 ile 100,0 arasında değil, yani yüksek.\"\n    },\n    {\n      \"fact\": \"2132-9\",\n      \"text\": \"B12 vitamini tahlili, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeri 200,0 ile 900,0 arasında değil, yani düşük.\"\n    }\n  ]\n}",
+  "raw": "{\"sentences\": [\n  {\"fact\": \"13457-7\", \"text\": \"LDL kolesterol, kötü kolesterol olarak bilinen bir yağdır. Değeriniz 160.5 mg/dL ile referans aralığının (< 130,0) altında, yani yüksek.\"},\n  {\"fact\": \"2571-8\", \"text\": \"Trigliserit, kandaki bir tür yağdır. Değeriniz 171.7 mg/dL ile referans aralığının (< 150,0) altında, yani yüksek.\"},\n  {\"fact\": \"2160-0\", \"text\": \"Kreatinin, böbreklerin çalışması hakkında bilgi veren bir madde. Değeriniz 0.4 mg/dL ile referans aralığının (0,5 – 1,1) arasında, yani düşük.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir mineraldir. Değeriniz 86.7 mmol/L ile referans aralığının (136,0 – 145,0) arasında, yani düşük.\"},\n  {\"fact\": \"2823-3\", \"text\": \"Potasyum, kasların ve kalbin çalışması için önemli bir mineraldir. Değeriniz 2.6 mmol/L ile referans aralığının (3,5 – 5,1) arasında, yani düşük.\"},\n  {\"fact\": \"17861-6\", \"text\": \"Kalsiyum, kemikler ve kaslar için önemli bir mineraldir. Değeriniz 6.1 mg/dL ile referans aralığının (8,5 – 10,5) arasında, yani düşük.\"},\n  {\"fact\": \"1742-6\", \"text\": \"ALT, karaciğer hakkında bilgi veren bir enzimdir. Değeriniz 45.5 U/L ile referans aralığının (< 40,0) altında, yani yüksek.\"},\n  {\"fact\": \"2324-2\", \"text\": \"GGT, karaciğer ve safra yolları hakkında bilgi veren bir enzimdir. Değeriniz 60.8 U/L ile referans aralığının (< 50,0) altında, yani yüksek.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeriniz 26.8 U/L ile referans aralığının (40,0 – 130,0) arasında, yani düşük.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madendir. Değeriniz 1.3 mg/dL ile referans aralığının (0,3 – 1,2) arasında, yani yüksek.\"},\n  {\"fact\": \"1988-5\", \"text\": \"CRP, vücuttaki iltihap hakkında bilgi veren bir madde. Değeriniz 7.4 mg/L ile referans aralığının (< 5,0) altında, yani yüksek.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini, kemik sağlığı için önemli bir vitamdır. Değeriniz 104.0 ng/mL ile referans aralığının (30,0 – 100,0) arasında, yani yüksek.\"},\n  {\"fact\": \"2132-9\", \"text\": \"B12 vitamini, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeriniz 164.6 pg/mL ile referans aralığının (200,0 – 900,0) arasında, yani düşük.\"}\n]}",
   "accepted": [
     {
-      "fact": "13457-7",
-      "text": "LDL kolesterol tahlili, halk arasında kötü kolesterol olarak bilinir. Değeri 130,0'den yüksek, yani yüksek."
-    },
-    {
-      "fact": "2571-8",
-      "text": "Trigliserit tahlili, kandaki bir tür yağdır. Değeri 150,0'den yüksek, yani yüksek."
-    },
-    {
       "fact": "2160-0",
-      "text": "Kreatinin tahlili, böbreklerin çalışması hakkında bilgi verir. Değeri 0,5 ile 1,1 arasında değil, yani düşük."
+      "text": "Kreatinin, böbreklerin çalışması hakkında bilgi veren bir madde. Değeriniz 0.4 mg/dL ile referans aralığının (0,5 – 1,1) arasında, yani düşük."
     },
     {
       "fact": "2951-2",
-      "text": "Sodyum tahlili, vücuttaki su ve tuz dengesiyle ilgili bir mineraldir. Değeri 136,0 ile 145,0 arasında değil, yani düşük."
+      "text": "Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir mineraldir. Değeriniz 86.7 mmol/L ile referans aralığının (136,0 – 145,0) arasında, yani düşük."
     },
     {
       "fact": "2823-3",
-      "text": "Potasyum tahlili, kasların ve kalbin çalışması için önemli bir mineraldir. Değeri 3,5 ile 5,1 arasında değil, yani düşük."
+      "text": "Potasyum, kasların ve kalbin çalışması için önemli bir mineraldir. Değeriniz 2.6 mmol/L ile referans aralığının (3,5 – 5,1) arasında, yani düşük."
     },
     {
       "fact": "17861-6",
-      "text": "Kalsiyum tahlili, kemikler ve kaslar için önemli bir mineraldir. Değeri 8,5 ile 10,5 arasında değil, yani düşük."
-    },
-    {
-      "fact": "1742-6",
-      "text": "ALT tahlili, karaciğer hakkında bilgi veren bir enzimdir. Değeri 40,0'den yüksek, yani yüksek."
-    },
-    {
-      "fact": "2324-2",
-      "text": "GGT tahlili, karaciğer ve safra yolları hakkında bilgi veren bir enzimdir. Değeri 50,0'den yüksek, yani yüksek."
+      "text": "Kalsiyum, kemikler ve kaslar için önemli bir mineraldir. Değeriniz 6.1 mg/dL ile referans aralığının (8,5 – 10,5) arasında, yani düşük."
     },
     {
       "fact": "6768-6",
-      "text": "Alkalen fosfataz tahlili, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeri 40,0 ile 130,0 arasında değil, yani düşük."
+      "text": "Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeriniz 26.8 U/L ile referans aralığının (40,0 – 130,0) arasında, yani düşük."
     },
     {
       "fact": "1975-2",
-      "text": "Total bilirubin tahlili, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madendir. Değeri 0,3 ile 1,2 arasında değil, yani yüksek."
-    },
-    {
-      "fact": "1988-5",
-      "text": "CRP tahlili, vücuttaki iltihap hakkında bilgi verir. Değeri 5,0'den yüksek, yani yüksek."
+      "text": "Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madendir. Değeriniz 1.3 mg/dL ile referans aralığının (0,3 – 1,2) arasında, yani yüksek."
     },
     {
       "fact": "62292-8",
-      "text": "D vitamini tahlili, kemik sağlığı için önemli bir vitamdır. Değeri 30,0 ile 100,0 arasında değil, yani yüksek."
+      "text": "D vitamini, kemik sağlığı için önemli bir vitamdır. Değeriniz 104.0 ng/mL ile referans aralığının (30,0 – 100,0) arasında, yani yüksek."
     },
     {
       "fact": "2132-9",
-      "text": "B12 vitamini tahlili, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeri 200,0 ile 900,0 arasında değil, yani düşük."
+      "text": "B12 vitamini, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeriniz 164.6 pg/mL ile referans aralığının (200,0 – 900,0) arasında, yani düşük."
     }
   ],
-  "rejected": [],
-  "added": []
+  "rejected": [
+    {
+      "fact": "13457-7",
+      "text": "LDL kolesterol, kötü kolesterol olarak bilinen bir yağdır. Değeriniz 160.5 mg/dL ile referans aralığının (< 130,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2571-8",
+      "text": "Trigliserit, kandaki bir tür yağdır. Değeriniz 171.7 mg/dL ile referans aralığının (< 150,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "1742-6",
+      "text": "ALT, karaciğer hakkında bilgi veren bir enzimdir. Değeriniz 45.5 U/L ile referans aralığının (< 40,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2324-2",
+      "text": "GGT, karaciğer ve safra yolları hakkında bilgi veren bir enzimdir. Değeriniz 60.8 U/L ile referans aralığının (< 50,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "1988-5",
+      "text": "CRP, vücuttaki iltihap hakkında bilgi veren bir madde. Değeriniz 7.4 mg/L ile referans aralığının (< 5,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    }
+  ],
+  "added": [
+    {
+      "fact": "13457-7",
+      "text": "LDL kolesterol değeriniz 160,5 mg/dL; bu, referans aralığının (< 130,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2571-8",
+      "text": "Trigliserit değeriniz 171,7 mg/dL; bu, referans aralığının (< 150,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "1742-6",
+      "text": "ALT değeriniz 45,5 U/L; bu, referans aralığının (< 40,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2324-2",
+      "text": "GGT değeriniz 60,8 U/L; bu, referans aralığının (< 50,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "1988-5",
+      "text": "CRP değeriniz 7,4 mg/L; bu, referans aralığının (< 5,0) üstünde.",
+      "by": "code"
+    }
+  ]
 }

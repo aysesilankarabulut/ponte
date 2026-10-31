@@ -1,0 +1,412 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 127.4,
+  "facts": {
+    "718-7": {
+      "name": "Hemoglobin",
+      "what": "kırmızı kan hücrelerinde oksijen taşıyan protein",
+      "value": 14.9,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "range": "12,0 – 16,0",
+      "flag": "N"
+    },
+    "789-8": {
+      "name": "Eritrosit (kırmızı kan hücresi)",
+      "what": "oksijen taşıyan kan hücrelerinin sayısı",
+      "value": 7.9,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "range": "4,0 – 5,5",
+      "flag": "H"
+    },
+    "4544-3": {
+      "name": "Hematokrit",
+      "what": "kanın ne kadarının kırmızı kan hücrelerinden oluştuğunu gösterir",
+      "value": 41.3,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "range": "36,0 – 48,0",
+      "flag": "N"
+    },
+    "787-2": {
+      "name": "MCV",
+      "what": "kırmızı kan hücrelerinin ortalama büyüklüğü",
+      "value": 80.7,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "range": "80,0 – 100,0",
+      "flag": "N"
+    },
+    "6690-2": {
+      "name": "Lökosit (beyaz kan hücresi)",
+      "what": "vücudu mikroplara karşı koruyan hücrelerin sayısı",
+      "value": 9.4,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "range": "4,0 – 10,0",
+      "flag": "N"
+    },
+    "777-3": {
+      "name": "Trombosit",
+      "what": "kanın pıhtılaşmasına yardım eden hücreler",
+      "value": 174.4,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "range": "150,0 – 450,0",
+      "flag": "N"
+    },
+    "2498-4": {
+      "name": "Demir",
+      "what": "kandaki demir miktarı",
+      "value": 45.3,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "range": "50,0 – 170,0",
+      "flag": "L"
+    },
+    "2276-4": {
+      "name": "Ferritin",
+      "what": "vücuttaki demir deposunu gösterir",
+      "value": 26.2,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "range": "15,0 – 150,0",
+      "flag": "N"
+    },
+    "2345-7": {
+      "name": "Glukoz (kan şekeri)",
+      "what": "kandaki şeker miktarı",
+      "value": 147.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "range": "70,0 – 100,0",
+      "flag": "H"
+    },
+    "4548-4": {
+      "name": "HbA1c",
+      "what": "son birkaç ayın ortalama kan şekerini gösterir",
+      "value": 5.2,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "range": "< 5,7",
+      "flag": "N"
+    },
+    "2093-3": {
+      "name": "Total kolesterol",
+      "what": "kandaki toplam kolesterol miktarı",
+      "value": 100.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "range": "< 200,0",
+      "flag": "N"
+    },
+    "2085-9": {
+      "name": "HDL kolesterol",
+      "what": "halk arasında iyi kolesterol olarak bilinir",
+      "value": 58.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "range": "> 40,0",
+      "flag": "N"
+    },
+    "13457-7": {
+      "name": "LDL kolesterol",
+      "what": "halk arasında kötü kolesterol olarak bilinir",
+      "value": 75.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "range": "< 130,0",
+      "flag": "N"
+    },
+    "2571-8": {
+      "name": "Trigliserit",
+      "what": "kandaki bir tür yağ",
+      "value": 93.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "range": "< 150,0",
+      "flag": "N"
+    },
+    "2160-0": {
+      "name": "Kreatinin",
+      "what": "böbreklerin çalışması hakkında bilgi verir",
+      "value": 1.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "range": "0,5 – 1,1",
+      "flag": "H"
+    },
+    "3084-1": {
+      "name": "Ürik asit",
+      "what": "vücudun ürettiği bir atık madde",
+      "value": 8.0,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "range": "3,0 – 7,0",
+      "flag": "H"
+    },
+    "2951-2": {
+      "name": "Sodyum",
+      "what": "vücuttaki su ve tuz dengesiyle ilgili bir mineral",
+      "value": 177.9,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "range": "136,0 – 145,0",
+      "flag": "H"
+    },
+    "2823-3": {
+      "name": "Potasyum",
+      "what": "kasların ve kalbin çalışması için önemli bir mineral",
+      "value": 4.4,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "range": "3,5 – 5,1",
+      "flag": "N"
+    },
+    "17861-6": {
+      "name": "Kalsiyum",
+      "what": "kemikler ve kaslar için önemli bir mineral",
+      "value": 10.7,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "range": "8,5 – 10,5",
+      "flag": "H"
+    },
+    "1742-6": {
+      "name": "ALT",
+      "what": "karaciğer hakkında bilgi veren bir enzim",
+      "value": 21.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "N"
+    },
+    "1920-8": {
+      "name": "AST",
+      "what": "karaciğer ve kaslar hakkında bilgi veren bir enzim",
+      "value": 23.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "N"
+    },
+    "2324-2": {
+      "name": "GGT",
+      "what": "karaciğer ve safra yolları hakkında bilgi veren bir enzim",
+      "value": 56.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "range": "< 50,0",
+      "flag": "H"
+    },
+    "6768-6": {
+      "name": "Alkalen fosfataz",
+      "what": "karaciğer ve kemikler hakkında bilgi veren bir enzim",
+      "value": 116.9,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "range": "40,0 – 130,0",
+      "flag": "N"
+    },
+    "1975-2": {
+      "name": "Total bilirubin",
+      "what": "kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde",
+      "value": 0.7,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "range": "0,3 – 1,2",
+      "flag": "N"
+    },
+    "1751-7": {
+      "name": "Albümin",
+      "what": "kanda bulunan önemli bir protein",
+      "value": 5.0,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "range": "3,5 – 5,0",
+      "flag": "N"
+    },
+    "3016-3": {
+      "name": "TSH",
+      "what": "tiroid bezinin çalışmasını yöneten hormon",
+      "value": 0.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "range": "0,4 – 4,0",
+      "flag": "N"
+    },
+    "3024-7": {
+      "name": "Serbest T4",
+      "what": "tiroid bezinin ürettiği hormon",
+      "value": 1.0,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "range": "0,9 – 1,7",
+      "flag": "N"
+    },
+    "1988-5": {
+      "name": "CRP",
+      "what": "vücuttaki iltihap hakkında bilgi verir",
+      "value": 6.0,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "range": "< 5,0",
+      "flag": "H"
+    },
+    "62292-8": {
+      "name": "D vitamini",
+      "what": "kemik sağlığı için önemli bir vitamin",
+      "value": 112.3,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "range": "30,0 – 100,0",
+      "flag": "H"
+    },
+    "2132-9": {
+      "name": "B12 vitamini",
+      "what": "sinir sistemi ve kan yapımı için önemli bir vitamin",
+      "value": 381.7,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "range": "200,0 – 900,0",
+      "flag": "N"
+    }
+  },
+  "raw": "{\"sentences\": [\n  {\"fact\": \"789-8\", \"text\": \"Eritrosit sayısında normal aralıkta değilsiniz. Eritrosit sayısının normal aralığı 4,0 – 5,5 arasında.\"},\n  {\"fact\": \"2498-4\", \"text\": \"Demir seviyeniz normal aralıkta değilsiniz. Demir seviyesinin normal aralığı 50,0 – 170,0 arasında.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Kan şekeriniz normal aralıkta değilsiniz. Kan şekerinin normal aralığı 70,0 – 100,0 arasında.\"},\n  {\"fact\": \"2160-0\", \"text\": \"Kreatinin seviyeniz normal aralıkta değilsiniz. Kreatinin seviyesinin normal aralığı 0,5 – 1,1 arasında.\"},\n  {\"fact\": \"3084-1\", \"text\": \"Ürik asit seviyeniz normal aralıkta değilsiniz. Ürik asit seviyesinin normal aralığı 3,0 – 7,0 arasında.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum seviyeniz normal aralıkta değilsiniz. Sodyum seviyesinin normal aralığı 136,0 – 145,0 arasında.\"},\n  {\"fact\": \"17861-6\", \"text\": \"Kalsiyum seviyeniz normal aralıkta değilsiniz. Kalsiyum seviyesinin normal aralığı 8,5 – 10,5 arasında.\"},\n  {\"fact\": \"2324-2\", \"text\": \"GGT seviyeniz normal aralıkta değilsiniz. GGT seviyesinin normal aralığı < 50,0.\"},\n  {\"fact\": \"1988-5\", \"text\": \"CRP seviyeniz normal aralıkta değilsiniz. CRP seviyesinin normal aralığı < 5,0.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini seviyeniz normal aralıkta değilsiniz. D vitamini seviyesinin normal aralığı 30,0 – 100,0 arasında.\"}\n]}",
+  "accepted": [],
+  "rejected": [
+    {
+      "fact": "789-8",
+      "text": "Eritrosit sayısında normal aralıkta değilsiniz. Eritrosit sayısının normal aralığı 4,0 – 5,5 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2498-4",
+      "text": "Demir seviyeniz normal aralıkta değilsiniz. Demir seviyesinin normal aralığı 50,0 – 170,0 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2345-7",
+      "text": "Kan şekeriniz normal aralıkta değilsiniz. Kan şekerinin normal aralığı 70,0 – 100,0 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2160-0",
+      "text": "Kreatinin seviyeniz normal aralıkta değilsiniz. Kreatinin seviyesinin normal aralığı 0,5 – 1,1 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "3084-1",
+      "text": "Ürik asit seviyeniz normal aralıkta değilsiniz. Ürik asit seviyesinin normal aralığı 3,0 – 7,0 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2951-2",
+      "text": "Sodyum seviyeniz normal aralıkta değilsiniz. Sodyum seviyesinin normal aralığı 136,0 – 145,0 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "17861-6",
+      "text": "Kalsiyum seviyeniz normal aralıkta değilsiniz. Kalsiyum seviyesinin normal aralığı 8,5 – 10,5 arasında.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2324-2",
+      "text": "GGT seviyeniz normal aralıkta değilsiniz. GGT seviyesinin normal aralığı < 50,0.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "1988-5",
+      "text": "CRP seviyeniz normal aralıkta değilsiniz. CRP seviyesinin normal aralığı < 5,0.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "62292-8",
+      "text": "D vitamini seviyeniz normal aralıkta değilsiniz. D vitamini seviyesinin normal aralığı 30,0 – 100,0 arasında.",
+      "problem": "yön hatası"
+    }
+  ],
+  "added": [
+    {
+      "fact": "789-8",
+      "text": "Eritrosit (kırmızı kan hücresi) değeriniz 7,9 10^6/µL; bu, referans aralığının (4,0 – 5,5) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2498-4",
+      "text": "Demir değeriniz 45,3 µg/dL; bu, referans aralığının (50,0 – 170,0) altında.",
+      "by": "code"
+    },
+    {
+      "fact": "2345-7",
+      "text": "Glukoz (kan şekeri) değeriniz 147,0 mg/dL; bu, referans aralığının (70,0 – 100,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2160-0",
+      "text": "Kreatinin değeriniz 1,4 mg/dL; bu, referans aralığının (0,5 – 1,1) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "3084-1",
+      "text": "Ürik asit değeriniz 8,0 mg/dL; bu, referans aralığının (3,0 – 7,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2951-2",
+      "text": "Sodyum değeriniz 177,9 mmol/L; bu, referans aralığının (136,0 – 145,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "17861-6",
+      "text": "Kalsiyum değeriniz 10,7 mg/dL; bu, referans aralığının (8,5 – 10,5) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2324-2",
+      "text": "GGT değeriniz 56,4 U/L; bu, referans aralığının (< 50,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "1988-5",
+      "text": "CRP değeriniz 6,0 mg/L; bu, referans aralığının (< 5,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "62292-8",
+      "text": "D vitamini değeriniz 112,3 ng/mL; bu, referans aralığının (30,0 – 100,0) üstünde.",
+      "by": "code"
+    }
+  ]
+}

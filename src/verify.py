@@ -53,6 +53,15 @@ def stated_values(text, unit):
     return [float(n.replace(",", ".")) for n in found]
 
 
+# "Değeri normal aralığındadır" gibi "normal" iddiaları. "aralığından %20 yüksek" yakalanmaz.
+NORMAL_RE = re.compile(r"(normal|referans) (aralı(ğı|k)(nda|ta)|sınırlar(ı içinde|da))([dt][ıiuü]r)?\b"
+                       r"|\bnormaldir\b|\bnormal (düzeyde|seviyede|değerde)\b")
+
+
+def claims_normal(text):
+    return NORMAL_RE.search(tr_lower(text)) is not None
+
+
 def claimed_direction(text):
     """Cümlenin iddia ettiği yön: 'L', 'H', 'BOTH' ya da None."""
     t = tr_lower(text)
@@ -86,6 +95,8 @@ def check_sentence(sentence, facts):
     claim = claimed_direction(text)
     if claim == "BOTH" or (claim and claim != fact["flag"]):
         return "yön hatası"
+    if fact["flag"] != "N" and claims_normal(text):
+        return "yön hatası"          # normal dışı bir değere "normal" demek: en tehlikeli hata
     return None
 
 

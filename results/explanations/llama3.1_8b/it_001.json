@@ -1,6 +1,6 @@
 {
   "model": "llama3.1:8b",
-  "seconds": 137.9,
+  "seconds": 148.2,
   "facts": {
     "718-7": {
       "name": "Hemoglobin",
@@ -303,49 +303,93 @@
       "flag": "N"
     }
   },
-  "raw": "{\"sentences\": [\n  {\"fact\": \"789-8\", \"text\": \"Eritrosit sayınız normalin üstündedir. Oksijen taşıyan kan hücrelerinin sayısı normalin üstündedir.\"},\n  {\"fact\": \"787-2\", \"text\": \"MCV değeriniz normalin üstündedir. Kırmızı kan hücrelerinin ortalama büyüklüğü normalin üstündedir.\"},\n  {\"fact\": \"6690-2\", \"text\": \"Lökosit sayınız normalin altındadır. Vücudu mikroplara karşı koruyan hücrelerin sayısı normalin altındadır.\"},\n  {\"fact\": \"2276-4\", \"text\": \"Ferritin değerin normalin üstündedir. Vücuttaki demir deposu normalin üstündedir.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Glukoz değerin normalin üstündedir. Kandaki şeker miktarı normalin üstündedir.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum değerin normalin üstündedir. Vücuttaki su ve tuz dengesiyle ilgili bir mineral normalin üstündedir.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Alkalen fosfataz değerin normalin üstündedir. Karaciğer ve kemikler hakkında bilgi veren bir enzim normalin üstündedir.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Total bilirubin değerin normalin altındadır. Kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde normalin altındadır.\"},\n  {\"fact\": \"3016-3\", \"text\": \"TSH değerin normalin üstündedir. Tiroid bezinin çalışmasını yöneten hormon normalin üstündedir.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini değerin normalin altındadır. Kemik sağlığı için önemli bir vitamin normalin altındadır.\"}\n]}",
+  "raw": "{\"sentences\": [\n  {\"fact\": \"789-8\", \"text\": \"Eritrosit, oksijen taşıyan kan hücrelerinin sayısını gösterir. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) altında, yani yüksek.\"},\n  {\"fact\": \"787-2\", \"text\": \"MCV, kırmızı kan hücrelerinin ortalama büyüklüğünü gösterir. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) altında, yani yüksek.\"},\n  {\"fact\": \"6690-2\", \"text\": \"Lökosit, vücutta mikroplara karşı koruyan hücrelerin sayısını gösterir. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük.\"},\n  {\"fact\": \"2276-4\", \"text\": \"Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) altında, yani yüksek.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Glukoz, kandaki şeker miktarını gösterir. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) altında, yani yüksek.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir minerali gösterir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) altında, yani yüksek.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimi gösterir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) altında, yani yüksek.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir maddeyi gösterir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük.\"},\n  {\"fact\": \"3016-3\", \"text\": \"TSH, tiroid bezinin çalışmasını yöneten hormonu gösterir. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) altında, yani yüksek.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini, kemik sağlığı için önemli bir vitaminini gösterir. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani düşük.\"}\n]}",
   "accepted": [
     {
-      "fact": "789-8",
-      "text": "Eritrosit sayınız normalin üstündedir. Oksijen taşıyan kan hücrelerinin sayısı normalin üstündedir."
-    },
-    {
-      "fact": "787-2",
-      "text": "MCV değeriniz normalin üstündedir. Kırmızı kan hücrelerinin ortalama büyüklüğü normalin üstündedir."
-    },
-    {
       "fact": "6690-2",
-      "text": "Lökosit sayınız normalin altındadır. Vücudu mikroplara karşı koruyan hücrelerin sayısı normalin altındadır."
-    },
-    {
-      "fact": "2276-4",
-      "text": "Ferritin değerin normalin üstündedir. Vücuttaki demir deposu normalin üstündedir."
-    },
-    {
-      "fact": "2345-7",
-      "text": "Glukoz değerin normalin üstündedir. Kandaki şeker miktarı normalin üstündedir."
-    },
-    {
-      "fact": "2951-2",
-      "text": "Sodyum değerin normalin üstündedir. Vücuttaki su ve tuz dengesiyle ilgili bir mineral normalin üstündedir."
-    },
-    {
-      "fact": "6768-6",
-      "text": "Alkalen fosfataz değerin normalin üstündedir. Karaciğer ve kemikler hakkında bilgi veren bir enzim normalin üstündedir."
+      "text": "Lökosit, vücutta mikroplara karşı koruyan hücrelerin sayısını gösterir. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük."
     },
     {
       "fact": "1975-2",
-      "text": "Total bilirubin değerin normalin altındadır. Kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde normalin altındadır."
-    },
-    {
-      "fact": "3016-3",
-      "text": "TSH değerin normalin üstündedir. Tiroid bezinin çalışmasını yöneten hormon normalin üstündedir."
+      "text": "Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir maddeyi gösterir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük."
     },
     {
       "fact": "62292-8",
-      "text": "D vitamini değerin normalin altındadır. Kemik sağlığı için önemli bir vitamin normalin altındadır."
+      "text": "D vitamini, kemik sağlığı için önemli bir vitaminini gösterir. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani düşük."
     }
   ],
-  "rejected": [],
-  "added": []
+  "rejected": [
+    {
+      "fact": "789-8",
+      "text": "Eritrosit, oksijen taşıyan kan hücrelerinin sayısını gösterir. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "787-2",
+      "text": "MCV, kırmızı kan hücrelerinin ortalama büyüklüğünü gösterir. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2276-4",
+      "text": "Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2345-7",
+      "text": "Glukoz, kandaki şeker miktarını gösterir. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "2951-2",
+      "text": "Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir minerali gösterir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "6768-6",
+      "text": "Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimi gösterir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    },
+    {
+      "fact": "3016-3",
+      "text": "TSH, tiroid bezinin çalışmasını yöneten hormonu gösterir. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) altında, yani yüksek.",
+      "problem": "yön hatası"
+    }
+  ],
+  "added": [
+    {
+      "fact": "789-8",
+      "text": "Eritrosit (kırmızı kan hücresi) değeriniz 8,1 10^6/µL; bu, referans aralığının (4,0 – 5,5) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "787-2",
+      "text": "MCV değeriniz 114,8 fL; bu, referans aralığının (80,0 – 100,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2276-4",
+      "text": "Ferritin değeriniz 203,6 ng/mL; bu, referans aralığının (15,0 – 150,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2345-7",
+      "text": "Glukoz (kan şekeri) değeriniz 136,6 mg/dL; bu, referans aralığının (70,0 – 100,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "2951-2",
+      "text": "Sodyum değeriniz 187,0 mmol/L; bu, referans aralığının (136,0 – 145,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "6768-6",
+      "text": "Alkalen fosfataz değeriniz 169,7 U/L; bu, referans aralığının (40,0 – 130,0) üstünde.",
+      "by": "code"
+    },
+    {
+      "fact": "3016-3",
+      "text": "TSH değeriniz 4,8 mIU/L; bu, referans aralığının (0,4 – 4,0) üstünde.",
+      "by": "code"
+    }
+  ]
 }
