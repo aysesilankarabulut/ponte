@@ -1,0 +1,63 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 48.4,
+  "chosen": [
+    "1988-5",
+    "4548-4",
+    "2571-8"
+  ],
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"1988-5\",\n      \"tr\": \"CRP değerin yüksek çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"What could be causing my high CRP value?\"\n    },\n    {\n      \"fact\": \"4548-4\",\n      \"tr\": \"HbA1c değerin yüksek çıkmasının olası sonuçları nelerdir?\",\n      \"doc\": \"What could be the consequences of my high HbA1c value?\"\n    },\n    {\n      \"fact\": \"2571-8\",\n      \"tr\": \"Trigliserit değerin yüksek çıkmasının önlenmesi için neler yapabilirim?\",\n      \"doc\": \"What can I do to prevent my high triglycerides value?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "1988-5",
+      "tr": "CRP değerin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "What could be causing my high CRP value?"
+    },
+    {
+      "fact": "4548-4",
+      "tr": "HbA1c değerin yüksek çıkmasının olası sonuçları nelerdir?",
+      "doc": "What could be the consequences of my high HbA1c value?"
+    },
+    {
+      "fact": "2571-8",
+      "tr": "Trigliserit değerin yüksek çıkmasının önlenmesi için neler yapabilirim?",
+      "doc": "What can I do to prevent my high triglycerides value?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "1988-5",
+      "tr": "CRP değerin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "What could be causing my high CRP value?"
+    },
+    {
+      "fact": "4548-4",
+      "tr": "HbA1c değerin yüksek çıkmasının olası sonuçları nelerdir?",
+      "doc": "What could be the consequences of my high HbA1c value?"
+    },
+    {
+      "fact": "2571-8",
+      "tr": "Trigliserit değerin yüksek çıkmasının önlenmesi için neler yapabilirim?",
+      "doc": "What can I do to prevent my high triglycerides value?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Bu sonuçlar için bir tedaviye ya da ilaca ihtiyacım var mı?",
+      "doc": "Do I need any treatment or medication because of these results?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Beslenmemde ya da yaşam tarzımda bir değişiklik yapmalı mıyım?",
+      "doc": "Should I change my diet or lifestyle?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Tahlili ne zaman tekrarlamalıyım?",
+      "doc": "When should I repeat the tests?"
+    }
+  ]
+}

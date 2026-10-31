@@ -1,0 +1,57 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 87.3,
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"GENERAL\",\n      \"tr\": \"Lab sonuçlarındaki yüksek ve düşük değerlerin ne anlama geldiğini açıklar mısınız?\",\n      \"doc\": \"Can you explain what the high and low values in the lab results mean?\"\n    },\n    {\n      \"fact\": \"787-2\",\n      \"tr\": \"MCV değeri 125,5 fL'de ne gibi bir problemi gösteriyor?\",\n      \"doc\": \"What kind of problem does an MCV value of 125.5 fL indicate?\"\n    },\n    {\n      \"fact\": \"2345-7\",\n      \"tr\": \"Glukoz değeri 60,5 mg/dL'de ne gibi bir problemi gösteriyor?\",\n      \"doc\": \"What kind of problem does a glucose value of 60.5 mg/dL indicate?\"\n    },\n    {\n      \"fact\": \"1742-6\",\n      \"tr\": \"ALT değeri 49,0 U/L'de ne gibi bir problemi gösteriyor?\",\n      \"doc\": \"What kind of problem does an ALT value of 49.0 U/L indicate?\"\n    },\n    {\n      \"fact\": \"2132-9\",\n      \"tr\": \"B12 vitamini değeri 1232,6 pg/mL'de ne gibi bir problemi gösteriyor?\",\n      \"doc\": \"What kind of problem does a vitamin B12 value of 1232.6 pg/mL indicate?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "787-2",
+      "tr": "MCV değeri 125,5 fL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does an MCV value of 125.5 fL indicate?"
+    },
+    {
+      "fact": "2345-7",
+      "tr": "Glukoz değeri 60,5 mg/dL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does a glucose value of 60.5 mg/dL indicate?"
+    },
+    {
+      "fact": "1742-6",
+      "tr": "ALT değeri 49,0 U/L'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does an ALT value of 49.0 U/L indicate?"
+    },
+    {
+      "fact": "2132-9",
+      "tr": "B12 vitamini değeri 1232,6 pg/mL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does a vitamin B12 value of 1232.6 pg/mL indicate?"
+    }
+  ],
+  "rejected": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarındaki yüksek ve düşük değerlerin ne anlama geldiğini açıklar mısınız?",
+      "doc": "Can you explain what the high and low values in the lab results mean?",
+      "problem": "tr: yön hatası"
+    }
+  ],
+  "final": [
+    {
+      "fact": "787-2",
+      "tr": "MCV değeri 125,5 fL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does an MCV value of 125.5 fL indicate?"
+    },
+    {
+      "fact": "2345-7",
+      "tr": "Glukoz değeri 60,5 mg/dL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does a glucose value of 60.5 mg/dL indicate?"
+    },
+    {
+      "fact": "1742-6",
+      "tr": "ALT değeri 49,0 U/L'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does an ALT value of 49.0 U/L indicate?"
+    },
+    {
+      "fact": "2132-9",
+      "tr": "B12 vitamini değeri 1232,6 pg/mL'de ne gibi bir problemi gösteriyor?",
+      "doc": "What kind of problem does a vitamin B12 value of 1232.6 pg/mL indicate?"
+    }
+  ]
+}

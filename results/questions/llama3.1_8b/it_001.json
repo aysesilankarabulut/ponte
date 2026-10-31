@@ -1,0 +1,63 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 54.6,
+  "chosen": [
+    "789-8",
+    "2345-7",
+    "2276-4"
+  ],
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"789-8\",\n      \"tr\": \"Eritrosit (kırmızı kan hücresi) değerimin yüksek çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"Perché l'eritrocito è alto?\"\n    },\n    {\n      \"fact\": \"2345-7\",\n      \"tr\": \"Glukoz (kan şekeri) değerimin yüksek çıkmasının olası sebepleri nelerdir?\",\n      \"doc\": \"Perché il glucosio è alto?\"\n    },\n    {\n      \"fact\": \"2276-4\",\n      \"tr\": \"Ferritin değerimin yüksek çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"Perché la ferritina è alta?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "789-8",
+      "tr": "Eritrosit (kırmızı kan hücresi) değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Perché l'eritrocito è alto?"
+    },
+    {
+      "fact": "2345-7",
+      "tr": "Glukoz (kan şekeri) değerimin yüksek çıkmasının olası sebepleri nelerdir?",
+      "doc": "Perché il glucosio è alto?"
+    },
+    {
+      "fact": "2276-4",
+      "tr": "Ferritin değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Perché la ferritina è alta?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "789-8",
+      "tr": "Eritrosit (kırmızı kan hücresi) değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Perché l'eritrocito è alto?"
+    },
+    {
+      "fact": "2345-7",
+      "tr": "Glukoz (kan şekeri) değerimin yüksek çıkmasının olası sebepleri nelerdir?",
+      "doc": "Perché il glucosio è alto?"
+    },
+    {
+      "fact": "2276-4",
+      "tr": "Ferritin değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Perché la ferritina è alta?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Bu sonuçlar için bir tedaviye ya da ilaca ihtiyacım var mı?",
+      "doc": "Ho bisogno di una terapia o di farmaci per questi risultati?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Beslenmemde ya da yaşam tarzımda bir değişiklik yapmalı mıyım?",
+      "doc": "Devo cambiare qualcosa nella mia alimentazione o nel mio stile di vita?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Tahlili ne zaman tekrarlamalıyım?",
+      "doc": "Quando devo ripetere gli esami?"
+    }
+  ]
+}

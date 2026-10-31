@@ -1,0 +1,63 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 49.8,
+  "chosen": [
+    "1988-5",
+    "2951-2",
+    "6768-6"
+  ],
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"1988-5\",\n      \"tr\": \"CRP değerin yüksek çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"¿Qué podría estar causando que la proteína C reactiva sea alta?\"\n    },\n    {\n      \"fact\": \"2951-2\",\n      \"tr\": \"Sodyum değerin düşük çıkmasının olası sebepleri nelerdir?\",\n      \"doc\": \"¿Qué podría estar causando que el sodio sea bajo?\"\n    },\n    {\n      \"fact\": \"6768-6\",\n      \"tr\": \"Alkalen fosfataz değerin düşük çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"¿Qué podría estar causando que la fosfatasa alcalina sea baja?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "1988-5",
+      "tr": "CRP değerin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "¿Qué podría estar causando que la proteína C reactiva sea alta?"
+    },
+    {
+      "fact": "2951-2",
+      "tr": "Sodyum değerin düşük çıkmasının olası sebepleri nelerdir?",
+      "doc": "¿Qué podría estar causando que el sodio sea bajo?"
+    },
+    {
+      "fact": "6768-6",
+      "tr": "Alkalen fosfataz değerin düşük çıkmasının nedenleri nelerdir?",
+      "doc": "¿Qué podría estar causando que la fosfatasa alcalina sea baja?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "1988-5",
+      "tr": "CRP değerin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "¿Qué podría estar causando que la proteína C reactiva sea alta?"
+    },
+    {
+      "fact": "2951-2",
+      "tr": "Sodyum değerin düşük çıkmasının olası sebepleri nelerdir?",
+      "doc": "¿Qué podría estar causando que el sodio sea bajo?"
+    },
+    {
+      "fact": "6768-6",
+      "tr": "Alkalen fosfataz değerin düşük çıkmasının nedenleri nelerdir?",
+      "doc": "¿Qué podría estar causando que la fosfatasa alcalina sea baja?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Bu sonuçlar için bir tedaviye ya da ilaca ihtiyacım var mı?",
+      "doc": "¿Necesito algún tratamiento o medicamento por estos resultados?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Beslenmemde ya da yaşam tarzımda bir değişiklik yapmalı mıyım?",
+      "doc": "¿Debo cambiar algo en mi alimentación o en mi estilo de vida?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Tahlili ne zaman tekrarlamalıyım?",
+      "doc": "¿Cuándo debo repetir los análisis?"
+    }
+  ]
+}

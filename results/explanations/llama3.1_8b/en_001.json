@@ -1,0 +1,359 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 191.1,
+  "facts": {
+    "718-7": {
+      "name": "Hemoglobin",
+      "what": "kırmızı kan hücrelerinde oksijen taşıyan protein",
+      "value": 12.6,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "range": "12,0 – 16,0",
+      "flag": "N"
+    },
+    "789-8": {
+      "name": "Eritrosit (kırmızı kan hücresi)",
+      "what": "oksijen taşıyan kan hücrelerinin sayısı",
+      "value": 4.2,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "range": "4,0 – 5,5",
+      "flag": "N"
+    },
+    "4544-3": {
+      "name": "Hematokrit",
+      "what": "kanın ne kadarının kırmızı kan hücrelerinden oluştuğunu gösterir",
+      "value": 47.7,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "range": "36,0 – 48,0",
+      "flag": "N"
+    },
+    "787-2": {
+      "name": "MCV",
+      "what": "kırmızı kan hücrelerinin ortalama büyüklüğü",
+      "value": 125.5,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "range": "80,0 – 100,0",
+      "flag": "H"
+    },
+    "6690-2": {
+      "name": "Lökosit (beyaz kan hücresi)",
+      "what": "vücudu mikroplara karşı koruyan hücrelerin sayısı",
+      "value": 7.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "range": "4,0 – 10,0",
+      "flag": "N"
+    },
+    "777-3": {
+      "name": "Trombosit",
+      "what": "kanın pıhtılaşmasına yardım eden hücreler",
+      "value": 121.7,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "range": "150,0 – 450,0",
+      "flag": "L"
+    },
+    "2498-4": {
+      "name": "Demir",
+      "what": "kandaki demir miktarı",
+      "value": 201.8,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "range": "50,0 – 170,0",
+      "flag": "H"
+    },
+    "2276-4": {
+      "name": "Ferritin",
+      "what": "vücuttaki demir deposunu gösterir",
+      "value": 184.2,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "range": "15,0 – 150,0",
+      "flag": "H"
+    },
+    "2345-7": {
+      "name": "Glukoz (kan şekeri)",
+      "what": "kandaki şeker miktarı",
+      "value": 60.5,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "range": "70,0 – 100,0",
+      "flag": "L"
+    },
+    "4548-4": {
+      "name": "HbA1c",
+      "what": "son birkaç ayın ortalama kan şekerini gösterir",
+      "value": 8.5,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "range": "< 5,7",
+      "flag": "H"
+    },
+    "2093-3": {
+      "name": "Total kolesterol",
+      "what": "kandaki toplam kolesterol miktarı",
+      "value": 108.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "range": "< 200,0",
+      "flag": "N"
+    },
+    "2085-9": {
+      "name": "HDL kolesterol",
+      "what": "halk arasında iyi kolesterol olarak bilinir",
+      "value": 52.5,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "range": "> 40,0",
+      "flag": "N"
+    },
+    "13457-7": {
+      "name": "LDL kolesterol",
+      "what": "halk arasında kötü kolesterol olarak bilinir",
+      "value": 99.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "range": "< 130,0",
+      "flag": "N"
+    },
+    "2571-8": {
+      "name": "Trigliserit",
+      "what": "kandaki bir tür yağ",
+      "value": 211.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "range": "< 150,0",
+      "flag": "H"
+    },
+    "2160-0": {
+      "name": "Kreatinin",
+      "what": "böbreklerin çalışması hakkında bilgi verir",
+      "value": 0.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "range": "0,5 – 1,1",
+      "flag": "L"
+    },
+    "3084-1": {
+      "name": "Ürik asit",
+      "what": "vücudun ürettiği bir atık madde",
+      "value": 3.7,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "range": "3,0 – 7,0",
+      "flag": "N"
+    },
+    "2951-2": {
+      "name": "Sodyum",
+      "what": "vücuttaki su ve tuz dengesiyle ilgili bir mineral",
+      "value": 136.3,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "range": "136,0 – 145,0",
+      "flag": "N"
+    },
+    "2823-3": {
+      "name": "Potasyum",
+      "what": "kasların ve kalbin çalışması için önemli bir mineral",
+      "value": 4.1,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "range": "3,5 – 5,1",
+      "flag": "N"
+    },
+    "17861-6": {
+      "name": "Kalsiyum",
+      "what": "kemikler ve kaslar için önemli bir mineral",
+      "value": 8.6,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "range": "8,5 – 10,5",
+      "flag": "N"
+    },
+    "1742-6": {
+      "name": "ALT",
+      "what": "karaciğer hakkında bilgi veren bir enzim",
+      "value": 49.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "H"
+    },
+    "1920-8": {
+      "name": "AST",
+      "what": "karaciğer ve kaslar hakkında bilgi veren bir enzim",
+      "value": 28.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "range": "< 40,0",
+      "flag": "N"
+    },
+    "2324-2": {
+      "name": "GGT",
+      "what": "karaciğer ve safra yolları hakkında bilgi veren bir enzim",
+      "value": 29.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "range": "< 50,0",
+      "flag": "N"
+    },
+    "6768-6": {
+      "name": "Alkalen fosfataz",
+      "what": "karaciğer ve kemikler hakkında bilgi veren bir enzim",
+      "value": 99.6,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "range": "40,0 – 130,0",
+      "flag": "N"
+    },
+    "1975-2": {
+      "name": "Total bilirubin",
+      "what": "kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde",
+      "value": 0.4,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "range": "0,3 – 1,2",
+      "flag": "N"
+    },
+    "1751-7": {
+      "name": "Albümin",
+      "what": "kanda bulunan önemli bir protein",
+      "value": 2.8,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "range": "3,5 – 5,0",
+      "flag": "L"
+    },
+    "3016-3": {
+      "name": "TSH",
+      "what": "tiroid bezinin çalışmasını yöneten hormon",
+      "value": 0.6,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "range": "0,4 – 4,0",
+      "flag": "N"
+    },
+    "3024-7": {
+      "name": "Serbest T4",
+      "what": "tiroid bezinin ürettiği hormon",
+      "value": 1.2,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "range": "0,9 – 1,7",
+      "flag": "N"
+    },
+    "1988-5": {
+      "name": "CRP",
+      "what": "vücuttaki iltihap hakkında bilgi verir",
+      "value": 7.5,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "range": "< 5,0",
+      "flag": "H"
+    },
+    "62292-8": {
+      "name": "D vitamini",
+      "what": "kemik sağlığı için önemli bir vitamin",
+      "value": 62.8,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "range": "30,0 – 100,0",
+      "flag": "N"
+    },
+    "2132-9": {
+      "name": "B12 vitamini",
+      "what": "sinir sistemi ve kan yapımı için önemli bir vitamin",
+      "value": 1232.6,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "range": "200,0 – 900,0",
+      "flag": "H"
+    }
+  },
+  "raw": "{\"sentences\": [\n  {\"fact\": \"787-2\", \"text\": \"MCV, kırmızı kan hücrelerinin ortalama büyüklüğüdür. Değeri 125.5 fL'dir. Normal aralığı 80,0 – 100,0 fL'dir. Değeri yüksek.\"},\n  {\"fact\": \"777-3\", \"text\": \"Trombosit, kanın pıhtılaşmasına yardım eden hücrelerdir. Değeri 121.7 10^3/µL'dir. Normal aralığı 150,0 – 450,0 10^3/µL'dir. Değeri düşük.\"},\n  {\"fact\": \"2498-4\", \"text\": \"Demir, kandaki demir miktarıdır. Değeri 201.8 µg/dL'dir. Normal aralığı 50,0 – 170,0 µg/dL'dir. Değeri yüksek.\"},\n  {\"fact\": \"2276-4\", \"text\": \"Ferritin, vücuttaki demir deposunu gösterir. Değeri 184.2 ng/mL'dir. Normal aralığı 15,0 – 150,0 ng/mL'dir. Değeri yüksek.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Glukoz (kan şekeri), kandaki şeker miktarıdır. Değeri 60.5 mg/dL'dir. Normal aralığı 70,0 – 100,0 mg/dL'dir. Değeri düşük.\"},\n  {\"fact\": \"4548-4\", \"text\": \"HbA1c, son birkaç ayın ortalama kan şekerini gösterir. Değeri 8.5 %'dir. Normal aralığı < 5,7 %'dir. Değeri yüksek.\"},\n  {\"fact\": \"2571-8\", \"text\": \"Trigliserit, kandaki bir tür yağdır. Değeri 211.3 mg/dL'dir. Normal aralığı < 150,0 mg/dL'dir. Değeri yüksek.\"},\n  {\"fact\": \"2160-0\", \"text\": \"Kreatinin, böbreklerin çalışması hakkında bilgi verir. Değeri 0.4 mg/dL'dir. Normal aralığı 0,5 – 1,1 mg/dL'dir. Değeri düşük.\"},\n  {\"fact\": \"1742-6\", \"text\": \"ALT, karaciğer hakkında bilgi veren bir enzimdir. Değeri 49.0 U/L'dir. Normal aralığı < 40,0 U/L'dir. Değeri yüksek.\"},\n  {\"fact\": \"1751-7\", \"text\": \"Albümin, kanda bulunan önemli bir proteindir. Değeri 2.8 g/dL'dir. Normal aralığı 3,5 – 5,0 g/dL'dir. Değeri düşük.\"},\n  {\"fact\": \"1988-5\", \"text\": \"CRP, vücuttaki iltihap hakkında bilgi verir. Değeri 7.5 mg/L'dir. Normal aralığı < 5,0 mg/L'dir. Değeri yüksek.\"},\n  {\"fact\": \"2132-9\", \"text\": \"B12 vitamini, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeri 1232.6 pg/mL'dir. Normal aralığı 200,0 – 900,0 pg/mL'dir. Değeri yüksek.\"}\n]}",
+  "accepted": [
+    {
+      "fact": "787-2",
+      "text": "MCV, kırmızı kan hücrelerinin ortalama büyüklüğüdür. Değeri 125.5 fL'dir. Normal aralığı 80,0 – 100,0 fL'dir. Değeri yüksek."
+    },
+    {
+      "fact": "777-3",
+      "text": "Trombosit, kanın pıhtılaşmasına yardım eden hücrelerdir. Değeri 121.7 10^3/µL'dir. Normal aralığı 150,0 – 450,0 10^3/µL'dir. Değeri düşük."
+    },
+    {
+      "fact": "2498-4",
+      "text": "Demir, kandaki demir miktarıdır. Değeri 201.8 µg/dL'dir. Normal aralığı 50,0 – 170,0 µg/dL'dir. Değeri yüksek."
+    },
+    {
+      "fact": "2276-4",
+      "text": "Ferritin, vücuttaki demir deposunu gösterir. Değeri 184.2 ng/mL'dir. Normal aralığı 15,0 – 150,0 ng/mL'dir. Değeri yüksek."
+    },
+    {
+      "fact": "2345-7",
+      "text": "Glukoz (kan şekeri), kandaki şeker miktarıdır. Değeri 60.5 mg/dL'dir. Normal aralığı 70,0 – 100,0 mg/dL'dir. Değeri düşük."
+    },
+    {
+      "fact": "4548-4",
+      "text": "HbA1c, son birkaç ayın ortalama kan şekerini gösterir. Değeri 8.5 %'dir. Normal aralığı < 5,7 %'dir. Değeri yüksek."
+    },
+    {
+      "fact": "2571-8",
+      "text": "Trigliserit, kandaki bir tür yağdır. Değeri 211.3 mg/dL'dir. Normal aralığı < 150,0 mg/dL'dir. Değeri yüksek."
+    },
+    {
+      "fact": "2160-0",
+      "text": "Kreatinin, böbreklerin çalışması hakkında bilgi verir. Değeri 0.4 mg/dL'dir. Normal aralığı 0,5 – 1,1 mg/dL'dir. Değeri düşük."
+    },
+    {
+      "fact": "1742-6",
+      "text": "ALT, karaciğer hakkında bilgi veren bir enzimdir. Değeri 49.0 U/L'dir. Normal aralığı < 40,0 U/L'dir. Değeri yüksek."
+    },
+    {
+      "fact": "1751-7",
+      "text": "Albümin, kanda bulunan önemli bir proteindir. Değeri 2.8 g/dL'dir. Normal aralığı 3,5 – 5,0 g/dL'dir. Değeri düşük."
+    },
+    {
+      "fact": "1988-5",
+      "text": "CRP, vücuttaki iltihap hakkında bilgi verir. Değeri 7.5 mg/L'dir. Normal aralığı < 5,0 mg/L'dir. Değeri yüksek."
+    },
+    {
+      "fact": "2132-9",
+      "text": "B12 vitamini, sinir sistemi ve kan yapımı için önemli bir vitamdır. Değeri 1232.6 pg/mL'dir. Normal aralığı 200,0 – 900,0 pg/mL'dir. Değeri yüksek."
+    }
+  ],
+  "rejected": [],
+  "added": []
+}

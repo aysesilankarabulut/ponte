@@ -1,0 +1,60 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 76.6,
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"GENERAL\",\n      \"tr\": \"Lab sonuçlarından hangi parametrelerin normal dışı olduğu anlaşılabilir?\",\n      \"doc\": \"Aus den Laborwerten können welche Parameter außerhalb des Normalbereichs liegen?\"\n    },\n    {\n      \"fact\": \"718-7\",\n      \"tr\": \"Hemoglobin seviyeniz neden bu kadar yüksek?\",\n      \"doc\": \"Warum ist Ihr Hämoglobinwert so hoch?\"\n    },\n    {\n      \"fact\": \"4544-3\",\n      \"tr\": \"Hematokrit seviyeniz neden bu kadar düşük?\",\n      \"doc\": \"Warum ist Ihr Hämatokritwert so niedrig?\"\n    },\n    {\n      \"fact\": \"13457-7\",\n      \"tr\": \"LDL kolesterol seviyeniz neden bu kadar yüksek?\",\n      \"doc\": \"Warum ist Ihr LDL-Cholesterinwert so hoch?\"\n    },\n    {\n      \"fact\": \"2823-3\",\n      \"tr\": \"Potasyum seviyeniz neden bu kadar düşük?\",\n      \"doc\": \"Warum ist Ihr Kaliumwert so niedrig?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından hangi parametrelerin normal dışı olduğu anlaşılabilir?",
+      "doc": "Aus den Laborwerten können welche Parameter außerhalb des Normalbereichs liegen?"
+    },
+    {
+      "fact": "718-7",
+      "tr": "Hemoglobin seviyeniz neden bu kadar yüksek?",
+      "doc": "Warum ist Ihr Hämoglobinwert so hoch?"
+    },
+    {
+      "fact": "4544-3",
+      "tr": "Hematokrit seviyeniz neden bu kadar düşük?",
+      "doc": "Warum ist Ihr Hämatokritwert so niedrig?"
+    },
+    {
+      "fact": "13457-7",
+      "tr": "LDL kolesterol seviyeniz neden bu kadar yüksek?",
+      "doc": "Warum ist Ihr LDL-Cholesterinwert so hoch?"
+    },
+    {
+      "fact": "2823-3",
+      "tr": "Potasyum seviyeniz neden bu kadar düşük?",
+      "doc": "Warum ist Ihr Kaliumwert so niedrig?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından hangi parametrelerin normal dışı olduğu anlaşılabilir?",
+      "doc": "Aus den Laborwerten können welche Parameter außerhalb des Normalbereichs liegen?"
+    },
+    {
+      "fact": "718-7",
+      "tr": "Hemoglobin seviyeniz neden bu kadar yüksek?",
+      "doc": "Warum ist Ihr Hämoglobinwert so hoch?"
+    },
+    {
+      "fact": "4544-3",
+      "tr": "Hematokrit seviyeniz neden bu kadar düşük?",
+      "doc": "Warum ist Ihr Hämatokritwert so niedrig?"
+    },
+    {
+      "fact": "13457-7",
+      "tr": "LDL kolesterol seviyeniz neden bu kadar yüksek?",
+      "doc": "Warum ist Ihr LDL-Cholesterinwert so hoch?"
+    },
+    {
+      "fact": "2823-3",
+      "tr": "Potasyum seviyeniz neden bu kadar düşük?",
+      "doc": "Warum ist Ihr Kaliumwert so niedrig?"
+    }
+  ]
+}

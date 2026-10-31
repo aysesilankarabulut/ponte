@@ -1,0 +1,63 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 40.3,
+  "chosen": [
+    "2951-2",
+    "718-7",
+    "17861-6"
+  ],
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"2951-2\",\n      \"tr\": \"Natrium değerimin yüksek çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"Warum ist mein Natriumwert erhöht?\"\n    },\n    {\n      \"fact\": \"718-7\",\n      \"tr\": \"Hemoglobin değerimin yüksek çıkmasının olası sebepleri nelerdir?\",\n      \"doc\": \"Warum ist mein Hämoglobinwert erhöht?\"\n    },\n    {\n      \"fact\": \"17861-6\",\n      \"tr\": \"Kalsiyum değerimin düşük çıkmasının nedenleri nelerdir?\",\n      \"doc\": \"Warum ist mein Calciumwert niedrig?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "2951-2",
+      "tr": "Natrium değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Warum ist mein Natriumwert erhöht?"
+    },
+    {
+      "fact": "718-7",
+      "tr": "Hemoglobin değerimin yüksek çıkmasının olası sebepleri nelerdir?",
+      "doc": "Warum ist mein Hämoglobinwert erhöht?"
+    },
+    {
+      "fact": "17861-6",
+      "tr": "Kalsiyum değerimin düşük çıkmasının nedenleri nelerdir?",
+      "doc": "Warum ist mein Calciumwert niedrig?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "2951-2",
+      "tr": "Natrium değerimin yüksek çıkmasının nedenleri nelerdir?",
+      "doc": "Warum ist mein Natriumwert erhöht?"
+    },
+    {
+      "fact": "718-7",
+      "tr": "Hemoglobin değerimin yüksek çıkmasının olası sebepleri nelerdir?",
+      "doc": "Warum ist mein Hämoglobinwert erhöht?"
+    },
+    {
+      "fact": "17861-6",
+      "tr": "Kalsiyum değerimin düşük çıkmasının nedenleri nelerdir?",
+      "doc": "Warum ist mein Calciumwert niedrig?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Bu sonuçlar için bir tedaviye ya da ilaca ihtiyacım var mı?",
+      "doc": "Brauche ich wegen dieser Ergebnisse eine Behandlung oder Medikamente?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Beslenmemde ya da yaşam tarzımda bir değişiklik yapmalı mıyım?",
+      "doc": "Sollte ich meine Ernährung oder meinen Lebensstil ändern?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Tahlili ne zaman tekrarlamalıyım?",
+      "doc": "Wann sollte ich die Untersuchung wiederholen?"
+    }
+  ]
+}

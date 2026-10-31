@@ -1,0 +1,57 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 96.0,
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"GENERAL\",\n      \"tr\": \"Lab sonuçlarından ne anlama geliyor?\",\n      \"doc\": \"¿Qué significa esto en los resultados de laboratorio?\"\n    },\n    {\n      \"fact\": \"13457-7\",\n      \"tr\": \"LDL kolesterol seviyesi 160.5 mg/dL'dir. Bu yüksek bir seviye mi?\",\n      \"doc\": \"¿El nivel de colesterol LDL es de 160.5 mg/dL? ¿Es esto un nivel alto?\"\n    },\n    {\n      \"fact\": \"2160-0\",\n      \"tr\": \"Kreatinin seviyesi 0.4 mg/dL'dir. Bu düşük bir seviye mi?\",\n      \"doc\": \"¿El nivel de creatinina es de 0.4 mg/dL? ¿Es esto un nivel bajo?\"\n    },\n    {\n      \"fact\": \"1742-6\",\n      \"tr\": \"ALT seviyesi 45.5 U/L'dir. Bu yüksek bir seviye mi?\",\n      \"doc\": \"¿El nivel de ALT es de 45.5 U/L? ¿Es esto un nivel alto?\"\n    },\n    {\n      \"fact\": \"62292-8\",\n      \"tr\": \"D vitamini seviyesi 104.0 ng/mL'dir. Bu yüksek bir seviye mi?\",\n      \"doc\": \"¿El nivel de vitamina D es de 104.0 ng/mL? ¿Es esto un nivel alto?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından ne anlama geliyor?",
+      "doc": "¿Qué significa esto en los resultados de laboratorio?"
+    }
+  ],
+  "rejected": [
+    {
+      "fact": "13457-7",
+      "tr": "LDL kolesterol seviyesi 160.5 mg/dL'dir. Bu yüksek bir seviye mi?",
+      "doc": "¿El nivel de colesterol LDL es de 160.5 mg/dL? ¿Es esto un nivel alto?",
+      "problem": "tr: birden fazla cümle"
+    },
+    {
+      "fact": "2160-0",
+      "tr": "Kreatinin seviyesi 0.4 mg/dL'dir. Bu düşük bir seviye mi?",
+      "doc": "¿El nivel de creatinina es de 0.4 mg/dL? ¿Es esto un nivel bajo?",
+      "problem": "tr: birden fazla cümle"
+    },
+    {
+      "fact": "1742-6",
+      "tr": "ALT seviyesi 45.5 U/L'dir. Bu yüksek bir seviye mi?",
+      "doc": "¿El nivel de ALT es de 45.5 U/L? ¿Es esto un nivel alto?",
+      "problem": "tr: birden fazla cümle"
+    },
+    {
+      "fact": "62292-8",
+      "tr": "D vitamini seviyesi 104.0 ng/mL'dir. Bu yüksek bir seviye mi?",
+      "doc": "¿El nivel de vitamina D es de 104.0 ng/mL? ¿Es esto un nivel alto?",
+      "problem": "tr: birden fazla cümle"
+    }
+  ],
+  "final": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından ne anlama geliyor?",
+      "doc": "¿Qué significa esto en los resultados de laboratorio?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Bu sonuçlar için bir tedaviye ya da ilaca ihtiyacım var mı?",
+      "doc": "¿Necesito algún tratamiento o medicamento por estos resultados?"
+    },
+    {
+      "fact": "GENERAL",
+      "by": "code",
+      "tr": "Beslenmemde ya da yaşam tarzımda bir değişiklik yapmalı mıyım?",
+      "doc": "¿Debo cambiar algo en mi alimentación o en mi estilo de vida?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model": "llama3.1:8b",
+  "seconds": 83.7,
+  "raw": "{\n  \"questions\": [\n    {\n      \"fact\": \"GENERAL\",\n      \"tr\": \"Lab sonuçlarından ne anlama geliyor?\",\n      \"doc\": \"Che cosa significano i risultati del laboratorio?\"\n    },\n    {\n      \"fact\": \"789-8\",\n      \"tr\": \"Eritrosit (kırmızı kan hücresi) yüksekliği neye neden olabilir?\",\n      \"doc\": \"Perché l'eritrocito è alto?\"\n    },\n    {\n      \"fact\": \"2951-2\",\n      \"tr\": \"Sodyum seviyesi yüksekliği neye neden olabilir?\",\n      \"doc\": \"Perché il sodio è alto?\"\n    },\n    {\n      \"fact\": \"2276-4\",\n      \"tr\": \"Ferritin seviyesi yüksekliği neye neden olabilir?\",\n      \"doc\": \"Perché la ferritina è alta?\"\n    },\n    {\n      \"fact\": \"6690-2\",\n      \"tr\": \"Lökosit (beyaz kan hücresi) seviyesi düşük olduğu durumlarda ne yapılmalıdır?\",\n      \"doc\": \"Cosa fare quando i leucociti sono bassi?\"\n    }\n  ]\n}",
+  "accepted": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından ne anlama geliyor?",
+      "doc": "Che cosa significano i risultati del laboratorio?"
+    },
+    {
+      "fact": "789-8",
+      "tr": "Eritrosit (kırmızı kan hücresi) yüksekliği neye neden olabilir?",
+      "doc": "Perché l'eritrocito è alto?"
+    },
+    {
+      "fact": "2951-2",
+      "tr": "Sodyum seviyesi yüksekliği neye neden olabilir?",
+      "doc": "Perché il sodio è alto?"
+    },
+    {
+      "fact": "2276-4",
+      "tr": "Ferritin seviyesi yüksekliği neye neden olabilir?",
+      "doc": "Perché la ferritina è alta?"
+    },
+    {
+      "fact": "6690-2",
+      "tr": "Lökosit (beyaz kan hücresi) seviyesi düşük olduğu durumlarda ne yapılmalıdır?",
+      "doc": "Cosa fare quando i leucociti sono bassi?"
+    }
+  ],
+  "rejected": [],
+  "final": [
+    {
+      "fact": "GENERAL",
+      "tr": "Lab sonuçlarından ne anlama geliyor?",
+      "doc": "Che cosa significano i risultati del laboratorio?"
+    },
+    {
+      "fact": "789-8",
+      "tr": "Eritrosit (kırmızı kan hücresi) yüksekliği neye neden olabilir?",
+      "doc": "Perché l'eritrocito è alto?"
+    },
+    {
+      "fact": "2951-2",
+      "tr": "Sodyum seviyesi yüksekliği neye neden olabilir?",
+      "doc": "Perché il sodio è alto?"
+    },
+    {
+      "fact": "2276-4",
+      "tr": "Ferritin seviyesi yüksekliği neye neden olabilir?",
+      "doc": "Perché la ferritina è alta?"
+    },
+    {
+      "fact": "6690-2",
+      "tr": "Lökosit (beyaz kan hücresi) seviyesi düşük olduğu durumlarda ne yapılmalıdır?",
+      "doc": "Cosa fare quando i leucociti sono bassi?"
+    }
+  ]
+}
