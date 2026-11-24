@@ -105,7 +105,7 @@ def ask_model(model, facts, codes, doc_lang, doc_names):
                     "range": facts[c]["range"],
                     "status": "low" if facts[c]["flag"] == "L" else "high"}
                 for c in codes}
-    body = {"model": model, "stream": False, "format": answer_schema(abnormal.keys()),
+    body = {"model": model, "stream": False, "keep_alive": "30m", "format": answer_schema(abnormal.keys()),
             "messages": [{"role": "system",
                           "content": INSTRUCTIONS.format(doc_lang=LANG_NAMES[doc_lang])},
                          {"role": "user", "content": json.dumps(abnormal, ensure_ascii=False)}],

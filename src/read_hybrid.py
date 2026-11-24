@@ -75,7 +75,7 @@ def ask_model(model, instructions, text, schema):
     """Ollama'ya numaralı satırları gönderir; cevabın JSON şemasına uymasını zorunlu kılar."""
     body = {
         "model": model,
-        "stream": False,
+        "stream": False, "keep_alive": "30m",
         "format": schema,
         "messages": [
             {"role": "system", "content": instructions},

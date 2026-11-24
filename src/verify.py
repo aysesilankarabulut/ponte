@@ -162,11 +162,16 @@ SECOND_PERSON_DOC = {
 }
 
 
+# "değerin", "seviyeni", "sonucun": samimi 2. tekil kişi ("senin değerin"); hasta "değerim" demeli
+INFORMAL_TR = re.compile(r"\b(değer(in|ini|inde)|seviye(n|ni|nin)|sonuc(un|unu))\b")
+
+
 def wrong_person(text, lang):
     """Soru hastanın ağzından değil de doktorun ağzından mı yazılmış?"""
     if lang == "tr":
-        return any(SECOND_PERSON_TR.search(w) and not POLITE_TR.search(w)
-                   for w in re.findall(r"\w+", tr_lower(text)))
+        t = tr_lower(text)
+        return INFORMAL_TR.search(t) is not None or any(
+            SECOND_PERSON_TR.search(w) and not POLITE_TR.search(w) for w in re.findall(r"\w+", t))
     return re.search(SECOND_PERSON_DOC[lang], text.lower()) is not None
 
 

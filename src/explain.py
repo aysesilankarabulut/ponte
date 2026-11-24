@@ -106,18 +106,35 @@ def answer_schema(codes):
         "required": ["fact", "text"]}}}, "required": ["sentences"]}
 
 
-def ask_model(model, facts):
+def request_body(model, facts, stream=False):
+    """Modele gidecek isteği kurar: sadece normal dışı sonuçlar ve durumları."""
     abnormal = {c: {k: f[k] for k in ("name", "what", "value", "unit", "range")} |
                 {"durum": f.get("level") or ("düşük" if f["flag"] == "L" else "yüksek")}
                 for c, f in facts.items() if f["flag"] != "N"}
-    body = {"model": model, "stream": False, "format": answer_schema(abnormal.keys()),
+    return {"model": model, "stream": stream, "keep_alive": "30m", "format": answer_schema(abnormal.keys()),
             "messages": [{"role": "system", "content": INSTRUCTIONS},
                          {"role": "user", "content": json.dumps(abnormal, ensure_ascii=False)}],
             "options": {"temperature": 0, "num_ctx": 4096}}
-    req = urllib.request.Request(OLLAMA_URL, data=json.dumps(body).encode("utf-8"),
+
+
+def ask_model(model, facts):
+    req = urllib.request.Request(OLLAMA_URL, data=json.dumps(request_body(model, facts)).encode("utf-8"),
                                  headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=1200) as resp:
         return json.loads(resp.read())["message"]["content"]
+
+
+def stream_model(model, facts):
+    """Modelin cevabını parça parça verir (yazdıkça). Her parça bir metin parçasıdır."""
+    req = urllib.request.Request(OLLAMA_URL, data=json.dumps(request_body(model, facts, True)).encode("utf-8"),
+                                 headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=1200) as resp:
+        for line in resp:
+            if line.strip():
+                chunk = json.loads(line)
+                yield chunk.get("message", {}).get("content", "")
+                if chunk.get("done"):
+                    break
 
 
 def render(facts, accepted, added):

@@ -163,3 +163,11 @@ def test_borderline_fallback_sentence():
     accepted, rejected, added = verify([], TG)
     assert "sınırda yüksek" in added[0]["text"]
     assert check_sentence(added[0], TG) is None
+
+
+def test_informal_you_is_caught():
+    # gerçek model sorusu: "ALP değerin yüksek çıkmasının nedenleri nelerdir?"
+    bad = q("718-7", "Hemoglobin değerin düşük çıkmasının nedenleri nelerdir?", "Perché la mia emoglobina è bassa?")
+    assert check_question(bad, FACTS, "it") == "tr: yanlış kişi"
+    good = q("718-7", "Hemoglobin değerimin düşük çıkmasının nedenleri nelerdir?", "Perché la mia emoglobina è bassa?")
+    assert check_question(good, FACTS, "it") is None
