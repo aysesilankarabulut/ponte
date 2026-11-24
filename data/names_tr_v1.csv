@@ -1,0 +1,31 @@
+loinc,name_tr,what_tr
+718-7,Hemoglobin,kırmızı kan hücrelerinde oksijen taşıyan protein
+789-8,Eritrosit (kırmızı kan hücresi),oksijen taşıyan kan hücrelerinin sayısı
+4544-3,Hematokrit,kanın ne kadarının kırmızı kan hücrelerinden oluştuğunu gösterir
+787-2,MCV,kırmızı kan hücrelerinin ortalama büyüklüğü
+6690-2,Lökosit (beyaz kan hücresi),vücudu mikroplara karşı koruyan hücrelerin sayısı
+777-3,Trombosit,kanın pıhtılaşmasına yardım eden hücreler
+2498-4,Demir,kandaki demir miktarı
+2276-4,Ferritin,vücuttaki demir deposunu gösterir
+2345-7,Glukoz (kan şekeri),kandaki şeker miktarı
+4548-4,HbA1c,son birkaç ayın ortalama kan şekerini gösterir
+2093-3,Total kolesterol,kandaki toplam kolesterol miktarı
+2085-9,HDL kolesterol,halk arasında iyi kolesterol olarak bilinir
+13457-7,LDL kolesterol,halk arasında kötü kolesterol olarak bilinir
+2571-8,Trigliserit,kandaki bir tür yağ
+2160-0,Kreatinin,böbreklerin çalışması hakkında bilgi verir
+3084-1,Ürik asit,vücudun ürettiği bir atık madde
+2951-2,Sodyum,vücuttaki su ve tuz dengesiyle ilgili bir mineral
+2823-3,Potasyum,kasların ve kalbin çalışması için önemli bir mineral
+17861-6,Kalsiyum,kemikler ve kaslar için önemli bir mineral
+1742-6,ALT,karaciğer hakkında bilgi veren bir enzim
+1920-8,AST,karaciğer ve kaslar hakkında bilgi veren bir enzim
+2324-2,GGT,karaciğer ve safra yolları hakkında bilgi veren bir enzim
+6768-6,Alkalen fosfataz,karaciğer ve kemikler hakkında bilgi veren bir enzim
+1975-2,Total bilirubin,kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir madde
+1751-7,Albümin,kanda bulunan önemli bir protein
+3016-3,TSH,tiroid bezinin çalışmasını yöneten hormon
+3024-7,Serbest T4,tiroid bezinin ürettiği hormon
+1988-5,CRP,vücuttaki iltihap hakkında bilgi verir
+62292-8,D vitamini,kemik sağlığı için önemli bir vitamin
+2132-9,B12 vitamini,sinir sistemi ve kan yapımı için önemli bir vitamin

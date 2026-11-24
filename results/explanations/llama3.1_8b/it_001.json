@@ -1,6 +1,6 @@
 {
   "model": "llama3.1:8b",
-  "seconds": 148.2,
+  "seconds": 446.8,
   "facts": {
     "718-7": {
       "name": "Hemoglobin",
@@ -10,17 +10,23 @@
       "low": 12.0,
       "high": 16.0,
       "range": "12,0 – 16,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "789-8": {
-      "name": "Eritrosit (kırmızı kan hücresi)",
+      "name": "Eritrosit (RBC, kırmızı kan hücresi)",
       "what": "oksijen taşıyan kan hücrelerinin sayısı",
       "value": 8.1,
       "unit": "10^6/µL",
       "low": 4.0,
       "high": 5.5,
       "range": "4,0 – 5,5",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": true,
+      "urgent": false
     },
     "4544-3": {
       "name": "Hematokrit",
@@ -30,7 +36,10 @@
       "low": 36.0,
       "high": 48.0,
       "range": "36,0 – 48,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "787-2": {
       "name": "MCV",
@@ -40,17 +49,23 @@
       "low": 80.0,
       "high": 100.0,
       "range": "80,0 – 100,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": false,
+      "urgent": false
     },
     "6690-2": {
       "name": "Lökosit (beyaz kan hücresi)",
-      "what": "vücudu mikroplara karşı koruyan hücrelerin sayısı",
+      "what": "vücudun bağışıklığını sağlayan hücrelerin sayısı",
       "value": 2.6,
       "unit": "10^3/µL",
       "low": 4.0,
       "high": 10.0,
       "range": "4,0 – 10,0",
-      "flag": "L"
+      "flag": "L",
+      "level": "düşük",
+      "sex_specific": false,
+      "urgent": false
     },
     "777-3": {
       "name": "Trombosit",
@@ -60,17 +75,23 @@
       "low": 150.0,
       "high": 450.0,
       "range": "150,0 – 450,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2498-4": {
       "name": "Demir",
-      "what": "kandaki demir miktarı",
+      "what": "kandaki serbest demir miktarı",
       "value": 122.5,
       "unit": "µg/dL",
       "low": 50.0,
       "high": 170.0,
       "range": "50,0 – 170,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "2276-4": {
       "name": "Ferritin",
@@ -80,17 +101,23 @@
       "low": 15.0,
       "high": 150.0,
       "range": "15,0 – 150,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": true,
+      "urgent": false
     },
     "2345-7": {
-      "name": "Glukoz (kan şekeri)",
+      "name": "Glikoz (açlık kan şekeri)",
       "what": "kandaki şeker miktarı",
       "value": 136.6,
       "unit": "mg/dL",
       "low": 70.0,
       "high": 100.0,
       "range": "70,0 – 100,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": false,
+      "urgent": false
     },
     "4548-4": {
       "name": "HbA1c",
@@ -100,7 +127,10 @@
       "low": null,
       "high": 5.7,
       "range": "< 5,7",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2093-3": {
       "name": "Total kolesterol",
@@ -110,7 +140,10 @@
       "low": null,
       "high": 200.0,
       "range": "< 200,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2085-9": {
       "name": "HDL kolesterol",
@@ -120,7 +153,10 @@
       "low": 40.0,
       "high": null,
       "range": "> 40,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "13457-7": {
       "name": "LDL kolesterol",
@@ -130,27 +166,36 @@
       "low": null,
       "high": 130.0,
       "range": "< 130,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2571-8": {
       "name": "Trigliserit",
-      "what": "kandaki bir tür yağ",
+      "what": "kanda dolaşan temel yağ türü",
       "value": 137.1,
       "unit": "mg/dL",
       "low": null,
       "high": 150.0,
       "range": "< 150,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2160-0": {
       "name": "Kreatinin",
-      "what": "böbreklerin çalışması hakkında bilgi verir",
+      "what": "kas kütlesiyle ilişkili bir madde; böbreklerin çalışması hakkında bilgi verir",
       "value": 1.0,
       "unit": "mg/dL",
       "low": 0.5,
       "high": 1.1,
       "range": "0,5 – 1,1",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "3084-1": {
       "name": "Ürik asit",
@@ -160,27 +205,36 @@
       "low": 3.0,
       "high": 7.0,
       "range": "3,0 – 7,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "2951-2": {
       "name": "Sodyum",
-      "what": "vücuttaki su ve tuz dengesiyle ilgili bir mineral",
+      "what": "vücudun sıvı dengesini, tansiyonu ve kas-sinir çalışmasını düzenleyen temel mineral",
       "value": 187.0,
       "unit": "mmol/L",
       "low": 136.0,
       "high": 145.0,
       "range": "136,0 – 145,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": false,
+      "urgent": false
     },
     "2823-3": {
       "name": "Potasyum",
-      "what": "kasların ve kalbin çalışması için önemli bir mineral",
+      "what": "kalp ritmi ve kas çalışması için en temel minerallerden biri",
       "value": 4.4,
       "unit": "mmol/L",
       "low": 3.5,
       "high": 5.1,
       "range": "3,5 – 5,1",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "17861-6": {
       "name": "Kalsiyum",
@@ -190,7 +244,10 @@
       "low": 8.5,
       "high": 10.5,
       "range": "8,5 – 10,5",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "1742-6": {
       "name": "ALT",
@@ -200,7 +257,10 @@
       "low": null,
       "high": 40.0,
       "range": "< 40,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "1920-8": {
       "name": "AST",
@@ -210,7 +270,10 @@
       "low": null,
       "high": 40.0,
       "range": "< 40,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "2324-2": {
       "name": "GGT",
@@ -220,17 +283,23 @@
       "low": null,
       "high": 50.0,
       "range": "< 50,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": true,
+      "urgent": false
     },
     "6768-6": {
-      "name": "Alkalen fosfataz",
+      "name": "Alkalen fosfataz (ALP)",
       "what": "karaciğer ve kemikler hakkında bilgi veren bir enzim",
       "value": 169.7,
       "unit": "U/L",
       "low": 40.0,
       "high": 130.0,
       "range": "40,0 – 130,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": false,
+      "urgent": false
     },
     "1975-2": {
       "name": "Total bilirubin",
@@ -240,17 +309,23 @@
       "low": 0.3,
       "high": 1.2,
       "range": "0,3 – 1,2",
-      "flag": "L"
+      "flag": "L",
+      "level": "düşük",
+      "sex_specific": false,
+      "urgent": false
     },
     "1751-7": {
       "name": "Albümin",
-      "what": "kanda bulunan önemli bir protein",
+      "what": "kandaki sıvı dengesini sağlayan temel proteinlerden biri",
       "value": 5.0,
       "unit": "g/dL",
       "low": 3.5,
       "high": 5.0,
       "range": "3,5 – 5,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "3016-3": {
       "name": "TSH",
@@ -260,27 +335,36 @@
       "low": 0.4,
       "high": 4.0,
       "range": "0,4 – 4,0",
-      "flag": "H"
+      "flag": "H",
+      "level": "yüksek",
+      "sex_specific": false,
+      "urgent": false
     },
     "3024-7": {
       "name": "Serbest T4",
-      "what": "tiroid bezinin ürettiği hormon",
+      "what": "tiroid bezinin ürettiği ve metabolizma hızını düzenleyen hormon",
       "value": 1.2,
       "unit": "ng/dL",
       "low": 0.9,
       "high": 1.7,
       "range": "0,9 – 1,7",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "1988-5": {
       "name": "CRP",
-      "what": "vücuttaki iltihap hakkında bilgi verir",
+      "what": "vücutta iltihap, doku hasarı ve stres durumlarında artan bir protein",
       "value": 3.7,
       "unit": "mg/L",
       "low": null,
       "high": 5.0,
       "range": "< 5,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     },
     "62292-8": {
       "name": "D vitamini",
@@ -290,7 +374,10 @@
       "low": 30.0,
       "high": 100.0,
       "range": "30,0 – 100,0",
-      "flag": "L"
+      "flag": "L",
+      "level": "sınırda düşük",
+      "sex_specific": false,
+      "urgent": false
     },
     "2132-9": {
       "name": "B12 vitamini",
@@ -300,96 +387,55 @@
       "low": 200.0,
       "high": 900.0,
       "range": "200,0 – 900,0",
-      "flag": "N"
+      "flag": "N",
+      "level": null,
+      "sex_specific": false,
+      "urgent": false
     }
   },
-  "raw": "{\"sentences\": [\n  {\"fact\": \"789-8\", \"text\": \"Eritrosit, oksijen taşıyan kan hücrelerinin sayısını gösterir. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) altında, yani yüksek.\"},\n  {\"fact\": \"787-2\", \"text\": \"MCV, kırmızı kan hücrelerinin ortalama büyüklüğünü gösterir. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) altında, yani yüksek.\"},\n  {\"fact\": \"6690-2\", \"text\": \"Lökosit, vücutta mikroplara karşı koruyan hücrelerin sayısını gösterir. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük.\"},\n  {\"fact\": \"2276-4\", \"text\": \"Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) altında, yani yüksek.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Glukoz, kandaki şeker miktarını gösterir. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) altında, yani yüksek.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir minerali gösterir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) altında, yani yüksek.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimi gösterir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) altında, yani yüksek.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir maddeyi gösterir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük.\"},\n  {\"fact\": \"3016-3\", \"text\": \"TSH, tiroid bezinin çalışmasını yöneten hormonu gösterir. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) altında, yani yüksek.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini, kemik sağlığı için önemli bir vitaminini gösterir. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani düşük.\"}\n]}",
+  "raw": "{\"sentences\": [\n  {\"fact\": \"789-8\", \"text\": \"Eritrosit, oksijen taşıyan kan hücrelerinin sayısıdır. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) üstünde, yani yüksek.\"},\n  {\"fact\": \"787-2\", \"text\": \"MCV, kırmızı kan hücrelerinin ortalama büyüklüğüdür. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"6690-2\", \"text\": \"Lökosit, vücuttaki bağışıklık hücrelerinin sayısıdır. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük.\"},\n  {\"fact\": \"2276-4\", \"text\": \"Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"2345-7\", \"text\": \"Glikoz, kandaki şeker miktarıdır. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"2951-2\", \"text\": \"Sodyum, vücuttaki sıvı dengesini ve tansiyonu düzenleyen bir mineraldir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"6768-6\", \"text\": \"Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"1975-2\", \"text\": \"Total bilirubin, karaciğerle ilgili bir maddendir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük.\"},\n  {\"fact\": \"3016-3\", \"text\": \"TSH, tiroid bezinin çalışmasını yöneten bir hormondur. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) üstünde, yani yüksek.\"},\n  {\"fact\": \"62292-8\", \"text\": \"D vitamini, kemik sağlığı için önemli bir vitamdır. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani sınırda düşük.\"}\n]}",
   "accepted": [
     {
+      "fact": "789-8",
+      "text": "Eritrosit, oksijen taşıyan kan hücrelerinin sayısıdır. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) üstünde, yani yüksek."
+    },
+    {
+      "fact": "787-2",
+      "text": "MCV, kırmızı kan hücrelerinin ortalama büyüklüğüdür. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) üstünde, yani yüksek."
+    },
+    {
       "fact": "6690-2",
-      "text": "Lökosit, vücutta mikroplara karşı koruyan hücrelerin sayısını gösterir. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük."
+      "text": "Lökosit, vücuttaki bağışıklık hücrelerinin sayısıdır. Değeriniz 2,6 ile referans aralığının (4,0 – 10,0) altında, yani düşük."
+    },
+    {
+      "fact": "2276-4",
+      "text": "Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) üstünde, yani yüksek."
+    },
+    {
+      "fact": "2345-7",
+      "text": "Glikoz, kandaki şeker miktarıdır. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) üstünde, yani yüksek."
+    },
+    {
+      "fact": "2951-2",
+      "text": "Sodyum, vücuttaki sıvı dengesini ve tansiyonu düzenleyen bir mineraldir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) üstünde, yani yüksek."
+    },
+    {
+      "fact": "6768-6",
+      "text": "Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimdir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) üstünde, yani yüksek."
     },
     {
       "fact": "1975-2",
-      "text": "Total bilirubin, kırmızı kan hücreleri parçalanınca oluşan ve karaciğerle ilgili bir maddeyi gösterir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük."
+      "text": "Total bilirubin, karaciğerle ilgili bir maddendir. Değeriniz 0,2 ile referans aralığının (0,3 – 1,2) altında, yani düşük."
+    },
+    {
+      "fact": "3016-3",
+      "text": "TSH, tiroid bezinin çalışmasını yöneten bir hormondur. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) üstünde, yani yüksek."
     },
     {
       "fact": "62292-8",
-      "text": "D vitamini, kemik sağlığı için önemli bir vitaminini gösterir. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani düşük."
+      "text": "D vitamini, kemik sağlığı için önemli bir vitamdır. Değeriniz 29,4 ile referans aralığının (30,0 – 100,0) altında, yani sınırda düşük."
     }
   ],
-  "rejected": [
-    {
-      "fact": "789-8",
-      "text": "Eritrosit, oksijen taşıyan kan hücrelerinin sayısını gösterir. Değeriniz 8,1 ile referans aralığının (4,0 – 5,5) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "787-2",
-      "text": "MCV, kırmızı kan hücrelerinin ortalama büyüklüğünü gösterir. Değeriniz 114,8 ile referans aralığının (80,0 – 100,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "2276-4",
-      "text": "Ferritin, vücuttaki demir deposunu gösterir. Değeriniz 203,6 ile referans aralığının (15,0 – 150,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "2345-7",
-      "text": "Glukoz, kandaki şeker miktarını gösterir. Değeriniz 136,6 ile referans aralığının (70,0 – 100,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "2951-2",
-      "text": "Sodyum, vücuttaki su ve tuz dengesiyle ilgili bir minerali gösterir. Değeriniz 187,0 ile referans aralığının (136,0 – 145,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "6768-6",
-      "text": "Alkalen fosfataz, karaciğer ve kemikler hakkında bilgi veren bir enzimi gösterir. Değeriniz 169,7 ile referans aralığının (40,0 – 130,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    },
-    {
-      "fact": "3016-3",
-      "text": "TSH, tiroid bezinin çalışmasını yöneten hormonu gösterir. Değeriniz 4,8 ile referans aralığının (0,4 – 4,0) altında, yani yüksek.",
-      "problem": "yön hatası"
-    }
-  ],
-  "added": [
-    {
-      "fact": "789-8",
-      "text": "Eritrosit (kırmızı kan hücresi) değeriniz 8,1 10^6/µL; bu, referans aralığının (4,0 – 5,5) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "787-2",
-      "text": "MCV değeriniz 114,8 fL; bu, referans aralığının (80,0 – 100,0) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "2276-4",
-      "text": "Ferritin değeriniz 203,6 ng/mL; bu, referans aralığının (15,0 – 150,0) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "2345-7",
-      "text": "Glukoz (kan şekeri) değeriniz 136,6 mg/dL; bu, referans aralığının (70,0 – 100,0) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "2951-2",
-      "text": "Sodyum değeriniz 187,0 mmol/L; bu, referans aralığının (136,0 – 145,0) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "6768-6",
-      "text": "Alkalen fosfataz değeriniz 169,7 U/L; bu, referans aralığının (40,0 – 130,0) üstünde.",
-      "by": "code"
-    },
-    {
-      "fact": "3016-3",
-      "text": "TSH değeriniz 4,8 mIU/L; bu, referans aralığının (0,4 – 4,0) üstünde.",
-      "by": "code"
-    }
-  ]
+  "rejected": [],
+  "added": []
 }

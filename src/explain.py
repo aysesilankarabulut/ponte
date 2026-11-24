@@ -25,6 +25,10 @@ from generate_report import LANGS
 from read_llm import OLLAMA_URL
 from verify import fmt, verify
 
+SEX_NOTE = ("Bu tahlillerin referans aralığı kadın ve erkekte farklı olabilir; "
+            "sonuçlarınızı doktorunuzla birlikte değerlendirin.")
+EMERGENCY_NOTE = ("Şikâyetlerinize bilinç bulanıklığı gibi acil bir belirti eşlik ediyorsa "
+                  "beklemeden acil servise başvurun.")
 DISCLAIMER = ("Bu açıklama yalnızca belgeyi anlamanıza yardımcı olmak içindir; "
               "teşhis ya da tedavi önerisi değildir. Sonuçlarınızı mutlaka doktorunuzla konuşun.")
 
@@ -35,14 +39,44 @@ def range_text(low, high):
     return f"< {fmt(high)}" if high is not None else f"> {fmt(low)}"
 
 
-def build_facts(results, names):
+def load_notes(path="data/clinical_notes.csv"):
+    """Uzman değerlendirmesinden gelen klinik notlar: sınırda kategoriler ve cinsiyete bağlı aralıklar."""
+    if not Path(path).exists():
+        return {}
+    notes = pd.read_csv(path, dtype={"loinc": str}).set_index("loinc")
+    return {c: {k: (None if pd.isna(v) else float(v)) for k, v in row.items()}
+            for c, row in notes.iterrows()}
+
+
+NOTES = load_notes()
+URGENT_FACTOR = 2.0       # değer, üst sınırın en az 2 katıysa: "doktorunuza en kısa sürede danışın"
+
+
+def level_of(value, flag, note):
+    """'düşük', 'yüksek', 'sınırda düşük' ya da 'sınırda yüksek' (normal değerler için None)."""
+    if flag == "N":
+        return None
+    if flag == "H":
+        b = note.get("borderline_high_below")
+        return "sınırda yüksek" if b is not None and value < b else "yüksek"
+    b = note.get("borderline_low_from")
+    return "sınırda düşük" if b is not None and value >= b else "düşük"
+
+
+def build_facts(results, names, notes=None):
     """Okunan satırları, modele ve doğrulayıcıya verilecek 'gerçekler' listesine çevirir."""
+    notes = NOTES if notes is None else notes
     facts = {}
     for r in results:
         n = names[r["loinc"]]
+        note = notes.get(r["loinc"], {})
         facts[r["loinc"]] = {"name": n["name_tr"], "what": n["what_tr"], "value": r["value"],
                              "unit": r["unit"], "low": r["low"], "high": r["high"],
-                             "range": range_text(r["low"], r["high"]), "flag": r["flag"]}
+                             "range": range_text(r["low"], r["high"]), "flag": r["flag"],
+                             "level": level_of(r["value"], r["flag"], note),
+                             "sex_specific": bool(note.get("sex_specific")),
+                             "urgent": bool(r["flag"] == "H" and r["high"]
+                                            and r["value"] >= URGENT_FACTOR * r["high"])}
     return facts
 
 
@@ -50,8 +84,11 @@ INSTRUCTIONS = """Sen, laboratuvar sonuçlarını hastalara sade Türkçeyle aç
 Sana normal aralığın dışındaki sonuçlar JSON olarak verilecek. Bu sonuçların HİÇBİRİ normal değildir.
 Her sonuç için 1 ya da 2 kısa cümle yaz:
   - tahlilin ne olduğunu verilen "what" bilgisiyle basitçe anlat,
-  - "durum" alanındaki kelimeyi ("düşük" ya da "yüksek") cümlede mutlaka kullan.
-Örnek: "Hemoglobin, kırmızı kan hücrelerinde oksijen taşıyan proteindir. Değeriniz 10,2 g/dL ile referans aralığının (12,0 – 16,0) altında, yani düşük."
+  - "durum" alanındaki ifadeyi ("düşük", "yüksek", "sınırda düşük" ya da "sınırda yüksek") cümlede aynen kullan.
+Örnekler (düşük ve yüksek için ifadeler farklıdır):
+  "Hemoglobin, kırmızı kan hücrelerinde oksijen taşıyan proteindir. Değeriniz 10,2 g/dL ile referans aralığının (12,0 – 16,0) altında, yani düşük."
+  "ALT, karaciğer hakkında bilgi veren bir enzimdir. Değeriniz 58,4 U/L ile referans aralığının (< 40,0) üstünde, yani yüksek."
+  "Trigliserit, kanda dolaşan temel yağ türüdür. Değeriniz 183,4 mg/dL ile referans aralığının (< 150,0) üstünde, yani sınırda yüksek."
 Kurallar:
   - Hiçbir sonuca "normal" deme.
   - Sadece verilen sayıları, aynen yaz. Başka sayı yazma, yüzde ya da fark hesaplama.
@@ -71,7 +108,7 @@ def answer_schema(codes):
 
 def ask_model(model, facts):
     abnormal = {c: {k: f[k] for k in ("name", "what", "value", "unit", "range")} |
-                {"durum": "düşük" if f["flag"] == "L" else "yüksek"}
+                {"durum": f.get("level") or ("düşük" if f["flag"] == "L" else "yüksek")}
                 for c, f in facts.items() if f["flag"] != "N"}
     body = {"model": model, "stream": False, "format": answer_schema(abnormal.keys()),
             "messages": [{"role": "system", "content": INSTRUCTIONS},
@@ -86,6 +123,10 @@ def ask_model(model, facts):
 def render(facts, accepted, added):
     """Kullanıcıya gösterilecek metni kurar: önce normal dışılar, sonra normaller, en son uyarı."""
     lines = ["# Tahlil sonuçlarınızın açıklaması", ""]
+    urgent = [f["name"] for f in facts.values() if f.get("urgent")]
+    if urgent:
+        lines += [f"> **Önemli:** {', '.join(urgent)} değeriniz referans aralığının üst sınırının "
+                  f"iki katından fazla. Bu sonuçları doktorunuzla en kısa sürede konuşun.", ""]
     for code, f in facts.items():
         if f["flag"] == "N":
             continue
@@ -95,9 +136,18 @@ def render(facts, accepted, added):
             label += f" ({f['what']})"     # modelin cümlesi yoksa tahlilin ne olduğunu kod söyler
         lines.append(f"**{label}:** " + " ".join(mine))
         lines.append("")
+    low = [f["name"] for f in facts.values() if f["flag"] == "L"]
+    if low:   # uzman önerisi: ne kadar düşük olursa olsun doktora danışılmalı
+        lines += [f"**Referans aralığının altındaki değerleriniz** ({', '.join(low)}) için "
+                  f"doktorunuza danışmanız önerilir.", ""]
+    sex = [f["name"] for f in facts.values() if f["flag"] != "N" and f.get("sex_specific")]
+    if sex:
+        lines += [f"_{', '.join(sex)}: {SEX_NOTE}_", ""]
     normal = [f["name"] for f in facts.values() if f["flag"] == "N"]
     if normal:
         lines += ["Referans aralığında olan sonuçlarınız: " + ", ".join(normal) + ".", ""]
+    if any(f["flag"] != "N" for f in facts.values()):
+        lines += [f"**{EMERGENCY_NOTE}**", ""]
     lines += [f"_{DISCLAIMER}_"]
     return "\n".join(lines)
 

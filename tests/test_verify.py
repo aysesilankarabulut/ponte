@@ -140,3 +140,26 @@ def test_abnormal_called_normal_is_caught():
 def test_percent_from_range_is_not_a_normal_claim():
     text = "Hemoglobin değeriniz 10,2 g/dL ve normal aralığının altında, yani düşük."
     assert check_sentence(s("718-7", text), FACTS) is None
+
+
+def test_within_range_claim_is_caught():
+    # gerçek model cümlesi: "(40,0 – 130,0) arasında, yani düşük" (değer aralığın dışında)
+    facts = {"6768-6": {"name": "ALP", "value": 26.8, "unit": "U/L", "low": 40.0, "high": 130.0,
+                        "range": "40,0 – 130,0", "flag": "L"}}
+    text = "Değeriniz 26.8 U/L ile referans aralığının (40,0 – 130,0) arasında, yani düşük."
+    assert check_sentence(s("6768-6", text), facts) == "yön hatası"
+
+
+TG = {"2571-8": {"name": "Trigliserit", "value": 183.4, "unit": "mg/dL", "low": None, "high": 150.0,
+                 "range": "< 150,0", "flag": "H", "level": "sınırda yüksek"}}
+
+
+def test_borderline_must_be_said():
+    assert check_sentence(s("2571-8", "Trigliserit değeriniz 183,4 mg/dL ile yüksek."), TG) == "kategori hatası"
+    assert check_sentence(s("2571-8", "Trigliserit değeriniz 183,4 mg/dL ile sınırda yüksek."), TG) is None
+
+
+def test_borderline_fallback_sentence():
+    accepted, rejected, added = verify([], TG)
+    assert "sınırda yüksek" in added[0]["text"]
+    assert check_sentence(added[0], TG) is None

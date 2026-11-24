@@ -55,6 +55,7 @@ def stated_values(text, unit):
 
 # "Değeri normal aralığındadır" gibi "normal" iddiaları. "aralığından %20 yüksek" yakalanmaz.
 NORMAL_RE = re.compile(r"(normal|referans) (aralı(ğı|k)(nda|ta)|sınırlar(ı içinde|da))([dt][ıiuü]r)?\b"
+                       r"|aralı(ğı|k)\w*\s*\([^)]*\)\s*(arasında|içinde)"
                        r"|\bnormaldir\b|\bnormal (düzeyde|seviyede|değerde)\b")
 
 
@@ -97,14 +98,21 @@ def check_sentence(sentence, facts):
         return "yön hatası"
     if fact["flag"] != "N" and claims_normal(text):
         return "yön hatası"          # normal dışı bir değere "normal" demek: en tehlikeli hata
+    borderline = (fact.get("level") or "").startswith("sınırda")
+    says_borderline = "sınırda" in t
+    if claim and borderline != says_borderline:
+        return "kategori hatası"     # "sınırda yüksek" ile "yüksek" karıştırılmış (uzman önerisi)
     return None
 
 
 def fallback_sentence(fact):
     """Kodun kendi yazdığı güvenli cümle (model geçerli bir cümle yazamadığında)."""
     direction = "altında" if fact["flag"] == "L" else "üstünde"
-    return (f"{fact['name']} değeriniz {fmt(fact['value'])} {fact['unit']}; "
+    text = (f"{fact['name']} değeriniz {fmt(fact['value'])} {fact['unit']}; "
             f"bu, referans aralığının ({fact['range']}) {direction}.")
+    if (fact.get("level") or "").startswith("sınırda"):
+        text += f" Bu değer “{fact['level']}” kabul edilir."
+    return text
 
 
 def fmt(x):
