@@ -12,6 +12,7 @@ Kullanım:
   python src/read_hybrid.py --model gemma3:4b
 """
 import argparse
+import difflib
 import json
 import random
 import re
@@ -131,8 +132,59 @@ def numbered(lines):
     return "\n".join(f"{i}: {line.strip()}" for i, line in enumerate(lines, 1))
 
 
-def rows_from_answer(raw, report, units):
-    """Modelin 'numara|LOINC' cevabını ve rapor metnini birleştirip tabloyu kurar."""
+_NAMES = None
+
+
+def _test_names():
+    """Her tahlilin dört dildeki adları (birim onarımında ad benzerliği için)."""
+    global _NAMES
+    if _NAMES is None:
+        t = pd.read_csv("data/tests.csv")
+        _NAMES = {r.loinc: [_key(str(getattr(r, f"name_{l}"))) for l in LANGS] for r in t.itertuples()}
+    return _NAMES
+
+
+def line_label(line):
+    """Satırın ilk değerden önceki kısmı (tahlil adı); 'Co1esterol' içindeki 1 bölmesin."""
+    m = re.match(r"^(.*?)[\s:.]+[<>]?\s*\d", line)
+    return _key(m.group(1) if m else line)
+
+
+def name_similarity(label, code):
+    """Satırdaki ad ile tahlilin dört dildeki adlarından en benzeyeni arasındaki benzerlik (0–1)."""
+    return max((difflib.SequenceMatcher(None, label, n).ratio() for n in _test_names().get(code, [])),
+               default=0.0)
+
+
+def repair_code(line, units):
+    """Birim onarımı: modelin seçtiği tahlilin birimi satırda yoksa (ör. 'Hemoglobina glicada … %'
+    satırına hemoglobin demişse), satırdaki birime uyan tahliller arasından ADI en çok benzeyeni seçer."""
+    candidates = [c for c, u in units.items() if find_unit(line, u) >= 0]
+    if len(candidates) == 1:
+        return candidates[0]
+    label = line_label(line)
+    best = max(candidates, key=lambda c: name_similarity(label, c), default=None)
+    return best if best and name_similarity(label, best) >= 0.5 else None
+
+
+def name_check(line, code, units):
+    """Ad tutarlılığı: model birimi tutan ama ADI tutmayan bir tahlil seçtiyse (ör. 'Harnsäure'
+    satırına kalsiyum), aynı birimdeki tahliller arasında adı çok daha iyi uyan varsa onu seçer."""
+    label = line_label(line)
+    current = name_similarity(label, code)
+    others = [c for c, u in units.items() if c != code and find_unit(line, u) >= 0]
+    best = max(others, key=lambda c: name_similarity(label, c), default=None)
+    if best and name_similarity(label, best) >= 0.85 and name_similarity(label, best) - current >= 0.2:
+        return best
+    return code
+
+
+def rows_from_answer(raw, report, units, repair=True):
+    """Modelin 'numara|LOINC' cevabını ve rapor metnini birleştirip tabloyu kurar.
+    repair=True: iki kontrol yapılır.
+      - Ad tutarlılığı: model birimi tutan ama adı tutmayan bir tahlil seçtiyse düzeltilir.
+      - Birim onarımı: birimi tutmayan ya da boş bırakılan satırlara, birimi ve adı uyan tahlil atanır.
+    repair=False: modelin cevabı olduğu gibi kullanılır (önceki deneylerle karşılaştırma için)."""
     lines = candidate_lines(report)
     try:                                              # yeni biçim: JSON
         answer = json.loads(raw)
@@ -144,16 +196,42 @@ def rows_from_answer(raw, report, units):
             m = re.match(r"\s*(\d+)\s*\|\s*([\d-]+)", answer)
             if m:
                 pairs.append((int(m.group(1)), m.group(2)))
-    rows = {}
+    rows, failed, score = {}, [], {}
     for idx, loinc in pairs:
-        if loinc not in units or not 1 <= idx <= len(lines):
+        if not 1 <= idx <= len(lines):
             continue
-        parsed = parse_line(lines[idx - 1], units[loinc])
+        line = lines[idx - 1]
+        parsed = parse_line(line, units[loinc]) if loinc in units else None
         if parsed is None:
+            failed.append(idx)
             continue
+        fixed = False
+        if repair:                                    # ad tutarlılığı kontrolü
+            new = name_check(line, loinc, units)
+            if new != loinc and parse_line(line, units[new]):
+                loinc, parsed, fixed = new, parse_line(line, units[new]), True
+        sim = name_similarity(line_label(line), loinc) if repair else 0.0
+        if repair and loinc in rows:                  # aynı tahlile iki satır: adı daha iyi uyan kalır
+            if sim <= score[loinc]:
+                failed.append(idx)
+                continue
+            failed.append(rows[loinc]["line"])
         value, unit, low, high = parsed
-        rows[loinc] = {"loinc": loinc, "value": value, "unit": unit,
-                       "low": low, "high": high, "flag": flag(value, low, high)}
+        rows[loinc] = {"loinc": loinc, "value": value, "unit": unit, "low": low, "high": high,
+                       "flag": flag(value, low, high), "line": idx}
+        if fixed:
+            rows[loinc]["repaired"] = True
+        score[loinc] = sim
+    if repair:                                        # ikinci tur: birim onarımı
+        for idx in failed:
+            code = repair_code(lines[idx - 1], units)
+            if code is None or code in rows:
+                continue
+            parsed = parse_line(lines[idx - 1], units[code])
+            if parsed:
+                value, unit, low, high = parsed
+                rows[code] = {"loinc": code, "value": value, "unit": unit, "low": low, "high": high,
+                              "flag": flag(value, low, high), "repaired": True, "line": idx}
     return list(rows.values())
 
 

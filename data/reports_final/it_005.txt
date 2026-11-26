@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Luca Colombo    Data di nascita: 24/05/1947
+
+--- EMATOLOGIA ---
+Emoglobina .................. 9.7 * g/dl  v.r. 12.0-16.0
+Eritrociti .................. 3.1 * 10^6/µL  v.r. 4.0-5.5
+Emat0crito (HCT) ............ 70.3 * %  v.r. 36.0 – 48.0
+MCV ......................... 137.4 * fL  v.r. 80.0 – 100.0
+Lcucociti ................... 14.1 10^3/µL  v.r. 4.0-10.0
+Piastrine (PLT) ............. 630.7 10^3/µl  v.r. 150.0-450.0
+
+--- CHIMICA CLINICA ---
+Ferro ....................... 149.6 ug/dL  v.r. 50.0 - 170.0
+Ferritina ................... 87.8 ng/ml  v.r. 15.0 - 150.0
+Glucosio .................... 74.4 mg/dl  v.r. 70.0 – 100.0
+Emoglobina glicata .......... 3.6 %  v.r. <5.7
+Colesterolo totale .......... 293.4 * mg/dL  v.r. < 200.0
+Colesterolo HDL ............. 66.5 mg/dL  v.r. superiore a 40.0
+Colesterolo LDL ............. 127.0 mg/dl  v.r. < 130.0
+Trigliceridi ................ 88.9 mg/dL  v.r. fino a 150.0
+Creatinina .................. 1.2 * mg/dl  v.r. 0.5 – 1.1
+Acido. urico ................ 2.6 mg/dL  v.r. 3.0-7.0
+Sodio ....................... 142.8 mmol/L  v.r. 136.0-145.0
+Potassio .................... 5.1 mmol/L  v.r. 3.5 – 5.1
+Calcio ...................... 9.7 mg/dL  v.r. 8.5 - 10.5
+ALT ......................... 27.1 U/L  v.r. <40.0
+GOT ......................... 33.7 U/L  v.r. <40.0
+Gamma GT .................... 62.3 * u/l  v.r. <50.0
+Fosfatasi alcalina (ALP) .... 33.8 * U/L  v.r. 40.0-130.0
+Bilirubina totale (BIL-T) ... 0.2 mg/dL  v.r. 0.3 – 1.2
+Albumina .................... 6.4 g/dL  v.r. 3.5 - 5.0
+TSH ......................... 2.3 mIU/L  v.r. 0.4 – 4.0
+FT4 ......................... 1.3 ng/dL  v.r. 0.9 - 1.7
+Proteina C reattiva ......... 4.2 mg/L  v.r. < 5.0
+Vitami. D (25-OH) ........... 43.3 ng/ml  v.r. 30.0-100.0
+Vitami. B12 ................. 492.6 pg/ml  v.r. 200.0-900.0
+
+Pag. 1/1

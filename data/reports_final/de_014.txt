@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Anna Weber    Geburtsdatum: 06/10/1970
+
+--- HÄMATOLOGIE ---
+Hämoglobin                    15,7   g/dL      12,0 – 16,0
+Erythrozyten                   5,3   10^6/µl   4,0 – 5,5
+Hämatokrit                    58,3 H %         36,0 – 48,0
+MCV                           93,0   fl        80,0-100,0
+WBC                            4,8   10^3/µL   4,0 – 10,0
+Thrombozyten                 427,1   10^3/µL   150,0-450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen                         71,2   µg/dl     50,0 - 170,0
+Ferritin                     114,7   ng/mL     15,0 - 150,0
+Glukose                       97,5   mg/dl     70,0 - 100,0
+HbA1c                          4,5   %         < 5,7
+Cholesterin gesamt           221,7 H mg/dL     bis 200,0
+HDL-Cholesterin               27,8   mg/dL     > 40,0
+LDL-Cholesterin              132,2   mg/dL     bis 130,0
+Triglyceride                 139,4   mg/dL     bis 150,0
+Kreatinin                      1,2 H mg/dL     0,5-1,1
+Harnsäure                      1,8 L mg/dL     3,0 - 7,0
+Natrium                      140,6   mmol/L    136,0 – 145,0
+Kalium                         3,1 L mmol/L    3,5 – 5,1
+Ca                             9,1   mg/dL     8,5 - 10,5
+GPT                           25,8   u/l       bis 40,0
+AST (GOT) (GOT)               30,1   U/L       < 40,0
+Gamma-GT                      47,1   u/l       < 50,0
+Alkali. Phosphatase          173,2 H U/L       40,0 – 130,0
+Biliru. gesamt                 0,8   mg/dL     0,3 – 1,2
+Albumin                        2,4 L g/dL      3,5 – 5,0
+TSH                            3,7   mIU/L     0,4 - 4,0
+fT4                            1,4   ng/dL     0,9 – 1,7
+CRP                            5,4   mg/L      <5,0
+Vitamin D (25-OH)             88,7   ng/ml     30,0 – 100,0
+Vitami. B12                  346,9   pg/ml     200,0-900,0
+
+Pag. 1/1

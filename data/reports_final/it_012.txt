@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Giulia Esposito    Data di nascita: 04/12/1951
+
+--- EMATOLOGIA ---
+Emogloblna .................. 21,2 * g/dl  v.r. 12,0-16,0
+RBC ......................... 6,4 10^6/µL  v.r. 4,0-5,5
+Ematocrito .................. 57,8 * %  v.r. 36,0-48,0
+MCV ......................... 91,6 fL  v.r. 80,0-100,0
+Leucociti (WBC) ............. 5,2 10^3/ul  v.r. 4,0 - 10,0
+Piastrine ................... 490,2 10^3/µL  v.r. 150,0-450,0
+
+--- CHIMICA CLINICA ---
+Ferro ....................... 97,0 ug/dl  v.r. 50,0 – 170,0
+Ferritina ................... 222,8 ng/ml  v.r. 15,0-150,0
+G1ucosio .................... 84,2 mg/dl  v.r. 70,0 – 100,0
+Emoglobina glicata .......... 4,2 %  v.r. <5,7
+C0lesterolo totale .......... 167,1 mg/dL  v.r. <200,0
+Colcst. HDL ................. 44,2 mg/dl  v.r. >40,0
+Colest. LDL ................. 76,1 mg/dl  v.r. < 130,0
+Trigliceridi ................ 177,2 * mg/dL  v.r. < 150,0
+Creatinina .................. 0,5 mg/dl  v.r. 0,5 - 1,1
+Acido. urico ................ 2,9 * mg/dl  v.r. 3,0-7,0
+Sodio (Na) .................. 137,0 mmol/L  v.r. 136,0 - 145,0
+Potassio (K) ................ 4,5 mmol/L  v.r. 3,5 - 5,1
+Calcio ...................... 9,0 mg/dL  v.r. 8,5 - 10,5
+GPT ......................... 33,8 U/L  v.r. <40,0
+AST (GOT) ................... 41,1 U/L  v.r. <40,0
+Gamma GT .................... 58,6 * U/L  v.r. < 50,0
+Fosfatasi alcalina .......... 36,2 * U/L  v.r. 40,0 - 130,0
+Bilirubina totale ........... 0,6 mg/dl  v.r. 0,3 - 1,2
+Albumlna .................... 6,3 * g/dL  v.r. 3,5 – 5,0
+TSH ......................... 0,4 mIU/L  v.r. 0,4-4,0
+FT4 ......................... 0,9 ng/dl  v.r. 0,9 - 1,7
+CRP ......................... 4,3 mg/L  v.r. < 5,0
+Vitami. D (25-OH) ........... 115,8 * ng/mL  v.r. 30,0-100,0
+Vitami. B12 ................. 242,5 pg/mL  v.r. 200,0 – 900,0
+
+Pag. 1/1

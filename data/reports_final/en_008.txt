@@ -1,0 +1,38 @@
+LABORATORY RESULTS
+Patient: Emma Brown    Date of birth: 21/03/1953
+
+--- HAEMATOLOGY ---
+HAEMOGLOBIN (HB): 17.5 g/dL (H) [12.0 - 16.0]
+RBC: 4.2 10^6/uL [4.0 – 5.5]
+HAEMATOCRIT (HCT): 70.2 % (H) [36.0 – 48.0]
+MCV: 85.0 fL [80.0-100.0]
+WHITE BLOOD CELLS (WBC): 10.4 10^3/ul (H) [4.0-10.0]
+PLATELETS: 166.3 10^3/µL [150.0 – 450.0]
+
+--- CLINICAL CHEMISTRY ---
+FE: 77.0 µg/dL [50.0 – 170.0]
+FERRITIN: 49.6 ng/mL [15.0 - 150.0]
+GLUCOSE: 107.5 mg/dL (H) [70.0-100.0]
+HBA1C: 6.8 % [up to 5.7]
+TOTAL CHOLESTEROL: 148.1 mg/dL [<200.0]
+HDL CHOLESTEROL: 28.3 mg/dL (L) [above 40.0]
+LDL CHOLESTEROL: 135.9 mg/dL [< 130.0]
+TRIGLYCERIDES: 102.6 mg/dL [<150.0]
+CREATININE: 0.3 mg/dL [0.5-1.1]
+URIC ACID: 6.0 mg/dl [3.0-7.0]
+NA: 143.5 mmol/L [136.0 – 145.0]
+POTASSIUM: 3.9 mmol/l [3.5-5.1]
+CA1CIUM: 8.6 mg/dL [8.5-10.5]
+ALT: 48.1 u/l (H) [<40.0]
+GOT: 38.7 U/L [<40.0]
+GGT: 66.2 U/L (H) [<50.0]
+ALKALINE PHOSPHATASE: 29.1 U/L (L) [40.0 – 130.0]
+TOTAL BILIRUBIN: 0.6 mg/dL [0.3-1.2]
+ALBUMIN: 7.3 g/dL [3.5 – 5.0]
+TSH: 0.3 mIU/L (L) [0.4-4.0]
+FREE T4: 1.7 ng/dL [0.9-1.7]
+CRP: 3.9 mg/L [<5.0]
+VITAMIN D (25-OH): 137.0 ng/ml (H) [30.0 – 100.0]
+VITAMIN B12: 449.9 pg/ml [200.0-900.0]
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Anna Schmidt    Geburtsdatum: 02/10/1986
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN (HB) ............. 9,3 * g/dL  Ref.: 12,0 – 16,0
+ERYTHROZYTEN ................ 2,5 10^6/µl  Ref.: 4,0 – 5,5
+HÄMATOKRIT .................. 31,8 %  Ref.: 36,0-48,0
+MCV ......................... 99,9 fL  Ref.: 80,0 – 100,0
+LEUKOZYTEN .................. 5,7 10^3/µl  Ref.: 4,0 - 10,0
+THROMBOZYTCN ................ 488,5 * 10^3/µl  Ref.: 150,0-450,0
+
+--- KLINISCHE CHEMIE ---
+EISEN ....................... 34,3 * µg/dL  Ref.: 50,0-170,0
+FERRITIN .................... 92,9 ng/mL  Ref.: 15,0 – 150,0
+GLUKOSE ..................... 54,0 * mg/dL  Ref.: 70,0 – 100,0
+HBA1C ....................... 6,3 %  Ref.: <5,7
+CHOLESTERIN GESAMT .......... 200,4 mg/dL  Ref.: <200,0
+HDL-CHOLESTERIN ............. 79,3 mg/dL  Ref.: > 40,0
+LDL-CHOLESTERIN ............. 111,6 mg/dL  Ref.: < 130,0
+TRIGLYCERIDE ................ 114,5 mg/dl  Ref.: bis 150,0
+KREATININ ................... 0,7 mg/dL  Ref.: 0,5-1,1
+HARNSÄURE ................... 10,3 * mg/dL  Ref.: 3,0-7,0
+NATRIUM ..................... 118,5 * mmol/L  Ref.: 136,0 – 145,0
+K ........................... 2,8 * mmol/L  Ref.: 3,5 - 5,1
+CALCIUM ..................... 5,2 * mg/dl  Ref.: 8,5 - 10,5
+ALT (GPT) ................... 26,8 U/L  Ref.: < 40,0
+AST. (GOT) .................. 56,4 * u/l  Ref.: bis 40,0
+GAMMA-GT .................... 32,3 U/L  Ref.: < 50,0
+ALKALISCHE PHOSPHATASE ...... 88,3 U/L  Ref.: 40,0 - 130,0
+BILIRU. GESAMT .............. 0,9 mg/dL  Ref.: 0,3-1,2
+A1BUMIN ..................... 4,9 g/dL  Ref.: 3,5-5,0
+TSH ......................... 3,3 mIU/L  Ref.: 0,4 - 4,0
+FT4 ......................... 2,3 * ng/dL  Ref.: 0,9 - 1,7
+CRP (CRP) ................... 3,3 mg/L  Ref.: <5,0
+VITAMIN D (25-OH) ........... 20,1 * ng/mL  Ref.: 30,0-100,0
+VITAMIN B12 ................. 162,8 * pg/mL  Ref.: 200,0 – 900,0
+
+Pag. 1/1

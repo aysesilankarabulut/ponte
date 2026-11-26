@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Olivia Brown    Date of birth: 12/12/1995
+
+--- HAEMATOLOGY ---
+Haemoglobin (Hb): 15.3 g/dL [12.0 – 16.0]
+Red blood cells (RBC): 5.7 10^6/µL (H) [4.0 – 5.5]
+Haematocrit: 46.8 % [36.0 – 48.0]
+MCV (MCV): 81.4 fl [80.0-100.0]
+White blood cells: 14.9 10^3/µL [4.0 – 10.0]
+Platelets: 271.5 10^3/µL [150.0 - 450.0]
+
+--- CLINICAL CHEMISTRY ---
+Fe: 121.9 ug/dl [50.0 - 170.0]
+Ferritin: 133.7 ng/mL [15.0-150.0]
+Glucose: 83.7 mg/dL [70.0 – 100.0]
+HbA1c: 8.4 % [up to 5.7]
+Total cholesterol: 143.7 mg/dl [up to 200.0]
+HDL cholesterol: 44.2 mg/dL [> 40.0]
+LDL. cholesterol: 75.9 mg/dL [up to 130.0]
+Triglycerides: 168.9 mg/dL [<150.0]
+Creatinine: 0.4 mg/dL (L) [0.5 - 1.1]
+Uric. acid: 4.2 mg/dL [3.0 - 7.0]
+Sodium: 136.9 mmol/l [136.0 – 145.0]
+Potassium: 5.0 mmol/l [3.5-5.1]
+Calcium: 6.2 mg/dl [8.5 – 10.5]
+ALT: 27.3 u/l [up to 40.0]
+AST: 43.0 U/L (H) [up to 40.0]
+GGT (GGT): 49.2 U/L [up to 50.0]
+ALP: 104.8 U/L [40.0-130.0]
+Total bilirubin: 0.7 mg/dl [0.3 – 1.2]
+Albumin: 4.7 g/dL [3.5 - 5.0]
+TSH (TSH): 1.4 mIU/L [0.4 – 4.0]
+Frce T4 (FT4): 2.2 ng/dl (H) [0.9-1.7]
+CRP: 6.8 mg/l [< 5.0]
+Vitamin D (25-OH): 50.1 ng/ml [30.0 - 100.0]
+Vitamin B12: 439.8 pg/mL [200.0 - 900.0]
+
+Pag. 1/1

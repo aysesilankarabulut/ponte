@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Marco Bianchi    Data di nascita: 17/12/1999
+
+--- EMATOLOGIA ---
+EMOGLOBINA                   8,7 g/dL     (12,0 – 16,0)
+ERITR0CITI                   4,4 10^6/uL  (4,0 - 5,5)
+EMATOCRITO                  46,1 %        (36,0 - 48,0)
+MCV                        146,8 fL       (80,0 - 100,0)
+WBC                          3,3 10^3/ul  (4,0-10,0)
+PIASTRINE                  305,8 10^3/µl  (150,0 - 450,0)
+
+--- CHIMICA CLINICA ---
+FE                          58,0 ug/dl    (50,0 - 170,0)
+FERRITINA                   80,1 ng/ml    (15,0 - 150,0)
+GLUCOSIO                   139,6 mg/dL    (70,0-100,0)
+EMOGLOBINA GLICATA           7,6 %        (fino a 5,7)
+C0LESTEROLO TOTALE         278,6 mg/dl    (<200,0)
+COLEST. HDL                 43,7 mg/dl    (>40,0)
+COLEST. LDL                 67,5 mg/dl    (fino a 130,0)
+TRIGLICERIDI               205,8 mg/dL    (<150,0)
+CREATLNINA                   0,8 mg/dL    (0,5 – 1,1)
+ACIDO. URICO                 6,6 mg/dL    (3,0 – 7,0)
+SODIO                      146,0 mmol/l   (136,0-145,0)
+POTASSIO                     2,2 mmol/L   (3,5 – 5,1)
+CALCIO (CA)                 15,5 mg/dl    (8,5-10,5)
+ALT                         27,5 U/L      (< 40,0)
+GOT                         51,2 U/L      (< 40,0)
+GGT                         64,5 U/L      (<50,0)
+FOSFATASI ALCALINA          27,1 U/L      (40,0 - 130,0)
+BIL-T                        0,6 mg/dL    (0,3 – 1,2)
+ALBUMINA                     4,3 g/dl     (3,5 - 5,0)
+TSH                          0,6 mIU/L    (0,4-4,0)
+FT4                          0,7 ng/dl    (0,9 - 1,7)
+PROTEINA C REATTIVA          5,9 mg/L     (<5,0)
+VITAMINA D (25-OH)          59,3 ng/mL    (30,0 - 100,0)
+VITAMI. B12                808,3 pg/mL    (200,0-900,0)
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Pablo López    Fecha de nacimiento: 05/12/1947
+
+--- HEMATOLOGÍA ---
+Hb: 13,2 g/dL [12,0 – 16,0]
+Hematíes (RBC): 3,0 10^6/µl (L) [4,0 – 5,5]
+Hcmatocrito: 40,4 % [36,0-48,0]
+VCM: 92,6 fL [80,0-100,0]
+Leucocitos: 8,5 10^3/µl [4,0 - 10,0]
+Plaquctas: 132,6 10^3/µL [150,0-450,0]
+
+--- BIOQUÍMICA ---
+Hierro: 45,8 µg/dL [50,0-170,0]
+Ferritina: 91,6 ng/mL [15,0-150,0]
+Glucosa: 51,1 mg/dl [70,0-100,0]
+Hemoglobina glicada: 5,8 % [< 5,7]
+Colesterol total: 189,6 mg/dL [hasta 200,0]
+Colest. HDL: 63,2 mg/dL [> 40,0]
+Colesterol LDL: 194,3 mg/dL (H) [< 130,0]
+Triglicéridos: 88,4 mg/dl [hasta 150,0]
+Creatinina: 0,8 mg/dL [0,5-1,1]
+Ácido úrico: 2,9 mg/dL (L) [3,0 – 7,0]
+Na: 136,7 mmol/l [136,0 – 145,0]
+Potasio: 4,3 mmol/l [3,5 – 5,1]
+Ca: 7,3 mg/dL (L) [8,5 – 10,5]
+ALT (GPT): 41,9 U/L [hasta 40,0]
+AST (GOT): 27,9 U/L [<40,0]
+GGT (GGT): 33,3 U/L [<50,0]
+ALP: 119,0 u/l [40,0 – 130,0]
+Bilirrubina total: 0,6 mg/dL [0,3 - 1,2]
+Albúmina: 3,8 g/dL [3,5-5,0]
+TSH (TSH): 2,9 mIU/L [0,4 – 4,0]
+T4 libre (FT4): 1,2 ng/dL [0,9-1,7]
+CRP: 6,9 mg/L (H) [hasta 5,0]
+Vitamina D (25-OH): 126,6 ng/ml (H) [30,0 - 100,0]
+Vltamina B12: 170,8 pg/mL [200,0 – 900,0]
+
+Pag. 1/1

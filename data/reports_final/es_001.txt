@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Lucía López    Fecha de nacimiento: 12/01/1993
+
+--- HEMATOLOGÍA ---
+Hemoglobina ................. 15.6 g/dl  V.R. 12.0-16.0
+RBC ......................... 4.7 10^6/µl  V.R. 4.0 – 5.5
+Hematocrlto ................. 46.2 %  V.R. 36.0 – 48.0
+VCM ......................... 89.2 fL  V.R. 80.0 - 100.0
+Leucocitos .................. 10.2 * 10^3/µl  V.R. 4.0 – 10.0
+Plaquctas (PLT) ............. 148.9 * 10^3/µL  V.R. 150.0 – 450.0
+
+--- BIOQUÍMICA ---
+Hierro ...................... 64.6 µg/dL  V.R. 50.0 – 170.0
+Ferritina ................... 11.1 * ng/ml  V.R. 15.0 - 150.0
+Glucosa ..................... 97.2 mg/dL  V.R. 70.0-100.0
+HbA1c ....................... 6.4 * %  V.R. hasta 5.7
+Colesterol total ............ 213.7 * mg/dL  V.R. hasta 200.0
+Colesterol HDL .............. 33.6 mg/dL  V.R. >40.0
+Colesterol LDL .............. 188.5 mg/dl  V.R. <130.0
+Triglicéridos ............... 109.3 mg/dL  V.R. hasta 150.0
+Creatinina .................. 0.4 * mg/dL  V.R. 0.5 - 1.1
+Ácido úrico ................. 4.3 mg/dL  V.R. 3.0 - 7.0
+Sodio ....................... 142.3 mmol/L  V.R. 136.0-145.0
+P0tasio ..................... 6.9 * mmol/l  V.R. 3.5 – 5.1
+Ca .......................... 8.5 mg/dl  V.R. 8.5 - 10.5
+ALT (GPT) ................... 32.5 u/l  V.R. <40.0
+AST (GOT) ................... 33.7 U/L  V.R. <40.0
+GGT ......................... 74.1 U/L  V.R. <50.0
+Fosfatasa alcalina .......... 187.0 * u/l  V.R. 40.0-130.0
+Bilirrubina total ........... 1.0 mg/dL  V.R. 0.3-1.2
+Albúmina .................... 5.8 * g/dL  V.R. 3.5 - 5.0
+TSH ......................... 4.6 * miu/l  V.R. 0.4-4.0
+FT4 ......................... 1.8 ng/dL  V.R. 0.9-1.7
+Proteína C reactiva ......... 5.6 * mg/l  V.R. hasta 5.0
+Vitamina D (25-OH) .......... 145.7 * ng/ml  V.R. 30.0 – 100.0
+Vitami. B12 ................. 130.5 pg/mL  V.R. 200.0 - 900.0
+
+Pag. 1/1

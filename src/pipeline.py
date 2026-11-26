@@ -71,7 +71,7 @@ def read_report(text, model, direct=False):
     seconds = time.time() - start
     merged = json.dumps({"lines": pairs})
     rows = rh.rows_from_answer(merged, text, UNITS)
-    used = {x["n"] for x in pairs if x["code"] in UNITS}
+    used = {r["line"] for r in rows}
     # okunamayan satırlar: bilinen bir birim içeren ama hiçbir tahlile bağlanamayan satırlar
     unread = [line.strip() for i, line in enumerate(lines, 1)
               if i not in used and any(rh.find_unit(line, u) >= 0 for u in UNIT_TESTS)]
@@ -90,11 +90,7 @@ def explain_rows(rows, model, chunks=1):
     groups = [g for g in groups if g]
 
     def ask(group):
-        raw = ex.ask_model(model, {c: facts[c] for c in group})
-        try:
-            return json.loads(raw)["sentences"]
-        except (ValueError, KeyError, TypeError):
-            return []
+        return ex.parse_sentences(ex.ask_model(model, {c: facts[c] for c in group}))
 
     sentences = []
     if groups:

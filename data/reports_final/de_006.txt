@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Anna Müller    Geburtsdatum: 21/08/2001
+
+--- HÄMATOLOGIE ---
+Hämoglobin (Hb) ............. 13,7 g/dl  Ref.: 12,0 - 16,0
+RBC ......................... 4,6 10^6/µL  Ref.: 4,0-5,5
+Hämatokrit .................. 42,0 %  Ref.: 36,0 – 48,0
+MCV ......................... 95,2 fL  Ref.: 80,0-100,0
+WBC ......................... 9,5 10^3/uL  Ref.: 4,0 - 10,0
+Thrombozyten (PLT) .......... 137,5 * 10^3/µL  Ref.: 150,0-450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen ....................... 30,1 * µg/dl  Ref.: 50,0-170,0
+Ferritin .................... 148,5 ng/mL  Ref.: 15,0 - 150,0
+Glukose ..................... 76,1 mg/dL  Ref.: 70,0 - 100,0
+HbA1c ....................... 7,8 %  Ref.: bis 5,7
+Cholesterin gesamt .......... 282,4 * mg/dl  Ref.: <200,0
+HDL-Cholesterin ............. 56,3 mg/dl  Ref.: > 40,0
+LDL-Cholesterin ............. 72,2 mg/dL  Ref.: <130,0
+Triglyceride ................ 172,3 * mg/dL  Ref.: <150,0
+Kreatinin ................... 0,4 mg/dl  Ref.: 0,5 – 1,1
+Harnsäure ................... 6,1 mg/dl  Ref.: 3,0-7,0
+Natrium ..................... 142,7 mmol/L  Ref.: 136,0-145,0
+Kalium ...................... 3,8 mmol/L  Ref.: 3,5-5,1
+Ca .......................... 9,8 mg/dL  Ref.: 8,5 – 10,5
+ALT (GPT) ................... 54,3 U/L  Ref.: bis 40,0
+AST (GOT) (GOT) ............. 25,0 U/L  Ref.: < 40,0
+Gamma-GT .................... 53,9 * u/l  Ref.: < 50,0
+Alkalische Phosphatase ...... 38,8 * U/L  Ref.: 40,0 – 130,0
+Bilirubin gesamt ............ 1,1 mg/dL  Ref.: 0,3 - 1,2
+Albumin ..................... 5,6 * g/dL  Ref.: 3,5 - 5,0
+TSH ......................... 3,4 miu/l  Ref.: 0,4 - 4,0
+fT4 ......................... 1,1 ng/dL  Ref.: 0,9-1,7
+CRP (CRP) ................... 2,5 mg/L  Ref.: bis 5,0
+Vitami. D (25-OH) ........... 52,0 ng/mL  Ref.: 30,0-100,0
+Vitami. B12 ................. 175,3 * pg/mL  Ref.: 200,0 – 900,0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+Laboratory results
+Patient: James Jones    Date of birth: 13/06/1978
+
+--- HAEMATOLOGY ---
+Hb .......................... 14.6 g/dL  Ref. 12.0 - 16.0
+Red blood cells ............. 4.7 10^6/uL  Ref. 4.0-5.5
+Hacmatocrit ................. 39.6 %  Ref. 36.0 – 48.0
+MCV ......................... 82.9 fl  Ref. 80.0 - 100.0
+White blood cells (WBC) ..... 8.7 10^3/µl  Ref. 4.0 - 10.0
+Platelets ................... 369.9 10^3/µL  Ref. 150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron ........................ 34.9 * µg/dL  Ref. 50.0-170.0
+Ferritin .................... 57.5 ng/mL  Ref. 15.0-150.0
+Glucose ..................... 69.3 * mg/dL  Ref. 70.0 – 100.0
+HbA1c ....................... 3.4 %  Ref. < 5.7
+Total. cholesterol .......... 287.2 * mg/dL  Ref. < 200.0
+HDL cholesterol ............. 48.4 mg/dL  Ref. > 40.0
+LDL cholesterol ............. 69.2 mg/dl  Ref. <130.0
+Triglycerides ............... 140.4 mg/dL  Ref. up to 150.0
+Creatinine .................. 0.5 mg/dl  Ref. 0.5 – 1.1
+Uric acid ................... 6.6 mg/dL  Ref. 3.0 – 7.0
+Sodium ...................... 120.6 mmol/L  Ref. 136.0-145.0
+Potassium ................... 2.3 * mmol/L  Ref. 3.5 - 5.1
+Calcium ..................... 14.3 * mg/dl  Ref. 8.5 - 10.5
+GPT ......................... 59.1 * U/L  Ref. up to 40.0
+AST ......................... 20.4 U/L  Ref. <40.0
+GGT ......................... 67.0 * u/l  Ref. < 50.0
+Alkaline phosphatase ........ 32.8 u/l  Ref. 40.0-130.0
+T0tal bilirubin ............. 0.8 mg/dL  Ref. 0.3 - 1.2
+Albumin ..................... 3.8 g/dL  Ref. 3.5 - 5.0
+TSH ......................... 2.8 mIU/L  Ref. 0.4 - 4.0
+Free T4 ..................... 1.7 ng/dL  Ref. 0.9 – 1.7
+CRP ......................... 4.4 mg/L  Ref. <5.0
+Vitamin D (25-OH) ........... 75.3 ng/ml  Ref. 30.0-100.0
+Vltami. B12 ................. 186.2 pg/mL  Ref. 200.0-900.0
+
+Pag. 1/1

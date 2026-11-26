@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Javier García    Fecha de nacimiento: 06/12/1955
+
+--- HEMATOLOGÍA ---
+HEMOGLOBINA: 9,9 g/dL [12,0 - 16,0]
+HEMATÍES: 4,5 10^6/ul [4,0 - 5,5]
+HEMATOCRITO: 47,0 % [36,0 - 48,0]
+MCV: 95,3 fl [80,0-100,0]
+WBC: 3,4 10^3/µL (L) [4,0 - 10,0]
+PLAQUETAS: 131,9 10^3/µl (L) [150,0 – 450,0]
+
+--- BIOQUÍMICA ---
+HIERRO (FE): 47,0 ug/dL (L) [50,0 - 170,0]
+FERRITINA: 48,3 ng/mL [15,0-150,0]
+GLUCOSA: 64,8 mg/dL (L) [70,0-100,0]
+HEMOGLOBINA GLICADA: 5,4 % [< 5,7]
+COLESTEROL TOTAL: 165,7 mg/dl [hasta 200,0]
+COLESTEROL HDL: 53,1 mg/dL [>40,0]
+COLESTEROL LDL: 181,3 mg/dL [<130,0]
+TRIGLICÉRID0S: 197,3 mg/dL [< 150,0]
+CREATLNINA: 0,6 mg/dL [0,5-1,1]
+ÁCIDO ÚRICO: 4,7 mg/dL [3,0 – 7,0]
+NA: 143,3 mmol/L [136,0-145,0]
+POTASIO: 6,0 mmol/l [3,5 – 5,1]
+CALCIO: 6,6 mg/dL (L) [8,5 - 10,5]
+ALT (GPT): 41,7 U/L (H) [hasta 40,0]
+AST (GOT): 58,0 U/L (H) [<40,0]
+GGT: 72,5 U/L (H) [hasta 50,0]
+FOSFATASA ALCALINA: 31,0 u/l [40,0-130,0]
+BIL-T: 1,2 mg/dL [0,3 – 1,2]
+ALBÚMINA: 4,9 g/dL [3,5-5,0]
+TSH (TSH): 0,3 miu/l [0,4-4,0]
+FT4: 0,9 ng/dl [0,9-1,7]
+PROTEÍNA C REACTIVA (CRP): 3,3 mg/L [<5,0]
+VITAMINA D (25-OH): 38,1 ng/mL [30,0 - 100,0]
+VITAMINA B12: 790,6 pg/mL [200,0-900,0]
+
+Pag. 1/1

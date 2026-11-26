@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Anna Schmidt    Geburtsdatum: 08/06/1971
+
+--- HÄMATOLOGIE ---
+Hämoglobin (Hb)             15.5 g/dL     (12.0 – 16.0)
+Erythrozyten                 5.1 10^6/µl  (4.0 - 5.5)
+Hämatokrit                  41.7 %        (36.0-48.0)
+MCV                         51.9 fL       (80.0 – 100.0)
+Leukozyten                   9.6 10^3/µl  (4.0 – 10.0)
+Thrombozyten               655.1 10^3/ul  (150.0 – 450.0)
+
+--- KLINISCHE CHEMIE ---
+Eisen                      133.5 µg/dL    (50.0-170.0)
+Ferritin                    63.8 ng/mL    (15.0 - 150.0)
+Glukose                     92.2 mg/dL    (70.0 - 100.0)
+HbA1c (HbA1c)                7.6 %        (< 5.7)
+Ch0les. gesamt             123.8 mg/dL    (< 200.0)
+HDL-Cholesterin             37.3 mg/dl    (> 40.0)
+LDL-Cholesterin            134.1 mg/dl    (< 130.0)
+Triglyceride                95.9 mg/dL    (<150.0)
+Kreatinin                    0.8 mg/dL    (0.5 – 1.1)
+Harnsäure                    8.8 mg/dL    (3.0 – 7.0)
+Natrium                    141.7 mmol/l   (136.0 – 145.0)
+Kalium                       4.5 mmol/L   (3.5-5.1)
+Calcium                      8.9 mg/dL    (8.5-10.5)
+ALT (GPT)                   23.2 U/L      (bis 40.0)
+AST (GOT)                   25.1 U/L      (< 40.0)
+Gamma-GT                    31.3 U/L      (< 50.0)
+ALP                        117.7 U/L      (40.0 - 130.0)
+Bilirubin gesamt             1.0 mg/dl    (0.3 - 1.2)
+Albumin                      6.9 g/dL     (3.5 - 5.0)
+TSH                          1.7 mIU/L    (0.4 – 4.0)
+fT4 (FT4)                    1.0 ng/dl    (0.9 – 1.7)
+CRP                          5.2 mg/l     (bis 5.0)
+Vitami. D (25-OH)           80.5 ng/ml    (30.0-100.0)
+Vitamin B12                224.7 pg/ml    (200.0 – 900.0)
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Jonas Weber    Geburtsdatum: 27/12/1950
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN (HB)             15,2 g/dL     (12,0 – 16,0)
+ERYTHROZYTEN                 5,3 10^6/µl  (4,0-5,5)
+HÄMATOKRIT                  41,7 %        (36,0 – 48,0)
+MCV                         95,8 fl       (80,0 - 100,0)
+LEUKOZYTEN                  11,2 10^3/ul  (4,0 - 10,0)
+THROMBOZYTEN (PLT)         372,1 10^3/uL  (150,0-450,0)
+
+--- KLINISCHE CHEMIE ---
+EISEN (FE)                  94,8 µg/dl    (50,0 - 170,0)
+FCRRITIN                   117,3 ng/mL    (15,0 – 150,0)
+GLUKOSE                     72,7 mg/dL    (70,0 – 100,0)
+HBA1C                        3,7 %        (<5,7)
+CHOLESTERIN GESAMT         122,9 mg/dL    (bis 200,0)
+HDL-CHOLESTERIN             30,5 mg/dL    (>40,0)
+LDL-CHOLESTERIN            170,5 mg/dl    (< 130,0)
+TRIGLYCERIDE               121,8 mg/dL    (< 150,0)
+KRCATININ                    0,5 mg/dl    (0,5 – 1,1)
+HARNSÄURE                    5,0 mg/dL    (3,0 - 7,0)
+NATRIUM (NA)               137,7 mmol/L   (136,0 – 145,0)
+K                            4,0 mmol/L   (3,5-5,1)
+CA                           9,1 mg/dL    (8,5 – 10,5)
+ALT. (GPT)                  57,7 U/L      (<40,0)
+AST (GOT)                   35,4 U/L      (bis 40,0)
+GAMMA-GT                    72,3 U/L      (< 50,0)
+ALKALISCHE PHOSPHATASE (ALP)    24,0 u/l      (40,0 - 130,0)
+BIL-T                        1,7 mg/dL    (0,3 – 1,2)
+ALBUMIN                      2,5 g/dL     (3,5 – 5,0)
+TSH                          5,2 mIU/L    (0,4 – 4,0)
+FT4                          1,2 ng/dL    (0,9 - 1,7)
+CRP                          2,6 mg/l     (bis 5,0)
+VITAMI. D (25-OH)           60,9 ng/ml    (30,0 - 100,0)
+VITAMIN B12                877,3 pg/mL    (200,0 - 900,0)
+
+Pag. 1/1

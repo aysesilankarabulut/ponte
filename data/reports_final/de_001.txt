@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Felix Müller    Geburtsdatum: 28/03/1956
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN: 13,2 g/dL [12,0 – 16,0]
+ERYTHROZYTEN (RBC): 4,0 10^6/µL [4,0 – 5,5]
+HÄMATOKRIT (HCT): 44,8 % [36,0 - 48,0]
+MCV: 139,5 fL [80,0 – 100,0]
+LEUK0ZYTEN (WBC): 2,5 10^3/µL [4,0-10,0]
+THROMBOZYTEN: 195,5 10^3/ul [150,0-450,0]
+
+--- KLINISCHE CHEMIE ---
+EISEN: 131,6 µg/dL [50,0 – 170,0]
+FERRITIN: 140,5 ng/mL [15,0-150,0]
+GLUKOSE: 138,2 mg/dL (H) [70,0-100,0]
+HBA1C: 6,9 % (H) [< 5,7]
+CHOLESTERIN GESAMT: 245,9 mg/dl [<200,0]
+HDL-CHOLESTERIN: 64,3 mg/dL [>40,0]
+LDL-CHOLESTERIN: 137,0 mg/dl (H) [bis 130,0]
+TRIGLYCERIDE: 81,0 mg/dl [< 150,0]
+KREATININ: 0,4 mg/dL (L) [0,5 - 1,1]
+HARNSÄURE: 3,3 mg/dL [3,0 - 7,0]
+NATRIUM: 142,3 mmol/L [136,0 – 145,0]
+KALIUM: 5,6 mmol/l (H) [3,5 - 5,1]
+CALCIUM: 9,5 mg/dL [8,5 - 10,5]
+ALT (GPT): 43,5 U/L (H) [bis 40,0]
+AST (GOT): 51,9 u/l (H) [bis 40,0]
+GAMMA-GT (GGT): 41,9 U/L [bis 50,0]
+ALKALLSCHE PHOSPHATASE (ALP): 53,5 u/l [40,0 – 130,0]
+BIL-T: 0,9 mg/dL [0,3 - 1,2]
+ALBUMIN: 4,1 g/dl [3,5 – 5,0]
+TSH: 1,9 miu/l [0,4 - 4,0]
+FT4: 1,7 ng/dl [0,9 – 1,7]
+CRP (CRP): 4,5 mg/l [bis 5,0]
+VITAMI. D (25-OH): 26,9 ng/ml (L) [30,0-100,0]
+VITAMIN B12: 197,3 pg/mL (L) [200,0 – 900,0]
+
+Pag. 1/1

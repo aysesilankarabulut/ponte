@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Jonas Schmidt    Geburtsdatum: 01/05/1963
+
+--- HÄMATOLOGIE ---
+Hämoglobin (Hb) ............. 22,7 * g/dl  Ref.: 12,0 - 16,0
+Erythrozyten ................ 5,4 10^6/µL  Ref.: 4,0 - 5,5
+Hämatokrit .................. 42,5 %  Ref.: 36,0-48,0
+MCV ......................... 80,5 fL  Ref.: 80,0-100,0
+Leukozyten .................. 8,4 10^3/µL  Ref.: 4,0 – 10,0
+Thrombozyten (PLT) .......... 188,2 10^3/µl  Ref.: 150,0 – 450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen ....................... 41,4 * µg/dl  Ref.: 50,0 - 170,0
+Ferritin .................... 71,1 ng/mL  Ref.: 15,0-150,0
+Glukose ..................... 86,7 mg/dL  Ref.: 70,0 – 100,0
+HbA1c ....................... 5,0 %  Ref.: bis 5,7
+Cholesterin gesamt .......... 129,1 mg/dL  Ref.: <200,0
+HDL-Cholesterin ............. 46,3 mg/dL  Ref.: >40,0
+LDL-Cholesterin ............. 123,0 mg/dL  Ref.: <130,0
+Triglyceride ................ 194,3 * mg/dl  Ref.: < 150,0
+Kreatinin ................... 0,8 mg/dL  Ref.: 0,5 - 1,1
+Harnsäure ................... 2,2 mg/dL  Ref.: 3,0-7,0
+Na .......................... 104,2 mmol/L  Ref.: 136,0 - 145,0
+Kalium ...................... 4,3 mmol/l  Ref.: 3,5 – 5,1
+Calcium ..................... 9,1 mg/dl  Ref.: 8,5 – 10,5
+ALT (GPT) ................... 30,9 U/L  Ref.: < 40,0
+AST (GOT) (GOT) ............. 30,5 U/L  Ref.: <40,0
+Gamma-GT .................... 49,3 U/L  Ref.: < 50,0
+Alkalische Phosphatase ...... 38,5 U/L  Ref.: 40,0 - 130,0
+Bi1irubin gesamt ............ 1,5 * mg/dl  Ref.: 0,3 – 1,2
+Albumin ..................... 5,4 * g/dl  Ref.: 3,5 - 5,0
+TSH (TSH) ................... 0,4 mIU/L  Ref.: 0,4 – 4,0
+fT4 ......................... 1,6 ng/dL  Ref.: 0,9 - 1,7
+CRP (CRP) ................... 4,1 mg/l  Ref.: bis 5,0
+Vitami. D (25-OH) ........... 85,8 ng/ml  Ref.: 30,0-100,0
+Vltami. B12 ................. 214,3 pg/mL  Ref.: 200,0 - 900,0
+
+Pag. 1/1

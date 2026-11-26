@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Luca Esposito    Data di nascita: 12/01/1965
+
+--- EMATOLOGIA ---
+Hb                          13,9 g/dl     (12,0-16,0)
+Eritrociti                   5,3 10^6/µL  (4,0 – 5,5)
+Ematocrito                  36,3 %        (36,0 – 48,0)
+MCV                         97,0 fL       (80,0 - 100,0)
+Leucociti                   12,9 10^3/uL  (4,0 - 10,0)
+Piastrine (PLT)            377,1 10^3/µl  (150,0-450,0)
+
+--- CHIMICA CLINICA ---
+Ferro                      221,1 µg/dl    (50,0 - 170,0)
+Ferritina                   79,2 ng/mL    (15,0-150,0)
+Glucoslo                   146,7 mg/dL    (70,0-100,0)
+Emoglobina glicata           4,4 %        (fino a 5,7)
+Colesterolo totale         227,9 mg/dL    (<200,0)
+Colest. HDL                 75,0 mg/dL    (> 40,0)
+Colcsterolo LDL            182,3 mg/dL    (< 130,0)
+Trigliceridi               113,0 mg/dL    (< 150,0)
+Creatinina                   0,5 mg/dL    (0,5 – 1,1)
+Acido. urico                 3,0 mg/dL    (3,0 - 7,0)
+Na                         177,4 mmol/L   (136,0 – 145,0)
+Potassio (K)                 4,6 mmol/L   (3,5 - 5,1)
+Calcio                       7,7 mg/dl    (8,5 - 10,5)
+ALT                         54,4 U/L      (< 40,0)
+AST                         52,7 U/L      (<40,0)
+Gamma GT                    43,5 u/l      (fino a 50,0)
+Fosfat. alcalina            54,4 U/L      (40,0 - 130,0)
+Bilirubina totale (BIL-T)     0,6 mg/dL    (0,3-1,2)
+Albumina                     4,8 g/dl     (3,5 – 5,0)
+TSH                          0,3 mIU/L    (0,4 - 4,0)
+FT4                          1,1 ng/dl    (0,9-1,7)
+Protei. C reattiva           6,1 mg/l     (< 5,0)
+Vitamina D (25-OH)          19,1 ng/mL    (30,0 - 100,0)
+Vitamina B12               243,1 pg/mL    (200,0-900,0)
+
+Pag. 1/1

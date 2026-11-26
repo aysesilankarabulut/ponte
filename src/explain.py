@@ -14,6 +14,7 @@ Sonuçlar: results/explanations/<model>/<rapor>.json ve okunabilir <rapor>.md
 """
 import argparse
 import json
+import re
 import time
 import urllib.error
 import urllib.request
@@ -114,7 +115,35 @@ def request_body(model, facts, stream=False):
     return {"model": model, "stream": stream, "keep_alive": "30m", "format": answer_schema(abnormal.keys()),
             "messages": [{"role": "system", "content": INSTRUCTIONS},
                          {"role": "user", "content": json.dumps(abnormal, ensure_ascii=False)}],
-            "options": {"temperature": 0, "num_ctx": 4096}}
+            "options": {"temperature": 0, "num_ctx": 4096,
+                        # cevap uzunluğu sınırı: küçük modeller bazen aynı cümleyi döngüde tekrarlar
+                        "num_predict": 120 * len(abnormal) + 100}}
+
+
+OBJECT_RE = re.compile(r"\{[^{}]*\}")
+
+
+def parse_sentences(raw):
+    """Modelin cevabından cümleleri çıkarır. Cevap yarıda kesilmişse (uzunluk sınırı),
+    tamamlanmış cümleleri yine de kurtarır; aynı cümlenin tekrarlarını atar."""
+    try:
+        sentences = json.loads(raw)["sentences"]
+    except (ValueError, KeyError, TypeError):
+        sentences = []
+        for obj in OBJECT_RE.findall(raw[raw.find("["):] if "[" in raw else ""):
+            try:
+                s = json.loads(obj)
+            except ValueError:
+                continue
+            if isinstance(s, dict) and "fact" in s and "text" in s:
+                sentences.append(s)
+    out, seen = [], set()
+    for s in sentences:
+        key = (s.get("fact"), s.get("text"))
+        if key not in seen:
+            seen.add(key)
+            out.append(s)
+    return out
 
 
 def ask_model(model, facts):
@@ -204,10 +233,7 @@ def main():
                     print("\nOllama'ya bağlanılamadı. Ollama açık mı?")
                     return
                 seconds = time.time() - start
-            try:
-                sentences = json.loads(raw)["sentences"]
-            except (ValueError, KeyError, TypeError):
-                sentences = []
+            sentences = parse_sentences(raw)
             accepted, rejected, added = verify(sentences, facts)
             text = render(facts, accepted, added)
             (out / f"{stem}.md").write_text(text, encoding="utf-8")

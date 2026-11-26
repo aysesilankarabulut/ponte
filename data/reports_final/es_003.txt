@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Pablo López    Fecha de nacimiento: 25/04/1964
+
+--- HEMATOLOGÍA ---
+Hemoglobina                 11.7 g/dL     (12.0 – 16.0)
+Hematíes                     4.1 10^6/µL  (4.0-5.5)
+HCT                         41.5 %        (36.0-48.0)
+VCM                         94.1 fL       (80.0 – 100.0)
+Leucocitos                   9.4 10^3/µl  (4.0 - 10.0)
+Plaquetas                  180.0 10^3/µL  (150.0-450.0)
+
+--- BIOQUÍMICA ---
+Hierro                     150.0 µg/dl    (50.0 - 170.0)
+Ferritina                  223.5 ng/mL    (15.0 - 150.0)
+Glucosa                    136.7 mg/dl    (70.0 - 100.0)
+Hemoglobina glicada          3.3 %        (< 5.7)
+Colest. total              244.9 mg/dl    (<200.0)
+Colesterol HDL              62.2 mg/dL    (> 40.0)
+Colesterol LDL             119.1 mg/dL    (< 130.0)
+Triglicéridos              221.9 mg/dL    (hasta 150.0)
+Creatinina                   0.7 mg/dl    (0.5-1.1)
+Ácido úrico                  8.8 mg/dL    (3.0 – 7.0)
+Sodio                      139.7 mmol/L   (136.0 – 145.0)
+Potasio                      4.6 mmol/L   (3.5-5.1)
+Calci0                       5.6 mg/dl    (8.5-10.5)
+ALT. (GPT)                  50.7 U/L      (< 40.0)
+AST (GOT)                   34.7 U/L      (<40.0)
+GGT                         70.0 u/l      (< 50.0)
+Fosfatasa alcalina          80.2 u/l      (40.0 – 130.0)
+Bilirrubina total (BIL-T)     1.0 mg/dL    (0.3 - 1.2)
+Albúmina                     3.4 g/dl     (3.5 – 5.0)
+TSH                          5.0 mIU/L    (0.4 - 4.0)
+T4 libre                     1.7 ng/dL    (0.9-1.7)
+Proteína C reactiva          3.1 mg/L     (< 5.0)
+Vitamina D (25-OH)          48.0 ng/mL    (30.0 - 100.0)
+Vitamina B12               310.4 pg/mL    (200.0 - 900.0)
+
+Pag. 1/1

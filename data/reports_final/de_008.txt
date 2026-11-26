@@ -1,0 +1,38 @@
+LABORBEFUND
+Patient: Lena Schmidt    Geburtsdatum: 07/03/1982
+
+--- HÄMATOLOGIE ---
+HÄMOGLOBIN                  17,2 g/dL     (12,0-16,0)
+ERYTHROZYTEN                 4,4 10^6/µl  (4,0 - 5,5)
+HÄMATOKRIT                  39,4 %        (36,0 – 48,0)
+MCV                         96,1 fL       (80,0-100,0)
+LEUKOZYTEN                   6,1 10^3/µL  (4,0 – 10,0)
+THROMBOZYTEN (PLT)         187,0 10^3/uL  (150,0 – 450,0)
+
+--- KLINISCHE CHEMIE ---
+EISEN                       49,0 µg/dL    (50,0 – 170,0)
+FERRITIN                    13,4 ng/mL    (15,0 - 150,0)
+GLUKOSE                     98,1 mg/dL    (70,0 - 100,0)
+HBA1C (HBA1C)                6,9 %        (< 5,7)
+CHOLESTERIN GESAMT         161,8 mg/dL    (< 200,0)
+HDL-CH0LESTERIN             73,6 mg/dL    (>40,0)
+LDL-CHOLESTERIN            166,0 mg/dL    (< 130,0)
+TRIGLYCERIDE               138,0 mg/dl    (<150,0)
+KREATININ                    1,6 mg/dL    (0,5-1,1)
+HARNSÄURE                    2,8 mg/dL    (3,0 – 7,0)
+NATRLUM                    123,9 mmol/L   (136,0 – 145,0)
+KALIUM                       5,9 mmol/l   (3,5 - 5,1)
+CALCLUM                      6,9 mg/dL    (8,5 - 10,5)
+ALT. (GPT)                  59,8 U/L      (< 40,0)
+AST (GOT) (GOT)             29,2 U/L      (<40,0)
+GAMMA-GT                    32,5 u/l      (bis 50,0)
+ALKALISCHE PHOSPHATASE      26,9 U/L      (40,0 - 130,0)
+BILIRU. GESAMT               0,8 mg/dL    (0,3 - 1,2)
+ALBUMIN                      4,0 g/dL     (3,5-5,0)
+TSH                          1,2 miu/l    (0,4-4,0)
+FT4                          0,7 ng/dL    (0,9-1,7)
+CRP (CRP)                    6,1 mg/l     (<5,0)
+VITAMIN D (25-OH)           45,7 ng/mL    (30,0 - 100,0)
+VLTAMIN B12               1118,9 pg/mL    (200,0 – 900,0)
+
+Pag. 1/1

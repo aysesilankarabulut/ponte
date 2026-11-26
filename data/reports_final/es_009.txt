@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier Sánchez    Fecha de nacimiento: 13/09/1968
+
+--- HEMATOLOGÍA ---
+Hemog1obina ................. 15,8 g/dL  V.R. 12,0-16,0
+RBC ......................... 5,3 10^6/µL  V.R. 4,0-5,5
+Hematocrito (HCT) ........... 68,1 %  V.R. 36,0-48,0
+VCM (MCV) ................... 97,8 fl  V.R. 80,0 – 100,0
+Leucocitos .................. 3,9 * 10^3/µL  V.R. 4,0-10,0
+Plaquetas ................... 431,9 10^3/µL  V.R. 150,0 - 450,0
+
+--- BIOQUÍMICA ---
+Hierro ...................... 33,7 * ug/dl  V.R. 50,0-170,0
+Ferritina ................... 139,7 ng/mL  V.R. 15,0-150,0
+Glucosa ..................... 143,7 * mg/dL  V.R. 70,0 – 100,0
+HbA1c ....................... 4,2 %  V.R. <5,7
+Colest. total ............... 199,7 mg/dL  V.R. <200,0
+Colesterol HDL .............. 71,4 mg/dL  V.R. superior a 40,0
+Colest. LDL ................. 76,8 mg/dL  V.R. <130,0
+Triglicéridos ............... 143,4 mg/dL  V.R. < 150,0
+Creatinina .................. 0,8 mg/dL  V.R. 0,5 - 1,1
+Ácido úrico ................. 3,2 mg/dL  V.R. 3,0 - 7,0
+Sodio (Na) .................. 178,5 * mmol/l  V.R. 136,0 - 145,0
+P0tasio ..................... 3,7 mmol/L  V.R. 3,5 - 5,1
+Calcio ...................... 9,5 mg/dL  V.R. 8,5 - 10,5
+ALT (GPT) ................... 35,2 U/L  V.R. <40,0
+AST (GOT) ................... 46,7 * U/L  V.R. < 40,0
+GGT ......................... 47,3 u/l  V.R. hasta 50,0
+Fosfatasa alcalina .......... 28,6 * U/L  V.R. 40,0 – 130,0
+BIL-T ....................... 1,6 * mg/dl  V.R. 0,3 – 1,2
+A1búmina .................... 3,3 * g/dL  V.R. 3,5 - 5,0
+TSH ......................... 0,9 miu/l  V.R. 0,4 - 4,0
+T4 llbre .................... 1,4 ng/dL  V.R. 0,9-1,7
+Proteína C reactiva (CRP) ... 6,6 * mg/L  V.R. < 5,0
+Vitami. D (25-OH) ........... 42,4 ng/mL  V.R. 30,0-100,0
+Vitamina B12 ................ 182,5 * pg/mL  V.R. 200,0 – 900,0
+
+Pag. 1/1

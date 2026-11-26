@@ -1,0 +1,38 @@
+Laboratory results
+Patient: James Brown    Date of birth: 16/10/1953
+
+--- HAEMATOLOGY ---
+Haemoglobin (Hb)              23.2 H g/dl      12.0 - 16.0
+Red blood cells (RBC)          4.5   10^6/µL   4.0 – 5.5
+Haematocrit                   71.9   %         36.0 – 48.0
+MCV                           81.1   fL        80.0-100.0
+White blood cells              8.4   10^3/µL   4.0 - 10.0
+Platelets (PLT)              451.7 H 10^3/µL   150.0 - 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron                          34.1 L µg/dL     50.0 - 170.0
+Ferritin                     217.5 H ng/ml     15.0 - 150.0
+Glucose                       45.2 L mg/dL     70.0-100.0
+HbA1c                          5.7   %         <5.7
+Tota1 cholesterol            237.4 H mg/dL     < 200.0
+HDL cho1esterol               57.7   mg/dl     >40.0
+LDL. cholesterol             194.9 H mg/dL     < 130.0
+Triglycerides                 94.7   mg/dL     <150.0
+Creatinine                     0.9   mg/dL     0.5 - 1.1
+Uric acid                      2.2   mg/dL     3.0-7.0
+Sodium                       143.0   mmol/L    136.0 – 145.0
+Potassium (K)                  2.5 L mmol/L    3.5 – 5.1
+Calcium                       15.3 H mg/dL     8.5-10.5
+ALT                           30.2   U/L       up to 40.0
+AST                           44.6   U/L       up to 40.0
+GGT                           54.6 H u/l       up to 50.0
+Alkaline phosphatase          29.6 L U/L       40.0-130.0
+Total bilirubin (BIL-T)        0.5   mg/dL     0.3-1.2
+Albumin                        4.5   g/dL      3.5 – 5.0
+TSH                            0.6   mIU/L     0.4 - 4.0
+Free. T4                       2.0 H ng/dL     0.9 – 1.7
+CRP                            4.5   mg/L      up to 5.0
+Vitamin D (25-OH)             20.3 L ng/mL     30.0 – 100.0
+Vitamin B12                 1178.6   pg/mL     200.0 - 900.0
+
+Pag. 1/1

@@ -17,6 +17,7 @@ os.chdir(ROOT)                                   # data/ ve results/ yolları bu
 sys.path.insert(0, str(ROOT / "src"))
 
 import pipeline as p                              # noqa: E402
+import teachback as tb                            # noqa: E402
 from explain import DISCLAIMER                    # noqa: E402
 
 st.set_page_config(page_title="Ponte", page_icon="🌉", layout="wide")
@@ -102,7 +103,9 @@ if go:
             ques = p.doctor_questions(expl["facts"], lang, model)
             st.write(f"✓ Sorular hazır ({ques['seconds']:.0f} sn)")
             status.update(label="Tamamlandı", state="complete", expanded=False)
-        st.session_state["result"] = {"lang": lang, "read": read, "expl": expl, "ques": ques}
+        rid = tb.report_id(text)
+        st.session_state["result"] = {"lang": lang, "read": read, "expl": expl, "ques": ques, "rid": rid,
+                                      "teach": tb.make_questions(expl["facts"], seed=int(rid, 16) % 10_000)}
     except urllib.error.URLError:
         st.error("Dil modeline bağlanılamadı. Ollama açık mı? "
                  "Görev çubuğunda lama simgesi görünmüyorsa Ollama uygulamasını başlatın.")
@@ -131,11 +134,45 @@ if res:
             for line in res["read"]["unread"]:
                 st.code(line, language=None)
 
-    tab1, tab2, tab3, tab4 = st.tabs(["💬 Açıklama", "📋 Sonuçlar", "❓ Doktora sorular", "🔍 Doğrulama"])
+    tab1, tab_tb, tab2, tab3, tab4 = st.tabs(["💬 Açıklama", "✅ Anladım mı?", "📋 Sonuçlar",
+                                             "❓ Doktora sorular", "🔍 Doğrulama"])
 
     with tab1:
         md = res["expl"]["markdown"].split("\n", 1)[1]          # baştaki başlığı at
         st.markdown(md)
+        st.caption("Açıklamayı okuduktan sonra **✅ Anladım mı?** sekmesinde 3 kısa soruyla "
+                   "kendinizi kontrol edebilirsiniz.")
+
+    with tab_tb:
+        st.markdown("Açıklamayı doğru anladığınızdan emin olmak için 3 kısa soru. "
+                    "Yanlış cevap verirseniz doğru bilgi tekrar gösterilir.")
+        st.caption("Cevaplarınız projenin değerlendirmesi için kaydedilir; raporunuz ve kişisel "
+                   "bilgileriniz kaydedilmez.")
+        questions = res["teach"]
+        with st.form(f"teachback_{res['rid']}"):
+            answers = [st.radio(f"**{i}.** {q['question']}", q["options"], index=None,
+                                key=f"tb_{res['rid']}_{i}") for i, q in enumerate(questions, 1)]
+            sent = st.form_submit_button("Cevapları kontrol et", type="primary")
+        if sent:
+            if any(a is None for a in answers):
+                st.warning("Lütfen bütün soruları cevaplayın.")
+            else:
+                key = f"tb_attempt_{res['rid']}"
+                st.session_state[key] = st.session_state.get(key, 0) + 1
+                correct = tb.log_result(res["rid"], model, questions, answers, st.session_state[key])
+                for i, (q, ok) in enumerate(zip(questions, correct), 1):
+                    if ok:
+                        st.success(f"**{i}.** Doğru: {q['answer']}", icon="✅")
+                    else:
+                        st.error(f"**{i}.** Doğru cevap: **{q['answer']}**  \n{q['explain']}", icon="❌")
+                score = sum(correct)
+                if score == len(questions):
+                    st.balloons()
+                    st.markdown(f"### {score}/{len(questions)} — Açıklamayı çok iyi anlamışsınız!")
+                else:
+                    st.markdown(f"### {score}/{len(questions)}")
+                    st.markdown("Kırmızı kutulardaki bilgileri okuyup **Açıklama** sekmesine bir kez "
+                                "daha göz atın; isterseniz soruları tekrar cevaplayabilirsiniz.")
 
     with tab2:
         table = p.results_table(facts)

@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Lucía Sánchez    Fecha de nacimiento: 23/11/1989
+
+--- HEMATOLOGÍA ---
+Hemoglobina: 14,2 g/dl [12,0 – 16,0]
+Hematíes: 5,1 10^6/µL [4,0 - 5,5]
+HCT: 29,3 % (L) [36,0-48,0]
+MCV: 141,7 fL [80,0-100,0]
+Leucocitos: 14,8 10^3/µL (H) [4,0 – 10,0]
+P1aquetas: 397,0 10^3/uL [150,0-450,0]
+
+--- BIOQUÍMICA ---
+Hierro (Fe): 170,3 µg/dL (H) [50,0-170,0]
+Ferritina: 210,4 ng/mL (H) [15,0-150,0]
+Glucosa: 99,3 mg/dL [70,0-100,0]
+Hemoglobina glicada: 8,0 % (H) [<5,7]
+Colesterol total: 100,8 mg/dL [< 200,0]
+Colesterol HDL: 43,7 mg/dL [>40,0]
+Colesterol LDL: 174,3 mg/dl (H) [< 130,0]
+Triglicéridos: 122,8 mg/dL [hasta 150,0]
+Creatinina: 1,3 mg/dL (H) [0,5-1,1]
+Ácido úrico: 3,7 mg/dL [3,0 – 7,0]
+Sodio: 143,2 mmol/L [136,0 - 145,0]
+K: 3,7 mmol/L [3,5 - 5,1]
+Calcio (Ca): 9,2 mg/dL [8,5-10,5]
+GPT: 59,9 u/l (H) [< 40,0]
+AST (GOT): 54,3 U/L [<40,0]
+GGT (GGT): 39,9 U/L [< 50,0]
+Fosfatasa alcalina: 40,0 U/L [40,0 – 130,0]
+Bilirrubina total: 0,2 mg/dL [0,3-1,2]
+Albúmina: 4,8 g/dL [3,5 – 5,0]
+TSH: 0,8 miu/l [0,4 - 4,0]
+T4. 1ibre: 0,8 ng/dL [0,9 - 1,7]
+Proteína C reactiva: 6,5 mg/L (H) [hasta 5,0]
+Vitamina D (25-OH): 58,8 ng/mL [30,0-100,0]
+Vitamina B12: 508,4 pg/mL [200,0 – 900,0]
+
+Pag. 1/1

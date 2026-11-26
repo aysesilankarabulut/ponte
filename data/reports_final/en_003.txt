@@ -1,0 +1,38 @@
+LABORATORY RESULTS
+Patient: Harry Jones    Date of birth: 27/06/1950
+
+--- HAEMATOLOGY ---
+HAEMOGLOBIN ................. 22.4 * g/dL  Ref. 12.0 – 16.0
+RED BLOOD CELLS (RBC) ....... 4.1 10^6/µL  Ref. 4.0 - 5.5
+HAEMATOCRIT ................. 37.7 %  Ref. 36.0 - 48.0
+MCV ......................... 56.4 fL  Ref. 80.0 - 100.0
+WHITE BL0OD CELLS ........... 10.8 * 10^3/µL  Ref. 4.0-10.0
+PLT ......................... 109.9 * 10^3/µL  Ref. 150.0 – 450.0
+
+--- CLINICAL CHEMISTRY ---
+IR0N ........................ 83.5 µg/dL  Ref. 50.0 - 170.0
+FERRITIN .................... 67.8 ng/mL  Ref. 15.0 – 150.0
+GLUCOSE ..................... 81.0 mg/dL  Ref. 70.0 – 100.0
+HBA1C ....................... 5.5 %  Ref. < 5.7
+TOTAL. CHOLESTEROL .......... 250.1 * mg/dL  Ref. <200.0
+HDL CHOLESTEROL ............. 40.5 mg/dL  Ref. above 40.0
+LDL. CHOLESTEROL ............ 133.8 * mg/dL  Ref. < 130.0
+TRIGLYCERIDES ............... 89.4 mg/dL  Ref. < 150.0
+CREATININE .................. 1.5 * mg/dl  Ref. 0.5-1.1
+URIC. ACID .................. 6.2 mg/dL  Ref. 3.0 – 7.0
+SODIUM (NA) ................. 96.5 mmol/L  Ref. 136.0 - 145.0
+POTASSIUM ................... 5.6 mmol/L  Ref. 3.5-5.1
+CALCIUM ..................... 9.8 mg/dL  Ref. 8.5 - 10.5
+ALT ......................... 23.0 U/L  Ref. <40.0
+AST ......................... 37.4 u/l  Ref. < 40.0
+GGT ......................... 44.2 U/L  Ref. up to 50.0
+ALKALINE PHOSPHATASE (ALP) ... 29.1 U/L  Ref. 40.0 – 130.0
+TOTAL BLLIRUBIN ............. 0.4 mg/dL  Ref. 0.3 – 1.2
+ALBUMIN ..................... 4.8 g/dL  Ref. 3.5 - 5.0
+TSH ......................... 0.3 * mIU/L  Ref. 0.4-4.0
+FRCE T4 ..................... 1.1 ng/dL  Ref. 0.9-1.7
+CRP ......................... 5.7 * mg/l  Ref. up to 5.0
+VITAMIN D (25-OH) ........... 81.1 ng/mL  Ref. 30.0-100.0
+VITAMI. B12 ................. 164.0 * pg/mL  Ref. 200.0 – 900.0
+
+Pag. 1/1

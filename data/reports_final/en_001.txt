@@ -1,0 +1,38 @@
+LABORATORY RESULTS
+Patient: Olivia Jones    Date of birth: 17/07/1984
+
+--- HAEMATOLOGY ---
+HAEMOGLOBIN ................. 12.5 g/dl  Ref. 12.0 – 16.0
+RBC ......................... 3.3 * 10^6/µL  Ref. 4.0 - 5.5
+HAEMATOCRIT (HCT) ........... 45.9 %  Ref. 36.0 – 48.0
+MCV ......................... 94.1 fL  Ref. 80.0-100.0
+WHITE BLOOD CELLS ........... 5.0 10^3/µl  Ref. 4.0 – 10.0
+PLATELETS (PLT) ............. 309.9 10^3/µL  Ref. 150.0 – 450.0
+
+--- CLINICAL CHEMISTRY ---
+IRON ........................ 208.0 * ug/dL  Ref. 50.0-170.0
+FERRITIN .................... 201.4 ng/mL  Ref. 15.0 – 150.0
+GLUCOSE ..................... 71.0 mg/dL  Ref. 70.0-100.0
+HBA1C ....................... 4.3 %  Ref. <5.7
+TOTAL. CHOLESTEROL .......... 193.5 mg/dL  Ref. up to 200.0
+HDL. CHOLESTEROL ............ 78.2 mg/dL  Ref. >40.0
+LDL. CHOLESTEROL ............ 141.1 * mg/dl  Ref. up to 130.0
+TRIGLYCCRIDES ............... 149.6 mg/dL  Ref. up to 150.0
+CREATININE .................. 1.4 mg/dL  Ref. 0.5 – 1.1
+URIC ACID ................... 6.8 mg/dL  Ref. 3.0-7.0
+SODIUM ...................... 140.9 mmol/L  Ref. 136.0 – 145.0
+POTASSIUM ................... 3.5 mmol/l  Ref. 3.5 – 5.1
+CALCIUM (CA) ................ 9.2 mg/dl  Ref. 8.5 - 10.5
+ALT ......................... 45.3 * U/L  Ref. up to 40.0
+AST ......................... 36.3 U/L  Ref. < 40.0
+GGT ......................... 33.7 U/L  Ref. <50.0
+ALKALINE PHOSPHATASE ........ 73.1 U/L  Ref. 40.0 – 130.0
+TOTAL BILIRUBIN ............. 0.2 mg/dl  Ref. 0.3-1.2
+ALBUMIN ..................... 4.0 g/dL  Ref. 3.5-5.0
+TSH ......................... 2.4 miu/l  Ref. 0.4 - 4.0
+FREE T4 (FT4) ............... 1.0 ng/dL  Ref. 0.9-1.7
+CRP ......................... 2.9 mg/L  Ref. <5.0
+VITAMIN D (25-OH) ........... 86.0 ng/mL  Ref. 30.0 – 100.0
+VITAMI. B12 ................. 892.0 pg/mL  Ref. 200.0 – 900.0
+
+Pag. 1/1

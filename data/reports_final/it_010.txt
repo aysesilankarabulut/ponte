@@ -1,0 +1,38 @@
+Esami di laboratorio
+Paziente: Marco Bianchi    Data di nascita: 08/03/1993
+
+--- EMATOLOGIA ---
+Emoglobina: 23,5 g/dl (H) [12,0 – 16,0]
+Eritrociti: 7,9 10^6/ul (H) [4,0 - 5,5]
+Ematocrito: 39,1 % [36,0-48,0]
+MCV: 83,9 fL [80,0 – 100,0]
+Leucociti: 13,4 10^3/µL (H) [4,0-10,0]
+Piastrine: 112,2 10^3/µl (L) [150,0 - 450,0]
+
+--- CHIMICA CLINICA ---
+Ferro (Fe): 90,6 µg/dL [50,0 – 170,0]
+Ferritina: 24,5 ng/mL [15,0 – 150,0]
+Gluc0sio: 89,5 mg/dL [70,0 – 100,0]
+Emoglo. glicata: 8,0 % (H) [< 5,7]
+Colesterolo totale: 156,1 mg/dl [< 200,0]
+Colesterolo HDL: 45,2 mg/dL [> 40,0]
+Colest. LDL: 164,1 mg/dl [< 130,0]
+Trigliceridi: 102,9 mg/dL [fino a 150,0]
+Creatinina: 1,6 mg/dL (H) [0,5 - 1,1]
+Acido urico: 2,2 mg/dl (L) [3,0 - 7,0]
+Sodio (Na): 178,1 mmol/L (H) [136,0 - 145,0]
+Potassio: 4,7 mmol/L [3,5 - 5,1]
+Calcio: 10,1 mg/dl [8,5 – 10,5]
+ALT (GPT): 37,5 U/L [< 40,0]
+AST: 25,7 u/l [fino a 40,0]
+Gamma GT: 32,5 U/L [fino a 50,0]
+Fosfatasi alcalina: 117,4 U/L [40,0 - 130,0]
+Bilirubina totale (BIL-T): 1,5 mg/dL (H) [0,3 - 1,2]
+Albumina: 4,5 g/dl [3,5 - 5,0]
+TSH: 2,8 mIU/L [0,4-4,0]
+FT4: 1,9 ng/dL [0,9 – 1,7]
+Proteina C reattiva (CRP): 2,8 mg/L [<5,0]
+Vitamina D (25-OH): 31,6 ng/ml [30,0 – 100,0]
+Vitami. B12: 608,0 pg/ml [200,0 - 900,0]
+
+Pag. 1/1

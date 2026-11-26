@@ -1,0 +1,38 @@
+Laborbefund
+Patient: Lena Weber    Geburtsdatum: 18/05/1956
+
+--- HÄMATOLOGIE ---
+Hämoglobin                    14,8   g/dl      12,0 - 16,0
+Erythrozyten                   7,8 H 10^6/µL   4,0 - 5,5
+Hämatokrit (HCT)              57,9   %         36,0 - 48,0
+MCV                          106,6   fL        80,0 - 100,0
+Leukozyten                     3,9 L 10^3/uL   4,0 – 10,0
+Thrombozyten                 271,3   10^3/µL   150,0-450,0
+
+--- KLINISCHE CHEMIE ---
+Eisen                         89,5   ug/dL     50,0 - 170,0
+Fcrritin                       9,8 L ng/mL     15,0 – 150,0
+Glukose                      136,6   mg/dL     70,0-100,0
+HbA1c                          3,6   %         < 5,7
+Cho1esterin gesamt           250,1   mg/dL     <200,0
+HDL-Cholesterin               40,8   mg/dl     > 40,0
+LDL-Cholesterin              105,1   mg/dl     < 130,0
+Triglyceride                 172,4 H mg/dL     <150,0
+Kreatinin                      1,4 H mg/dL     0,5 - 1,1
+Harnsäure                      6,3   mg/dL     3,0 – 7,0
+Natrium (Na)                 139,8   mmol/L    136,0 - 145,0
+K                              7,5 H mmol/L    3,5-5,1
+Calcium (Ca)                  15,1 H mg/dL     8,5 – 10,5
+ALT (GPT)                     23,2   U/L       <40,0
+AST (GOT) (GOT)               46,1 H u/l       bis 40,0
+Gamma-GT                      64,9   U/L       bis 50,0
+Alkalische Phosphatase       138,4   U/L       40,0 – 130,0
+Bilirubin gesamt               0,4   mg/dL     0,3-1,2
+Albumin                        5,9 H g/dl      3,5-5,0
+TSH                            3,5   mIU/L     0,4 - 4,0
+fT4 (FT4)                      1,0   ng/dl     0,9 – 1,7
+CRP                            6,2   mg/L      bis 5,0
+Vitamin D (25-OH)             82,5   ng/mL     30,0-100,0
+Vitamin B12                  290,6   pg/mL     200,0 - 900,0
+
+Pag. 1/1

@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Lucía López    Fecha de nacimiento: 16/05/1951
+
+--- HEMATOLOGÍA ---
+Hemog1obina                 15.9 g/dL     (12.0 – 16.0)
+Hematíes                     4.8 10^6/µl  (4.0-5.5)
+Hematocrito                 57.4 %        (36.0 - 48.0)
+VCM (MCV)                   49.4 fl       (80.0 – 100.0)
+Lcucocitos                   9.7 10^3/µL  (4.0 - 10.0)
+Plaquetas                  270.2 10^3/µL  (150.0 – 450.0)
+
+--- BIOQUÍMICA ---
+Hierro                      55.0 µg/dL    (50.0 - 170.0)
+Ferritina                  120.9 ng/ml    (15.0 – 150.0)
+Glucosa                     79.5 mg/dL    (70.0-100.0)
+Hemoglobina glicada          6.1 %        (< 5.7)
+Colesterol total           280.9 mg/dL    (<200.0)
+Colest. HDL                 73.1 mg/dl    (> 40.0)
+Colest. LDL                138.3 mg/dL    (hasta 130.0)
+Triglicéridos              151.8 mg/dL    (<150.0)
+Creatinina                   1.0 mg/dL    (0.5 – 1.1)
+Ácido úrico                  2.4 mg/dL    (3.0 – 7.0)
+Sodio                      137.8 mmol/L   (136.0 - 145.0)
+Potasio (K)                  7.5 mmol/l   (3.5 - 5.1)
+Calcio (Ca)                  5.4 mg/dL    (8.5-10.5)
+ALT (GPT) (GPT)             47.5 U/L      (hasta 40.0)
+AST (GOT)                   39.3 U/L      (hasta 40.0)
+GGT                         62.7 U/L      (< 50.0)
+ALP                         51.6 U/L      (40.0 – 130.0)
+Bilirrubina total            0.2 mg/dL    (0.3 - 1.2)
+Albúmlna                     2.4 g/dL     (3.5-5.0)
+TSH                          4.1 mIU/L    (0.4 – 4.0)
+T4. libre                    0.8 ng/dl    (0.9 - 1.7)
+CRP                          6.8 mg/L     (< 5.0)
+Vitamina D (25-OH)          54.6 ng/mL    (30.0 – 100.0)
+Vitamina B12               241.0 pg/mL    (200.0 - 900.0)
+
+Pag. 1/1

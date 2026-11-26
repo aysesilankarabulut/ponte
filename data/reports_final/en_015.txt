@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Olivia Jones    Date of birth: 22/01/1984
+
+--- HAEMATOLOGY ---
+Haemoglobin                   17.6 H g/dl      12.0 – 16.0
+Red blood cells                5.5   10^6/uL   4.0 – 5.5
+Haematocrit (HCT)             28.0   %         36.0 - 48.0
+MCV                           97.8   fL        80.0 - 100.0
+White blood cells              5.6   10^3/µl   4.0-10.0
+PLT                          128.0 L 10^3/uL   150.0 – 450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron                         206.3 H µg/dL     50.0 - 170.0
+Ferritin                      10.7 L ng/ml     15.0 - 150.0
+Glucose                      117.0 H mg/dL     70.0-100.0
+HbA1c                          6.5 H %         <5.7
+Total cholesterol            258.5   mg/dl     <200.0
+HDL cholesterol               71.1   mg/dL     above 40.0
+LDL cholesterol              130.7 H mg/dl     up to 130.0
+Triglycerides                116.7   mg/dL     <150.0
+Creatinine                     0.4 L mg/dL     0.5-1.1
+Uric acid                      3.9   mg/dl     3.0 – 7.0
+Na                           149.9 H mmol/l    136.0 – 145.0
+Potassium                      3.3   mmol/L    3.5 – 5.1
+Calcium (Ca)                   8.3 L mg/dL     8.5 - 10.5
+ALT                           44.7 H u/l       < 40.0
+AST                           36.5   u/l       < 40.0
+GGT                           49.0   U/L       < 50.0
+Alkaline phosphatase (ALP)   124.3   u/l       40.0 - 130.0
+Total bilirubin                0.6   mg/dL     0.3-1.2
+Albumin                        4.0   g/dL      3.5 - 5.0
+TSH                            0.3   mIU/L     0.4 - 4.0
+Free T4                        2.2 H ng/dL     0.9 - 1.7
+CRP                            6.3   mg/L      up to 5.0
+Vitamin D (25-OH)             56.1   ng/ml     30.0 – 100.0
+Vitamin B12                 1215.7 H pg/mL     200.0 – 900.0
+
+Pag. 1/1

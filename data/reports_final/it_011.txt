@@ -1,0 +1,38 @@
+ESAMI DI LABORATORIO
+Paziente: Maria Esposito    Data di nascita: 21/05/1980
+
+--- EMATOLOGIA ---
+HB                             9,6 L g/dl      12,0 - 16,0
+ERITROCITI                     3,8 L 10^6/µl   4,0 – 5,5
+EMATOCRITO                    41,3   %         36,0-48,0
+MCV (MCV)                    127,5 H fL        80,0 - 100,0
+LEUC0CITI                      4,0   10^3/ul   4,0 – 10,0
+PIASTRINE (PLT)              431,8   10^3/ul   150,0 – 450,0
+
+--- CHIMICA CLINICA ---
+FERRO (FE)                    53,3   µg/dL     50,0 – 170,0
+FERRITINA                     18,0   ng/ml     15,0-150,0
+GLUCOSIO                      80,8   mg/dL     70,0-100,0
+EMOGLOBINA GLICATA             5,9   %         fino a 5,7
+COLCSTEROLO TOTALE           250,4 H mg/dL     <200,0
+COLESTEROLO HDL               48,9   mg/dl     > 40,0
+COLEST. LDL                  122,5   mg/dl     < 130,0
+TRIGLICERIDI                 117,9   mg/dl     <150,0
+CREATLNINA                     1,1   mg/dL     0,5 - 1,1
+ACLDO. URICO                  10,4   mg/dL     3,0 – 7,0
+SODIO                        141,4   mmol/L    136,0-145,0
+POTASSIO (K)                   3,1   mmol/L    3,5 – 5,1
+CALCIO                         7,2 L mg/dL     8,5 – 10,5
+ALT                           29,9   U/L       <40,0
+GOT                           32,9   U/L       < 40,0
+GAMMA GT                      37,9   u/l       fino a 50,0
+FOSFATASI ALCALINA            51,5   U/L       40,0 - 130,0
+BILIRUBINA TOTALE (BIL-T)      0,3   mg/dl     0,3 – 1,2
+ALBUMLNA                       3,8   g/dL      3,5 – 5,0
+TSH                            2,5   mIU/L     0,4 - 4,0
+FT4                            1,0   ng/dL     0,9-1,7
+PROTEINA C REATTIVA            4,2   mg/L      < 5,0
+VITAMINA D (25-OH)            65,1   ng/ml     30,0-100,0
+VITAMINA B12                 779,7   pg/ml     200,0 - 900,0
+
+Pag. 1/1

@@ -132,10 +132,10 @@ def make_messy_report(tests, lang):
     return "\n".join(lines), truth, meta
 
 
-def main(n_per_lang=25):
-    random.seed(43)                                      # temiz setten farklı tohum
+def main(n_per_lang=25, seed=43, folder="data/reports_messy"):
+    random.seed(seed)                                    # temiz setten farklı tohum
     tests = pd.read_csv("data/tests.csv")
-    out = Path("data/reports_messy")
+    out = Path(folder)
     out.mkdir(parents=True, exist_ok=True)
     for lang in LANGS:
         for i in range(1, n_per_lang + 1):
@@ -150,4 +150,10 @@ def main(n_per_lang=25):
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--n", type=int, default=25, help="dil başına rapor sayısı")
+    ap.add_argument("--seed", type=int, default=43)
+    ap.add_argument("--out", default="data/reports_messy")
+    a = ap.parse_args()
+    main(a.n, a.seed, a.out)

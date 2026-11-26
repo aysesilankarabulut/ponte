@@ -1,0 +1,38 @@
+Resultados de laboratorio
+Paciente: Javier García    Fecha de nacimiento: 04/12/1946
+
+--- HEMATOLOGÍA ---
+Hemoglobina                  9,5 g/dL     (12,0 - 16,0)
+Hematíes                     5,4 10^6/µL  (4,0 – 5,5)
+Hematocrito                 46,9 %        (36,0-48,0)
+MCV                         98,2 fL       (80,0 - 100,0)
+Leucocitos                   6,3 10^3/µL  (4,0-10,0)
+Plaquetas                  577,8 10^3/µL  (150,0 – 450,0)
+
+--- BIOQUÍMICA ---
+Hierro                     118,0 µg/dL    (50,0 – 170,0)
+Ferritina                  122,0 ng/ml    (15,0-150,0)
+Glucosa                    144,9 mg/dl    (70,0-100,0)
+Hem0globina glicada          5,5 %        (hasta 5,7)
+Colest. total              297,5 mg/dL    (< 200,0)
+Colcsterol HDL              69,8 mg/dL    (superior a 40,0)
+Colesterol LDL             119,1 mg/dL    (hasta 130,0)
+Triglicéridos               91,1 mg/dl    (hasta 150,0)
+Creatlnina                   0,9 mg/dl    (0,5-1,1)
+Ácido úrico                  2,8 mg/dL    (3,0 – 7,0)
+Sodio                      105,5 mmol/l   (136,0 – 145,0)
+Potasio (K)                  2,9 mmol/L   (3,5 - 5,1)
+Calcio                       9,1 mg/dL    (8,5-10,5)
+ALT (GPT)                   57,0 u/l      (hasta 40,0)
+AST (GOT)                   23,3 U/L      (<40,0)
+GGT (GGT)                   41,4 u/l      (hasta 50,0)
+Fosfatasa alcalina         165,5 U/L      (40,0 - 130,0)
+Bilirrubina total            0,5 mg/dl    (0,3 – 1,2)
+Albúmina                     3,7 g/dL     (3,5 – 5,0)
+TSH                          3,1 mIU/L    (0,4 – 4,0)
+FT4                          2,4 ng/dl    (0,9-1,7)
+Proteína C reactiva          3,8 mg/l     (hasta 5,0)
+Vitamina D (25-OH)          47,6 ng/mL    (30,0-100,0)
+Vitami. B12                223,5 pg/ml    (200,0 - 900,0)
+
+Pag. 1/1

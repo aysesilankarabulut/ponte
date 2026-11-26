@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Harry Brown    Date of birth: 17/01/1975
+
+--- HAEMATOLOGY ---
+Hb: 19.7 g/dL (H) [12.0 - 16.0]
+RBC: 4.4 10^6/µl [4.0 - 5.5]
+Haematocrit (HCT): 36.6 % [36.0 - 48.0]
+MCV: 78.8 fL (L) [80.0 – 100.0]
+White blood cells (WBC): 7.3 10^3/uL [4.0-10.0]
+Platclets: 111.7 10^3/uL (L) [150.0 - 450.0]
+
+--- CLINICAL CHEMISTRY ---
+Iron: 90.5 µg/dL [50.0 – 170.0]
+Ferritin: 9.7 ng/ml (L) [15.0-150.0]
+Glucose: 91.1 mg/dL [70.0-100.0]
+HbA1c: 7.6 % (H) [up to 5.7]
+Total cholesterol: 179.2 mg/dl [<200.0]
+HDL cholesterol: 49.7 mg/dL [>40.0]
+LDL cholesterol: 174.2 mg/dl (H) [< 130.0]
+Triglycerides: 183.8 mg/dL [< 150.0]
+Creatinine: 1.4 mg/dL (H) [0.5 - 1.1]
+Uric acid: 8.7 mg/dL (H) [3.0 - 7.0]
+Sodium: 139.0 mmol/L [136.0-145.0]
+Potassium: 4.1 mmol/L [3.5-5.1]
+Calcium (Ca): 9.2 mg/dL [8.5-10.5]
+ALT: 32.3 u/l [up to 40.0]
+AST (GOT): 56.7 u/l (H) [up to 40.0]
+GGT: 70.7 U/L (H) [< 50.0]
+Alkaline phosphatase (ALP): 105.3 U/L [40.0-130.0]
+Total bilirubin (BIL-T): 0.7 mg/dl [0.3-1.2]
+Albumin: 4.6 g/dl [3.5-5.0]
+TSH: 3.5 miu/l [0.4-4.0]
+FT4: 0.8 ng/dl [0.9 – 1.7]
+CRP (CRP): 3.7 mg/L [up to 5.0]
+Vitamin D (25-OH): 90.1 ng/mL [30.0-100.0]
+Vitamin B12: 155.8 pg/mL (L) [200.0 - 900.0]
+
+Pag. 1/1

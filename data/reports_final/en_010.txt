@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Taylor    Date of birth: 23/08/1987
+
+--- HAEMATOLOGY ---
+Haemoglobin (Hb)             9.6 g/dL     (12.0 - 16.0)
+RBC                          3.5 10^6/ul  (4.0 - 5.5)
+Haematocrit                 45.0 %        (36.0 - 48.0)
+MCV                         81.6 fL       (80.0-100.0)
+White blood cells            5.7 10^3/uL  (4.0-10.0)
+PLT                        572.6 10^3/µL  (150.0-450.0)
+
+--- CLINICAL CHEMISTRY ---
+Iron                        47.0 µg/dl    (50.0 – 170.0)
+Ferritin                   206.1 ng/mL    (15.0-150.0)
+Glucose                     73.7 mg/dL    (70.0 – 100.0)
+HbA1c                        6.5 %        (up to 5.7)
+Total. cholesterol         233.8 mg/dL    (up to 200.0)
+HDL cholesterol             52.3 mg/dl    (>40.0)
+LDL. cholesterol           139.7 mg/dl    (up to 130.0)
+Triglycerides              165.5 mg/dL    (up to 150.0)
+Creatinine                   1.0 mg/dL    (0.5 – 1.1)
+Uric acid                    9.4 mg/dl    (3.0-7.0)
+Sodium                     140.8 mmol/L   (136.0 - 145.0)
+Potassium                    5.6 mmol/L   (3.5 - 5.1)
+Calcium                     12.8 mg/dL    (8.5 – 10.5)
+ALT (GPT)                   47.5 u/l      (up to 40.0)
+AST                         43.6 u/l      (<40.0)
+GGT                         48.7 U/L      (up to 50.0)
+Alkaline phosphatase        76.4 U/L      (40.0-130.0)
+Total bilirubin              1.0 mg/dl    (0.3 – 1.2)
+Albumln                      3.6 g/dL     (3.5-5.0)
+TSH (TSH)                    0.3 mIU/L    (0.4-4.0)
+Free. T4                     1.4 ng/dL    (0.9 - 1.7)
+CRP                          4.2 mg/L     (< 5.0)
+Vitami. D (25-OH)          102.5 ng/mL    (30.0 - 100.0)
+Vltamin B12                170.8 pg/mL    (200.0-900.0)
+
+Pag. 1/1

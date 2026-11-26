@@ -1,0 +1,38 @@
+RESULTADOS DE LABORATORIO
+Paciente: Pablo García    Fecha de nacimiento: 28/12/1946
+
+--- HEMATOLOGÍA ---
+HEMOGLOBLNA ................. 9,0 * g/dL  V.R. 12,0 – 16,0
+HEMATÍES .................... 4,3 10^6/µL  V.R. 4,0 - 5,5
+HEMATOCRLTO ................. 33,4 * %  V.R. 36,0 - 48,0
+VCM ......................... 82,7 fL  V.R. 80,0 - 100,0
+LEUC0CITOS .................. 9,9 10^3/µL  V.R. 4,0 - 10,0
+P1AQUETAS ................... 145,7 10^3/uL  V.R. 150,0 – 450,0
+
+--- BIOQUÍMICA ---
+HIERRO ...................... 41,1 µg/dl  V.R. 50,0 – 170,0
+FERRITINA ................... 13,7 * ng/ml  V.R. 15,0 - 150,0
+GLUCOSA ..................... 81,5 mg/dL  V.R. 70,0-100,0
+HEMOGL. GLICADA ............. 5,3 %  V.R. < 5,7
+COLESTEROL TOTAL ............ 162,5 mg/dL  V.R. hasta 200,0
+COLEST. HDL ................. 40,2 mg/dl  V.R. superior a 40,0
+COLESTEROL LDL .............. 93,5 mg/dL  V.R. hasta 130,0
+TRIGLICÉRIDOS ............... 201,4 * mg/dL  V.R. hasta 150,0
+CREATININA .................. 1,2 * mg/dL  V.R. 0,5 - 1,1
+ÁCIDO ÚRICO ................. 8,7 * mg/dL  V.R. 3,0 - 7,0
+SODIO ....................... 136,1 mmol/L  V.R. 136,0 - 145,0
+P0TASIO (K) ................. 4,7 mmol/L  V.R. 3,5 - 5,1
+CA .......................... 10,2 mg/dL  V.R. 8,5 - 10,5
+ALT (GPT) ................... 21,7 U/L  V.R. <40,0
+AST (GOT) ................... 46,5 u/l  V.R. <40,0
+GGT ......................... 63,8 * U/L  V.R. < 50,0
+FOSFATASA ALCALINA .......... 72,7 u/l  V.R. 40,0 - 130,0
+BIL-T ....................... 1,7 * mg/dL  V.R. 0,3 - 1,2
+ALBÚMINA .................... 4,6 g/dL  V.R. 3,5 - 5,0
+TSH ......................... 3,1 mIU/L  V.R. 0,4 – 4,0
+T4. LLBRE ................... 1,3 ng/dl  V.R. 0,9 - 1,7
+PROTEÍNA C REACTIVA ......... 6,1 mg/L  V.R. <5,0
+VITAMI. D (25-OH) ........... 78,3 ng/mL  V.R. 30,0-100,0
+VITAMINA B12 ................ 290,7 pg/ml  V.R. 200,0 - 900,0
+
+Pag. 1/1

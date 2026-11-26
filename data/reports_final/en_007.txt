@@ -1,0 +1,38 @@
+Laboratory results
+Patient: Emma Brown    Date of birth: 09/12/1947
+
+--- HAEMATOLOGY ---
+Haemoglobin ................. 14.2 g/dL  Ref. 12.0-16.0
+Red blood cells ............. 4.9 10^6/uL  Ref. 4.0-5.5
+Haematocrit ................. 46.2 %  Ref. 36.0 - 48.0
+MCV ......................... 94.3 fl  Ref. 80.0 – 100.0
+White blood cells (WBC) ..... 2.7 * 10^3/µL  Ref. 4.0 – 10.0
+Platelets ................... 419.4 10^3/uL  Ref. 150.0-450.0
+
+--- CLINICAL CHEMISTRY ---
+Iron ........................ 167.2 µg/dl  Ref. 50.0 – 170.0
+Ferritin .................... 32.4 ng/mL  Ref. 15.0 – 150.0
+Glucose ..................... 99.1 mg/dL  Ref. 70.0 - 100.0
+HbA1c ....................... 4.9 %  Ref. up to 5.7
+Total cholesterol ........... 216.9 * mg/dL  Ref. < 200.0
+HDL. cholesterol ............ 36.2 * mg/dL  Ref. > 40.0
+LDL cholesterol ............. 112.5 mg/dL  Ref. up to 130.0
+Triglycerides ............... 215.4 mg/dl  Ref. up to 150.0
+Creatinine .................. 1.0 mg/dL  Ref. 0.5 – 1.1
+Urlc. acid .................. 1.9 mg/dL  Ref. 3.0-7.0
+Sodium ...................... 141.3 mmol/L  Ref. 136.0 – 145.0
+P0tassium ................... 4.3 mmol/L  Ref. 3.5 - 5.1
+Calcium ..................... 10.1 mg/dL  Ref. 8.5 - 10.5
+ALT ......................... 27.8 U/L  Ref. < 40.0
+GOT ......................... 34.7 U/L  Ref. <40.0
+GGT (GGT) ................... 59.6 * U/L  Ref. up to 50.0
+Alkaline phosphatase (ALP) ... 67.5 u/l  Ref. 40.0 - 130.0
+Total bilirubin ............. 1.1 mg/dL  Ref. 0.3-1.2
+Albumin ..................... 7.3 * g/dL  Ref. 3.5-5.0
+TSH ......................... 0.4 mIU/L  Ref. 0.4 - 4.0
+Free T4 (FT4) ............... 0.7 * ng/dl  Ref. 0.9 - 1.7
+CRP ......................... 4.8 mg/l  Ref. up to 5.0
+Vitami. D (25-OH) ........... 136.0 * ng/ml  Ref. 30.0 - 100.0
+Vitamin B12 ................. 213.9 pg/ml  Ref. 200.0 - 900.0
+
+Pag. 1/1
