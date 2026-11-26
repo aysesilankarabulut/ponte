@@ -1,0 +1,166 @@
+{
+  "ocr_seconds": 7.5,
+  "read_seconds": 137.4,
+  "ocr_text": "Laborbefund\nPatient: Anna Müller Geburtsdatum: 21/08/2001\n--- HÄMATOLOGIE ---\nHämoglobin (Hb) ............. 13,7 g/dl Ref.: 12,0 - 16,0\n| REC... career sort 4, 6:20°0/UL- REF. 4,055,5\n| Hamatokrit .............00.0. 42,0 % Ref.: 36,0 - 48,0\nMOV cain scsi parara dz IL RAT, 00,0-100,0\nWBC occitana 9,9 10^3/µL. Rat.: 4,0 - 10,0\nThrombozyten (PLT) .......... 137,5 * 10^3/µL Ref.: 150,0-450,0\n| === KLINISCHE CHEMIE ---\n| Eisen ine sonsarseenanenneee 38,1. g/dl.) Ref.::50,9-170;0\nE ‘Ferritin ou ivi riga 148;,5-ng/el Ref: 15,6 - 150,0 |\n|. Glukose cio osorno 70,1 mg/dL Refs: 70,0-- 100,0 |\n| BERNIE nina nern ED EAS |\nCholesterin gesamt .......... 282,4 * mg/dl Ref.: <200,0\n| HDL-Cholesterin ............. 56,3 mg/dl Ref.: > 40,0\ni LDL-Cholesterin ............. 72,2 mg/dL Ref.: <130,0\nTriglyceride ................ 172,3 * mg/dl Ref.: <150,0\nKreatinin »,.c00.u000 0000. 0,4 MG/L Ref.: 0,5 = 1,1\nHarnsäure ................... 6,1 mg/dl Ref.: 3,0-7,0\nNatrium ..................... 142,7 mmol/L Ref.: 136,0-145,0\nKalium ciccio 38 MMOL/L Ref 3,55,\nCa cece conevcescantvvescsscns 9,0 MG/G: Ref.: 8/5: 10,5\nALE: AGPT) unire 5453 WE. ‘Ref.: bis 40,0\nAST (GOT) (GOT) ............. 25,0 U/L Ref.: < 40,0\nGOMNA-GT siii O Ut Rafa: < 50,0\nAlkalische Phosphatase ...... 38,8 * U/L Ref.: 40,0 - 130,0\n| Bilirubin gesamt ............ 1,1 mg/dl Ref.: 0,3 - 1,2\nMA AR A A A\nTSH ccsweccewvevsccctvcveeness 374 MOL Ref.? 0,42 4,0\nMUA 2, Acts) Raf.3-0,9-1,7\nCRP (CRP) nennen tes. 255 MG/L Ref.: bis 5,0\n| Vitami. D (25-0H) ........... 52,0 ng/mL Ref.: 30,0-100,0\nVitami. B12 ................. 175,3 * pg/mL Ref.: 200,0 - 900,0\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "1988-5",
+      "value": 255.0,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 27
+    },
+    {
+      "loinc": "2132-9",
+      "value": 175.3,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 29
+    },
+    {
+      "loinc": "718-7",
+      "value": 13.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 42.0,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 9.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 137.5,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "L",
+      "line": 7
+    },
+    {
+      "loinc": "2345-7",
+      "value": 70.1,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 282.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 11
+    },
+    {
+      "loinc": "2085-9",
+      "value": 56.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "13457-7",
+      "value": 72.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "2571-8",
+      "value": 172.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "3084-1",
+      "value": 6.1,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 142.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "1920-8",
+      "value": 25.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "6768-6",
+      "value": 38.8,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 23
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.1,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "62292-8",
+      "value": 52.0,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 28
+    }
+  ],
+  "unread": [
+    "Kalium ciccio 38 MMOL/L Ref 3,55,",
+    "| Eisen ine sonsarseenanenneee 38,1. g/dl.) Ref.::50,9-170;0",
+    "Kreatinin »,.c00.u000 0000. 0,4 MG/L Ref.: 0,5 = 1,1",
+    "Kalium ciccio 38 MMOL/L Ref 3,55,"
+  ]
+}

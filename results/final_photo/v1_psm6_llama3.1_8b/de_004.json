@@ -1,0 +1,278 @@
+{
+  "ocr_seconds": 2.8,
+  "read_seconds": 115.4,
+  "ocr_text": "Laborbefund\nPatient: Lena Weber Geburtsdatum: 18/05/1956\n” --- HÄMATOLOGIE --- |\n|| Hámoglobin 14,8 g/dl 12,0 - 16,0 |\nDi Erythrozyten 7,8 H 10^6/µL 4,0 - 5,5\n| Hämatokrit (HCT) 57,9 % 36,0 - 48,0\nii | MCV 106,6 fL 80,0 - 190,0\ny Leukozyten 3,9 L 10^3/µL 4,0 - 10,0\nThrombozyten 271,3 10^3/µL 150,0-450,0\n--- KLINISCHE CHEMIE ---\nEisen 89,5 ug/dL 50,0 - 170,0\nFerritin 9,8 L ng/mL 15,0 - 150,0\nGlukose 136,6 mg/dL 70,0-100,0\nHbAlc 3,6 % < 5,7\nCholesterin gesamt 250,1 mg/dl <200,0\nHDL-Cholesterin 40,8 mg/dl > 40,0\nLOL-Cholesterin 105,1 mg/dl < 130,0\nTriglyceride 172,4 H mg/dl <150,0\nKreatinin 1,4 H mg/dL 0,5 - 1,1\nHarnsáure 6,3 mg/dL 3,0 - 7,0\nNatrium (Na) 139,8 mmol/L 136,0 - 145,0\nK 7,5 H mmol/L 3,5-5,1\nCalcium (Ca) 15,1 H mg/dL 8,5 - 10,5\nALT (GPT) 23,2 U/L <40,0\nAST (GOT) (GOT) 46,1 H u/l bis 40,0\nGamma-GT 64,9 U/L bis 50,0\nAlkalische Phosphatase 138,4 U/L 40,0 - 130,0\nBilirubin gesamt 0,4 mg/dl 0,3-1,2\nAlbumin 5,9 H g/dl 3,5-5,0\nTSH 3,5 mIU/L 0,4 - 4,0\nfT4 (FT4) 1,0 ng/dl 0,9 - 1,7\nCRP 6,2 mg/L bis 5,0\nVitamin D (25-0H) 82,5 ng/mL 30,0-100,0\nVitamin B12 290,6 pg/mL 200,0 - 900,0\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 7.8,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "H",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 106.6,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 190.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 89.5,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 3.5,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.0,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.2,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 290.6,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 14.8,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 57.9,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "H",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 3.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "L",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 271.3,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 9.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "L",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 136.6,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 3.6,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "N",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 250.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 40.8,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 105.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 172.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 6.3,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 139.8,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 7.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "H",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 15.1,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "H",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 23.2,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 46.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 64.9,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 138.4,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "H",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.4,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 5.9,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 82.5,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": []
+}

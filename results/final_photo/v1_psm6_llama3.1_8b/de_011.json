@@ -1,0 +1,230 @@
+{
+  "ocr_seconds": 18.5,
+  "read_seconds": 184.3,
+  "ocr_text": "LABORBEFUND\nPatient: Anna Schmidt Geburtsdatum: 02/10/1986\n--- HAMATOLOGIE ---\nHAMOGLOBIN (HB) ............. 9,3 * g/dL Ref.: 12,0 - 16,0\nERYTHROZYTEN ..............-. 2,5 106/41 Ref.: 4,0 - 5,5\nHAMATOKRIT ........-....--... 31,8 % Ref.: 36,0-48,0\nMCV .ccceccceeecevstssceeeees 99,9 FL Ref.: 80,0 - 100,9\nI LEUKOZYTEN -.;.:-0.-<-<sv0000 5,7 10^3/µL Ref.: 4,0 - 10,0\n| THROMBOZYTCN ................ 488,5 * 10^3/µL Ref.: 150,0-450,0\n== KLINISCHE CHEMIE --- :\nI EISEN nenne SR ug/dL Ref.: 50,0-170,0\nFERRITIN ;....<.00.-+--- «000 92,9 ng/ml Ref.: 15,0 - 150,0\nMO GUUKOSE senora sas ronca 418 mg/dL Ref.: 70,0 - 100,0\nI HBAIC Licei 6,3% Ref.: <5,7 È\nÈ CHOLESTERIN GESAMT .......... 200,4 mg/dL Ref.: <200,0 fi\nHDL-CHOLESTERIN ............. 79,3 mg/dL Ref.: > 40,0\nLDL-CHOLESTERIN ...........-. 111,6 mg/dL Ref.: < 130,0 È\nTRIGLYCERIDE ................ 114,5 mg/dl Ref.: bis 150,0\nKREATININ ....-- 0.00.00. 0,7 mg/dL Ref.: 0,5-1,1 I\nHARNSAURE ...........-...... 10,3 * mg/dL Ref.: 3,0-7,0\nNATRIUM « 400000 casacas 118,5 * mmol/L Ref.: 136,0 - 145,0\nMia, mmol/l. Ref 3,5 = 5,1\nCALCIUM nassen essen 5,20 mg/dl. Ref: 8,5, - 10,5\nAUT (GPT) ce sc ea nenne 26,8 W/L Ref < 49,0\nAST. (GOT) .......00.--.....+ 56,4 * U/L Ref.: bis 40,0\nGAMALGT. o on 32,3 U/L Ret.: < 90,8\nALKALISCHE PHOSPHATASE ...... 88,3 U/L Ref.: 40,0 - 130,0\nBILIRU. GESAMT .............. 0,9 mg/dL Ref.: 0,3-1,2\nAIBUMIN ...ccceeveeeereeeesss 4,9 g/dL Ref.: 3,5-5,0\nTUR RN IA 13,3 MU/L Ret, 01449\nFTA: ire 2,3, #ng/dl. Ref. 8,9 = 27\nCRP (CRP) .......-<----.+.--» 3,3 mg/L Ref.: <5,0\nVITAMIN D (25-OH) ........... 20,1 * ng/mL Ref. : 30,0-100,0\nVITAMIN B12 ..............-.. 162,8 * pg/mL Ref.: 200,0 - 900,0\nPag. 1/1\nIE ENEE\n",
+  "rows": [
+    {
+      "loinc": "787-2",
+      "value": 99.9,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.9,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "3024-7",
+      "value": 2.3,
+      "unit": "ng/dL",
+      "low": 8.9,
+      "high": 27.0,
+      "flag": "L",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 3.3,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 162.8,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 9.3,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "L",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 31.8,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "L",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 5.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 488.5,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 92.9,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 418.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 200.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 79.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 111.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 114.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.7,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "17861-6",
+      "value": 5.2,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "L",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 56.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 88.3,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.9,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.9,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 20.1,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 30
+    },
+    {
+      "loinc": "3084-1",
+      "value": 10.3,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "repaired": true,
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 118.5,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "repaired": true,
+      "line": 18
+    },
+    {
+      "loinc": "2324-2",
+      "value": 32.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 90.8,
+      "flag": "N",
+      "repaired": true,
+      "line": 23
+    }
+  ],
+  "unread": [
+    "I EISEN nenne SR ug/dL Ref.: 50,0-170,0",
+    "Mia, mmol/l. Ref 3,5 = 5,1"
+  ]
+}

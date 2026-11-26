@@ -1,0 +1,138 @@
+{
+  "ocr_seconds": 4.5,
+  "read_seconds": 128.3,
+  "ocr_text": "Esami di laboratorio\nPaziente: Giulia Esposito Data di nascita: 04/12/1951\n\n--- EMATOLOGIA ---\nEmogloblna .................. 21,2 * g/dl v.r. 12,0-16,0\noo O54 JA NA 4,0-5,5\nEmatocrito! issues DB Var: 36,0-48,0\nMCV: cs Ceccarini VS 80,0-100,0\nLeucociti (WBC) oe... o... 9,2 10^3/µL v.r. 4,0 - 10,0\nPiastrine vil. sara ara 998,2 10237 MIN COS 150,0-450,0\n--- CHIMICA CLINICA ---\n\nFerro: siii nas 97,0.ug/dl Vash 0 170,0\nFerritina scscvicessevecsevees 222,8 NG/ML Ver: 15,0-150,0\nGlucosio occ ecccvcvecesessces 84,2 mg/dl ver. 70,0 - 100,0\nEmoglobina glicata .......... 4,2% V.r. <5,7\n\nColesterolo totale .......... 167,1 mg/dl v.r. <200,0\nColest. HDL ¿voces ceso ada 44,2 MOLA\n\nColest. LDL ....ooomorassanoa 76,1 mg/dL. Vetoes 150,\nTrigliceridi ..:..<...00. 00/20 mg/dL v.r. < 150,0\nCreatinina ......oooooo»o.... 0,5 mg/dl v.r. 0,5 - 1,1\nAcido. ‘urico ui vence cage Zad PAIN 3,0-7,0\nSodio (Na) .-.....x0srir cn 137,0 mmol/L v.r. 136,0 - 145,0\nPotassio (K) .....ooooooomo.. 4,5 mmol/L v.r. 3,5 - 5,2\nCalcio sock seen en nenne Gi ION 8,5 - 10,5\n\nGPT: „u... O O ME E <40,0\n\nAST (GOT)... retina ca ALL VS <40,0\n\nGamba (GT Luino 98,0, UVAS 50,0\nFosfatasi alcalina .......... 36,2 * U/L v.r. 40,0 - 130,0\nBilirubina totale ........... 0,6 mg/dl v.r. 0,3 - 1,2\nAlbumlna ...- eri 6,3 * G/L Valdo\n\nTSH sicari ONO 0,4-4,0\n\nETA covecvedceveveccssveecer 0,9 mg/dl. Vir. 0,9 857\no GN ro NE\n\nVitami. D (25-0H) ........... 115,8 * ng/mL v.r. 30,0-100,0\nVitami. B12 ................. 242,5 pg/mL v.r. 200,0 - 900,0\nPag. 1/1\n\nSTE |\n",
+  "rows": [
+    {
+      "loinc": "2498-4",
+      "value": 97.0,
+      "unit": "µg/dL",
+      "low": 0.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "2132-9",
+      "value": 242.5,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 30
+    },
+    {
+      "loinc": "718-7",
+      "value": 21.2,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 9.2,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "2276-4",
+      "value": 222.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 84.2,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 167.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2571-8",
+      "value": 20.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 137.0,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.2,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "6768-6",
+      "value": 36.2,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.6,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 115.8,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 29
+    }
+  ],
+  "unread": [
+    "Colest. LDL ....ooomorassanoa 76,1 mg/dL. Vetoes 150,",
+    "Colest. LDL ....ooomorassanoa 76,1 mg/dL. Vetoes 150,",
+    "ETA covecvedceveveccssveecer 0,9 mg/dl. Vir. 0,9 857"
+  ]
+}

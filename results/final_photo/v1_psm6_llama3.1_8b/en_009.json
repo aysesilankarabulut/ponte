@@ -1,0 +1,191 @@
+{
+  "ocr_seconds": 16.4,
+  "read_seconds": 125.5,
+  "ocr_text": "Laboratory results\nPatient: James Jones Date of birth: 13/06/1978\n--- HAEMATOLOGY ---\nido (g/dl Ret. 12.07 -~ 1620\nRed blood cells .... <.<. «+ 4.7 10^6/µL Ref. 4.0-5.5\nHacmatocrit ................. 39.6 % Ref. 36.0 - 48.0\nAO 8259 Ref 80,05 100.0\nWhite blood cells (WBC) ..... 8.7 10^3/µL Ref. 4.0 - 10.0\nPlatelets ............:...++. 369.9 10^3/µL Ref. 150.0 - 450.0\n--- CLINICAL CHEMISTRY ---\nTron eni 3409 © HO/dL Ref. 50.0-170.0\nFerritin ...........0..+.+««« 57.5 ng/mL Ref. 15.0-150.0\nGlucose LL... 69.3 * mg/dL Ref. 70.0 - 100.0\nHbAT CIOS. ito arica De Ref 5.7\nTotal. cholesterol .......... 287.2 * mg/dL Ref. < 200.0\nHDL cholesterol ............. 48.4 mg/dL Ref. > 40.0\nLDL cholesterol ............. 69.2 mg/dl Ref. <130.0\nTriglycerides ............... 140.4 mg/dL Ref. up to 150.0\nGreatinine =... 0-5 mg/dl Ret: 0.50 1.1\nUric acid... cece nes nen. MI/0L- Ref. 30-70\nSodium 2 sc. eetsssceeseasss ss 120.6 mmol/L Ref. 136.0-145.0\nPotassium ................... 2.3 * mmol/L Ref. 3.5 - 5.1\nCalcium oe ant mg/dl: Ref. 8-5-1005\nGPT Li. 59.1 * U/L Ref. up to 40.0\nAa 2024. U/ Ref... <40.0\nGGI ee een er 09-9: U/L RET.) < 50.8\nAlkaline phosphatase ........ 32.8 u/l Ref. 40.0-130.0\n| Total bilirubin ............. 0.8 mg/dL Ref. 0.3 - 1.2\nAlbumin soci 9A Ref. 319 =5.0\nTSH ian MLU/L RET. 0,4240\nFree 04) ses ley Ng/dL Ref. (0:9 ;- 1.7\nCR ee ie eng RE coc\nVitamin D (25-0H) ........... 75.3 ng/ml Ref. 30.0-100.0\n| Vltami. B12 ................. 186.2 pg/mL Ref. 200.0-900.0\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 4.7,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "3024-7",
+      "value": 4.0,
+      "unit": "ng/dL",
+      "low": 0.0,
+      "high": 9.0,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "2132-9",
+      "value": 186.2,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 30
+    },
+    {
+      "loinc": "4544-3",
+      "value": 39.6,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 8.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 369.9,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 57.5,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 69.3,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 287.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 48.4,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 69.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 140.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 5.0,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 120.6,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 2.3,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "L",
+      "line": 19
+    },
+    {
+      "loinc": "1742-6",
+      "value": 59.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 21
+    },
+    {
+      "loinc": "2324-2",
+      "value": 9.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.8,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 32.8,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 75.3,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 29
+    }
+  ],
+  "unread": [
+    "ido (g/dl Ret. 12.07 -~ 1620",
+    "Calcium oe ant mg/dl: Ref. 8-5-1005"
+  ]
+}

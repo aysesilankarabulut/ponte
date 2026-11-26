@@ -1,0 +1,150 @@
+{
+  "ocr_seconds": 6.0,
+  "read_seconds": 109.0,
+  "ocr_text": "Resultados de laboratorio\n\nPaciente: Lucia Garcia Fecha de nacimiento: 25/11/1984\n--- HEMATOLOGIA ---\n\nHemöglobina......uuse season. 12,9 g/dL VER. 12.0.2360\nHematies ....... 2.00% 000.000 3,9 10^6/µL VERS 4,01 505\nHET oriana nente 44,0 6 NER 30: 04800\n\nVOM RSS A 07,3 E A a\nLeucocitos (WBC) ............ 6,6 10^3/µL V.R. 4,0-10,0\nPlaquetas .....oommo. oo... 393,2 1903/48 VLR. 150,0-450,6\n--- BIOQUÍMICA ---\n\nHierro... lesen. 136,8 Ug/dL IV RDA OOO\nFerritina-.......«..es 0090 40,5 ng/ml. VER. 1510-150009\nGlucosa: cra 09 mg/dl V.R. 70,0 - 100,0\nHemoglobina glicada (HbAlc) ... 8,4 *% V.R. < 5,7\n\nColest. total ............... 194,0 mg/dl V.R. <200,0\nColest. HDL: ....'-.v;r se an 28,2 © mg/dL eens > 40-6\nColesterol LDL .............. 168,6 mg/dL V.R. < 130,0\nTriglicéridos ............... 94,7 mg/dL V.R. < 150,0\nCreatinina ..;...c.sxeacase ne 1,2% MO/dERV.R. O eed\nAcido: frico: .... eri 3,2 N/A VER. 30 2708\nSodio (Na) .................. 138,7 mmol/L V.R. 136,0-145,0\nPotassio... .. rr cain GROOVE\nCalcio .... 00 eteri A A\n\nALT: {GPT)- (Licinio UAN RASO\n\nAST (GOT) (GOT) ............. 32,2 U/L V.R. hasta 40,0\n\nA oa UE RESTO\n\nFosfat. alcalina ............ 38,4 * u/l V.R. 40,0-130,0\nBIL Tice ear ce 0,2 # MG/L EV Reet siete\nAlbumina i... nenne 4,1 Q/dL VER 3-5 -- 5,6\n\nTSH, seen ZRET VERITA\n\nT4. Úibre nenne ca LA NO VER 0 ger\nProteina C reactiva ......... 2,9 mg/L V.R. 5,0\n\nVitamina D (25-0H) .......... 57,3 ng/ml V.R. 30,0 - 100,0\nVitamina B12 ................ 650,7 pg/mL V.R. 200,0 - 900,0\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 3.9,
+      "unit": "10^6/µL",
+      "low": 4.01,
+      "high": 505.0,
+      "flag": "L",
+      "line": 3
+    },
+    {
+      "loinc": "2132-9",
+      "value": 650.7,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "6690-2",
+      "value": 6.6,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "2276-4",
+      "value": 40.5,
+      "unit": "ng/mL",
+      "low": 1510.0,
+      "high": 150009.0,
+      "flag": "L",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 9.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 8.4,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "H",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 194.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 28.2,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": 6.0,
+      "flag": "L",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 168.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 94.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2951-2",
+      "value": 138.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "1920-8",
+      "value": 32.2,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "6768-6",
+      "value": 38.4,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 21
+    },
+    {
+      "loinc": "62292-8",
+      "value": 57.3,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "718-7",
+      "value": 12.9,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 2360.0,
+      "flag": "N",
+      "repaired": true,
+      "line": 2
+    }
+  ],
+  "unread": [
+    "Hierro... lesen. 136,8 Ug/dL IV RDA OOO",
+    "Proteina C reactiva ......... 2,9 mg/L V.R. 5,0",
+    "Hierro... lesen. 136,8 Ug/dL IV RDA OOO",
+    "BIL Tice ear ce 0,2 # MG/L EV Reet siete",
+    "Proteina C reactiva ......... 2,9 mg/L V.R. 5,0"
+  ]
+}

@@ -44,6 +44,25 @@ def direct_code(line):
     return None
 
 
+def looks_like_test(line):
+    """Satırın adı bilinen bir tahlile benziyor ve içinde bir sayı var mı? (birimi bozuk olsa bile)
+    Böyle bir satır okunamazsa sessizce kaybolmasın, kullanıcıya gösterilsin."""
+    label = rh.line_label(line)
+    if len(label) < 3 or not re.search(r"\d", line):
+        return False
+    if re.search(r"\b\d{1,2}[./-]\d{1,2}[./-]\d{2,4}\b", line):     # tarih satırı (rapor/doğum tarihi)
+        return False
+    if max(rh.name_similarity(label, c) for c in UNITS) >= 0.6:
+        return True
+    # OCR, adın arkasına çöp harfler ekleyebilir ('Eisen ve. essen 41,4'): ilk 1-2 kelimeye de bak
+    words = rh._key(line).split()
+    for k in (1, 2):
+        head = " ".join(words[:k])
+        if len(head) >= 3 and max(rh.name_similarity(head, c) for c in UNITS) >= 0.8:
+            return True
+    return False
+
+
 def read_report(text, model, direct=False):
     """Rapordaki tahlil satırlarını okur. Okunan satırları ve okunamayan satırları döndürür.
     direct=True: birimi tek bir tahlile ait olan satırları modele sormadan kod atar (daha hızlı)."""
@@ -79,7 +98,8 @@ def read_report(text, model, direct=False):
     # okunamayan satırlar: bilinen bir birim içeren ama hiçbir tahlile bağlanamayan satırlar
     unread = [lines[r["line"] - 1].strip() for r in no_range if r.get("line")]
     unread += [line.strip() for i, line in enumerate(lines, 1)
-              if i not in used and any(rh.find_unit(line, u) >= 0 for u in UNIT_TESTS)]
+               if i not in used and (any(rh.find_unit(line, u) >= 0 for u in UNIT_TESTS)
+                                     or looks_like_test(line))]
     return {"rows": rows, "unread": unread, "raw": raw, "seconds": seconds,
             "asked": len(ask), "direct": len(lines) - len(ask)}
 
