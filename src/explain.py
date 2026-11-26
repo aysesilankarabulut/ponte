@@ -37,6 +37,8 @@ DISCLAIMER = ("Bu açıklama yalnızca belgeyi anlamanıza yardımcı olmak içi
 def range_text(low, high):
     if low is not None and high is not None:
         return f"{fmt(low)} – {fmt(high)}"
+    if low is None and high is None:
+        return "okunamadı"
     return f"< {fmt(high)}" if high is not None else f"> {fmt(low)}"
 
 

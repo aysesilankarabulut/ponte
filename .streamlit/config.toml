@@ -1,0 +1,18 @@
+# Ponte arayüz ayarları
+
+[theme]
+base = "light"
+primaryColor = "#2E6F95"            # göl mavisi: düğmeler ve seçimler
+backgroundColor = "#F6FAFB"
+secondaryBackgroundColor = "#E3F1F7"
+textColor = "#16324F"
+font = "sans serif"
+
+[server]
+enableStaticServing = true          # static/fonts içindeki yazı tipleri (çevrimdışı)
+
+[client]
+toolbarMode = "minimal"             # sağ üstteki geliştirici menüsünü ("Deploy") gizler
+
+[browser]
+gatherUsageStats = false            # Streamlit'in kullanım istatistiği göndermesini kapatır (gizlilik)
