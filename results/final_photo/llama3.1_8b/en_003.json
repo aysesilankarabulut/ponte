@@ -1,0 +1,238 @@
+{
+  "ocr_seconds": 8.2,
+  "read_seconds": 108.5,
+  "ocr_text": "LABORATORY RESULTS\nPatient: Harry Jones Date of birth: 27/06/1950\n\n--- HAEMATOLOGY ---\n\nHAEMOGLOBIN ................- 22.4 * g/dL Ref. 12.0 - 16.0\n\nRED BLOOD CELLS (RBC) ....... 4,1 10^6/µL Ref. 4.0 - 5.5\nHAEMATOCRIT .....ooooooommo... 37.7 % Ref. 36.0 - 48.0\n\nMOV a nn ons Se 56.4 fL Ref. 80.0 - 100.0\n\nWHITE BLOOD CELLS ........... 10.8 * 10^3/µL Ref. 4.0-10.0\n\nPET rennen une ie eerie Re) 109.9 * 10^3/µL Ref. 150.0 - 450.0\n\n222 CLINICAL CHEMISIRY ===\n83.5 ug/dL Ref. 50.0 - 170.0\n\nIRON...\nFERRITIN .....««oeoooooooco.. 67.8 ng/mL Ref. 15.0 - 150.0\nGLUCOSE „nn acne sete 81.0 mg/dL Ref. 70.0 - 100.0\nHBATG eucaristia 5.5% Ref. < 5.7\n\nTOTAL. CHOLESTEROL .......... 250.1 * mg/dL Ref. <200.0\n\nHDL CHOLESTEROL ............. 40.5 mg/dL Ref. above 40.0\nLDL. CHOLESTEROL ............ 133.8 * mg/dL Ref. < 130.0\nTRIGLYCERIDES ..............- 89.4 mg/dL Ref. < 150.0\nCREATININE .................. 1.5 * mg/dl Ref. 0.5-1.1\n\nURIG. ACID ana seen en ee 6.2 mg/dL Ref. 3.0 - 7.0\nSODIUM (NA) ......o «o... ...... 96.5 mmol/L Ref. 136.0 - 145.0\nPOTASSIUM ...... eci 5.6 mmol/L Ref. 3.5-5.1\nCALCIUM: nn 9.8 mg/dL Ref. 8.5 - 10.5\n\nAUT\" carini ponte ern 23.0 U/L Ref. <40.0\n\nAST) aeree een 37.4 u/l Ref. < 40.0\n\nGET nai OOOO OO OY 44.2 U/L Ref. up to 50.0\n\nALKALINE PHOSPHATASE (ALP) ... 29.1 U/L Ref. 40.0 - 130.0\n0.4 mg/dL Ref. 0.3 - 1.2\n\nTOTAL BLLIRUBIN .............\n\nALBUMIN ..-....0000 reo 4.8 g/dL Ref. 3.5 - 5.0\n\nTSH Uta ennio 0.3 * mIU/L Ref. 0.4-4.0\n\nERCE TA: dit nt 1.1 ng/dL Ref. 0.9-1.7\nOOOO Ge 5.7 * mg/l Ref. up to 5.0\nVITAMIN D (25-0H) ........... 81.1 ng/mL Ref. 30.0-100.0\nVITAMI. B12........- 0000000 164.0 * pg/mL Ref. 200.0 - 900.0\n\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 4.1,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 56.4,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 83.5,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.3,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "L",
+      "line": 28
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.1,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "1988-5",
+      "value": 5.7,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 30
+    },
+    {
+      "loinc": "2132-9",
+      "value": 164.0,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 32
+    },
+    {
+      "loinc": "718-7",
+      "value": 22.4,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 37.7,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 10.8,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "2276-4",
+      "value": 67.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2345-7",
+      "value": 81.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 250.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 13
+    },
+    {
+      "loinc": "2085-9",
+      "value": 40.5,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "13457-7",
+      "value": 133.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "2571-8",
+      "value": 89.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 17
+    },
+    {
+      "loinc": "3084-1",
+      "value": 6.2,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2951-2",
+      "value": 96.5,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "line": 19
+    },
+    {
+      "loinc": "2823-3",
+      "value": 5.6,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "H",
+      "line": 20
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.8,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 37.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 29.1,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.8,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "62292-8",
+      "value": 81.1,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 31
+    }
+  ],
+  "unread": [
+    "PET rennen une ie eerie Re) 109.9 * 10^3/µL Ref. 150.0 - 450.0",
+    "AUT\" carini ponte ern 23.0 U/L Ref. <40.0",
+    "GET nai OOOO OO OY 44.2 U/L Ref. up to 50.0",
+    "0.4 mg/dL Ref. 0.3 - 1.2"
+  ]
+}

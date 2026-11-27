@@ -1,0 +1,256 @@
+{
+  "ocr_seconds": 5.2,
+  "read_seconds": 120.2,
+  "ocr_text": "LABORBEFUND\nPatient: Jonas Weber Geburtsdatum: 27/12/1950\n\n--- HAMATOLOGIE ---\n\nHAMOGLOBIN (HB) 15,2 g/dL (12,0 - 16,0)\nERYTHROZYTEN 5,3 19°6/ul (4,0-5,5)\nHAMATOKRIT 41,7 % (36,0 - 48,0)\nMCV 95,8 fl (80,0 - 100,0)\nLEUKOZYTEN 11,2 10^3/µL (4,0 - 10,0)\nTHROMBOZYTEN (PLT) 372,1 10^3/µL (150,0-450,0)\n--- KLINISCHE CHEMIE ---\n\nEISEN (FE) 94,8 ug/dl (50,0 - 170,0)\nFCRRITIN 117,3 ng/mL (15,0 - 150,0)\nGLUKOSE 72,7 mg/dL (70,0 - 100,0)\nHBA1C 3,7% (<5,7)\nCHOLESTERIN GESAMT 122,9 mg/dL (bis 200,0)\nHDL-CHOLESTERIN 30,5 mg/dL (>40,0)\n\nLDL -CHOLESTERIN 170,5 mg/dl (< 130,0)\nTRIGLYCERIDE 121,8 mg/dL (< 150,0)\nKRCATININ 0,5 mg/dl (0,5 - 1,1)\nHARNSÄURE 5,0 mg/dL (3,0 - 7,0)\nNATRIUM (NA) 137,7 mmol/L (136,0 - 145,0)\nK 4,0 mmol/L (3,5-5,1)\n\nCA 9,1 mg/dL (8,5 - 10,5)\nALT. (GPT) 57,7 U/L (<40,0)\n\nAST (GOT) 35,4 U/L (bis 40,0)\nGAMMA-GT 72,3 U/L (< 50,0)\nALKALISCHE PHOSPHATASE (ALP) 24,0 u/l (40,0 - 130,0)\nBIL-T 1,7 mg/dL (0,3 - 1,2)\nALBUMIN 2,5 g/dL (3,5 - 5,0)\nTSH 5,2 mIU/L (0,4 - 4,0)\nFT4 1,2 ng/dL (0,9 - 1,7)\nCRP 2,6 mg/l (bis 5,0)\nVITAMI. D (25-0H) 60,9 ng/m (30,0 - 100,0)\nVITAMIN B12 877,3 pg/mL (200,0 - 900,0)\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "787-2",
+      "value": 95.8,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 94.8,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 5.2,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "H",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.2,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 2.6,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 877.3,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 15.2,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 41.7,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 11.2,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 372.1,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 117.3,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 72.7,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 122.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 30.5,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "L",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 170.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 121.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 137.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.0,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.1,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 57.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 35.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 72.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 24.0,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.7,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "H",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 2.5,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "L",
+      "line": 26
+    },
+    {
+      "loinc": "3084-1",
+      "value": 5.0,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "repaired": true,
+      "line": 17
+    }
+  ],
+  "unread": [
+    "ERYTHROZYTEN 5,3 19°6/ul (4,0-5,5)",
+    "HBA1C 3,7% (<5,7)",
+    "VITAMI. D (25-0H) 60,9 ng/m (30,0 - 100,0)"
+  ]
+}

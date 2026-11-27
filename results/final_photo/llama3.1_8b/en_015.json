@@ -1,0 +1,147 @@
+{
+  "ocr_seconds": 2.9,
+  "read_seconds": 71.3,
+  "ocr_text": "Laboratory results\nPatient: Olivia Jones Date of birth: 22/01/1984\n\n--- HAEMATOLOGY ---\nHaemoglobin 17.6 H g/dl 12.0 - 16.0\nsa Red blood cells 5.5 10^6/µL 4,0- 5,5\n_ -Haematocrit (HCT) 28.0 % 36.0 - 48.0\nMCV 97.8 fL 80.0 - 100.0\nWhite blood cells 5.6 10^3/µL  4.0-10.0\nPLT 128.0 L 10^3/µL 150.0 ~ 450.0\n--- CLINICAL CHEMISTRY ---\nIron 206.3 H ug/dL 50.0 - 170.0\nFerritin 10.7 L ng/ml 15.0 - 150.0\nGlucose 117.0 H mg/dL 70.0-100.0\nHbAlc 6.5H% <5.7\nTotal cholesterol 258.5 mg/dl <200.0\nHDL cholesterol 71.1 mg/dl above 49.0\nLDL cholesterol 130.7 H mg/dl up to 130.0\nTriglycerides 116.7 mg/dL <150.0\nCreatinine 0.4 L mg/dL 0.5-1.1\nUric acid 3.9 mg/dl 3.0 - 7. 8\nNa\n\n149.9 H mmol/l\nPotassium 3,3\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.5,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 97.8,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 206.3,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "H",
+      "line": 8
+    },
+    {
+      "loinc": "718-7",
+      "value": 17.6,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 28.0,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "L",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 5.6,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 128.0,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "L",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 10.7,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "L",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 117.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 258.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 71.1,
+      "unit": "mg/dL",
+      "low": 49.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 130.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 116.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "L",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 3.9,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    }
+  ],
+  "unread": [
+    "HbAlc 6.5H% <5.7",
+    "149.9 H mmol/l",
+    "Potassium 3,3"
+  ]
+}

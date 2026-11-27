@@ -1,0 +1,223 @@
+{
+  "ocr_seconds": 4.6,
+  "read_seconds": 136.4,
+  "ocr_text": "ESAMI DI LABORATORIO\nPaziente: Maria Esposito Data di nascita: 21/05/1980\n\n--- EMATOLOGIA ---\n\nHB 9,6 L g/dl 12,0 - 16,0\nERITROCITI 3,8 L 10^6/µL 4,0 - 5,5\nEMATOCRITO MIN 36,0-48,0\nMCV (MCV) 127,5 Hof 80,0 - 100,0\nLEUCOCITI 4,0 10^3/µL 4,9 - 10,0\nPIASTRINE (PLT) 431,8 10^3/µL 150,0 - 450,0\n--- CHIMICA CLINICA ---\n\nFERRO (FE) 53,3 pg/dL 50,0 - 170,0\nFERRITINA 18,0 ng/ml 15,0-150,0\nGLUCOSIO 80,8 mg/dL 70,0-100,0\nEMOGLOBINA GLICATA a Lees, fino a 5,7\nCOLCSTEROLO TOTALE 250,4 H mg/dL <200,0\nCOLESTEROLO HDL 48,9 mg/dl > 40,0\nCOLEST. LDL 122,5 mg/dl < 130,0\nTRIGLICERIDI 117,9 mg/dl <150,0\nCREATLNINA 1,1 mg/dl 0:9 2151\nACLDO. URICO 10,4 mg/dL 3,0 - 7,0\nSODIO 141,4 = mmol/L 136,0-145,0\nPOTASSIO (K) 3,1 mmol/L 3,5 - 5,1\nCALCIO 7,2 L mg/dL 8,5 - 10,5\nALT 29,9. U/L <40,0\n\nGOT 32,9 U/L < 40,0\n\nGAMMA GT 37,39 \"UTE fino a 50,0\nFOSFATASI ALCALINA 51L,3-2W/E 49,0 - 130,0\nBILIRUBINA TOTALE (BIL-T) 0,3 mg/dl 0,3 - 1,2\nALBUMLNA 3,8 g/dL 3,5 - 5,0\nTSH 2,5 mIU/L 0,4 - 4,0\nFT4 1,0 ng/db 0,9-1,7\nPROTEINA C REATTIVA 4,2 mg/L < 5,0\nVITAMINA D (25-0H) 65,1 ng/ml 30,0-100,0\nVITAMINA B12 779,7  pg/ml 200,0 - 900,0\n\ni\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 3.8,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "L",
+      "line": 3
+    },
+    {
+      "loinc": "3016-3",
+      "value": 2.5,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.2,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 779.7,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 9.6,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "L",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 4.0,
+      "unit": "10^3/µL",
+      "low": 4.9,
+      "high": 10.0,
+      "flag": "L",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 431.8,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 18.0,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 80.8,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 250.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 48.9,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 122.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 117.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.1,
+      "unit": "mg/dL",
+      "low": 0.0,
+      "high": 9.0,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 10.4,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 141.4,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 3.1,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "L",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 7.2,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "L",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 29.9,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 32.9,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.3,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 3.8,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 65.1,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "EMATOCRITO MIN 36,0-48,0",
+    "MCV (MCV) 127,5 Hof 80,0 - 100,0",
+    "FERRO (FE) 53,3 pg/dL 50,0 - 170,0",
+    "EMOGLOBINA GLICATA a Lees, fino a 5,7",
+    "GAMMA GT 37,39 \"UTE fino a 50,0",
+    "FOSFATASI ALCALINA 51L,3-2W/E 49,0 - 130,0",
+    "FT4 1,0 ng/db 0,9-1,7"
+  ]
+}

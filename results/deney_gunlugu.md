@@ -145,3 +145,26 @@ Ayrıntılar: `uzman_degerlendirme_ozeti.md`.
 - Ama yeni tohum yalnızca değerleri ve birleşimleri değiştirir; tahlil adları, kısaltma listesi ve biçimler aynıdır.
 - Bu yüzden %100, gerçek laboratuvar raporlarında da %100 anlamına gelmez. Gerçek raporlarda şunlar olabilir: başka biçimler, PDF/fotoğraf kaynaklı hatalar, listede olmayan tahliller, farklı birimler.
 - Gerçek dünya başarısı ancak gerçek (anonim) raporlarla ölçülebilir. Bu, gelecek çalışma olarak önerilir.
+
+## 10. Fotoğraftan okuma (kamera özelliği)
+Akış: telefon fotoğrafı → Tesseract OCR (ita+deu+eng+spa, bu bilgisayarda) → OCR birim temizliği → 8B karma okuyucu → kullanıcı metni kontrol edip düzeltebilir.
+
+Deney verisi:
+- **Test:** son testteki 60 raporun "telefon fotoğrafı" hali (`make_photos.py`, seed 45). Her fotoğrafta farklı eğiklik (±2,5°), bulanıklık, kumlanma, kenar gölgesi, düşük çözünürlük ve JPEG sıkıştırması var.
+- **Geliştirme:** ayarlar, `reports_messy` raporlarından ayrıca üretilen fotoğraflarla seçildi (seed 46). Test fotoğraflarına bakılarak ayar yapılmadı.
+
+| Sürüm | Genel | classic | colon | columns | dots | Kaçırılan anormal | Uyarıda görünen | **Sessiz kayıp** | Yanlış sayı |
+|---|---|---|---|---|---|---|---|---|---|
+| v1: psm 6 | %86,0 | %95,7 | %98,5 | %86,2 | %64,1 | 78/692 | 11 | **67** | 32 |
+| v2: psm 4 + "tahlile benzeyen satır" uyarısı | %89,0 | %93,4 | %98,7 | %79,3 | %83,2 | 69/692 | 48 | **21** | 15 |
+| v3: psm 4 ve 6, iyi olan seçilir | (bekleniyor) | | | | | | | | |
+
+Bulgular:
+- Noktalı biçimdeki ("Hemoglobin ........ 12,9") noktaları OCR harf ya da sayı sanıyor ("Eisen ve. essen 41,4"). Bazen bu sayıları değere karıştırıyor (kreatinin 0,8 → 58).
+- psm 4 ("sütunlu metin") noktalı biçimi çok iyileştiriyor, ama boşluklu klasik tabloları kötüleştiriyor.
+- Geliştirme fotoğraflarında (36 foto, değerin satırdan doğru çıkarılabilme oranı): psm 6 %84,3 · psm 4 %91,2 · **seçimli %94,5** (mümkün olan en iyi sonuç).
+  - Seçim ölçütü: birimi ve değeri birlikte okunabilen satır sayısı.
+- **Güvenlik:** v1'de kaçırılan anormal değerlerin çoğu kullanıcıya hiç gösterilmeden kayboluyordu (67). "Adı bir tahlile benzeyen, sayı içeren ama okunamayan satırı göster" kuralıyla sessiz kayıp 21'e indi.
+  - Bu kural temiz metinde (60 rapor) 0 yanlış uyarı verdi.
+- Siyah-beyaza çevirme (eşikleme) OCR'ı kötüleştirdi (%83–87); kullanılmadı.
+- **Sınırlılık:** Fotoğraflar sentetik bozulmalarla üretildi; gerçek telefon fotoğraflarında (perspektif, buruşuk kâğıt, el yazısı notlar) sonuç farklı olabilir. Bu yüzden arayüzde OCR metni analizden önce kullanıcıya gösterilir ve düzeltilebilir.

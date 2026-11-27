@@ -1,0 +1,263 @@
+{
+  "ocr_seconds": 9.8,
+  "read_seconds": 124.5,
+  "ocr_text": "Resultados de laboratorio\n\nPaciente: Javier Sanchez Fecha de nacimiento: 13/09/1968\n\n--- HEMATOLOGIA ---\nHemoglobina .....ooommmmm.... 15,8 g/dL V.R. 12,0-16,0\nRBC in ee ae ee 5,3 10^6/µL V.R. 4,0-5,5\nHematocrito (HCT) ........... 68,1% V.R. 36,0-48,0\nVOM (MCV) correre 97,8 fl V.R. 80,0 - 100,0\nLeucocitos .. 100 3,9 * 10^3/µL V.R. 4,0-10,0\nPlaquetas .......-.11 0000000» 431,9 10^3/µL V.R. 150,0 - 450,0\n--- BIOQUÎMICA ---\nHierro +vota 33,7 * ug/dl V.R. 50,0-170,0\nFerritina ....... 00000000 000. 139,7 ng/mL V.R. 15,0-150,0\nGlucosa 0000 reo 143,7 * mg/dL V.R. 70,0 - 100,0\nHbAIC siii a 4,2% V.Ri 82\nColest. total ............... 199,7 mg/dL V.R. <200,0\nColesterol HDL .............. 71,4 mg/dL V.R. superior a 40,0\nColest. LDL... odo nenas 76,8 mg/dL V.R. <130,0\nTriglicéridos ...oomomomooo.. 143,4 mg/dL V.R. < 150,0\nCreatinina ..... oo oooooo... 0,8 mg/dL V.R. 0,5 - 1,1\nÁcido ÚriCO .... +... eme ass 3,2 mg/dL V.R. 3,0 - 7,0\nSodio (Na) ..... «e. .=«»..»0s 178,5 * mmol/l V.R. 136,0 - 145,0\nP@tasio .......100000 0000 nee 3,7 mmol/L V.R. 3,5 - 5,1\nCalcio... care aaa 9,5 mg/dL V.R. 8,5 - 10,5\nALT (GPT) cee cecccccvoweucnniss 35,2 U/L V.R. <40,0\nAST: (GOT) ea 46,7 * U/L V.R. < 40,0\nGGT ecu nonne ne OE 47,3 u/l V.R. hasta 50,0\nFosfatasa alcalina .......... 28,6 * U/L V.R. 40,0 - 130,0\nBIL-T cccceveceiceu A 1,6 * mg/dl V.R. 0,3 - 1,2\nAlbümina ........oooooooo mo... 3,3 * g/dL V.R. 3,5 - 5,0\nTSH Lia 0,9 miu/l V.R. 0,4 - 4,0\nTA Ubre ...... 00m aeons einen 1,4 ng/dL V.R. 0,9-1,7\nProteina C reactiva (CRP) ... 6,6 * mg/L V.R. < 5,0\nVitami. D (25-0H) ..........- 42,4 ng/mL V.R. 30,0-100,0\nVitamina B12 ................ 182,5 * pg/mL V.R. 200,0 - 900,0\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.3,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 97.8,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 33.7,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "L",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.9,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.4,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.6,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 182.5,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 15.8,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 3.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "L",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 431.9,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 139.7,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 143.7,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 199.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 71.4,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 76.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 143.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 3.2,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 178.5,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "H",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 3.7,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.5,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 35.2,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 46.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 47.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 28.6,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.6,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "H",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 3.3,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "L",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 42.4,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "Hematocrito (HCT) ........... 68,1% V.R. 36,0-48,0",
+    "HbAIC siii a 4,2% V.Ri 82"
+  ]
+}

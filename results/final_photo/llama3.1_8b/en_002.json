@@ -1,0 +1,238 @@
+{
+  "ocr_seconds": 9.3,
+  "read_seconds": 103.8,
+  "ocr_text": "Laboratory results\nPatient: Harry Taylor Date of birth: 27/12/1949\n\n--- HAEMATOLOGY ---\n\nHaemoglobin ................. 13.7 g/dl Ref. 12.0 - 16.0\n\nRed blood cells (RBC) ....... 8.0 * 10^6/µL Ref. 4.0 - 5.5\n(Te REIN 65.1 * % Ref. 36.0 - 48.0\n\nMCV (MCV) ......0-000 000000 81.1 fL Ref. 80.0-100.0\n\nWhite blood cells (WBC) ..... 13.9 * 10^3/µL Ref. 4.0 - 10.0\nPP ener 569.6 10^3/µL Ref. 150.0 - 450.0\n\n--- CLINICAL CHEMISTRY ---\n\nFoe N Sen I 32.6 * ug/dL Ref. 50.0-170.0 ;\n\nFernitiniesen a aeg sr een 27.0 ng/mL Ref. 15.0-150.0 bs\nDO  GlUGOSE nn ose 87.9 mg/dl Ref. 70.0 - 100.0 È\n| HbALC (HbAIC) cococcconncnoos 4.8% Ref. up to 5.7\n| Total. cholcsterol .......... 275.5 * mg/dL Ref. < 200.0\n\nHDL. cholesterol ............ 58.7 mg/dL Ref. above 40.0\n\nLDL. cholesterol ............ 172.9 * mg/dl Ref. < 130.0\n\nTriglycerides ............... 116.5 mg/dL Ref. < 150.0\n\nCreatinine .....ooooooomo.... 0.7 mg/dL Ref. 0.5-1.1\n\nUric acid .......c0 0 siria 5.3 mg/dL Ref. 3.0 - 7.0\n\nSodium (Na) .........««.«.«.... 139.0 mmol/l Ref. 136.0 - 145.0\n\nKa sinceri RO 4.5 mmol/L Ref. 3.5 - 5.1\n\nCalunnia 12.4 mg/dL Ref. 8.5 - 10.5\n\nAUT: read 37.7 U/L Ref. up to 40.0\n\nASTE ea anne AO IO 31.5 u/l Ref. < 40.0\n\nDEA eee 39.5 U/L Ref. < 50.0\n\nAlkaline phosphatase ........ 150.9 U/L Ref. 40.0 - 130.0\n\nTotal bilirubin ............ 0.6 mg/dl Ref. 0.3 - 1.2\n\nAlbumin 000 2.6 g/dL Ref. 3.5-5.0\n\nTSH aa sin aa ae relato ne 0.4 mIU/L Ref. 0.4 - 4.0\n\nPRES TA aan 9.7 ng/dl Ref. 0.9-1.7\n\nCRPl a a ios 4.1 mg/L Ref. < 5.0\n\nVitamin D (25-0H) ........... 79.0 ng/mL Ref. 30.0 - 100.0\n\nVitami. B12 ..........000000 149.6 pg/mL Ref. 200.0 - 900.0\n\nPag. 1/1\n\nee\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 8.0,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "H",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 81.1,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 32.6,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "L",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 9.7,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.1,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 149.6,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 13.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 13.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "2276-4",
+      "value": 27.0,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 87.9,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 275.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 58.7,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 172.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 116.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.7,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 5.3,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 139.0,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 12.4,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "H",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 37.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "6768-6",
+      "value": 150.9,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "H",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.6,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 2.6,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "L",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 79.0,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "(Te REIN 65.1 * % Ref. 36.0 - 48.0",
+    "PP ener 569.6 10^3/µL Ref. 150.0 - 450.0",
+    "ASTE ea anne AO IO 31.5 u/l Ref. < 40.0",
+    "DEA eee 39.5 U/L Ref. < 50.0"
+  ]
+}

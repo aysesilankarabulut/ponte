@@ -1,0 +1,262 @@
+{
+  "ocr_seconds": 9.4,
+  "read_seconds": 115.7,
+  "ocr_text": "Laboratory results\nPatient: Emma Brown Date of birth: 09/12/1947\n\n--- HAEMATOLOGY --- |\nHaemoglobin ................. 14.2 g/dL Ref. 12.0-16.0 |\nRed blood cells ............. 4.9 10^6/µL Ref. 4.0-5.5\ney 6 Haematocrit ................. 46.2% Ref. 36.0 - 48.0 i\nCOSTE 94.3 fl Ref. 80.0 - 100.0\ni White blood cells (WBC) asas 2.7 * 10^3/µL Ref. 4,0 - 10.0\nPlatelets oo eins 419.4 10^3/µL Ref. 150.0-450.0\n--- CLINICAL CHEMISTRY ---\nLe) Uae O 167.2 ug/dl Ref. 50,0 - 170.0\nFerratin! seen 32.4 ng/mL Ref. 15,0 - 150.0\nGlucose ni. nn 99.1 mg/dL Ref. 70.0 - 100.0\nO Um Neen 4.9 % Ref. up to 5.7\nTotal cholesterol ........... 216.9 * mg/dL Ref. < 200.0\nHDL. cholesterol ..........., 36.2 * mg/dL Ref. > 40.0\nLDL cholesterol ............, 112.5 mg/dL Ref. up to 130.0\nTriglycerides .............., 215.4 mg/dl Ref. up to 150.0\nCreatinine iL. 1.0 mg/dL Ref. 0.5 ~ 1.1\nUrle, acidi 1.9 mg/dL Ref. 3.0-7.0\nSOGLUM: ir 141.3 mmol/L Ref. 136.0 - 145.9\nPOtassium .................., 4.3 mmol/L Ref. 3,5 - 5.1\nCalcium 10.1 mg/dl Ref. 8.5 - 10.5\nALE 27.8 U/L Ref. < 49.0\nUSB een 34.7 U/L Ref. <49.0\nGEN (GGT) ran 59.6 * U/L Ref. up to 50.0\nAlkaline phosphatase (ALP) ... 67.5 u/l Ref. 40.0 - 130.0\nTotal bilirubin ............. 1.1 mg/dL Ref. 0.3-1.2\nAlbumin LL... iii 7.3 * g/dL Ref. 3.5-5.0\nSHE SRO O IO 0.4 mIU/L Ref. 0.4 - 4.0\nEres T4\\(FT4)) 22.20. Wen 0.7 * ng/dl Ref. 0.9 - 1.7\nCRP uu. AE tresses 4.8 mg/l Ref. up to 5.0\nVitami. D (25-0H) .......... + 136.0 * ng/ml Ref. 30.0 - 100.0\nVitamin B12 ................ + 213.9 pg/ml Ref. 200.0 - 900.0\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 4.9,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 94.3,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 167.2,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 0.7,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "L",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.8,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 213.9,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 14.2,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 2.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "L",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 419.4,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 32.4,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 99.1,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 216.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 36.2,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "L",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 112.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 215.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.0,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 1.9,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "L",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 141.3,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.9,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.3,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 10.1,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 27.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 49.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 34.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 49.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 59.6,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 67.5,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.1,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 7.3,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 136.0,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "O Um Neen 4.9 % Ref. up to 5.7"
+  ]
+}

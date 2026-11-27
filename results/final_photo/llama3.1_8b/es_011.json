@@ -1,0 +1,239 @@
+{
+  "ocr_seconds": 3.6,
+  "read_seconds": 109.0,
+  "ocr_text": "Resultados de laboratorio\n\nPaciente: Lucia Löpez Fecha de nacimiento: 16/05/1951\n\n--- HEMATOLOGIA ---\nHemoglobina 15.9 g/dL (12.0 - 16.0)\nHematies 4.8 1096/01 (4.0-5.5)\nHematocrito 57.4 % (36.0 - 48.0)\nvem (MCV) 49.4 fl (80.0 - 100.0)\nLcucocitos 9.7 10^3/µL (4.0 - 10.0)\n\n3 Plaquetas 270.2 10^3/µL (150.0 - 450.0)\n--- BIOQUÍMICA ---\n\n55.0 ug/dl (50.0 - 170.0)\n\nHierro\n\nFerritina 120.9 ng/ml (15.0 - 150.0)\n\nGlucosa 79.5 mg/dL (70.0-100.0)\n6.1 % (<5:7)\n\nHemoglobina glicada\n\nColesterol total 280.9 mg/dL (<200.0)\n\n73.1 mg/dl (> 40.0)\n\nColest. HDL\n\nColest. LDL 138.3 mg/dL (hasta 130.0)\n\nTriglicéridos 151.8 mg/dL (<150.0)\n\nCreatinina 1.0 mg/dL (0.5 - 1.1)\n2.4 mg/dL (3.0 - 7.0)\n\nAcido úrico\n137.8 mmol/L (136.0 - 145.0)\n\nSodio\nPotasio (K) 7.5 mmol/l (3.5 = 5-1)\n5.4 mg/dL (8.5-10.5)\n\nCalcio (Ca)\n\nALT (GPT) (GPT) 47.5 U/L (hasta 40.0)\n\nAST (GOT) 39.3 U/L (hasta 40.0)\n\nGGT 62.7 U/L (< 50.0)\n\nALP 51.6 U/L (40.0 - 130.0)\n\nBilirrubina total 0.2 mg/dL (0.3 - 1.2)\n\nAlbümlna 2.4 g/dL (3.5-5.0)\n\nTSH 4.1 mIU/L (9.4 - 4.0)\n\nT4. libre 0.8 ng/dl (0.9 - 1.7)\n6.8 mg/L (< 5.0)\n\nCRP\nVitamina D (25-0H) 54.6 ng/ml (30.0 - 100.0)\nVitamina B12 241.0 pg/mL (200.0 - 900.0)\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "787-2",
+      "value": 49.4,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 55.0,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 4.1,
+      "unit": "mIU/L",
+      "low": 9.4,
+      "high": 4.0,
+      "flag": "L",
+      "line": 26
+    },
+    {
+      "loinc": "3024-7",
+      "value": 0.8,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "L",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.8,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "2132-9",
+      "value": 241.0,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 30
+    },
+    {
+      "loinc": "718-7",
+      "value": 15.9,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 57.4,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "H",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 9.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 270.2,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 120.9,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 79.5,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 280.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 11
+    },
+    {
+      "loinc": "2571-8",
+      "value": 151.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.0,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2951-2",
+      "value": 137.8,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2823-3",
+      "value": 7.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 18
+    },
+    {
+      "loinc": "1742-6",
+      "value": 47.5,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 39.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "2324-2",
+      "value": 62.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 51.6,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.2,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1751-7",
+      "value": 2.4,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "L",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 54.6,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "13457-7",
+      "value": 138.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "repaired": true,
+      "line": 13
+    }
+  ],
+  "unread": [
+    "Hematies 4.8 1096/01 (4.0-5.5)",
+    "73.1 mg/dl (> 40.0)",
+    "2.4 mg/dL (3.0 - 7.0)",
+    "5.4 mg/dL (8.5-10.5)"
+  ]
+}

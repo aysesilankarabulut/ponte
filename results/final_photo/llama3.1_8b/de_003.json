@@ -1,0 +1,256 @@
+{
+  "ocr_seconds": 9.6,
+  "read_seconds": 127.8,
+  "ocr_text": "Laborbefund\nPatient: Jonas Schmidt Geburtsdatum: 01/05/1963\n\n--- HAMATOLOGIE ---\n\nHámoglobin (Hb) ............. 22,7 * g/dl Ref.: 12,0 - 16,0\nErythrozyten eee ces ors 5,4 10^6/µL Ref.: 4,0 - 5,5\nHämatokrit ........ooooooo.o... 42,5 % Ref.: 36,0-48,0\nNd lena 80,5 fL Ref.: 80,0-100,0\nFeukozytentaanea ron 8,4 10^3/µL Ref.: 4,0 - 10,0\nThrombozyten (PLT) .......... 188,2 10^3/µL Ref.: 150,0 - 450,0\n--- KLINISCHE CHEMIE ---\n\nO te Saeco OS 41,4 * ug/dl Ref.: 50,0 - 170,0\nFerritin ossia 71,1 ng/mL Ref.: 15,0-150,0\nGiukose nananana 86,7 mg/dL Ref.: 70,0 - 100,0\nHATO ranas 5,0% Ref.: bis 5,7\nCholesterin gesamt .......... 129,1 mg/dL Ref.: <200,0\nHDE-Cholesterin «i. saio 46,3 mg/dL Ref.: >40,0\nLDL-Cholesterin our 123,0 mg/dL Ref.: <130,0\nTrtglvyceride ilo zaia 194,3 * mg/dl Ref.: < 150,0\nKreatinin scene 0,8 mg/dL Ref.: 0,5 - 1,1\n\nHA ENSAUTO ollas 2,2 mg/dL Ref.: 3,0-7,0\nNaron 104,2 mmol/L Ref.: 136,0 - 145,0\nKali near 4,3 mmol/l Ref.: 3,5 -5,1\nCalcium cra olaa 9,1 mg/dl Ref.: 8,5 - 10,5\n\nRET MGR la 30,9 U/L Ref.: < 40,0\n\nAST (GON) (GO) 30,5 U/L Ref.: <40,0\n\nGamma Cae 49,3 U/L Ref.: < 50,0\nAlkalische Phosphatase ...... 38,5 U/L Ref.: 40,0 - 130,0\nBilirubin gesamt ............ 1,5 * mg/dl Ref.: 0,3 - 1,2\nALDUMI N aa 5,4 * g/dl Ref.: 3,5 - 5,0\nISS Ea een 0,4 mIU/L Ref.: 0,4 - 4,0\n\nDIA een nn 1,6 ng/dL Ref.: 0,9 - 1,7\nERPIICCRPY anne 4,1 mg/l Ref.: bis 5,0\n\nVitamin D (25-04), tan 85,8 ng/ml Ref.: 30,0-100,0\nMiGente BEZ usano 214,3 pg/mL Ref.: 200,0 - 900,0\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.4,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 80.5,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 41.4,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "L",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.6,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.1,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 214.3,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 22.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 42.5,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 8.4,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 188.2,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 71.1,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 86.7,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 129.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 46.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 123.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 194.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 104.2,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.3,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.1,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 30.5,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 38.5,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.5,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "H",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 85.8,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    },
+    {
+      "loinc": "2324-2",
+      "value": 49.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "repaired": true,
+      "line": 23
+    },
+    {
+      "loinc": "1751-7",
+      "value": 5.4,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "repaired": true,
+      "line": 26
+    }
+  ],
+  "unread": [
+    "HA ENSAUTO ollas 2,2 mg/dL Ref.: 3,0-7,0",
+    "RET MGR la 30,9 U/L Ref.: < 40,0"
+  ]
+}

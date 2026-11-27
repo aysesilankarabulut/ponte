@@ -1,0 +1,281 @@
+{
+  "ocr_seconds": 4.5,
+  "read_seconds": 150.3,
+  "ocr_text": "Esami di laboratorio\n\nPaziente: Luca Esposito Data di nascita: 12/01/1965\n\n--- EMATOLOGIA ---\n\nHb 13,9 g/dl (12,0-16,0)\nEritrociti 5,3 10^6/µL (4,0 - 8:5]\nEmatocrito 36,3 % (36,0 - 48,0)\nMCV 97,9 FL (80,0 - 100,0)\nLeucociti 12,9 10^3/µL (4,0 - 10,0)\nPiastrine (PLT) 377,1 10^3/µL (150,0-450,0)\n\n--- CHIMICA CLINICA ---\n\nFerro 221,1 ug/dl (50,0 - 170,0)\nFerritina 79,2 ng/mL (15,0-150,0)\nGlucoslo 146,7 mg/dL (70,0-100,0)\nEmoglobina glicata 4,4 % (fino a 5,7)\nColesterolo totale 227,9 mg/dL (<200,0) h\nColest. HDL 75,0 mg/dL (> 40,0) i\nColesterolo LDL 182,3 mg/dL (< 130,0)\n\nTrigliceridi 113,0 mg/dL (< 150,0)\nCreatinina 9,5 mg/dL (0,5 - 1,1)\nAcido. urico 3,0 mg/dL (3,0 - 7,0)\n\nNa 177,4 mmol/L (136,0 ~ 145,0)\nPotassio (K) 4,6 mmol/L (3,5 - 5,1)\nCalcio 7,7 mg/dl (8,5 - 10,5)\nALT 54,4 U/L (< 40,0)\n\nAST 52,7 U/L (<40,0)\n\nGamma GT 43,5 u/l (fino a 50,0)\n\nFosfat. alcalina 54,4 U/L (40,0 - 130,0)\n\nBilirubina totale (BIL-T) 0,6 mg/dL (0,3-1,2)\n\nAlbumina 4,8 g/dl (3,5 - 5,0)\n\nTSH 0,3 mIU/L (0,4 - 4,0)\n\nFT4\n\n1,1 ng/dl (0,9-1,7)\nProtei. C reattiva 6,1 mg/l (< 5,0)\n\nVitamina D (25-0H) 19,1 ng/mL (30,0 - 100,0)\nVitamina B12 243,1 pg/mL (200,0-900,0)\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.3,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 8.0,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 97.9,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 221.1,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "H",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.3,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "L",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.1,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.1,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 30
+    },
+    {
+      "loinc": "2132-9",
+      "value": 243.1,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 32
+    },
+    {
+      "loinc": "718-7",
+      "value": 13.9,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 36.3,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 12.9,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 377.1,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 79.2,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 146.7,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 227.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 75.0,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 182.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 113.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 9.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 3.0,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 177.4,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "H",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.6,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 7.7,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "L",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 54.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 52.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 43.5,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 54.4,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.6,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.8,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 19.1,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "4548-4",
+      "value": 4.4,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "N",
+      "repaired": true,
+      "line": 11
+    }
+  ],
+  "unread": [
+    "FT4"
+  ]
+}

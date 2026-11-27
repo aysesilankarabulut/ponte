@@ -1,0 +1,255 @@
+{
+  "ocr_seconds": 3.1,
+  "read_seconds": 127.4,
+  "ocr_text": "Laborbefund\nPatient: Anna Schmidt Geburtsdatum: 08/06/1971\n\n--- HAMATOLOGIE ---\n\nHämoglobin (Hb) 15.5 g/dL (12.0 - 16.0)\nErythrozyten 5.1 19%6/ul (4.0 - 5.5)\nHämatokrit 41.7 % (36.0-48.0)\nMCV LOTE (80.0 - 100.0)\nLeukozyten 9.6 10^3/µL (4.0 - 10.0)\nThrombozyten 655.1 10^3/µL (150.0 - 450.0)\n--- KLINISCHE CHEMIE ---\n\nEisen 133.5 ug/dL (50.0-170.0)\nFerritin 63.8 ng/mL (15.0 - 150.0)\nGlukose 92.2 mg/dL (70.0 - 100.0)\nHbAlc (HbAlc) 7.6 % (< 5.7)\nChOles. gesamt 123.8 mg/dL (< 200.0)\nHDL-Cholesterin 37.3 mg/dl (> 40.0)\nLDL-Cholesterin 134.1 mg/dl (< 130.0)\nTriglyceride 95.9 mg/dL (<150.0)\nKreatinin 0.8 mg/dL (0.5 - 1.1)\nHarnsäure 8.8 mg/dL (3.0 - 7.0)\nNatrium 141.7 mmol/l (136.0 - 145.0)\nKalium 4.5 mmol/L (3.5-5.1)\nCalcium 8.9 mg/dL (8.5-10.5)\n\nALT (GPT) 23.2 U/L (bis 40.0)\nAST (GOT) 25.1 U/L (< 40.0)\n\nGamma -GT 31.3 U/L (< 50.0)\n\nALP 117.7 WE (40.0 - 130.0)\nBilirubin gesamt 1.0 mg/dl (0.3 - 1.2)\nAlbumin 6.9 g/dL (3.5 - 5.0)\nTSH 1.7 mIU/L (0.4 - 4,0)\nfT4 (FT4) 1.0 ng/dl (0.9 - 1.7)\nCRP 5.2 mg/l (bis 5.0)\nVitami. D (25-0H) 80.5 ng/ml (30.0-100.0)\nVitamin B12 224.7 pg/ml (200.0 - 900.0)\n\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "2498-4",
+      "value": 133.5,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 1.7,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.0,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 5.2,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 224.7,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 15.5,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 41.7,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 9.6,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 655.1,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 63.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 92.2,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 7.6,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "H",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 123.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 37.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "L",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 134.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 95.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 8.8,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 141.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 8.9,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 23.2,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 25.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 31.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.0,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 6.9,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 80.5,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "Erythrozyten 5.1 19%6/ul (4.0 - 5.5)",
+    "MCV LOTE (80.0 - 100.0)",
+    "ALP 117.7 WE (40.0 - 130.0)"
+  ]
+}

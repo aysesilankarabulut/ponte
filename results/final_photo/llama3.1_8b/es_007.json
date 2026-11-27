@@ -1,0 +1,271 @@
+{
+  "ocr_seconds": 4.3,
+  "read_seconds": 168.9,
+  "ocr_text": "Resultados de laboratorio\n\nPaciente: Javier Garcia Fecha de nacimiento: 04/12/1946 EN\n\n== HEMATOLOGÍA ---\nHemoglobina 9,5 g/dl (12,0 - 16,0)\n\n| Hematies 5,4 10^6/µL (4,0 - 5,5)\n\n| Hematocrito 46,9 % (36,0-48,0)\n| MCV 98,2 fL (80,0 - 100,0)\nLeucocitos 6,3 10^3/µL (4,0-10,0)\nPlaquetas 577,8 10^3/µL (150,0 - 450,0)\n--- BIOQUÍMICA ---\nHierro 118,0 pg/dL (50,0 - 170,0)\nFerritina 122,0 ng/ml (15,0-150,0)\nGlucosa 144,9 mg/dl (70,0-100,0)\nHem@globina glicada 5,5 % (hasta 5,7)\nColest. total 297,5 mg/dL (< 200,0)\nColesterol HDL 69,8 mg/dl (superior a 40,0)\nColesterol LDL 119,1 mg/dL (hasta 130,0)\nTriglicéridos 91,1 mg/dl (hasta 150,0)\nCreatlnina 0,9 mg/dl (0,5-1,1)\nAcido ürico 2,8 mg/dL (3,0 - 7,0)\nSodio 105,5 mmol/l (136,0 - 145,0)\nPotasio (K) 2,9 mmol/L (3,5 - 5,1)\nCalcio 9,1 mg/dL (8,5-10,5)\nALT (GPT) 57,0 u/l (hasta 40,0)\nAST (GOT) 23,3 U/L (<40,0)\nGGT (GGT) 41,4 u/l (hasta 50,0)\nFosfatasa alcalina 165,5 U/L (40,0 - 130,0)\nBilirrubina total 0,5 mg/dl (0,3 - 1,2)\nAlbúmina 3,7 g/dL (3,5 - 5,0)\nTSH 3,1 mIU/L (0,4 - 4,0)\nFT4 2,4 ng/dl (0,9-1,7)\nProteina C reactiva 3,8 mg/l (hasta 5,0)\nVitamina D (25-0H) 47,6 ng/mL (30,0-100,0)\nVitami. B12 223,5 pg/ml (200,0 - 900,0)\nPag. 1/1 |\n\nEE\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.4,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 98.2,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "3016-3",
+      "value": 3.1,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 2.4,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 3.8,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 223.5,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 9.5,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "L",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 46.9,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 6.3,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 577.8,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 122.0,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 144.9,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 5.5,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "N",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 297.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 69.8,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 119.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 91.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.9,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 2.8,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "L",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 105.5,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 2.9,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "L",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.1,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 57.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 23.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 41.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 165.5,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "H",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.5,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 3.7,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 47.6,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "Hierro 118,0 pg/dL (50,0 - 170,0)"
+  ]
+}

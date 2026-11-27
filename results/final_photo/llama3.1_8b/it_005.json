@@ -1,0 +1,232 @@
+{
+  "ocr_seconds": 9.4,
+  "read_seconds": 115.9,
+  "ocr_text": "Esami di laboratorio\n\nPaziente: Luca Colombo Data di nascita: 24/05/1947\n\n-- EMATOLOGIA ---\nEmoglobina ........-.1.00000» 9.7 * g/dl v.r. 12.0-16.0\nEritrociti ................* 3.1 * 10^6/µL v.r. 4.0-5.5\nEmatOcrito (HCT) ............ 70.3 * % v.r. 36.0 - 48.0\nMOV dc 137.4 * fL v.r. 80.0 - 100.0\nLeucociti ... 0000000000000 14.1 10^3/µL v.r. 4.9-10.0\nPiastrine (PLT) ...-+++eerres 630.7 10^3/µL v.r. 150.0-450.0\n\n--- CHIMICA CLINICA ---\n149.6 ug/dl v.r. 50.0 - 170.0\n\nFerro o... o no... vos...\nFerritina ..... «e. ........* 87.8 ng/ml v.r. 15.0 - 150.0\n\nGLUCOSIO .......oooooooo roo”. 74.4 mg/dl v.r. 70.0 - 100.0\n\nEmoglobina glicata .........- 3.6% v.r. D.7\n\nColesterolo totale .........- 293.4 * mg/dL v.r. < 200.0\n\nColesterolo HDL ............. 66.5 mg/dL v.r. superiore a 40.0 |\nColesterolo LDL ............+* 127.0 mg/dl v.r. < 130.0\n\nTrigliceridi ......«.........* 88.9 mg/dL v.r. fino a 150.0\n\nCreatinina .................* 1.2 * mg/dl v.r. 8.5 - 1.7\n\nAcido. UNICO .... 0000000000 2.6 mg/dL v.r. 3.0-7.0\n\nSodio: .... nec ons nenn menden 142.8 mmol/L v.r. 136.0-145.0\n\nPotassio .....---- 10100000000 5.1 mmol/L v.r. 3.5 - SE\n\nCalcio onen nee nenne 9.7 mg/dL v.r. 8.5 - 10.5\n\nMT Liar 27.1 U/L v.r. <40.0\n\nGOT A Eee 33.7 U/L v.r. <40.0\n\nGamma GT .....-.} 0000000000 62.3 * u/l v.r. <50.0\n\n33.8 * U/L v.r. 40.0-130.0\n\n0.2 mg/dL v.r. 0.3 - Tua\n6.4 g/dL v.r. 3.5 - 5.0\n\nFosfatasi alcalina (ALP) ....\nBilirubina totale (BIL-T) ...\n\nAlbumina ...... o .....\nTSH oc ccvcuas ns oe aa ee 2.3 mIU/L v.r. 0.4 - 4.0\n\nET4 ee. 1.3 ng/dL v.r. 0.9 - 17\nProteina C reattiva ......... 4.2 mg/L v.r. < 5.0\n\nVitami. D (25-0H) ........... 43.3 ng/ml v.r. 30.0-100.0\nVitami. B12 ..............* 492.6 pg/ml v.r. 200.0-900.0\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 3.1,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "L",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 137.4,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 149.6,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 2.3,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.3,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 17.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.2,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "2132-9",
+      "value": 492.6,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 30
+    },
+    {
+      "loinc": "718-7",
+      "value": 9.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "L",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 70.3,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "H",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 14.1,
+      "unit": "10^3/µL",
+      "low": 4.9,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 630.7,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 87.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 74.4,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 293.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 66.5,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 127.0,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 88.9,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.2,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 1.7,
+      "flag": "L",
+      "line": 16
+    },
+    {
+      "loinc": "2951-2",
+      "value": 142.8,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.7,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 33.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 62.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 23
+    },
+    {
+      "loinc": "62292-8",
+      "value": 43.3,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "3084-1",
+      "value": 2.6,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "L",
+      "repaired": true,
+      "line": 17
+    }
+  ],
+  "unread": [
+    "Potassio .....---- 10100000000 5.1 mmol/L v.r. 3.5 - SE",
+    "Emoglobina glicata .........- 3.6% v.r. D.7",
+    "Potassio .....---- 10100000000 5.1 mmol/L v.r. 3.5 - SE",
+    "MT Liar 27.1 U/L v.r. <40.0",
+    "0.2 mg/dL v.r. 0.3 - Tua",
+    "6.4 g/dL v.r. 3.5 - 5.0"
+  ]
+}

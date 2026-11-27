@@ -1,0 +1,224 @@
+{
+  "ocr_seconds": 10.1,
+  "read_seconds": 138.5,
+  "ocr_text": "Resultados de laboratorio\n\nPaciente: Javier Martinez Fecha de nacimiento: 28/01/1985\n\n--- HEMATOLOGIA ---\nHemoglobina ................. 14,5 g/dL V.R. 12,0-16,0\nHom lis sta 5,0 10^6/µL V.R. 4,0-5,5\nHina 39,1% V.R. 36,0 - 48,0\nMOM lata 100,1 fl V.R. 80,0-100,0\nLeucocitos (WBC) ..........., 7,8 10^3/µL V.R. 4,0 - 10,0\nPlaquetas tt. nn 141,1 * 10^3/µL VER. 150,0-450,0\n) --- BIOQUÍMICA ---\nYi Hierro............. cios, 37,9 * ug/dL V.R. 50,0 - 170,0\nfi Ferritina coi 162,9 ng/ml V.R. 15,0-150,0\n3 GLUCOSA uo 139,0 * mg/dL V.R. 70,0 - 100,0\n\\ Hemoglobina glicada ......... 5,0% V.R. <5,7\nColesterol total ............ 169,5 mg/dL V.R. < 200,0\naj Colestero’ HDL udn. 58,2 mg/dL V.R. >40,0\nCMD crue 171,7 * mg/dL V.R. hasta 130,0\nTrigliceridos ............... 102,7 mg/dl V.R. <150,0\nCreatlnina ............,...., 0,8 mg/dL V.R. 0,5 ~ 1,1\nAcido. Urico ................ 5,1 mg/dL V.R. 3,0~7,0\nSodio een 137,4 mmol/l V.R. 136,0-145,0\nROLASUON Sms nates neue 4,4 mmol/L V.R. 3,5-5,1\nGI eee 8,9 mg/dL V.R. 8,5 ~ 10,5\nBUT) 31,8 U/L V.R. hasta 40,0\nASE (GOT) nn 50,1 * U/L V.R. hasta 40,0\nSCHIEN) inno 70,1 u/l V.R. < 50,0\nFosfatasa alcalina .......... 34,0 u/l V.R. 40,0-130,0\nBilirrubina total ..... CSR, 1,1 mg/dl V.R. 0,3 - 1,2\nAA a een 3,6 g/dL V.R. 3,5 - 5,0\nTS 2,1 mIU/L V.R. 0,4 - 4,0\nEAS BS 1,3 ng/dL V.R. 0,9 - dt\nProteina C reactiva ......... 3,4 mg/L V.R. <5,0\nVitami. D (25-0H) ........... 111,6 ng/mL V.R. 30,0 - 100,0\nVitamina B12 ..............., 706,8 pg/mL V.R. 200,0 - 900,0\n\nPag. 1/1\n\nLE E&<£<£<<__ [IA\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.0,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 100.1,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 37.9,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "L",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 2.1,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 3.4,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 706.8,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 14.5,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 7.8,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "2276-4",
+      "value": 162.9,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 139.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 169.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 58.2,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 171.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 102.7,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 5.1,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 137.4,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.4,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "1920-8",
+      "value": 31.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "6768-6",
+      "value": 34.0,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.1,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 111.6,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 30
+    },
+    {
+      "loinc": "777-3",
+      "value": 141.1,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "L",
+      "repaired": true,
+      "line": 7
+    }
+  ],
+  "unread": [
+    "EAS BS 1,3 ng/dL V.R. 0,9 - dt",
+    "\\ Hemoglobina glicada ......... 5,0% V.R. <5,7",
+    "GI eee 8,9 mg/dL V.R. 8,5 ~ 10,5",
+    "ASE (GOT) nn 50,1 * U/L V.R. hasta 40,0",
+    "SCHIEN) inno 70,1 u/l V.R. < 50,0",
+    "AA a een 3,6 g/dL V.R. 3,5 - 5,0",
+    "EAS BS 1,3 ng/dL V.R. 0,9 - dt"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "ocr_seconds": 9.3,
+  "read_seconds": 105.6,
+  "ocr_text": "LABORATORY RESULTS\nPatient: Olivia Jones Date of birth: 17/07/1984\n\n--- HAEMATOLOGY ---\n\nHAEMOGLOBIN ................. 12.5 g/dl Ref. 12.0 - 16.0\nRBC.... einer 3.3 * 10^6/µL Ref. 4.0 - 5.5\nHAEMATOCRIT (HCT) ........... 45.9 % Ref. 36.0 - 48.0\n\nMCV... cerco 94.1 fL Ref. 80.0-100.0\n\n5.0 10^3/µL Ref. 4.0 - 10.0\n\nWHITE BLOOD CELLS ...........\n309.9 10^3/µL Ref. 150.0 - 450.0\n\nPLATELETS (PLT) .............\n\nTOTAL. CHOLESTEROL ..........\nHDL. CHOLESTEROL ............\nLDL. CHOLESTEROL ............\n\n--- CLINICAL CHEMISTRY ---\n208.0 * ug/dL Ref. 50.0-170.0\n\nTRON ooo an ao\nFERRITIN .....oooooooooomo o... 201.4 ng/mL Ref. 15.0 - 150.0\nGLUCOSE ....oooooomommmom..m.. 71.0 mg/dL Ref. 70.0-100.0\nHBAIC verrei 4.3% Ref. <5.7\n\n193.5 mg/dL Ref. up to 200.0\n78.2 mg/dL Ref. >40.0\n141.1 * mg/dl Ref. up to 130.0\n\nTRIGLYCCRIDES eme veci 149.6 mg/dl Ref. up to 150.0\nCREATININE ......- 000 1.4 mg/dL Ref. 0.5 - 1.1\n\nÚRICO ACID coco si ee 6.8 mg/dL Ref. 3.0-7.0\n\nSODIUM! scores 140.9 mmol/L Ref. 136.0 - 145.0 ;\nPOTASSIUM .......-- 00 3.5 mmol/l Ref. 3.5 - 5.1 È\nCALCIUM (CA) Loria 9.2 mg/dl Ref. 8.5 - 10.5 ;\nALT: cate lalola 45.3 * U/L Ref. up to 40.0 È\nASTM 36.3 U/L Ref. < 40.0 i\nGGI. oriana 33.7 U/L Ref. <50.0\n\nALKALINE PHOSPHATASE anita 73.1 U/L Ref. 40.0 - 130.0\n\nTOTAL BILIRUBIN ............. 0.2 mg/dl Ref. 0.3-1.2\n\nAUBUMIN 220 onesta 4.0 g/dL Ref. 3.5-5.0\n\nTR at ISS e 2.4 miu/l Ref. 0.4 - 4.0\n\nFREESTA (FIA) Sees sera . 1.0 ng/dL Ref. 0.9-1.7\n\nRP taa loas 2.9 mg/L Ref. <5.0\n\nVITAMIN D (25-0H) ........... 86.0 ng/mL Ref. 30.0 - 100.0\n\nVITAMI BIZ rise aaa eee 892.0 pg/mL Ref. 200.0 - 900.0\n\nPag. 1/1\n\nE\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 3.3,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "L",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 94.1,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 208.0,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "H",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 2.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.0,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 2.9,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 892.0,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 12.5,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 45.9,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "2276-4",
+      "value": 201.4,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 71.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "13457-7",
+      "value": 141.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 149.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.4,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 6.8,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 140.9,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 3.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.2,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 45.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 36.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 73.1,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.2,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "L",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.0,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 86.0,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "5.0 10^3/µL Ref. 4.0 - 10.0",
+    "309.9 10^3/µL Ref. 150.0 - 450.0",
+    "HBAIC verrei 4.3% Ref. <5.7",
+    "193.5 mg/dL Ref. up to 200.0",
+    "78.2 mg/dL Ref. >40.0",
+    "GGI. oriana 33.7 U/L Ref. <50.0"
+  ]
+}
