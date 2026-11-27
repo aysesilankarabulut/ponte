@@ -1,0 +1,213 @@
+{
+  "ocr_seconds": 4.5,
+  "read_seconds": 103.4,
+  "ocr_text": "Laborbefund\nPatient: Anna Müller Geburtsdatum: 21/08/2001\n\n--- HÄMATOLOGIE ---\n\nHámoglobin (Hb) ............. 13,7 g/dl Ref.: 12,0 - 16,0\no O 4,6 10^6/µL Ref.: 4,0-5,5\nHEBBEORFIT casan e 42,0 % Ref.: 36,0 - 48,0\n\nEN aviaria ie 95,2 fL Ref.: 80,0-100,0\nRA ASAS 9,5 10^3/µL Ref.: 4,0 - 10,0\nThrombozyten (PLT) .......... 137,5 * 10^3/µL Ref.: 150,0-450,0\n--- KLINISCHE CHEMIE ---\n\nCie on 30,1 * ug/dl Ref.: 50,0-170,0\nFOrritin i; ivi 148,5 ng/mL Ref.: 15,0 - 150,0\nGLUKOS® insite 76,1 mg/dL Ref.: 70,0 - 100,0\nDATO sara 7,8% Ref.: bis 5,7\nCholesterin gesamt .......... 282,4 * mg/dl Ref.: <200,0\nHDL-Cholesterin ............. 56,3 mg/dl Ref.: > 40,0\nLDL-Cholesterin ............. 72,2 mg/dL Ref.: <130,0\nTriglycerides curarne 172,3 * mg/dl Ref.: <150,0\nKOBE ici itaca 0,4 mg/dl Ref.: 0,5 - 1,1\nHarnsäure ........... SRI 6,1 mg/dl Ref.: 3,0-7,0\nIR, PPP 142,7 mmol/L Ref.: 136,0-145,0\nA ascii 3,8 mmol/L Ref.: 3,5-5,1\nURTI SERA 9,8 mg/dL Ref.: 8,5 - 10,5\nAEFAGRI) Cid nen 54,3 U/L Ref.: bis 40,0\nAST::(GOF) (GOT) sonne 25,0 U/L Ref.: < 40,0\nGamma-GT siii O Ut Rafa: < 50,0\nAlkalische Phosphatase ...... 38,8 * U/L Ref.: 40,0 - 130,0\nBilirubin gesamt ............ 1,1 mg/dl Ref.: 0,3 - 1,2\nCU i ur. 5,6\" g/dL Ref.: 3,5 - 5,0\nTA es 3,4 miu/l Ref.: 0,4 - 4,0\nCa ir Le icNG/O. 1 Ratst- 69-257\n\nCRP (CRP) nennen tes. 255 MG/L Ref.: bis 5,0\nVitami. D (25-0H) ....... +++ 52,0 ng/mL Ref.: 30,0-100,0\nVICO Bi2i ci ina sv... 175,3 * pg/mL Ref.: 200,0 - 900,0\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 4.6,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 95.2,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 30.1,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "L",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 3.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 255.0,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 175.3,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 13.7,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "777-3",
+      "value": 137.5,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "L",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 148.5,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 76.1,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 282.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 56.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 72.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 172.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "3084-1",
+      "value": 6.1,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "N",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 142.7,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 3.8,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "6768-6",
+      "value": 38.8,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1920-8",
+      "value": 25.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.1,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 5.6,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 52.0,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "HEBBEORFIT casan e 42,0 % Ref.: 36,0 - 48,0",
+    "RA ASAS 9,5 10^3/µL Ref.: 4,0 - 10,0",
+    "KOBE ici itaca 0,4 mg/dl Ref.: 0,5 - 1,1",
+    "URTI SERA 9,8 mg/dL Ref.: 8,5 - 10,5",
+    "AEFAGRI) Cid nen 54,3 U/L Ref.: bis 40,0",
+    "Gamma-GT siii O Ut Rafa: < 50,0"
+  ]
+}

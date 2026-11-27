@@ -1,0 +1,271 @@
+{
+  "ocr_seconds": 1.5,
+  "read_seconds": 99.5,
+  "ocr_text": "Esami di laboratorio\nPaziente: Maria Esposito Data di nascita: 13/02/1960\n\n--- EMATOLOGIA ---\n\nEmoglobina (Hb) 12.2 g/dL (12.0-16.0)\nEritrociti 6.9 10^6/µL (4.0 - 5,5)\nEmatocrito 40.7 % (36.0 - 48.0)\nMCV 68.2 fL (80.0 - 100,0)\nLeucociti (WBC) 10.0 10^3/µL (4.0-10.0)\nPiastrinc 393.7 10^3/µL (150.0 - 450.0)\n--- CHIMICA CLINICA ---\n\nFerro 66.4 ug/dL (50.0-170.0)\nFerritina 59.5 ng/mL (15.0 - 150,0)\nGlucosio 95.2 mg/dL (70.0-100.0)\nEmoglobina glicata (HbAlc) 4.9 % (fino a 5.7)\nColest. totale 118.8 mg/dL (< 200.0)\nColest. HDL 40.9 mg/dL (> 40.0)\nColesterolo LDL 145.2 mg/dL (<130.0)\nTrigliceridi 144.3 mg/dL (< 150.0)\nCreatinina 1.5 mg/dL (0.5 - 1.1)\nAcido urico 8.7 mg/dl (3.0-7.0)\n\nNa 138.4 mmol/L (136.0 - 145.0)\nPotassio 4.5 mmol/L (3.5 - 5.1)\nCalcio 12.3 mg/dL (8.5 - 10.5)\nALT AL. (fino a 40.0)\nAST 47.8 U/L (< 40.0)\n\nGamma GT 31.0 U/L (< 50.0)\nFosfatasi alcalina 114.9 U/L (40.0 - 130.0)\nBIL-T 1.2 mg/dl (0.3-1.2)\nAlbumina 3.6 g/dl (3.5 - 5.0)\nTSH (TSH) 0.5 mIU/L (0.4 - 4,0)\nFT4 1.9 ng/dL (0.9 - 1.7)\nProteina C reattiva (CRP) 3.1 mg/L (fino a 5.0)\nVitamina D (25-0H) 114.4 ng/mL (30.0-100.0)\nVitamina B12 136.8 pg/mL (200.0-900.0)\n\nPag. 1/1\n\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 6.9,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "H",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 68.2,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 66.4,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.5,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 1.9,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 3.1,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 136.8,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 12.2,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "N",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 40.7,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "N",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 10.0,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 393.7,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 59.5,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 95.2,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 4.9,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "N",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 118.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 40.9,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 145.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "H",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 144.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 1.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "H",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 8.7,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 138.4,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 12.3,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "H",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 47.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 31.0,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 114.9,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 1.2,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 3.6,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 114.4,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "ALT AL. (fino a 40.0)"
+  ]
+}

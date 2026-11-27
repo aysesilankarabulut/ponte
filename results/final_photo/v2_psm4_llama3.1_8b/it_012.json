@@ -1,0 +1,255 @@
+{
+  "ocr_seconds": 4.0,
+  "read_seconds": 106.9,
+  "ocr_text": "Esami di laboratorio\nPaziente: Giulia Esposito Data di nascita: 04/12/1951\n\n--- EMATOLOGIA ---\n21,2 * g/dl v.r. 12,0-16,0\n\nEmogloblna .................>\n\nRBC ici 6,4 10^6/µL v.r. 4,0-5,5\nEmatocrito ........eo..«...... 57,8* % v.r. 36,0-48,0\n\nMOV gue ae seni ii 91,6 fL v.r. 80,0-100,0\nLeucociti (WBC) ............. 5,2 10^3/µL v.r. 4,0 - 10,0\nPiastrine vi... 000 celere 490,2 10^3/µL v.r. 150,0-450,0\n\n--- CHIMICA CLINICA ---\n\nFerro: c.ca aa 97,0 ug/dl v.r. 50,0 - 170,0\nFerritina seriali zia 222,8 ng/ml v.r. 15,0-150,0\nGIUCOSÌO ..oomoooooooooooo.s.. 84,2 mg/dl v.r. 70,0 - 100,0\nEmoglobina glicata .......... 42% vera “Dal\n\nCOlesterolo totale .......... 167,1 mg/dL v.r. <200,0\nColest. (HDL. rss na 44,2 mg/dl v.r. >40,0\n\nColest.. LD acerra 76,1 mg/dl v.r. < 130,0\nTrigliceridi ................ 177,2 * mg/dL v.r. < 150,0\nCreatinina ......«...«......... 0,5 mg/dl v.r. 0,5 - 1,1\nAcido. urico i iero cai 2,9 * mg/dl v.r. 3,0-7,0\nSodio (Na) .........«..«....... 137,0 mmol/L v.r. 136,0 - 145,0\nPotassio (K) ....ooooooooomo.. 4,5 mmol/L v.r. 3,5 - 5,1\nCalcio rusia aa ao 9,0 mg/dL v.r. 8,5 - 10,5\nO arnie 33,8 U/L v.r. <40,0\n\nAST: (GOT) werner ee 41,1 U/L v.r. <40,0\n\nGamma GT .....ooooommcormmo.s. 58,6 * U/L v.r. < 50,0\nFosfatasi alcalina .......... 36,2 * U/L v.r. 40,0 - 130,0\nBilirubina totale ........... 0,6 mg/dl v.r. 0,3 - 1,2\nAlbumlna ...cceccececccsevncs 6,3 * g/dL v.r. 3,5 - 5,0\n\nTSH: sn sat aaa ai ER 0,4 mIU/L v.r. 0,4-4,0\n\nETA aria ae 0,9 ng/dl v.r. 0,9 - 1,7\n\nCRP ale nn name nee er ee 4,3 mg/L v.r. < 5,0\n\nVitami. D (25-0H) ........... 115,8 * ng/mL v.r. 30,0-100,0\nVitami. B12 .....«..........» 242,5 pg/mL v.r. 200,0 - 900,0\n\nPag. 1/1\naz\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 6.4,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "H",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 91.6,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 97.0,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 0.4,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 0.9,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "N",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 4.3,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 242.5,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "N",
+      "line": 31
+    },
+    {
+      "loinc": "4544-3",
+      "value": 57.8,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "H",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 5.2,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 490.2,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 222.8,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 84.2,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 167.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 44.2,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 76.1,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 177.2,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "H",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.5,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 2.9,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "L",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 137.0,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 4.5,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "N",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 9.0,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1920-8",
+      "value": 41.1,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "2324-2",
+      "value": 58.6,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "H",
+      "line": 23
+    },
+    {
+      "loinc": "6768-6",
+      "value": 36.2,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.6,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 6.3,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "H",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 115.8,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 30
+    }
+  ],
+  "unread": [
+    "21,2 * g/dl v.r. 12,0-16,0",
+    "Emoglobina glicata .......... 42% vera “Dal",
+    "O arnie 33,8 U/L v.r. <40,0"
+  ]
+}

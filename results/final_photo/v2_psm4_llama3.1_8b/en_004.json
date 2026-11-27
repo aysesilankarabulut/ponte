@@ -1,0 +1,269 @@
+{
+  "ocr_seconds": 1.8,
+  "read_seconds": 97.1,
+  "ocr_text": "LABORATORY RESULTS\nPatient: Olivia Brown Date of birth: 22/12/1965\n\n--- HAEMATOLOGY ---\n\nHAEMOGLOBIN: 16.5 g/dL (H) [12.0 - 16.0]\n\nRED B100D CELLS: 5.3 10^6/µL [4.0 - 5.5]\n\nHCT: 60.2 % (H) [36.0 - 48.0]\n\nMCV: 113.1 fl [80.0-100.0]\n\nWHITE BLOOD CELLS: 13.5 10^3/µL (H) [4.0-10.0]\nPLATELETS: 171.0 10^3/µL [150.0 - 450.0]\n\n--- CLINICAL CHEMISTRY ---\nIRON: 71.1 ug/dl [50.0 - 170.0]\nFERRITIN: 158.0 ng/mL [15.0-150.0]\nGLUCOSE: 67.8 mg/dL (L) [70.0 - 100.0]\nHBAIC: 6.9 % (H) [<5.7]\nTOTA1. CHOLESTEROL: 122.3 mg/dL [<200.0]\n\nHDL CHOLESTEROL: 27.3 mg/dL [> 40.0)\n\nLDL CHOLESTEROL: 88.8 mg/dL [< 130.0)\nTRIGLYCERIDES: 109.5 mg/dl [up to 150.0]\nCREATININE: 0.5 mg/dL (9.5-1.1]\n\nURIC ACID: 7.1 mg/dL (H) (3.0-7.0]\n\nSODIUM: 138.2 mmol/L [136.0 - 145.0]\nPOTASSIUM (K): 7.1 mmol/l (H) [3.5-5.1]\nCALCIUM: 10.3 mg/dl [8.5-10.5]\n\nALT: 39.7 u/l [up to 40.0]\n\nAST: 39.8 U/L [up to 40.0]\n\n66T: 39.2 u/l [< 50.0]\n\nALP: 72.9 U/L [40.0 - 130.0)\n\nTOTAL BILIRUBIN (BIL-T): 0.2 mg/dL (0.3-1.2]\nALBUMIN: 4.5 g/dL [3.5 - 5.0]\n\nTSH: 1.4 mIU/L [9.4 - 4.0]\n\nFT4: 0.6 ng/dL (L) (0.9-1.7]\n\nCRP: 6.5 mg/L (H) [<5.0]\n\nVITAMIN D (25-0H): 32.3 ng/ml [30.0 - 100.0]\nVITAMIN B12: 902.5 pg/mL (H) [200.0 - 900.0]\n\nPag. 1/1\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 5.3,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "N",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 113.1,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "H",
+      "line": 5
+    },
+    {
+      "loinc": "2498-4",
+      "value": 71.1,
+      "unit": "µg/dL",
+      "low": 50.0,
+      "high": 170.0,
+      "flag": "N",
+      "line": 8
+    },
+    {
+      "loinc": "3016-3",
+      "value": 1.4,
+      "unit": "mIU/L",
+      "low": 9.4,
+      "high": 4.0,
+      "flag": "L",
+      "line": 26
+    },
+    {
+      "loinc": "3024-7",
+      "value": 0.6,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "L",
+      "line": 27
+    },
+    {
+      "loinc": "1988-5",
+      "value": 6.5,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "2132-9",
+      "value": 902.5,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "H",
+      "line": 30
+    },
+    {
+      "loinc": "718-7",
+      "value": 16.5,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "H",
+      "line": 2
+    },
+    {
+      "loinc": "4544-3",
+      "value": 60.2,
+      "unit": "%",
+      "low": 36.0,
+      "high": 48.0,
+      "flag": "H",
+      "line": 4
+    },
+    {
+      "loinc": "6690-2",
+      "value": 13.5,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "H",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 171.0,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "N",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 158.0,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "H",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 67.8,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 10
+    },
+    {
+      "loinc": "4548-4",
+      "value": 6.9,
+      "unit": "%",
+      "low": null,
+      "high": 5.7,
+      "flag": "H",
+      "line": 11
+    },
+    {
+      "loinc": "2093-3",
+      "value": 122.3,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "N",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 27.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "L",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 88.8,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 109.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.5,
+      "unit": "mg/dL",
+      "low": 9.5,
+      "high": 1.1,
+      "flag": "L",
+      "line": 16
+    },
+    {
+      "loinc": "3084-1",
+      "value": 7.1,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "line": 17
+    },
+    {
+      "loinc": "2951-2",
+      "value": 138.2,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "N",
+      "line": 18
+    },
+    {
+      "loinc": "2823-3",
+      "value": 7.1,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.1,
+      "flag": "H",
+      "line": 19
+    },
+    {
+      "loinc": "17861-6",
+      "value": 10.3,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "N",
+      "line": 20
+    },
+    {
+      "loinc": "1742-6",
+      "value": 39.7,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 39.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 72.9,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 23
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.2,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "L",
+      "line": 24
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.5,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "62292-8",
+      "value": 32.3,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 29
+    }
+  ],
+  "unread": []
+}

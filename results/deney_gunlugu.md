@@ -47,6 +47,20 @@ Kural: modelin seçtiği tahlilin birimi satırda yoksa, satırdaki birime uyan 
 - 52 satır onarıldı; 52'si de doğru.
 - **Sınırlılık:** Bu kural, test setindeki hatalara bakılarak tasarlandı. Son ölçüm, hiç kullanılmamış yeni bir rapor setiyle (yeni seed) tekrarlanmalı.
 
+### 3b. Ad tutarlılığı kontrolü
+Bazı satırlarda model, birimi tutan ama adı tutmayan bir tahlil seçti. Örnekler: "Harnsäure" (ürik asit) satırına kalsiyum, "Gamma-GT" satırına ALP. Bu hata "okunamayan satır" uyarısı vermez, çünkü değer makul görünür.
+- Kural: satırdaki ad, aynı birimdeki başka bir tahlille çok daha iyi uyuyorsa (benzerlik ≥ 0,85 ve en az 0,20 fark), kod modelin seçimini düzeltir.
+- Aynı tahlile iki satır atanmışsa, adı daha iyi uyan satır kalır.
+
+| | Onarımsız | Ad + birim onarımı |
+|---|---|---|
+| Geliştirme doğruluk | %96,9 | %100 |
+| Test (80) doğruluk | %96,2 | %99,8 |
+| Test (80) kaçırılan anormal | 44 | 2 |
+
+- 111 düzeltme yapıldı; 111'i de doğru.
+- Bu kural da 100 rapordaki hatalara bakılarak tasarlandı, bu yüzden son test yeni raporlarla yapıldı (bölüm 9).
+
 ## 4. Türkçe açıklama ve doğrulama (8B, 20 rapor, 248 normal dışı değer)
 | Talimat sürümü | Reddedilen cümle | Kodun eklediği | sn/rapor |
 |---|---|---|---|
@@ -111,3 +125,23 @@ Ayrıntılar: `uzman_degerlendirme_ozeti.md`.
 
 ## 8. Yazılım testleri
 - `tests/test_verify.py`: 28 birim testi. Gerçek model hatalarından türetilmiş regresyon testleri de var.
+
+## 9. Son test (hiç görülmemiş raporlar)
+- 60 yeni dağınık rapor: 4 dil × 15, yeni tohum (seed 44), `data/reports_final`. Geliştirme sırasında hiçbirine bakılmadı.
+- Okuma web arayüzüyle aynı yoldan yapıldı: 8B karma okuyucu, tek birimli satırları kod atıyor, ardından ad ve birim onarımı.
+
+| Ölçüt | Sonuç |
+|---|---|
+| Alan doğruluğu (genel) | **%100** |
+| Her dil (de, en, es, it) | %100 |
+| Her biçim (classic, colon, columns, dots) | %100 |
+| Kaçırılan anormal değer | **0 / 692** |
+| Okunamayan satır uyarısı | 0 |
+| Kodun düzelttiği satır | 28 / 1800 |
+| Ortalama okuma süresi | 113 sn/rapor |
+
+**Yorum ve sınırlılık:**
+- Sonuç, sistemin sentetik rapor üreticisinin içerdiği çeşitliliği tamamen çözebildiğini gösteriyor: 4 dil, 4 biçim, kısaltmalar, OCR hataları, aralık yazımları.
+- Ama yeni tohum yalnızca değerleri ve birleşimleri değiştirir; tahlil adları, kısaltma listesi ve biçimler aynıdır.
+- Bu yüzden %100, gerçek laboratuvar raporlarında da %100 anlamına gelmez. Gerçek raporlarda şunlar olabilir: başka biçimler, PDF/fotoğraf kaynaklı hatalar, listede olmayan tahliller, farklı birimler.
+- Gerçek dünya başarısı ancak gerçek (anonim) raporlarla ölçülebilir. Bu, gelecek çalışma olarak önerilir.

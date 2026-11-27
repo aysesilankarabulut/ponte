@@ -74,9 +74,24 @@ def image_to_text(data):
     if t is None:
         raise RuntimeError("Tesseract OCR kurulu değil.")
     image = prepare(Image.open(io.BytesIO(data)))
-    # --psm 4 ("sütunlu metin"): noktalı satırlarda ('Hemoglobin ....... 12,9') değeri noktalardan
-    # ayırır. --psm 6'ya göre geliştirme fotoğraflarında noktalı biçim %71,5 → %95,0.
-    return t.image_to_string(image, lang=LANGS, config=_config("--psm 4"))
+    # İki sayfa düzeni ayarıyla okunur, daha düzgün çıkan metin seçilir:
+    #   --psm 4 ("sütunlu metin"): noktalı satırlarda ('Hemoglobin ....... 12,9') çok daha iyi,
+    #   --psm 6 ("tek metin bloğu"): boşluklu klasik tablolarda daha iyi.
+    # Geliştirme fotoğraflarında (36 foto): psm6 %84,3 · psm4 %91,2 · seçimli %94,5.
+    texts = [clean(t.image_to_string(image, lang=LANGS, config=_config(f"--psm {psm}"))) for psm in (4, 6)]
+    return max(texts, key=readable_lines)
+
+
+def readable_lines(text):
+    """Metinde, bilinen bir birimle birlikte değeri okunabilen satır sayısı (OCR kalitesi ölçüsü)."""
+    from parse_rules import canonical_units
+    from read_hybrid import find_unit, parse_line
+    units = set(canonical_units().values())
+    n = 0
+    for line in text.splitlines():
+        if any(find_unit(line, u) >= 0 and parse_line(line, u) for u in units):
+            n += 1
+    return n
 
 
 def pdf_to_text(data):
@@ -97,7 +112,7 @@ def file_to_text(name, data):
             return "", ("Bu PDF taranmış bir görüntü, içinde metin yok. Lütfen sayfanın fotoğrafını "
                         "çekip yükleyin.")
         return text, ""
-    return clean(image_to_text(data)), "Metin fotoğraftan okundu. Analizden önce değerleri raporunuzla karşılaştırın."
+    return image_to_text(data), "Metin fotoğraftan okundu. Analizden önce değerleri raporunuzla karşılaştırın."
 
 
 def clean(text):

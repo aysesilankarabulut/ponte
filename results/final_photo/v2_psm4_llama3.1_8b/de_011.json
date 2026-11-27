@@ -1,0 +1,249 @@
+{
+  "ocr_seconds": 6.0,
+  "read_seconds": 110.5,
+  "ocr_text": "LABORBEFUND\nPatient: Anna Schmidt Geburtsdatum: 02/10/1986\n\n--- HÄMATOLOGIE ---\n\nHAMOGLOBIN (HB) ............. 9,3 * g/dL Ref.: 12,0 - 16,0\nERYTHROZYTEN ..............-- 2,5 10^6/µL Ref.: 4,0 - 5,5\nHÄMATOKRIT . 2-00 31,8% Ref.: 36,0-48,0\n\nMOV RR AD OLE, 99,9 fL Ref.: 80,0 - 100,0\nLEUKOZYTEN ..----- ice 5,7 10^3/µL Ref.: 4,0 - 10,0\nTHROMBOZYTCN ................ 488,5 * 10^3/µL Ref.: 150,0-450,0\n\n--- KLINISCHE CHEMIE ---\n34,3 * pg/dL Ref.: 50,0-170,0\n\nEISEN cole\nFERRIEVIN o nados ona 92,9 ng/mL Ref.: 15,0 - 150,0\n\nGUUKOSE su vasos as 54,0 * mg/dL Ref.: 70,0 - 100,0\nHBAIC cn asien se see cree as 6,3% Ref.: 5,7 E\nCHOLESTERIN GESAMT .......... 200,4 mg/dL Ref.: <200,0 fi\nHDL-CHOLESTERIN ............. 79,3 mg/dL Ref.: > 40,0 i\nLDL-CHOLESTERIN ............-. 111,6 mg/dL Ref.: < 130,0 È\nTRIGLYCERIDE 100 114,5 mg/dl Ref.: bis 150,0\n\nKREATININ osas axiomas 0,7 mg/dL Ref.: 0,5-1,1\n\nHARNSAURE .....o.ooo..o...... 10,3 * mg/dL Ref.: 3,0-7,0\n\nNATRIUM igienico 118,5 * mmol/L Ref.: 136,0 - 145,0\nRecita 2,8 * mmol/L Ref.: 3,5 - 5,1\n\nCALCIUM => nes 5,2 * mg/dl Ref.: 8,5 - 10,5\n\nALT. (GPT) inner 26,8 U/L Ref.: < 40,0\n\nAST. (GOT). aac ars are ... 56,4 * u/l Ref.: bis 40,0\n\nGAMMAZGT: vasca 32,3 U/L Ref.: < 50,0\n\nALKALISCHE PHOSPHATASE ...... 88,3 U/L Ref.: 40,0 - 130,0\n\nBILIRU. GESAMT .............. 0,9 mg/dL Ref.: 0,3-1,2\n\nAIBUMIN . ori 4,9 g/dL Ref.: 3,5-5,0\n\nTA one 3,3 mIU/L Ref.: 0,4 - 4,0\n\nEIA Scuro ae da 2,3 * ng/dL Ref.: 0,9 - 1,7\n\nGRP: (CRP) .oossosa danes e 3,3 mg/L Ref.: <5,0\n\nVITAMIN D (25-0H) ........... 20,1 * ng/mL Ref.: 30,0-100,0\n\nVITAMIN B12 ...... SER 162,8 * pg/mL Ref.: 200,0 - 900,0\n\nPag. 1/1\n\nIE ENEE\n",
+  "rows": [
+    {
+      "loinc": "789-8",
+      "value": 2.5,
+      "unit": "10^6/µL",
+      "low": 4.0,
+      "high": 5.5,
+      "flag": "L",
+      "line": 3
+    },
+    {
+      "loinc": "787-2",
+      "value": 99.9,
+      "unit": "fL",
+      "low": 80.0,
+      "high": 100.0,
+      "flag": "N",
+      "line": 5
+    },
+    {
+      "loinc": "3016-3",
+      "value": 3.3,
+      "unit": "mIU/L",
+      "low": 0.4,
+      "high": 4.0,
+      "flag": "N",
+      "line": 27
+    },
+    {
+      "loinc": "3024-7",
+      "value": 2.3,
+      "unit": "ng/dL",
+      "low": 0.9,
+      "high": 1.7,
+      "flag": "H",
+      "line": 28
+    },
+    {
+      "loinc": "1988-5",
+      "value": 3.3,
+      "unit": "mg/L",
+      "low": null,
+      "high": 5.0,
+      "flag": "N",
+      "line": 29
+    },
+    {
+      "loinc": "2132-9",
+      "value": 162.8,
+      "unit": "pg/mL",
+      "low": 200.0,
+      "high": 900.0,
+      "flag": "L",
+      "line": 31
+    },
+    {
+      "loinc": "718-7",
+      "value": 9.3,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 16.0,
+      "flag": "L",
+      "line": 2
+    },
+    {
+      "loinc": "6690-2",
+      "value": 5.7,
+      "unit": "10^3/µL",
+      "low": 4.0,
+      "high": 10.0,
+      "flag": "N",
+      "line": 6
+    },
+    {
+      "loinc": "777-3",
+      "value": 488.5,
+      "unit": "10^3/µL",
+      "low": 150.0,
+      "high": 450.0,
+      "flag": "H",
+      "line": 7
+    },
+    {
+      "loinc": "2276-4",
+      "value": 92.9,
+      "unit": "ng/mL",
+      "low": 15.0,
+      "high": 150.0,
+      "flag": "N",
+      "line": 9
+    },
+    {
+      "loinc": "2345-7",
+      "value": 54.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 10
+    },
+    {
+      "loinc": "2093-3",
+      "value": 200.4,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 200.0,
+      "flag": "H",
+      "line": 12
+    },
+    {
+      "loinc": "2085-9",
+      "value": 79.3,
+      "unit": "mg/dL",
+      "low": 40.0,
+      "high": null,
+      "flag": "N",
+      "line": 13
+    },
+    {
+      "loinc": "13457-7",
+      "value": 111.6,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 130.0,
+      "flag": "N",
+      "line": 14
+    },
+    {
+      "loinc": "2571-8",
+      "value": 114.5,
+      "unit": "mg/dL",
+      "low": null,
+      "high": 150.0,
+      "flag": "N",
+      "line": 15
+    },
+    {
+      "loinc": "2160-0",
+      "value": 0.7,
+      "unit": "mg/dL",
+      "low": 0.5,
+      "high": 1.1,
+      "flag": "N",
+      "line": 16
+    },
+    {
+      "loinc": "2823-3",
+      "value": 118.5,
+      "unit": "mmol/L",
+      "low": 136.0,
+      "high": 145.0,
+      "flag": "L",
+      "line": 18
+    },
+    {
+      "loinc": "1742-6",
+      "value": 26.8,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "N",
+      "line": 21
+    },
+    {
+      "loinc": "1920-8",
+      "value": 56.4,
+      "unit": "U/L",
+      "low": null,
+      "high": 40.0,
+      "flag": "H",
+      "line": 22
+    },
+    {
+      "loinc": "6768-6",
+      "value": 88.3,
+      "unit": "U/L",
+      "low": 40.0,
+      "high": 130.0,
+      "flag": "N",
+      "line": 24
+    },
+    {
+      "loinc": "1975-2",
+      "value": 0.9,
+      "unit": "mg/dL",
+      "low": 0.3,
+      "high": 1.2,
+      "flag": "N",
+      "line": 25
+    },
+    {
+      "loinc": "1751-7",
+      "value": 4.9,
+      "unit": "g/dL",
+      "low": 3.5,
+      "high": 5.0,
+      "flag": "N",
+      "line": 26
+    },
+    {
+      "loinc": "62292-8",
+      "value": 20.1,
+      "unit": "ng/mL",
+      "low": 30.0,
+      "high": 100.0,
+      "flag": "L",
+      "line": 30
+    },
+    {
+      "loinc": "3084-1",
+      "value": 10.3,
+      "unit": "mg/dL",
+      "low": 3.0,
+      "high": 7.0,
+      "flag": "H",
+      "repaired": true,
+      "line": 17
+    },
+    {
+      "loinc": "17861-6",
+      "value": 5.2,
+      "unit": "mg/dL",
+      "low": 8.5,
+      "high": 10.5,
+      "flag": "L",
+      "repaired": true,
+      "line": 20
+    },
+    {
+      "loinc": "2324-2",
+      "value": 32.3,
+      "unit": "U/L",
+      "low": null,
+      "high": 50.0,
+      "flag": "N",
+      "repaired": true,
+      "line": 23
+    }
+  ],
+  "unread": [
+    "HÄMATOKRIT . 2-00 31,8% Ref.: 36,0-48,0",
+    "HBAIC cn asien se see cree as 6,3% Ref.: 5,7 E",
+    "Recita 2,8 * mmol/L Ref.: 3,5 - 5,1"
+  ]
+}
